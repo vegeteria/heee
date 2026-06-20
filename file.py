@@ -397,7 +397,7 @@ class SportzxClient:
         return content
 
 
-# --- REDUNDANT event_time PROPERTY REFACTOR ---
+# --- MODIFIED TO INJECT group-title ---
 def generate_web_view_url(
     channels: list[SportzxChannel],
     include_without_keys: bool = False,
@@ -431,6 +431,8 @@ def generate_web_view_url(
         if event_name:
             event_name = re.sub(r"[^\w\s\-\:\(\)\,\.\']", " ", event_name).strip()
 
+        group = ch.event_cat.capitalize() if ch.event_cat else "Sportzx"
+
         if event_name:
             if event_name not in grouped:
                 grouped[event_name] = {
@@ -439,6 +441,7 @@ def generate_web_view_url(
                     "team_b_flag": ch.team_b_flag if ch.team_b_flag else "",
                     "start_time_gmt": ch.start_time_gmt,
                     "end_time_gmt": ch.end_time_gmt,
+                    "group-title": group,  # Added key
                     "streams": [],
                 }
             grouped[event_name]["streams"].append(stream_entry)
@@ -449,6 +452,7 @@ def generate_web_view_url(
                 "team_b_flag": ch.team_b_flag if ch.team_b_flag else "",
                 "start_time_gmt": ch.start_time_gmt,
                 "end_time_gmt": ch.end_time_gmt,
+                "group-title": group,  # Added key
                 "streams": [stream_entry],
             }
             ungrouped.append(entry)
