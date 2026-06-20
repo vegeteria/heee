@@ -1,0 +1,750 @@
+[
+    {
+        "event_name": "AEW Dynamite",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd&kid=daa8ea92553fd16cd6bfae2b8c582715&key=4042e041b5639b79b69ae07a872eef9b",
+                "channel_title": "TSN SPORTS"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd&kid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+                "channel_title": "Fox Sports Premium"
+            }
+        ],
+        "event_time": "2026-06-25 00:00"
+    },
+    {
+        "event_name": "India vs Afghanistan",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd&kid=30a1847c675457eeb57a122fa2e57e60&key=9c794850892dac3f36c0f4f7032b3b8d",
+                "channel_title": "WILLOW FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd&kid=d14658a0ede94debcb4013b2056ba6d1&key=60838a3176127fed0eaf038a5575de11",
+                "channel_title": "TNT Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd&kid=30a1847c675457eeb57a122fa2e57e60&key=9c794850892dac3f36c0f4f7032b3b8d",
+                "channel_title": "WILLOW FHD [ALT]"
+            }
+        ],
+        "event_time": "2026-06-20 08:00"
+    },
+    {
+        "event_name": "ONE Friday Fights",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd&kid=308006101c8fd0262c0f529319b9c127&key=37683aadc75b1450efa82d62c647984d",
+                "channel_title": "One Fight FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd&kid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271",
+                "channel_title": "Server 2"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd&kid=a6b967afcb974bb5a549377b4f09befd&key=87d993257a099324ccd0215475fc61a0",
+                "channel_title": "Server 3"
+            }
+        ],
+        "event_time": "2026-06-19 12:30"
+    },
+    {
+        "event_name": "WWE Monday Night RAW",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd&kid=eabd2d95c89e42f2b0b0b40ce4179ea0&key=0e7e35a07e2c12822316c0dc4873903f",
+                "channel_title": "Tap Sport LQ"
+            }
+        ],
+        "event_time": "2026-06-23 00:00"
+    },
+    {
+        "event_name": "WWE Friday Night SmackDown",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd&kid=58551b13211b37d5b325d67e5c6cabef&key=3b4c3f8b4236fc57d66cdb54a606fe41",
+                "channel_title": "USA TV"
+            }
+        ],
+        "event_time": "2026-06-20 00:00"
+    },
+    {
+        "event_name": "New Zealand W vs Ireland W",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ddltippcsg/out/v1/efd365da72074ea4884e26cbe9961b9e/cenc.mpd&kid=0afe9f50c05f661952ff7e909d94309b&key=6e0443d0a98cb590f0dac249665deacc",
+                "channel_title": "WILLOW FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ddltippcsg/out/v1/efd365da72074ea4884e26cbe9961b9e/cenc.mpd&kid=0afe9f50c05f661952ff7e909d94309b&key=6e0443d0a98cb590f0dac249665deacc",
+                "channel_title": "WILLOW ALT"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&kid=290e09c837da78d5cd961978d390515c&key=b748836c71e6a4ca68ef5b5652db6247",
+                "channel_title": "WILLOW HD"
+            }
+        ],
+        "event_time": "2026-06-19 17:30"
+    },
+    {
+        "event_name": "England vs New Zealand",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bdy4bcpnx/out/v1/7a73933264244221b1ce3545dfebabc3/cenc.mpd&kid=f46a493ad01c1b237b996f78e96d35c3&key=271e7552eb45e1ad20b17ad7f0fb2f3e",
+                "channel_title": "WILLOW FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tmb2rgzvpz/out/v1/6f88c3a0b0f04ce9b6c82e4499427edb/cenc.mpd&kid=66e98dedb7c76f19ea06a5e9f50766a5&key=b947bb6b7ecb1e994335fff94c29eb3e",
+                "channel_title": "WILLOW ALT"
+            }
+        ],
+        "event_time": "2026-06-19 10:00"
+    },
+    {
+        "event_name": "Brazil vs Haiti",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&kid=c620c93c60c04999eb9ddc28ecfb70a8&key=e76a709c251313190e76cb3c3d3a5824",
+                "channel_title": "FOX ONE HD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&kid=c620c93c60c04999eb9ddc28ecfb70a8&key=e76a709c251313190e76cb3c3d3a5824",
+                "channel_title": "FOX ONE HD [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&kid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
+                "channel_title": "FOX SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&kid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
+                "channel_title": "FOX SPORTS FHD [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd&kid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
+                "channel_title": "CAZE TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd&kid=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd&kid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd&kid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd&kid=f8b207c10f3f76aeba32a360ec52b9e4&key=afad49d20eb39670e93e371c1d669921",
+                "channel_title": "D Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd&kid=cb5eaea6d91fc8a702f154cefd69c976&key=fd4b69623da596aac100e5722d8a1ca0",
+                "channel_title": "SporTV BR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021179-723037-49115a23d1d)/master_2hr.mpd?c3.ri=6a35daee_Q1ZYMDc_0_Q0xPVURGUk9OVA_dd6be4fc7c69%3A0&aws.sessionId=456e7de3-6a44-420a-921f-7e095503337a&ck=eyIwMDIyYjAxODc3NGViMDQ1NmQ3OGZkNzE3NzYzNDcyNyI6ImMyNGJmODM3YmY2MjU0YjA3OWQ4NjQwNTY1ZjY5NzRkIn0%3D&kid=0022c84542fbf6f3aa74cf38ee1f561f&key=9a998df6d164b2cddce72657a8e1745b",
+                "channel_title": "TELEMUNDO ALT FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&kid=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&kid=adca25b8779e4168a0cd710f59f61ccf&key=be5383ed3cd8079f4ffe78ad067f476a",
+                "channel_title": "TIPIK FR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&kid=0&key=0",
+                "channel_title": "TVP SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd&kid=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "CT SPORTS CZ"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&kid=893bc63340876605f52886a42e0ccce5&key=d6c46d2d691056fbd091bf1f01b21a91",
+                "channel_title": "Sporza DUTCH FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&kid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
+                "channel_title": "CAZE TV [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd&kid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
+                "channel_title": "D SPORTS HD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd&kid=1f09d5788fbbb03a053d03cc731f31a9&key=d493d5a70c793362324638f61d1726ac",
+                "channel_title": "FUSSBALL 4K [GER]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&kid=1cb20afcd9d979c833cfd208c7d3eeb2&key=fef0c15b4a523370892edd5e4133c269",
+                "channel_title": "FUSSBALL TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&kid=7d6bb9f86e133e4cb33440b493b6b672&key=584ad285dcb9e7d42cf3e93f1cc3fe11",
+                "channel_title": "TELEMUNDO [USA]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&kid=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "JOJ SPORTS FHD"
+            }
+        ],
+        "event_time": "2026-06-20 00:30"
+    },
+    {
+        "event_name": "T\u00fcrkiye vs Paraguay",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&kid=5466ebd70704bdeb657f0abf3c5ca4ef&key=bdd79b72d8e48ed483aa623cc38a8a16",
+                "channel_title": "FOX SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&kid=5466ebd70704bdeb657f0abf3c5ca4ef&key=bdd79b72d8e48ed483aa623cc38a8a16",
+                "channel_title": "FOX SPORTS [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd&kid=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd&kid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457",
+                "channel_title": "CAZE TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd&kid=f8b207c10f3f76aeba32a360ec52b9e4&key=afad49d20eb39670e93e371c1d669921",
+                "channel_title": "D Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte-qw.live.pv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&kid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
+                "channel_title": "Sportv BR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&kid=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO [USA]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&kid=893bc63340876605f52886a42e0ccce5&key=d6c46d2d691056fbd091bf1f01b21a91",
+                "channel_title": "Sporza DUTCH FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&kid=adca25b8779e4168a0cd710f59f61ccf&key=be5383ed3cd8079f4ffe78ad067f476a",
+                "channel_title": "TIPIK FR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&kid=0&key=0",
+                "channel_title": "TVP SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&kid=7d6bb9f86e133e4cb33440b493b6b672&key=584ad285dcb9e7d42cf3e93f1cc3fe11",
+                "channel_title": "TELEMUNDO FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd&kid=1f09d5788fbbb03a053d03cc731f31a9&key=d493d5a70c793362324638f61d1726ac",
+                "channel_title": "FUSSBALL 4K [GER]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&kid=1cb20afcd9d979c833cfd208c7d3eeb2&key=fef0c15b4a523370892edd5e4133c269",
+                "channel_title": "FUSSBALL TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd&kid=9145a6e0f778e61866f573d4944dd533&key=d02173d40515fea5c83944f21d0f3114",
+                "channel_title": "Match Football FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&kid=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "JOJ SPORTS"
+            }
+        ],
+        "event_time": "2026-06-20 03:00"
+    },
+    {
+        "event_name": "Netherlands vs Sweden",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&kid=5466ebd70704bdeb657f0abf3c5ca4ef&key=bdd79b72d8e48ed483aa623cc38a8a16",
+                "channel_title": "FOX SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd&kid=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd&kid=4fef00332d7e4fbc8f7005dfbf851a59&key=a6368c181358f3e527411a6c452c6a1a",
+                "channel_title": "CIGNAL ENGLISH"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dvi20dldek/out/v1/fedc067b45174f419d08e03ed70ebfc3/cenc.mpd&kid=230ef7c88f9593b724d480ad69f4364e&key=53abde9522ef55d393b80bcb6c3a8899",
+                "channel_title": "CTV SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd&kid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",
+                "channel_title": "D Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&kid=5466ebd70704bdeb657f0abf3c5ca4ef&key=bdd79b72d8e48ed483aa623cc38a8a16",
+                "channel_title": "FOX SPORTS [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&kid=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&kid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
+                "channel_title": "CAZE TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&kid=adca25b8779e4168a0cd710f59f61ccf&key=be5383ed3cd8079f4ffe78ad067f476a",
+                "channel_title": "TIPIK FR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&kid=893bc63340876605f52886a42e0ccce5&key=d6c46d2d691056fbd091bf1f01b21a91",
+                "channel_title": "Sporza DUTCH FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&kid=7d6bb9f86e133e4cb33440b493b6b672&key=584ad285dcb9e7d42cf3e93f1cc3fe11",
+                "channel_title": "TELEMUNDO SPANISH"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd&kid=1f09d5788fbbb03a053d03cc731f31a9&key=d493d5a70c793362324638f61d1726ac",
+                "channel_title": "FUSSBALL 4K [GER]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd&kid=55ca7b96946703b0e70d4b5a0c0a36fe&key=c442558af3961253a42a16c0b6f552d7",
+                "channel_title": "United Sports [HIN]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd&kid=9145a6e0f778e61866f573d4944dd533&key=d02173d40515fea5c83944f21d0f3114",
+                "channel_title": "Match Football FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&kid=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "JOJ SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&kid=0&key=0",
+                "channel_title": "TVP POLISH FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd&kid=429bcf031bbf3146a67f3f583e4c4355&key=d1b92aba5a38a518c8b8a1fd2bca4398",
+                "channel_title": "ORF GERMAN FHD"
+            }
+        ],
+        "event_time": "2026-06-20 17:00"
+    },
+    {
+        "event_name": "Germany vs C\u00f4te d'Ivoire",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&kid=5466ebd70704bdeb657f0abf3c5ca4ef&key=bdd79b72d8e48ed483aa623cc38a8a16",
+                "channel_title": "FOX SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd&kid=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd&kid=4fef00332d7e4fbc8f7005dfbf851a59&key=a6368c181358f3e527411a6c452c6a1a",
+                "channel_title": "CIGNAL ENGLISH"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd&kid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
+                "channel_title": "D Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd&kid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457",
+                "channel_title": "CAZE TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&kid=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd&kid=cb5eaea6d91fc8a702f154cefd69c976&key=fd4b69623da596aac100e5722d8a1ca0",
+                "channel_title": "SporTV BR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&kid=893bc63340876605f52886a42e0ccce5&key=d6c46d2d691056fbd091bf1f01b21a91",
+                "channel_title": "Sporza DUTCH FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&kid=adca25b8779e4168a0cd710f59f61ccf&key=be5383ed3cd8079f4ffe78ad067f476a",
+                "channel_title": "TIPIK FR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&kid=0&key=0",
+                "channel_title": "TVP SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd&kid=cb5eaea6d91fc8a702f154cefd69c976&key=fd4b69623da596aac100e5722d8a1ca0",
+                "channel_title": "SporTV BR [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd&kid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457",
+                "channel_title": "CAZE TV [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd&kid=1f09d5788fbbb03a053d03cc731f31a9&key=d493d5a70c793362324638f61d1726ac",
+                "channel_title": "FUSSBALL 4K [GER]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&kid=7d6bb9f86e133e4cb33440b493b6b672&key=584ad285dcb9e7d42cf3e93f1cc3fe11",
+                "channel_title": "TELEMUNDO SPANISH"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd&kid=9145a6e0f778e61866f573d4944dd533&key=d02173d40515fea5c83944f21d0f3114",
+                "channel_title": "Match Football FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&kid=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "JOJ SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd&kid=10e2114398744f3880cc96653568da55&key=d6d40441f9fbebea03ec64c4aea7211f",
+                "channel_title": "UNiFy TV [IND]"
+            }
+        ],
+        "event_time": "2026-06-20 20:00"
+    },
+    {
+        "event_name": "Ecuador vs Cura\u00e7ao",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&kid=c620c93c60c04999eb9ddc28ecfb70a8&key=e76a709c251313190e76cb3c3d3a5824",
+                "channel_title": "FOX ONE HD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&kid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
+                "channel_title": "FOX SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd&kid=4fef00332d7e4fbc8f7005dfbf851a59&key=a6368c181358f3e527411a6c452c6a1a",
+                "channel_title": "CIGNAL ENGLISH"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd&kid=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/n0ouwelm9t/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd&kid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a35live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd&kid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd&kid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
+                "channel_title": "D Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&kid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
+                "channel_title": "CAZE TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021388-723246-4912217542e)/master_2hr.mpd?c3.ri=6a341206_Q1ZYMDc_1_Q0xPVURGUk9OVA_a0fb11324973%3A0&aws.sessionId=1ca360c6-3599-4cfb-b9bf-8abadb203ae2&ck=eyIwMDIyMzVjOWJmOGIxZDEyZThlNWI2ZWQyNDRmNjdlNCI6IjkwMjVmZmU4NzdjNWVhN2QwNTc5YjhmMjAwMzQ1ZDFlIn0%3D&kid=002235c9bf8b1d12e8e5b6ed244f67e4&key=9025ffe877c5ea7d0579b8f200345d1e",
+                "channel_title": "TELEMUNDO ALT FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd&kid=433ffba670963e70857859a9dff4be04&key=51ede3a821229fe81e71282c8eff80e3",
+                "channel_title": "M6 FRANCE FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&kid=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO [USA]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&kid=893bc63340876605f52886a42e0ccce5&key=d6c46d2d691056fbd091bf1f01b21a91",
+                "channel_title": "Sporza DUTCH FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&kid=adca25b8779e4168a0cd710f59f61ccf&key=be5383ed3cd8079f4ffe78ad067f476a",
+                "channel_title": "TIPIK FR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&kid=0&key=0",
+                "channel_title": "TVP SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd&kid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
+                "channel_title": "CAZE TV [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd&kid=9145a6e0f778e61866f573d4944dd533&key=d02173d40515fea5c83944f21d0f3114",
+                "channel_title": "Match Football FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&kid=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "JOJ SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd&kid=c1a0ac1044a433d0856ccdc08f245084&key=7f0e8800a6d63d7915ac181bb88ce813",
+                "channel_title": "ZDF GERMAN HD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd&kid=429bcf031bbf3146a67f3f583e4c4355&key=d1b92aba5a38a518c8b8a1fd2bca4398",
+                "channel_title": "ORF GERMAN HD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd&kid=1f09d5788fbbb03a053d03cc731f31a9&key=d493d5a70c793362324638f61d1726ac",
+                "channel_title": "FUSSBALL 4K [GER]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&kid=1cb20afcd9d979c833cfd208c7d3eeb2&key=fef0c15b4a523370892edd5e4133c269",
+                "channel_title": "FUSSBALL TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&kid=7d6bb9f86e133e4cb33440b493b6b672&key=584ad285dcb9e7d42cf3e93f1cc3fe11",
+                "channel_title": "TELEMUNDO [USA]"
+            }
+        ],
+        "event_time": "2026-06-21 00:00"
+    },
+    {
+        "event_name": "Tunisia vs Japan",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&kid=c620c93c60c04999eb9ddc28ecfb70a8&key=e76a709c251313190e76cb3c3d3a5824",
+                "channel_title": "FOX ONE HD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&kid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
+                "channel_title": "FOX SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd&kid=4fef00332d7e4fbc8f7005dfbf851a59&key=a6368c181358f3e527411a6c452c6a1a",
+                "channel_title": "CIGNAL ENGLISH"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/ab8e578a-101c-4605-81d2-78362b433af5:BRU/manifest.mpd&kid=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd&kid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457",
+                "channel_title": "CAZE TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd&kid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
+                "channel_title": "D Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/n0ouwelm9t/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd&kid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a35live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd&kid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021391-723249-49122451af1)/master_2hr.mpd?c3.ri=6a3431ab_Q1ZYMDc_1_RkFTVExZ_5b2779c90187%3A0&aws.sessionId=448baabd-d053-4633-9771-3064cca40323&ck=eyIwMDIyZDAxOGJhMjBjY2MyYjdhMWI2ZWMzNTlkYzUyMCI6IjBkYWM1NWY5ODdiZWFhMTc2ZmE5MzhjODA2N2M1ZDE2In0%3D&kid=0022d018ba20ccc2b7a1b6ec359dc520&key=0dac55f987beaa176fa938c8067c5d16",
+                "channel_title": "TELEMUNDO [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&kid=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd&kid=433ffba670963e70857859a9dff4be04&key=51ede3a821229fe81e71282c8eff80e3",
+                "channel_title": "M6 FRANCE FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&kid=893bc63340876605f52886a42e0ccce5&key=d6c46d2d691056fbd091bf1f01b21a91",
+                "channel_title": "Sporza DUTCH FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&kid=adca25b8779e4168a0cd710f59f61ccf&key=be5383ed3cd8079f4ffe78ad067f476a",
+                "channel_title": "TIPIK FR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&kid=0&key=0",
+                "channel_title": "TVP SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd&kid=cb5eaea6d91fc8a702f154cefd69c976&key=fd4b69623da596aac100e5722d8a1ca0",
+                "channel_title": "SporTV BR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd&kid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457",
+                "channel_title": "CAZE TV [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd&kid=429bcf031bbf3146a67f3f583e4c4355&key=d1b92aba5a38a518c8b8a1fd2bca4398",
+                "channel_title": "ORF GERMAN HD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd&kid=1f09d5788fbbb03a053d03cc731f31a9&key=d493d5a70c793362324638f61d1726ac",
+                "channel_title": "FUSSBALL 4K [GER]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&kid=1cb20afcd9d979c833cfd208c7d3eeb2&key=fef0c15b4a523370892edd5e4133c269",
+                "channel_title": "FUSSBALL TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&kid=7d6bb9f86e133e4cb33440b493b6b672&key=584ad285dcb9e7d42cf3e93f1cc3fe11",
+                "channel_title": "TELEMUNDO [USA]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd&kid=9145a6e0f778e61866f573d4944dd533&key=d02173d40515fea5c83944f21d0f3114",
+                "channel_title": "Match Football FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&kid=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "JOJ SPORTS FHD"
+            }
+        ],
+        "event_time": "2026-06-21 04:00"
+    },
+    {
+        "event_name": "Scotland vs Morocco",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&kid=5466ebd70704bdeb657f0abf3c5ca4ef&key=bdd79b72d8e48ed483aa623cc38a8a16",
+                "channel_title": "FOX ONE HD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&kid=c620c93c60c04999eb9ddc28ecfb70a8&key=e76a709c251313190e76cb3c3d3a5824",
+                "channel_title": "FOX ONE HD [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&kid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
+                "channel_title": "FOX ONE FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&kid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
+                "channel_title": "FOX ONE FHD [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd&kid=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd&kid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX 4K [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd&kid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd&kid=433ffba670963e70857859a9dff4be04&key=51ede3a821229fe81e71282c8eff80e3",
+                "channel_title": "M6 FRANCE FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd&kid=f8b207c10f3f76aeba32a360ec52b9e4&key=afad49d20eb39670e93e371c1d669921",
+                "channel_title": "D Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd&kid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457",
+                "channel_title": "CAZE TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&kid=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&kid=893bc63340876605f52886a42e0ccce5&key=d6c46d2d691056fbd091bf1f01b21a91",
+                "channel_title": "Sporza DUTCH FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd&kid=adca25b8779e4168a0cd710f59f61ccf&key=be5383ed3cd8079f4ffe78ad067f476a",
+                "channel_title": "TIPIK FR FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&kid=0&key=0",
+                "channel_title": "TVP SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd&kid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457",
+                "channel_title": "CAZE TV [ALT]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd&kid=1f09d5788fbbb03a053d03cc731f31a9&key=d493d5a70c793362324638f61d1726ac",
+                "channel_title": "FUSSBALL 4K [GER]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&kid=1cb20afcd9d979c833cfd208c7d3eeb2&key=fef0c15b4a523370892edd5e4133c269",
+                "channel_title": "FUSSBALL TV FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&kid=7d6bb9f86e133e4cb33440b493b6b672&key=584ad285dcb9e7d42cf3e93f1cc3fe11",
+                "channel_title": "TELEMUNDO [USA]"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd&kid=9145a6e0f778e61866f573d4944dd533&key=d02173d40515fea5c83944f21d0f3114",
+                "channel_title": "Match Football FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&kid=11223344556677889900112233445566&key=4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "JOJ SPORTS"
+            }
+        ],
+        "event_time": "2026-06-19 22:00"
+    },
+    {
+        "event_name": "Adelaide Crows vs Melbourne Demons",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd&kid=570c19f1be3410e4e409be4dc7923f2b&key=9a4dea8af2a2a703dffa8a477e9edc50",
+                "channel_title": "TNT Sports FHD"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&kid=09453ce820d65fbc675de3185f9e454c&key=98cff9600995fa381c76fdacf3c7edae",
+                "channel_title": "FOX SPORTS FHD"
+            }
+        ],
+        "event_time": "2026-06-20 03:15"
+    },
+    {
+        "event_name": "Knight Riders vs Unicorns",
+        "streams": [
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zmgyzr5xuo/out/v1/93c03a46b4d146e7b642dd62bd3b3216/cenc.mpd&kid=a44a95bce19615ad3a641824e353097e&key=f8e0bdff4dc12ca3ce9b68ae08cb9441",
+                "channel_title": "WILLOW FHD"
+            }
+        ],
+        "event_time": "2026-06-19 20:30"
+    }
+]
