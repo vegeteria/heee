@@ -50,14 +50,14 @@
     },
     {
         "name": "India vs Afghanistan (WILLOW FHD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "30a1847c675457eeb57a122fa2e57e60:9c794850892dac3f36c0f4f7032b3b8d"
+        "drmLicense": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944"
     },
     {
         "name": "India vs Afghanistan (TNT Sports FHD)",
@@ -71,24 +71,44 @@
         "drmLicense": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
     },
     {
-        "name": "India vs Afghanistan (WILLOW FHD [ALT])",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd",
+        "name": "India vs Afghanistan (WILLOW ALT)",
+        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "30a1847c675457eeb57a122fa2e57e60:9c794850892dac3f36c0f4f7032b3b8d"
+        "drmLicense": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944"
     },
     {
-        "name": "India vs Afghanistan (SD SERVER)",
-        "link": "http://193.47.62.59/hls/EEEE.m3u8",
+        "name": "India vs Afghanistan (TNT SPORTS HD)",
+        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
+    },
+    {
+        "name": "India vs Afghanistan (WILLOW HD)",
+        "link": "https://tmaxapp.site/willoweng.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "India vs Afghanistan (HOTSTAR HD)",
+        "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092"
     },
     {
         "name": "ONE Friday Fights (One Fight FHD)",
@@ -243,42 +263,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
-    },
-    {
-        "name": "Los Angeles Angels (SportzX Live)",
-        "link": "https://edgestreams.pro/hls/kjhfzua25.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Arizona Diamondbacks (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Baltimore Orioles (SportzX Live)",
-        "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Seattle Mariners (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "England W vs Scotland W (WILLOW FHD)",

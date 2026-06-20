@@ -17,7 +17,7 @@
         "event_name": "India vs Afghanistan",
         "streams": [
             {
-                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd&kid=30a1847c675457eeb57a122fa2e57e60&key=9c794850892dac3f36c0f4f7032b3b8d",
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd&kid=c961aa99a64fb1ab0d4fc07c9c45910f&key=13ee767345996b84504c1f7d950c6944",
                 "channel_title": "WILLOW FHD"
             },
             {
@@ -25,8 +25,12 @@
                 "channel_title": "TNT Sports FHD"
             },
             {
-                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd&kid=30a1847c675457eeb57a122fa2e57e60&key=9c794850892dac3f36c0f4f7032b3b8d",
-                "channel_title": "WILLOW FHD [ALT]"
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd&kid=c961aa99a64fb1ab0d4fc07c9c45910f&key=13ee767345996b84504c1f7d950c6944",
+                "channel_title": "WILLOW ALT"
+            },
+            {
+                "web_view_url": "https://kratosrepo.github.io/drm-player?emmbed-url=https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?&kid=9dacc80134404c34ba184022c28d0000&key=982183fb4d9449c995859b7cff512092",
+                "channel_title": "HOTSTAR HD"
             }
         ],
         "event_time": "2026-06-20 08:00"
