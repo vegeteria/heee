@@ -245,15 +245,6 @@
         "drmLicense": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
     },
     {
-        "name": "Colorado Rockies (SportzX LIVE)",
-        "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Los Angeles Angels (SportzX Live)",
         "link": "https://edgestreams.pro/hls/kjhfzua25.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -290,16 +281,7 @@
         "cookie": ""
     },
     {
-        "name": "CFL (SportzX CFL)",
-        "link": "https://chatgpt.hereisman.net/playlist/52223/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "New Zealand W vs Ireland W (WILLOW FHD)",
+        "name": "England W vs Scotland W (WILLOW FHD)",
         "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ddltippcsg/out/v1/efd365da72074ea4884e26cbe9961b9e/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -310,7 +292,7 @@
         "drmLicense": "0afe9f50c05f661952ff7e909d94309b:6e0443d0a98cb590f0dac249665deacc"
     },
     {
-        "name": "New Zealand W vs Ireland W (WILLOW ALT)",
+        "name": "England W vs Scotland W (WILLOW ALT)",
         "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ddltippcsg/out/v1/efd365da72074ea4884e26cbe9961b9e/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -321,7 +303,7 @@
         "drmLicense": "0afe9f50c05f661952ff7e909d94309b:6e0443d0a98cb590f0dac249665deacc"
     },
     {
-        "name": "New Zealand W vs Ireland W (WILLOW HD)",
+        "name": "England W vs Scotland W (WILLOW HD)",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -332,7 +314,7 @@
         "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-        "name": "New Zealand W vs Ireland W (SKY CRICKET FHD)",
+        "name": "England W vs Scotland W (SKY CRICKET FHD)",
         "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -399,533 +381,8 @@
         "cookie": ""
     },
     {
-        "name": "Brazil vs Haiti (RTB GOLIVE FHD)",
+        "name": "T\u00fcrkiye vs Paraguay (RTB GOLIVE FHD)",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (FOX ONE HD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
-    },
-    {
-        "name": "Brazil vs Haiti (FOX ONE HD [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
-    },
-    {
-        "name": "Brazil vs Haiti (TSN SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-    },
-    {
-        "name": "Brazil vs Haiti (TSN SPORTS [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-    },
-    {
-        "name": "Brazil vs Haiti (FOX SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-    },
-    {
-        "name": "Brazil vs Haiti (FOX SPORTS FHD [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-    },
-    {
-        "name": "Brazil vs Haiti (CAZE TV FHD)",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-    },
-    {
-        "name": "Brazil vs Haiti (RTE SPORTS FHD)",
-        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
-    },
-    {
-        "name": "Brazil vs Haiti (FOX ONE 4K)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
-    },
-    {
-        "name": "Brazil vs Haiti (FOX ONE 4K [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
-    },
-    {
-        "name": "Brazil vs Haiti (RTB SPORTS FHD)",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (TSN SPORTS 4K)",
-        "link": "https://streamxyz.shop/tsn4k/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (TELEMUNDO FHD)",
-        "link": "https://streamxyz.shop/Telemundo/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (beIN ARABIC 4K)",
-        "link": "https://streamxyz.shop/bein4k/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (D Sports FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
-    },
-    {
-        "name": "Brazil vs Haiti (SporTV BR FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0"
-    },
-    {
-        "name": "Brazil vs Haiti (IRIB 4K)",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (FOX SPORTS FHD)",
-        "link": "https://streamxyz.shop/FOX/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (TSN SPORTS FHD)",
-        "link": "https://streamxyz.shop/tsn1/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (D SPORTS [ALT])",
-        "link": "https://streamxyz.shop/dsports1arg/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (TELEMUNDO HD)",
-        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (TELEMUNDO ALT FHD)",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021179-723037-49115a23d1d)/master_2hr.mpd?c3.ri=6a35daee_Q1ZYMDc_0_Q0xPVURGUk9OVA_dd6be4fc7c69%3A0&aws.sessionId=456e7de3-6a44-420a-921f-7e095503337a&ck=eyIwMDIyYjAxODc3NGViMDQ1NmQ3OGZkNzE3NzYzNDcyNyI6ImMyNGJmODM3YmY2MjU0YjA3OWQ4NjQwNTY1ZjY5NzRkIn0%3D",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0022c84542fbf6f3aa74cf38ee1f561f:9a998df6d164b2cddce72657a8e1745b"
-    },
-    {
-        "name": "Brazil vs Haiti (TELEMUNDO FHD)",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-    },
-    {
-        "name": "Brazil vs Haiti (TIPIK FR FHD)",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
-    },
-    {
-        "name": "Brazil vs Haiti (TVP SPORTS FHD)",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0:0"
-    },
-    {
-        "name": "Brazil vs Haiti (CT SPORTS CZ)",
-        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
-        "name": "Brazil vs Haiti (Sporza DUTCH FHD)",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
-    },
-    {
-        "name": "Brazil vs Haiti (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoC9j85Gdk2.m3u8?txSecret=b5474933fc1090807f8b64a808d31210&txTime=6A360231",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52249/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (TSN SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52222/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (DAZN SPANISH)",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (ARABIC FHD)",
-        "link": "https://live-global-cdn-v02.sooplive.com/live-stm-08/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ZMpQ76npYw7t3Vyqy0INtB7rTNWGsdpZSmuy0jF8veQpcyKlII3dypMDn4uuhmcgNGKS1f-lsNwwJod_sGLS18MxJiCB7d1UMzWiIo9Dzu5CBj9VJQrFWYAVUmtzOSmSh4gcGXT3btL0Em-D3e82n4YsM2Z4QvfVNDjdkTin2gGQ4HZcxHfE_Ym-Y52Ka_6c",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (beIN MAX FHD)",
-        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (CAZE TV [ALT])",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-    },
-    {
-        "name": "Brazil vs Haiti (D SPORTS HD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c"
-    },
-    {
-        "name": "Brazil vs Haiti (TYC SPORTS HD)",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (TSN SPORTS)",
-        "link": "https://soccerball.st/s1.php",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (SOMOY TV HD)",
-        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (TRT SPORTS 2K)",
-        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (FUSSBALL 4K [GER])",
-        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
-    },
-    {
-        "name": "Brazil vs Haiti (FUSSBALL TV FHD)",
-        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
-    },
-    {
-        "name": "Brazil vs Haiti (TELEMUNDO [USA])",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
-    },
-    {
-        "name": "Brazil vs Haiti (JOJ SPORTS FHD)",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
-        "name": "Brazil vs Haiti (SportzX Live)",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://instream.click",
-        "referrer": "https://instream.click/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (HD SERVER ENG)",
-        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (HD SERVER AR)",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (SD SERVER [ENG])",
-        "link": "http://193.47.62.47/hls/XFPPPA.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (ENG SD SERVER)",
-        "link": "http://193.47.62.59/hls/XVVVV.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (SD SERVER [SWAHILI])",
-        "link": "http://193.47.62.51/hls/YYYY.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (beiN SPORTS FR)",
-        "link": "http://193.47.62.59/hls/XZRRRZ.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (ESPANOL SD)",
-        "link": "http://193.47.62.55/hls/XZRRR.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (ARABIC HD)",
-        "link": "https://stream.liveostora.com/sportinaapp1/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Haiti (ARABIC LIVE FHD)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XVSMwy2z0yaTpo6kAVUWuJjDadnHapT4a9BeqxdxFKqWyjOepqSKxYSb4FmDEPTFzcKxe-56x96Y095cvCfGuw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -977,15 +434,6 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "T\u00fcrkiye vs Paraguay (RTB GOLIVE FHD)",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "T\u00fcrkiye vs Paraguay (RTE SPORTS FHD)",
         "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1034,18 +482,18 @@
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (CAZE TV FHD)",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+        "drmLicense": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6"
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (D Sports FHD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1055,15 +503,15 @@
         "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
     },
     {
-        "name": "T\u00fcrkiye vs Paraguay (Sportv BR FHD)",
-        "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "name": "T\u00fcrkiye vs Paraguay (SporTV BR FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733"
+        "drmLicense": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0"
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (TSN SPORTS FHD)",
@@ -1113,17 +561,6 @@
         "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
     },
     {
-        "name": "T\u00fcrkiye vs Paraguay (Sporza DUTCH FHD)",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
-    },
-    {
         "name": "T\u00fcrkiye vs Paraguay (TIPIK FR FHD)",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1146,8 +583,30 @@
         "drmLicense": "0:0"
     },
     {
+        "name": "T\u00fcrkiye vs Paraguay (CT SPORTS CZ)",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "T\u00fcrkiye vs Paraguay (Sporza DUTCH FHD)",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+    },
+    {
         "name": "T\u00fcrkiye vs Paraguay (FAST SERVER)",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgHpkKcG1PsC.m3u8?txSecret=1cd9a49a66418bd3a393d03c21d8c900&txTime=6A362559",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1156,7 +615,7 @@
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52220/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52257/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -1165,7 +624,7 @@
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52231/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52256/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -1192,7 +651,7 @@
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (ARABIC LIVE FHD)",
-        "link": "ok",
+        "link": "https://stream.liveostora.com/sportinaapp2/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1310,7 +769,7 @@
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (SD SERVER [ENG])",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/XFPPPA.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "http://www.fawanews.sc/",
@@ -1319,7 +778,7 @@
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (ENG SERVER SD)",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/XVVVV.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "http://www.fawanews.sc/",
@@ -1328,7 +787,7 @@
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (beIN SPORTS FR)",
-        "link": "?",
+        "link": "http://193.47.62.59/hls/XZRRRZ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "http://www.fawanews.sc/",
@@ -1337,10 +796,19 @@
     },
     {
         "name": "T\u00fcrkiye vs Paraguay (D SPORTS ES)",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/XZRRR.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "T\u00fcrkiye vs Paraguay (ARABIC LIVE HD)",
+        "link": "https://vsd288.okcdn.ru/hls/17839588707038.m3u8/sig/5A66NjOQlpI/expires/1782012156910/srcIp/102.47.49.211/urls/95.163.35.105/clientType/0/srcAg/CHROME_ANDROID/mid/17252941307614/video.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -3039,82 +2507,51 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (RTB GOLIVE FHD)",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "name": "Spain vs Saudi Arabia (FOX SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (FOX ONE HD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
+        "userAgent": "Mozilla",
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
-        "name": "Scotland vs Morocco (FOX ONE HD [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "name": "Spain vs Saudi Arabia (TSN SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
-    },
-    {
-        "name": "Scotland vs Morocco (TSN Sports FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
+        "userAgent": "Mozilla",
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "Scotland vs Morocco (TSN SPORTS [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "name": "Spain vs Saudi Arabia (CTV SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        "drmLicense": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157"
     },
     {
-        "name": "Scotland vs Morocco (FOX ONE FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "name": "Spain vs Saudi Arabia (FOX ENGLISH HD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozila",
+        "userAgent": "Mozilla",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
-        "name": "Scotland vs Morocco (FOX ONE FHD [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-    },
-    {
-        "name": "Scotland vs Morocco (RTE SPORTS FHD)",
+        "name": "Spain vs Saudi Arabia (RTE SPORTS FHD)",
         "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3125,39 +2562,19 @@
         "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
     },
     {
-        "name": "Scotland vs Morocco (ELTA SPORTS FHD)",
-        "link": "https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (FOX 4K [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "name": "Spain vs Saudi Arabia (CIGNAL ENGLISH)",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+        "drmLicense": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a"
     },
     {
-        "name": "Scotland vs Morocco (FOX ONE 4K)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
-    },
-    {
-        "name": "Scotland vs Morocco (RTB SPORTS FHD)",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "name": "Spain vs Saudi Arabia (RTB GOLIVE FHD)",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3165,94 +2582,29 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (M6 FRANCE FHD)",
-        "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
-    },
-    {
-        "name": "Scotland vs Morocco (TSN SPORTS 4K)",
-        "link": "https://streamxyz.shop/tsn4k/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (TELEMUNDO FHD)",
-        "link": "https://streamxyz.shop/Telemundo/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (beIN ARABIC 4K)",
-        "link": "https://streamxyz.shop/bein4k/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (D Sports FHD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "name": "Spain vs Saudi Arabia (D Sports FHD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
+        "drmLicense": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79"
     },
     {
-        "name": "Scotland vs Morocco (CAZE TV FHD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+        "name": "Spain vs Saudi Arabia (CAZE TV FHD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
     },
     {
-        "name": "Scotland vs Morocco (FOX SPORTS FHD)",
-        "link": "https://streamxyz.shop/FOX/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (TSN SPORTS FHD)",
-        "link": "https://streamxyz.shop/tsn1/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (D SPORTS [ALT])",
-        "link": "https://streamxyz.shop/dsports1arg/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (TELEMUNDO HD)",
+        "name": "Spain vs Saudi Arabia (TELEMUNDO HD)",
         "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
@@ -3261,7 +2613,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (IRIB 4K)",
+        "name": "Spain vs Saudi Arabia (IRIB 4K)",
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3270,27 +2622,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (TOFFEE BD FHD)",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1781979838~Starts=1781893438~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ttqhxk_R5OG98vv21RPKX15uvk5PHcXJqZ8UWGqFKLZXUJBk8hpqE4tJ3O34WgmGgT9lS6u_S4oUiZ0c73hrDA",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (TELEMUNDO FHD)",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-    },
-    {
-        "name": "Scotland vs Morocco (Sporza DUTCH FHD)",
+        "name": "Spain vs Saudi Arabia (Sporza DUTCH FHD)",
         "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3301,7 +2633,7 @@
         "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
     },
     {
-        "name": "Scotland vs Morocco (TIPIK FR FHD)",
+        "name": "Spain vs Saudi Arabia (TIPIK FR FHD)",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3312,7 +2644,7 @@
         "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
     },
     {
-        "name": "Scotland vs Morocco (TVP SPORTS FHD)",
+        "name": "Spain vs Saudi Arabia (TVP SPORTS FHD)",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3323,8 +2655,30 @@
         "drmLicense": "0:0"
     },
     {
-        "name": "Scotland vs Morocco (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJEvcBY6UZ4.m3u8?txSecret=6e6bd75e4b407b5d5fdf8ab948b65100&txTime=6A35DFF8",
+        "name": "Spain vs Saudi Arabia (TELEMUNDO [ALT])",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021171-723029-49115282b15)/master_2hr.mpd?c3.ri=6a346642_Q1ZYMDc_1_Q0xPVURGUk9OVA_5bbcd2291dee%3A0&aws.sessionId=87c0970c-f632-4a35-8e37-f877a89394ad&ck=eyIwMDIyNTM2N2EwM2U2MWVkNTJiZjVjMDk5ZTI4MGQxMSI6ImRhNDUyMzg3MzRmOWI2YmEzMDJiN2NmNzMwMmU1MWM4In0%3D",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "00225367a03e61ed52bf5c099e280d11:da45238734f9b6ba302b7cf7302e51c8"
+    },
+    {
+        "name": "Spain vs Saudi Arabia (TELEMUNDO FHD)",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+    },
+    {
+        "name": "Spain vs Saudi Arabia (FAST SERVER)",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSQ9UjSJtgE.m3u8?txSecret=bb8aece6340b50ea97e4ac53431d3c7c&txTime=6A348F68",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3332,25 +2686,16 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52220/load-playlist?",
+        "name": "Spain vs Saudi Arabia (beIN MAX FHD)",
+        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://gooz.aapmains.net",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52231/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Scotland vs Morocco (DAZN SPANISH)",
+        "name": "Spain vs Saudi Arabia (DAZN SPANISH)",
         "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3359,36 +2704,45 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (beIN MAX FHD)",
-        "link": "https://streamxyz.shop/bein/index.m3u8?",
+        "name": "Spain vs Saudi Arabia (ITV SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52204/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://xyzstreams.shop/",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (ARABIC LIVE FHD)",
-        "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/fj0ICZmF8uUPoq-dRXUIKen8PnkHo5P7Rj-oHn8wFYwJpyH7e56urjcFFTfXtnJUUnhtvgGMc9vP73FFSsG7yA/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+        "name": "Spain vs Saudi Arabia (TSN SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52205/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (CAZE TV [ALT])",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "name": "Spain vs Saudi Arabia (FOX SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52203/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (CAZE TV [ALT])",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
     },
     {
-        "name": "Scotland vs Morocco (TSN SPORTS)",
+        "name": "Spain vs Saudi Arabia (TSN SPORTS)",
         "link": "https://soccerball.st/s1.php",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3397,7 +2751,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (SOMOY TV HD)",
+        "name": "Spain vs Saudi Arabia (SOMOY TV HD)",
         "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3406,7 +2760,51 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (TRT SPORTS 2K)",
+        "name": "Spain vs Saudi Arabia (FOX SPORTS [ALT])",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+    },
+    {
+        "name": "Spain vs Saudi Arabia (TSN SPORTS [ALT])",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "Spain vs Saudi Arabia (ORF GERMAN HD)",
+        "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398"
+    },
+    {
+        "name": "Spain vs Saudi Arabia (ZDF GERMAN HD)",
+        "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813"
+    },
+    {
+        "name": "Spain vs Saudi Arabia (TRT SPORTS 2K)",
         "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3415,7 +2813,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (FUSSBALL 4K [GER])",
+        "name": "Spain vs Saudi Arabia (FUSSBALL 4K [GER])",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3426,7 +2824,7 @@
         "drmLicense": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
     },
     {
-        "name": "Scotland vs Morocco (FUSSBALL TV FHD)",
+        "name": "Spain vs Saudi Arabia (FUSSBALL TV FHD)",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3437,7 +2835,7 @@
         "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
     },
     {
-        "name": "Scotland vs Morocco (TELEMUNDO [USA])",
+        "name": "Spain vs Saudi Arabia (TELEMUNDO [USA])",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3448,7 +2846,7 @@
         "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
     },
     {
-        "name": "Scotland vs Morocco (Match Football FHD)",
+        "name": "Spain vs Saudi Arabia (Match Football FHD)",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3459,7 +2857,7 @@
         "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
     },
     {
-        "name": "Scotland vs Morocco (JOJ SPORTS)",
+        "name": "Spain vs Saudi Arabia (JOJ SPORTS FHD)",
         "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3470,7 +2868,25 @@
         "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
     },
     {
-        "name": "Scotland vs Morocco (SportzX Live)",
+        "name": "Spain vs Saudi Arabia (ARABIC LIVE FHD)",
+        "link": "https://prod-fastly-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/V9qae4xD6q-6gTXud5iteRIq_qPyqMARkOeFavBm35PWyxTKuEp-OTgiTVWmpNq5dlL_cto72mEPZ6T1i1GSlA/transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDYwXzEwIiwiSGVpZ2h0IjoxMDgwLCJIaWdoRnJhbWVSYXRlIjp0cnVlLCJLYnBzIjo4MDAwLCJXaWR0aCI6MTkyMH0.OBq8EsoF4c8ydlmfZFxJzACPHYFjmjUaSER2wvsfHso/dynamic_eventplaylist.m3u8?type=event",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (Match Football HD)",
+        "link": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (SportzX Live)",
         "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://instream.click",
@@ -3479,7 +2895,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (HD SERVER ENG)",
+        "name": "Spain vs Saudi Arabia (HD SERVER ENG)",
         "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
@@ -3488,7 +2904,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (HD SERVER AR)",
+        "name": "Spain vs Saudi Arabia (HD SERVER AR)",
         "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
@@ -3497,7 +2913,1564 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (SD SERVER [ENG])",
+        "name": "Spain vs Saudi Arabia (FUSSBALL 4K 1)",
+        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (FUSSBALL 4K 2)",
+        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (SD SERVER [EN])",
+        "link": "http://193.47.62.44/hls/DXzzzz.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (ENG SERVER SD)",
+        "link": "http://193.47.62.57/hls/DXzzzzCCCCC.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (SD SERVER [SWAHILI])",
+        "link": "http://193.47.62.41/hls/TTTTFF.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (beiN SPORTS FR)",
+        "link": "http://193.47.62.44/hls/TTTTFFFF.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (ESPANOL SD)",
+        "link": "http://193.47.62.44/hls/TTTT.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (ARABIC LIVE)",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/pl9BaZYToq9QsxkQZRTB3yhN0mWlLSAu7nGSxtLGHrDEA4KDzB6y4-RrLXNgV9Igd9QlV-aOhifiLT5Sg0lc9w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (ARABIC LIVE 2)",
+        "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/j03LMPQ_jtwJNe8sMjk6Af-BXWxgbQe4ePUWUlbUoeJfKApZ5Zp3Are9a7YKE05qvQk-4S6n97hf7BCN1lXStg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (ARABIC HD)",
+        "link": "https://8cup.s3.us-east-2.amazonaws.com/max1/master.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (FOX ONE HD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
+    },
+    {
+        "name": "Belgium vs Iran (TSN SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "Belgium vs Iran (FOX ONE FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+    },
+    {
+        "name": "Belgium vs Iran (CIGNAL ENGLISH)",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a"
+    },
+    {
+        "name": "Belgium vs Iran (RTE SPORTS FHD)",
+        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
+    },
+    {
+        "name": "Belgium vs Iran (RTB GOLIVE FHD)",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (RTB SPORTS FHD)",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (CAZE TV FHD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+    },
+    {
+        "name": "Belgium vs Iran (D Sports FHD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79"
+    },
+    {
+        "name": "Belgium vs Iran (TUDN MEXICO)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc"
+    },
+    {
+        "name": "Belgium vs Iran (TELEMUNDO HD)",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (FOX ONE 4K)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1n1mskjnsk/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+    },
+    {
+        "name": "Belgium vs Iran (IRIB 4K)",
+        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (TELEMUNDO [ALT])",
+        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021172-723030-49115376d56)/master_2hr.mpd?c3.ri=6a348abd_Q1ZYMDc_1_Q09NQ0FTVA_a23ed05f53ea%3A0&aws.sessionId=3be29f54-36d2-4e87-ac96-78f206f76328&ck=eyIwMDIyMTk2ZDA4MTdkYzQyYzVjMWVlNjRiNzg3Yjg5ZiI6ImVhZGJhNDlhOGUxMGQzMWNjMjAxZjU1NGE0ODllODJiIn0%3D",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022196d0817dc42c5c1ee64b787b89f:eadba49a8e10d31cc201f554a489e82b"
+    },
+    {
+        "name": "Belgium vs Iran (TELEMUNDO FHD)",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+    },
+    {
+        "name": "Belgium vs Iran (Sporza DUTCH FHD)",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+    },
+    {
+        "name": "Belgium vs Iran (TIPIK FR FHD)",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+    },
+    {
+        "name": "Belgium vs Iran (TVP SPORTS FHD)",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0:0"
+    },
+    {
+        "name": "Belgium vs Iran (FAST SERVER)",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSFMZFX1E4e.m3u8?txSecret=7c472f97893cf7a2679959370689a077&txTime=6A34C028",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (beIN MAX FHD)",
+        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (DAZN SPANISH)",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (FAST SERVER 2)",
+        "link": "https://storage.googleapis.com/uourhnfgakefr1/mux_video_ts1/index-1.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (TSN SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52215/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (FOX SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52214/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (SporTV BR FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0"
+    },
+    {
+        "name": "Belgium vs Iran (CAZE TV [ALT])",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+    },
+    {
+        "name": "Belgium vs Iran (TSN SPORTS)",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (SOMOY TV HD)",
+        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (Somoy TV HD)",
+        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (ORF GERMAN HD)",
+        "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398"
+    },
+    {
+        "name": "Belgium vs Iran (TRT SPORTS 2K)",
+        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (ARABIC LIVE FHD)",
+        "link": "https://prod-fastly-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/7cExs3VOzzVvEQB7Yn-jIckpZjsM0hjBVtQlvog-AsRsqbiq-yxza1-REGvZpNiTXlekjSf_rSKy6Z73Y1ebjw/transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDYwXzEwIiwiSGVpZ2h0IjoxMDgwLCJIaWdoRnJhbWVSYXRlIjp0cnVlLCJLYnBzIjo4MDAwLCJXaWR0aCI6MTkyMH0.OBq8EsoF4c8ydlmfZFxJzACPHYFjmjUaSER2wvsfHso/dynamic_eventplaylist.m3u8?type=event",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (FUSSBALL 4K [GER])",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
+    },
+    {
+        "name": "Belgium vs Iran (FUSSBALL TV FHD)",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
+    },
+    {
+        "name": "Belgium vs Iran (TELEMUNDO [USA])",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+    },
+    {
+        "name": "Belgium vs Iran (Match Football FHD)",
+        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
+    },
+    {
+        "name": "Belgium vs Iran (JOJ SPORTS FHD)",
+        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "Belgium vs Iran (SportzX Live)",
+        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://instream.click",
+        "referrer": "https://instream.click/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (HD SERVER ENG)",
+        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (HD SERVER AR)",
+        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (SD SERVER [ENG])",
+        "link": "http://193.47.62.49/hls/WDXzzzzCCCCC.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "http://www.fawanews.sc/",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (ENG SD SERVER)",
+        "link": "http://193.47.62.48/hls/WDXzzzz.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (SD SERVER [SWAHILI])",
+        "link": "http://193.47.62.44/hls/WTTTTFF.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (beiN SPORTS FR)",
+        "link": "http://193.47.62.48/hls/WTTTTFFFF.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (ESPANOL SD)",
+        "link": "http://193.47.62.52/hls/WTTTT.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (FUSSBALL 4K 1)",
+        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Belgium vs Iran (FUSSBALL 4K 2)",
+        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (FOX ONE HD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
+    },
+    {
+        "name": "USA vs Australia (FOX ONE HD [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
+    },
+    {
+        "name": "USA vs Australia (TSN SPORTS [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "USA vs Australia (TSN SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "USA vs Australia (FOX ONE FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+    },
+    {
+        "name": "USA vs Australia (FOX ONE FHD [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+    },
+    {
+        "name": "USA vs Australia (RTB GOLIVE FHD)",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (FOX 4K [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+    },
+    {
+        "name": "USA vs Australia (FOX ONE 4K)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9crxia693u/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+    },
+    {
+        "name": "USA vs Australia (RTE SPORTS FHD)",
+        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
+    },
+    {
+        "name": "USA vs Australia (RTB SPORTS FHD)",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (M6 FRANCE FHD)",
+        "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
+    },
+    {
+        "name": "USA vs Australia (CAZE TV FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+    },
+    {
+        "name": "USA vs Australia (D Sports FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
+    },
+    {
+        "name": "USA vs Australia (ViX ESPANOL HD)",
+        "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203"
+    },
+    {
+        "name": "USA vs Australia (TVE La 1 SPANISH)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa"
+    },
+    {
+        "name": "USA vs Australia (TELEMUNDO FHD)",
+        "link": "https://streamxyz.shop/Telemundo/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (TELEMUNDO HD)",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (IRIB 4K)",
+        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (TSN SPORTS 4K)",
+        "link": "https://streamxyz.shop/tsn4k/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (beIN HDR 4K)",
+        "link": "https://streamxyz.shop/bein4k/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (TELEMUNDO [ALT])",
+        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021175-723033-49115653419)/master_2hr.mpd?c3.ri=6a357e0e_Q1ZYMDc_1_Q09NQ0FTVA_beab34649105%3A0&aws.sessionId=ce5d8be9-8f69-4119-aafe-4819714df2d6&ck=eyIwMDIyYzg0NTQyZmJmNmYzYWE3NGNmMzhlZTFmNTYxZiI6IjlhOTk4ZGY2ZDE2NGIyY2RkY2U3MjY1N2E4ZTE3NDViIn0%3D",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022c84542fbf6f3aa74cf38ee1f561f:9a998df6d164b2cddce72657a8e1745b"
+    },
+    {
+        "name": "USA vs Australia (TELEMUNDO FHD)",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+    },
+    {
+        "name": "USA vs Australia (Sporza DUTCH FHD)",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+    },
+    {
+        "name": "USA vs Australia (TIPIK FR FHD)",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+    },
+    {
+        "name": "USA vs Australia (TVP SPORTS FHD)",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0:0"
+    },
+    {
+        "name": "USA vs Australia (CT SPORTS CZ)",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "USA vs Australia (FAST SERVER)",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHRyyCAADozN.m3u8?txSecret=21fa3d1c8edc2c86267730244113a1d7&txTime=6A35B5C8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (BBC SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52219/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (TSN SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52222/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (beIN MAX FHD)",
+        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (DAZN SPANISH)",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (CAZE TV [ALT])",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+    },
+    {
+        "name": "USA vs Australia (D SPORTS HD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c"
+    },
+    {
+        "name": "USA vs Australia (TYC SPORTS HD)",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (TSN SPORTS)",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (SOMOY TV HD)",
+        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (TRT SPORTS 2K)",
+        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (ARABIC LIVE FHD)",
+        "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/pLto-cWCKKOLCsdoRDCWDkrJ1OYKQSOcXpwYG25LP7TaLV13iFydoo1S270HmvHyHiO9Tcf2hwIMTbx1YWg4rg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (FUSSBALL 4K [GER])",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
+    },
+    {
+        "name": "USA vs Australia (FUSSBALL TV FHD)",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
+    },
+    {
+        "name": "USA vs Australia (TELEMUNDO [USA])",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+    },
+    {
+        "name": "USA vs Australia (MATCH TV RU)",
+        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
+    },
+    {
+        "name": "USA vs Australia (JOJ SPORTS FHD)",
+        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "USA vs Australia (SportzX Live)",
+        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://instream.click",
+        "referrer": "https://instream.click/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (HD SERVER ENG)",
+        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (HD SERVER AR)",
+        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (SD SERVER [ENG])",
+        "link": "http://193.47.62.51/hls/FPPPA.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "http://www.fawanews.sc/",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (ENG SD SERVER)",
+        "link": "http://193.47.62.47/hls/VVVV.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "http://www.fawanews.sc/",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (SD SERVER [SWAHILI])",
+        "link": "http://193.47.62.51/hls/VVVVZ.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "http://www.fawanews.sc/",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (beiN SPORTS FR)",
+        "link": "http://193.47.62.55/hls/ZRRRZ.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "http://www.fawanews.sc/",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (ESPANOL SD)",
+        "link": "http://193.47.62.47/hls/ZRRR.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "http://www.fawanews.sc/",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "USA vs Australia (CIGNAL ENGLISH)",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a"
+    },
+    {
+        "name": "USA vs Australia (ARABIC LIVE HD)",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wGucmvO-yvarXXDE14vqYciOy7_B3WPfuBAm2yuy96nJxEC8ti42HfmoJilq7gkWfVc3Miz0IkL0JAR-_y1Iaw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (RTB GOLIVE FHD)",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (FOX ONE HD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+    },
+    {
+        "name": "New Zealand vs Egypt (FOX ONE HD [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824"
+    },
+    {
+        "name": "New Zealand vs Egypt (TSN Sports FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "New Zealand vs Egypt (TSN SPORTS [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "New Zealand vs Egypt (FOX ONE FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+    },
+    {
+        "name": "New Zealand vs Egypt (FOX ONE FHD [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+    },
+    {
+        "name": "New Zealand vs Egypt (RTE SPORTS FHD)",
+        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
+    },
+    {
+        "name": "New Zealand vs Egypt (ELTA SPORTS FHD)",
+        "link": "https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (FOX 4K [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+    },
+    {
+        "name": "New Zealand vs Egypt (FOX ONE 4K)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+    },
+    {
+        "name": "New Zealand vs Egypt (RTB SPORTS FHD)",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (M6 FRANCE FHD)",
+        "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
+    },
+    {
+        "name": "New Zealand vs Egypt (TSN SPORTS 4K)",
+        "link": "https://streamxyz.shop/tsn4k/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (TELEMUNDO FHD)",
+        "link": "https://streamxyz.shop/Telemundo/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (beIN ARABIC 4K)",
+        "link": "https://streamxyz.shop/bein4k/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (D Sports FHD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
+    },
+    {
+        "name": "New Zealand vs Egypt (CAZE TV FHD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+    },
+    {
+        "name": "New Zealand vs Egypt (FOX SPORTS FHD)",
+        "link": "https://streamxyz.shop/FOX/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (TSN SPORTS FHD)",
+        "link": "https://streamxyz.shop/tsn1/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (D SPORTS [ALT])",
+        "link": "https://streamxyz.shop/dsports1arg/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (TELEMUNDO HD)",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (IRIB 4K)",
+        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (TOFFEE BD FHD)",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1781979838~Starts=1781893438~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ttqhxk_R5OG98vv21RPKX15uvk5PHcXJqZ8UWGqFKLZXUJBk8hpqE4tJ3O34WgmGgT9lS6u_S4oUiZ0c73hrDA",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (TELEMUNDO FHD)",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+    },
+    {
+        "name": "New Zealand vs Egypt (Sporza DUTCH FHD)",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
+    },
+    {
+        "name": "New Zealand vs Egypt (TIPIK FR FHD)",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+    },
+    {
+        "name": "New Zealand vs Egypt (TVP SPORTS FHD)",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0:0"
+    },
+    {
+        "name": "New Zealand vs Egypt (FAST SERVER)",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJEvcBY6UZ4.m3u8?txSecret=6e6bd75e4b407b5d5fdf8ab948b65100&txTime=6A35DFF8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (ITV SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52220/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (FOX SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52231/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (DAZN SPANISH)",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (beIN MAX FHD)",
+        "link": "https://streamxyz.shop/bein/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (ARABIC LIVE FHD)",
+        "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/fj0ICZmF8uUPoq-dRXUIKen8PnkHo5P7Rj-oHn8wFYwJpyH7e56urjcFFTfXtnJUUnhtvgGMc9vP73FFSsG7yA/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (CAZE TV [ALT])",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+    },
+    {
+        "name": "New Zealand vs Egypt (TSN SPORTS)",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (SOMOY TV HD)",
+        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (TRT SPORTS 2K)",
+        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (FUSSBALL 4K [GER])",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
+    },
+    {
+        "name": "New Zealand vs Egypt (FUSSBALL TV FHD)",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
+    },
+    {
+        "name": "New Zealand vs Egypt (TELEMUNDO [USA])",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+    },
+    {
+        "name": "New Zealand vs Egypt (Match Football FHD)",
+        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
+    },
+    {
+        "name": "New Zealand vs Egypt (JOJ SPORTS)",
+        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "New Zealand vs Egypt (SportzX Live)",
+        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://instream.click",
+        "referrer": "https://instream.click/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (HD SERVER ENG)",
+        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (HD SERVER AR)",
+        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "New Zealand vs Egypt (SD SERVER [ENG])",
         "link": "http://193.47.62.41/hls/FPPPA.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3506,7 +4479,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (ENG SERVER SD)",
+        "name": "New Zealand vs Egypt (ENG SERVER SD)",
         "link": "http://193.47.62.59/hls/VVVV.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3515,7 +4488,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (beIN SPORTS FR)",
+        "name": "New Zealand vs Egypt (beIN SPORTS FR)",
         "link": "http://193.47.62.47/hls/ZRRRZ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3524,7 +4497,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (D SPORTS ES)",
+        "name": "New Zealand vs Egypt (D SPORTS ES)",
         "link": "http://193.47.62.59/hls/ZRRR.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3533,7 +4506,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Morocco (ARABIC LIVE)",
+        "name": "New Zealand vs Egypt (ARABIC LIVE)",
         "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2q-RmKdqTT3qCt95K5I376oFz6-1Q9RAT6Wsr299oTxsC6EQJm2kVJlFTzLQsCpbelIrnEvJcr95aP17xmBjHQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -3562,6 +4535,17 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+    },
+    {
+        "name": "Seattle Orcas vs Washington Freedom (WILLOW FHD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhukhaxuw2/out/v1/df964fc528f04e98a83831bbcb88bb16/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "84904b9e8f527b72dd1566f8f2e00160:cda148bac3de81fe928d814a3d957477"
     },
     {
         "name": "Seattle Orcas vs Washington Freedom (SKY CRICKET FHD)",
@@ -3618,122 +4602,34 @@
         "cookie": ""
     },
     {
-        "name": "Knight Riders vs Unicorns (WILLOW FHD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zmgyzr5xuo/out/v1/93c03a46b4d146e7b642dd62bd3b3216/cenc.mpd",
+        "name": "Pakistan W vs Bangladesh W (WILLOW HD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "a44a95bce19615ad3a641824e353097e:f8e0bdff4dc12ca3ce9b68ae08cb9441"
+        "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-        "name": "Knight Riders vs Unicorns (SKY CRICKET FHD)",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "name": "Pakistan W vs Bangladesh W (WILLOW FHD)",
+        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lye3zqw9p9/out/v1/0f6caef5184d4b21b7f81103f6ef5a23/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0afe9f50c05f661952ff7e909d94309b:6e0443d0a98cb590f0dac249665deacc"
+    },
+    {
+        "name": "Pakistan W vs Bangladesh W (SKY CRICKET FHD)",
+        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla",
-        "cookie": ""
-    },
-    {
-        "name": "Yankees vs Cincinnati Reds (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52235/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Yankees vs Cincinnati Reds (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Miami Marlins vs Giants (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52237/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Miami Marlins vs Giants (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Tampa Bay Rays vs Nationals (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52240/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Tampa Bay Rays vs Nationals (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Atlanta Braves vs Brewers (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52241/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Atlanta Braves vs Brewers (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Texas Rangers vs Padres (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Houston Astros vs Guardians (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Kansas City Royals vs Cardinals (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     }
 ]
