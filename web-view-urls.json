@@ -5,6 +5,7 @@
         "team_b_flag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
         "start_time_gmt": "2026-06-25 00:00:00 +0000",
         "end_time_gmt": "2026-06-25 02:00:00 +0000",
+        "group-title": "Wwe",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
@@ -26,6 +27,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187575/image",
         "start_time_gmt": "2026-06-20 08:00:00 +0000",
         "end_time_gmt": "2026-06-20 16:20:00 +0000",
+        "group-title": "Cricket",
         "streams": [
             {
                 "web_view_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
@@ -59,6 +61,7 @@
         "team_b_flag": "https://iili.io/FDjaT1R.md.png",
         "start_time_gmt": "2026-06-19 12:30:00 +0000",
         "end_time_gmt": "2026-06-19 16:30:00 +0000",
+        "group-title": "Boxing",
         "streams": [
             {
                 "web_view_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
@@ -86,6 +89,7 @@
         "team_b_flag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
         "start_time_gmt": "2026-06-23 00:00:00 +0000",
         "end_time_gmt": "2026-06-23 02:30:00 +0000",
+        "group-title": "Wwe",
         "streams": [
             {
                 "web_view_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
@@ -101,6 +105,7 @@
         "team_b_flag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
         "start_time_gmt": "2026-06-27 00:00:00 +0000",
         "end_time_gmt": "2026-06-27 03:00:00 +0000",
+        "group-title": "Wwe",
         "streams": [
             {
                 "web_view_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
@@ -116,6 +121,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/453162/image",
         "start_time_gmt": "2026-06-20 17:30:00 +0000",
         "end_time_gmt": "2026-06-20 19:45:00 +0000",
+        "group-title": "Cricket",
         "streams": [
             {
                 "web_view_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ddltippcsg/out/v1/efd365da72074ea4884e26cbe9961b9e/cenc.mpd",
@@ -143,6 +149,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187755/image",
         "start_time_gmt": "2026-06-20 10:00:00 +0000",
         "end_time_gmt": "2026-06-20 18:00:00 +0000",
+        "group-title": "Cricket",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4tq64xnon/out/v1/6cf2e7d1249844be9e012f214919bd63/cenc.mpd",
@@ -164,6 +171,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4789/image",
         "start_time_gmt": "2026-06-20 03:00:00 +0000",
         "end_time_gmt": "2026-06-20 05:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
@@ -281,6 +289,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4688/image",
         "start_time_gmt": "2026-06-20 17:00:00 +0000",
         "end_time_gmt": "2026-06-20 19:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
@@ -398,6 +407,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4768/image",
         "start_time_gmt": "2026-06-20 20:00:00 +0000",
         "end_time_gmt": "2026-06-20 22:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
@@ -515,6 +525,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/55827/image",
         "start_time_gmt": "2026-06-21 00:00:00 +0000",
         "end_time_gmt": "2026-06-21 02:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
@@ -662,6 +673,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4770/image",
         "start_time_gmt": "2026-06-21 04:00:00 +0000",
         "end_time_gmt": "2026-06-21 06:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
@@ -809,6 +821,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4834/image",
         "start_time_gmt": "2026-06-21 16:00:00 +0000",
         "end_time_gmt": "2026-06-21 18:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
@@ -956,6 +969,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4766/image",
         "start_time_gmt": "2026-06-21 19:00:00 +0000",
         "end_time_gmt": "2026-06-21 21:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
@@ -1097,6 +1111,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4753/image",
         "start_time_gmt": "2026-06-21 22:00:00 +0000",
         "end_time_gmt": "2026-06-22 00:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
@@ -1274,6 +1289,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4758/image",
         "start_time_gmt": "2026-06-22 01:00:00 +0000",
         "end_time_gmt": "2026-06-22 03:15:00 +0000",
+        "group-title": "Fifa world cup",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
@@ -1415,6 +1431,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4456/image",
         "start_time_gmt": "2026-06-20 03:15:00 +0000",
         "end_time_gmt": "2026-06-20 06:15:00 +0000",
+        "group-title": "Afl",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
@@ -1436,6 +1453,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/417753/image",
         "start_time_gmt": "2026-06-20 09:30:00 +0000",
         "end_time_gmt": "2026-06-20 13:15:00 +0000",
+        "group-title": "Cricket",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd",
@@ -1469,6 +1487,7 @@
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187809/image",
         "start_time_gmt": "2026-06-20 13:30:00 +0000",
         "end_time_gmt": "2026-06-20 17:15:00 +0000",
+        "group-title": "Cricket",
         "streams": [
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
