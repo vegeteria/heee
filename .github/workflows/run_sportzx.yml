@@ -29,7 +29,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run Sportzx Script
-      run: python Sportzx.py
+      run: python file.py
 
     - name: Commit and Push Generated Files
       run: |
