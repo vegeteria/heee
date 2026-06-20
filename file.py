@@ -1,10 +1,10 @@
-import requests
-import json
 import base64
+import json
 import re
-from typing import List, Optional
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
+from typing import List, Optional
+import requests
 
 APP_PASSWORD = "oAR80SGuX3EEjUGFRwLFKBTiris="
 
@@ -15,7 +15,6 @@ class SportzxChannel:
     event_id: str
     event_cat: str
     event_name: str
-    event_time: str
     channel_title: Optional[str] = None
     stream_url: str = ""
     keyid: Optional[str] = None
@@ -24,9 +23,15 @@ class SportzxChannel:
     headers: Optional[str] = None
     referer: Optional[str] = None
     origin: Optional[str] = None
+    team_a_flag: Optional[str] = None
+    team_b_flag: Optional[str] = None
+    channel_logo: Optional[str] = None
+    start_time_gmt: str = ""
+    end_time_gmt: str = ""
 
 
 class SportzxClient:
+
     def __init__(self, excluded_categories: List[str] = None, timeout: int = 12):
         self.excluded_categories = set(c.lower() for c in (excluded_categories or []))
         self.timeout = timeout
@@ -37,6 +42,9 @@ class SportzxClient:
                 "Accept-Encoding": "gzip",
             }
         )
+
+        with open("raw.txt", "w", encoding="utf-8") as f:
+            f.write("=== SPORTZX RAW DECRYPTED DATA DUMP ===\n\n")
 
     def _generate_aes_key_iv(self, s: str) -> tuple[bytes, bytes]:
         CHARSET = (
@@ -105,7 +113,16 @@ class SportzxClient:
             decrypted = self._decrypt_data(encrypted)
             if not decrypted:
                 return {}
-            return json.loads(decrypted)
+
+            parsed_json = json.loads(decrypted)
+
+            with open("raw.txt", "a", encoding="utf-8") as f:
+                f.write(f"\nURL: {url}\n")
+                f.write("=" * 60 + "\n")
+                f.write(json.dumps(parsed_json, indent=4))
+                f.write("\n" + "=" * 60 + "\n")
+
+            return parsed_json
         except Exception as e:
             print(f"Fetch/decrypt failed {url}: {e}")
             return {}
@@ -213,8 +230,22 @@ class SportzxClient:
             if not isinstance(channels, list):
                 continue
 
-            start_time = event.get("eventInfo", {}).get("startTime", "")
-            event_time_full = start_time[:16].replace("/", "-") if start_time else ""
+            event_info = event.get("eventInfo", {})
+            team_a_flag = event_info.get("teamAFlag")
+            team_b_flag = event_info.get("teamBFlag")
+
+            raw_start = event_info.get("startTime", "")
+            raw_end = event_info.get("endTime", "")
+
+            start_time_gmt = raw_start.replace("/", "-") if raw_start else ""
+            end_time_gmt = raw_end.replace("/", "-") if raw_end else ""
+
+            formats_new = event.get("formatsNew", [])
+            logo_map = {}
+            if isinstance(formats_new, list):
+                for fmt in formats_new:
+                    if isinstance(fmt, dict) and fmt.get("title"):
+                        logo_map[fmt["title"].strip().lower()] = fmt.get("logo")
 
             for ch in channels:
                 if not isinstance(ch, dict):
@@ -227,10 +258,15 @@ class SportzxClient:
                 components = link.split("|", 1)
                 stream_url = components[0].strip()
 
+                ch_title = ch.get("title", "")
+                ch_logo = logo_map.get(ch_title.strip().lower()) if ch_title else None
+
+                if not ch_logo and ch.get("logo"):
+                    ch_logo = ch.get("logo")
+
                 user_agent = None
                 referer = ch.get("referer")
                 origin = ch.get("origin")
-                headers_dict = ch.get("headers")
 
                 if len(components) > 1:
                     for param in components[1].split("&"):
@@ -255,31 +291,31 @@ class SportzxClient:
                         event_title=event.get("title", "Untitled Event"),
                         event_id=eid,
                         event_cat=event.get("cat", ""),
-                        event_name=event.get("eventInfo", {}).get("eventName", ""),
-                        event_time=event_time_full,
-                        channel_title=ch.get("title"),
+                        event_name=event_info.get("eventName", ""),
+                        channel_title=ch_title,
                         stream_url=stream_url,
                         keyid=keyid,
                         key=key,
                         api=api_val,
                         referer=referer,
                         origin=origin,
-                        headers=user_agent, # Using headers field to store User-Agent temporarily
+                        headers=user_agent,
+                        team_a_flag=team_a_flag,
+                        team_b_flag=team_b_flag,
+                        channel_logo=ch_logo,
+                        start_time_gmt=start_time_gmt,
+                        end_time_gmt=end_time_gmt,
                     )
                 )
 
         return channels_list
 
-    # ────────────────────────────────────────────────────────────────
-    # Helper to shift a time string forward by 1 hour (HH:MM only)
-    # ────────────────────────────────────────────────────────────────
     def _increase_time_by_one_hour(self, time_str: str) -> str:
         if not time_str or len(time_str) < 5 or ":" not in time_str:
             return time_str
 
         try:
-            # Extract only HH:MM (ignore date prefix if present)
-            time_part = time_str.split()[-1][:5]  # e.g. "14:30"
+            time_part = time_str.split()[-1][:5]
             hh, mm = map(int, time_part.split(":"))
             if not (0 <= hh <= 23 and 0 <= mm <= 59):
                 return time_part
@@ -307,20 +343,15 @@ class SportzxClient:
 
             included += 1
 
-            # Event name
             event = (ch.event_title or "Event").strip()
 
-            # Time shifted forward by 1 hour
             original_time = ""
-            if ch.event_time and len(ch.event_time) >= 11:
-                parts = ch.event_time.split()
-                if len(parts) >= 2:
-                    original_time = parts[1][:5]
+            if ch.start_time_gmt and len(ch.start_time_gmt) >= 16:
+                original_time = ch.start_time_gmt[11:16]
 
             shifted_time = self._increase_time_by_one_hour(original_time)
             time_part = f" {shifted_time}" if shifted_time else ""
 
-            # Append channel title in parentheses if distinct from event name
             channel_suffix = ""
             if ch.channel_title and ch.channel_title.strip():
                 channel_title = ch.channel_title.strip()
@@ -328,18 +359,17 @@ class SportzxClient:
                     channel_suffix = f" ({channel_title})"
 
             final_name = f"{event}{time_part}{channel_suffix}".strip()
-
-            # Sanitize
             clean_name = re.sub(r"[^\w\s\-\:\(\)\,\.\']", " ", final_name).strip()
 
             group = ch.event_cat.capitalize() if ch.event_cat else "Sportzx"
+            logo = ch.channel_logo if ch.channel_logo else generic_logo
 
             tvg = re.sub(r"[^a-z0-9]", "", clean_name.lower())
             tvg_id = tvg[:50] if tvg else f"sportzx-{ch.event_id[:8]}"
 
             extinf = (
                 f'#EXTINF:-1 tvg-id="{tvg_id}" '
-                f'tvg-logo="{generic_logo}" '
+                f'tvg-logo="{logo}" '
                 f'group-title="{group}",{clean_name}'
             )
 
@@ -367,37 +397,31 @@ class SportzxClient:
         return content
 
 
-# ────────────────────────────────────────────────
+# --- REDUNDANT event_time PROPERTY REFACTOR ---
 def generate_web_view_url(
     channels: list[SportzxChannel],
-    player_host: str = "https://kratosrepo.github.io/drm-player",
     include_without_keys: bool = False,
+    generic_logo: str = "https://via.placeholder.com/512/000000/FFFFFF?text=Sport",
 ) -> list[dict]:
     grouped: dict[str, dict] = {}
     ungrouped = []
-
-    def utc_to_local(utc_str: str) -> str:
-        try:
-            utc_dt = datetime.strptime(utc_str.strip(), "%Y-%m-%d %H:%M")
-            utc_dt = utc_dt.replace(tzinfo=timezone.utc)
-            local_dt = utc_dt.astimezone()
-            return local_dt.strftime("%Y-%m-%d %H:%M")
-        except Exception:
-            return utc_str
 
     for ch in channels:
         if not ch.stream_url:
             continue
 
-        params = f"emmbed-url={ch.stream_url}"
-        if ch.keyid and ch.key:
-            params += f"&kid={ch.keyid}&key={ch.key}"
-        elif not include_without_keys:
+        has_keys = bool(ch.keyid and ch.key)
+        if not has_keys and not include_without_keys:
             continue
 
-        web_view_url = f"{player_host.rstrip('/')}?{params}"
+        stream_entry = {
+            "web_view_url": ch.stream_url,
+            "logo": ch.channel_logo if ch.channel_logo else generic_logo,
+        }
 
-        stream_entry = {"web_view_url": web_view_url}
+        if has_keys:
+            stream_entry["clearkey"] = f"{ch.keyid}:{ch.key}"
+
         if ch.channel_title and ch.channel_title.strip():
             stream_entry["channel_title"] = ch.channel_title.strip()
 
@@ -409,21 +433,29 @@ def generate_web_view_url(
 
         if event_name:
             if event_name not in grouped:
-                grouped[event_name] = {"event_name": event_name, "streams": []}
-                if ch.event_time and ch.event_time.strip():
-                    grouped[event_name]["event_time"] = utc_to_local(ch.event_time)
+                grouped[event_name] = {
+                    "event_name": event_name,
+                    "team_a_flag": ch.team_a_flag if ch.team_a_flag else "",
+                    "team_b_flag": ch.team_b_flag if ch.team_b_flag else "",
+                    "start_time_gmt": ch.start_time_gmt,
+                    "end_time_gmt": ch.end_time_gmt,
+                    "streams": [],
+                }
             grouped[event_name]["streams"].append(stream_entry)
 
         else:
-            entry = {"streams": [stream_entry]}
-            if ch.event_time and ch.event_time.strip():
-                entry["event_time"] = utc_to_local(ch.event_time)
+            entry = {
+                "team_a_flag": ch.team_a_flag if ch.team_a_flag else "",
+                "team_b_flag": ch.team_b_flag if ch.team_b_flag else "",
+                "start_time_gmt": ch.start_time_gmt,
+                "end_time_gmt": ch.end_time_gmt,
+                "streams": [stream_entry],
+            }
             ungrouped.append(entry)
 
     return list(grouped.values()) + ungrouped
 
 
-# ────────────────────────────────────────────────
 def generate_events_json(
     channels: list[SportzxChannel],
     generic_logo: str = "https://via.placeholder.com/512/000000/FFFFFF?text=Sport",
@@ -435,17 +467,25 @@ def generate_events_json(
             continue
 
         event_name = (ch.event_title or "Event").strip()
-        channel_title = ch.channel_title.strip() if ch.channel_title and ch.channel_title.strip() else ""
+        channel_title = (
+            ch.channel_title.strip()
+            if ch.channel_title and ch.channel_title.strip()
+            else ""
+        )
         if channel_title and channel_title.lower() not in event_name.lower():
             event_name += f" ({channel_title})"
+
+        logo = ch.channel_logo if ch.channel_logo else generic_logo
 
         event_dict = {
             "name": event_name,
             "link": ch.stream_url,
-            "logo": generic_logo,
+            "logo": logo,
             "origin": ch.origin if ch.origin else "",
             "referrer": ch.referer if ch.referer else "",
-            "userAgent": ch.headers if ch.headers else "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+            "userAgent": ch.headers
+            if ch.headers
+            else "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
             "cookie": "",
         }
 
@@ -459,18 +499,15 @@ def generate_events_json(
 
 
 if __name__ == "__main__":
-    client = SportzxClient(
-        # excluded_categories=["adult", "test", "xxx"],
-        timeout=15
-    )
+    client = SportzxClient(timeout=15)
 
     print("Fetching channels...")
     channels = client.get_channels()
 
-    print("Generating web-view urls")
-    web_views = generate_web_view_url(
-        channels,
-    )  # "http://localhost:8000/DRM-player.html")
+    generic_logo_url = "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png"
+
+    print("Generating web-view urls...")
+    web_views = generate_web_view_url(channels, generic_logo=generic_logo_url)
 
     print(f"Saving {len(web_views)} web-views")
 
@@ -481,20 +518,19 @@ if __name__ == "__main__":
 
     if channels:
         print("Generating Sportzx.m3u8 playlist...")
-        generic_logo_url = "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png"
         client.generate_m3u(
             channels=channels,
             filename="file.txt",
             generic_logo=generic_logo_url,
         )
-        
+
         print("Generating events.json...")
         events_data = generate_events_json(
-            channels=channels,
-            generic_logo=generic_logo_url
+            channels=channels, generic_logo=generic_logo_url
         )
         with open("events.json", "w", encoding="utf-8") as f:
             json.dump(events_data, f, indent=4)
         print(f"Saved {len(events_data)} events to events.json")
+        print("\nSUCCESS: All data has been saved to files.")
     else:
         print("No channels found")
