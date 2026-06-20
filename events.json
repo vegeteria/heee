@@ -49,68 +49,6 @@
         "cookie": ""
     },
     {
-        "name": "India vs Afghanistan (WILLOW FHD)",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944"
-    },
-    {
-        "name": "India vs Afghanistan (TNT Sports FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
-    },
-    {
-        "name": "India vs Afghanistan (WILLOW ALT)",
-        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944"
-    },
-    {
-        "name": "India vs Afghanistan (TNT SPORTS HD)",
-        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "India vs Afghanistan (WILLOW HD)",
-        "link": "https://tmaxapp.site/willoweng.m3u8",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "India vs Afghanistan (HOTSTAR HD)",
-        "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092"
-    },
-    {
         "name": "ONE Friday Fights (One Fight FHD)",
         "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -284,7 +222,7 @@
     },
     {
         "name": "Arizona Diamondbacks (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?",
+        "link": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -302,7 +240,7 @@
     },
     {
         "name": "Seattle Mariners (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?",
+        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -412,7 +350,7 @@
     {
         "name": "Netherlands vs Sweden (RTB GOLIVE FHD)",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -525,55 +463,26 @@
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Sweden (FOX SPORTS [ALT])",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "name": "Netherlands vs Sweden (FOX ONE 4K)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
     },
     {
-        "name": "Netherlands vs Sweden (5k)",
-        "link": "test",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Netherlands vs Sweden (D Sports FHD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+        "name": "Netherlands vs Sweden (FOX 4K [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
-    },
-    {
-        "name": "Netherlands vs Sweden (TELEMUNDO HD)",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Netherlands vs Sweden (TELEMUNDO FHD)",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
     },
     {
         "name": "Netherlands vs Sweden (CAZE TV FHD)",
@@ -587,6 +496,17 @@
         "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
     },
     {
+        "name": "Netherlands vs Sweden (D Sports FHD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
+    },
+    {
         "name": "Netherlands vs Sweden (TIPIK FR FHD)",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -598,7 +518,29 @@
         "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
     },
     {
-        "name": "Netherlands vs Sweden (Sporza DUTCH FHD)",
+        "name": "Netherlands vs Sweden (TVP POLISH FHD)",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0:0"
+    },
+    {
+        "name": "Netherlands vs Sweden (CT SPORTS CZ)",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "Netherlands vs Sweden (Sporza DUTCH SD)",
         "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -609,15 +551,42 @@
         "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
     },
     {
-        "name": "Netherlands vs Sweden (TELEMUNDO SPANISH)",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "name": "Netherlands vs Sweden (TELEMUNDO HD)",
+        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (PEACOCK FHD [ALT])",
+        "link": "OK",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (TELEMUNDO [ALT])",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+    },
+    {
+        "name": "Netherlands vs Sweden (FAST SERVER)",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgU4C4bo4qHG.m3u8?txSecret=59b857c54fa14b06538728e85724d862&txTime=6A334B08",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "Netherlands vs Sweden (ITV SPORTS UK)",
@@ -638,17 +607,8 @@
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Sweden (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgU4C4bo4qHG.m3u8?txSecret=59b857c54fa14b06538728e85724d862&txTime=6A334B08",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Netherlands vs Sweden (beIN MAX FHD)",
-        "link": "https://www.mdrstore.shop/s2_bn_max_1_fhd/tracks-v1a1/mono.m3u8",
+        "name": "Netherlands vs Sweden (ARABIC LIVE)",
+        "link": "OK",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -658,6 +618,62 @@
     {
         "name": "Netherlands vs Sweden (DAZN SPANISH)",
         "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (TYC SPORTS HD)",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (beIN MAX HD)",
+        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (JOJ SPORTS FHD)",
+        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "Netherlands vs Sweden (TSN SPORTS)",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (SOMOY TV HD)",
+        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (TRT SPORTS 2K)",
+        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -677,83 +693,25 @@
     },
     {
         "name": "Netherlands vs Sweden (FUSSBALL TV FHD)",
-        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Netherlands vs Sweden (TRT SPORTS 2K)",
-        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Netherlands vs Sweden (United Sports [HIN])",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "55ca7b96946703b0e70d4b5a0c0a36fe:c442558af3961253a42a16c0b6f552d7"
+        "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
     },
     {
-        "name": "Netherlands vs Sweden (beIN SPORTS HD)",
-        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Netherlands vs Sweden (Match Football FHD)",
-        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "name": "Netherlands vs Sweden (TELEMUNDO FHD)",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
-    },
-    {
-        "name": "Netherlands vs Sweden (JOJ SPORTS FHD)",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
-        "name": "Netherlands vs Sweden (TVP POLISH FHD)",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0:0"
-    },
-    {
-        "name": "Netherlands vs Sweden (Somoy TV HD)",
-        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
     },
     {
         "name": "Netherlands vs Sweden (SportzX Live)",
@@ -765,60 +723,67 @@
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Sweden (ITV SPORTS SD)",
-        "link": "http://193.47.62.52/hls/Xzzzz.m3u8?",
+        "name": "Netherlands vs Sweden (HD SERVER ENG)",
+        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (HD SERVER AR)",
+        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Sweden (SD SERVER [ENG])",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Sweden (HD LIVE)",
-        "link": "http://193.47.62.49/hls/XzzzzCCCCC.m3u8?",
+        "name": "Netherlands vs Sweden (ENG SD SERVER)",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Sweden (SD SERVER [CN])",
-        "link": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
+        "name": "Netherlands vs Sweden (SD SERVER [SWAHILI])",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Netherlands vs Sweden (SD SERVER [ES])",
-        "link": "http://193.47.62.44/hls/XzzzzCCC.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Sweden (SD SERVER [SWAHLI])",
-        "link": "http://193.47.62.52/hls/XzzzzCCCCX.m3u8?",
+        "name": "Netherlands vs Sweden (beiN SPORTS FR)",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Sweden (ORF GERMAN FHD)",
-        "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+        "name": "Netherlands vs Sweden (ESPANOL SD)",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
+        "origin": "http://www.fawanews.sc/",
+        "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398"
+        "cookie": ""
     },
     {
         "name": "Germany vs Cote d Ivoire (FOX SPORTS FHD)",
@@ -4311,8 +4276,8 @@
         "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-        "name": "Detroit Tigers vs White Sox (SportzX Live)",
-        "link": "?",
+        "name": "Tigers vs White Sox (SportzX Live)",
+        "link": "https://edgestreams.pro/hls/dazhfiach15.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -4321,7 +4286,7 @@
     },
     {
         "name": "Yankees vs Cincinnati Reds (SportzX Live)",
-        "link": "?",
+        "link": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -4329,8 +4294,8 @@
         "cookie": ""
     },
     {
-        "name": "Chicago Cubs vs Blue Jays (SportzX Live)",
-        "link": "?",
+        "name": "Cubs vs Blue Jays (SportzX Live)",
+        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -4339,7 +4304,7 @@
     },
     {
         "name": "Texas Rangers vs Padres (SportzX Live)",
-        "link": "?",
+        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -4347,8 +4312,8 @@
         "cookie": ""
     },
     {
-        "name": "Atlanta Braves vs Brewers (SportzX Live)",
-        "link": "?",
+        "name": "Braves vs Brewers (SportzX Live)",
+        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -4357,7 +4322,7 @@
     },
     {
         "name": "Miami Marlins vs Giants (SportzX Live)",
-        "link": "?",
+        "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -4366,7 +4331,7 @@
     },
     {
         "name": "Rays vs Nationals (SportzX Live)",
-        "link": "?",
+        "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -4374,8 +4339,8 @@
         "cookie": ""
     },
     {
-        "name": "Houston Astros vs Guardians (SportzX Live)",
-        "link": "?",
+        "name": "Astros vs Guardians (SportzX Live)",
+        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -4384,7 +4349,7 @@
     },
     {
         "name": "Phillies vs Mets (SportzX Live)",
-        "link": "?",
+        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",

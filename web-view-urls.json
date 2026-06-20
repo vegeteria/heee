@@ -22,40 +22,6 @@
         ]
     },
     {
-        "event_name": "India vs Afghanistan",
-        "team_a_flag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "team_b_flag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "start_time_gmt": "2026-06-20 08:00:00 +0000",
-        "end_time_gmt": "2026-06-20 16:20:00 +0000",
-        "group-title": "Cricket",
-        "streams": [
-            {
-                "web_view_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944",
-                "channel_title": "WILLOW FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-                "clearkey": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
-                "channel_title": "TNT Sports FHD"
-            },
-            {
-                "web_view_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944",
-                "channel_title": "WILLOW ALT"
-            },
-            {
-                "web_view_url": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
-                "channel_title": "HOTSTAR HD"
-            }
-        ]
-    },
-    {
         "event_name": "ONE Friday Fights",
         "team_a_flag": "https://iili.io/FDjaT1R.md.png",
         "team_b_flag": "https://iili.io/FDjaT1R.md.png",
@@ -222,22 +188,16 @@
                 "channel_title": "RTE SPORTS FHD"
             },
             {
-                "web_view_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-                "channel_title": "FOX SPORTS [ALT]"
+                "clearkey": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K"
             },
             {
-                "web_view_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+                "web_view_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-                "channel_title": "D Sports FHD"
-            },
-            {
-                "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-                "clearkey": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-                "channel_title": "TELEMUNDO FHD"
+                "clearkey": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX 4K [ALT]"
             },
             {
                 "web_view_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
@@ -246,46 +206,16 @@
                 "channel_title": "CAZE TV FHD"
             },
             {
+                "web_view_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                "channel_title": "D Sports FHD"
+            },
+            {
                 "web_view_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
                 "channel_title": "TIPIK FR FHD"
-            },
-            {
-                "web_view_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-                "channel_title": "Sporza DUTCH FHD"
-            },
-            {
-                "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-                "clearkey": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-                "channel_title": "TELEMUNDO SPANISH"
-            },
-            {
-                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-                "channel_title": "FUSSBALL 4K [GER]"
-            },
-            {
-                "web_view_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "55ca7b96946703b0e70d4b5a0c0a36fe:c442558af3961253a42a16c0b6f552d7",
-                "channel_title": "United Sports [HIN]"
-            },
-            {
-                "web_view_url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-                "channel_title": "Match Football FHD"
-            },
-            {
-                "web_view_url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "channel_title": "JOJ SPORTS FHD"
             },
             {
                 "web_view_url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
@@ -294,10 +224,46 @@
                 "channel_title": "TVP POLISH FHD"
             },
             {
-                "web_view_url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+                "web_view_url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-                "channel_title": "ORF GERMAN FHD"
+                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "CT SPORTS CZ"
+            },
+            {
+                "web_view_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                "channel_title": "Sporza DUTCH SD"
+            },
+            {
+                "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+                "clearkey": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO [ALT]"
+            },
+            {
+                "web_view_url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "JOJ SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+                "channel_title": "FUSSBALL 4K [GER]"
+            },
+            {
+                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+                "channel_title": "FUSSBALL TV FHD"
+            },
+            {
+                "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                "channel_title": "TELEMUNDO FHD"
             }
         ]
     },
