@@ -50,14 +50,14 @@
     },
     {
         "name": "Bangladesh vs Australia (WILLOW FHD)",
-        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iuz7dvit5y/out/v1/8c19f7954ab24086b52b2a7b808ddd73/cenc.mpd",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bd6zyslqrn/out/v1/ac547d11db5347a6bbd80e6fe23aaa22/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "1544c349ebb47984ba648348b5eb4664:b5aa349bbd609812fe85c2cc4b732d27"
+        "drmLicense": "0bcfafbaa2f575577a90d27aa962a214:2b30c9efb2bcd047db14438d49ab800e"
     },
     {
         "name": "Bangladesh vs Australia (TNT SPORTS FHD)",
@@ -104,7 +104,7 @@
         "drmLicense": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e"
     },
     {
-        "name": "Bangladesh vs Australia (FOX CRICKET - AQ)",
+        "name": "Bangladesh vs Australia (FOX CRICKET)",
         "link": "https://sila-daw.wasabih.net/wasabi-kayo/jo74ryszmcvd1pzmbzp50q84a/manifest.mpd",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
         "origin": "",
@@ -303,96 +303,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
-    },
-    {
-        "name": "Colorado Rockies (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52306/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Colorado Rockies (SportzX LIVE)",
-        "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Los Angeles Angels (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52308/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Los Angeles Angels (SportzX Live)",
-        "link": "https://edgestreams.pro/hls/kjhfzua25.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Arizona Diamondbacks (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52310/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Arizona Diamondbacks (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Baltimore Orioles (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52314/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Baltimore Orioles (SportzX Live)",
-        "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Seattle Mariners (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52312/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Seattle Mariners (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "South Africa W vs India W (WILLOW FHD)",
@@ -2426,435 +2336,6 @@
         "cookie": ""
     },
     {
-        "name": "Ecuador vs Cura\u00e7ao (RTE SPORTS FHD)",
-        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
-        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (CTV SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/obxyhz1665918406.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (RTB GOLIVE FHD)",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (FOX SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TSN SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (FOX SPORTS [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TSN SPORTS [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (D Sports FHD)",
-        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TRT SPORTS 2K)",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (FOX SPORTS HD)",
-        "link": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TELEMUNDO HD)",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (CAZE TV FHD)",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TIPIK FR FHD)",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TVP SPORTS FHD)",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0:0"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (CT SPORTS CZ)",
-        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (Sporza DUTCH FHD)",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (MATCH TV RU)",
-        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (M6 FRANCE FHD)",
-        "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (IRIB 4K)",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8PTftoJCfx.m3u8?txSecret=e686fcae333f0db7da4efe86eac19e06&txTime=6A375AB9",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TELEMUNDO [ALT])",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (PEACOCK FHD [ALT])",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021222-723080-49118325e08)/master_2hr.mpd?c3.ri=6a36e2ad_Q1ZYMDc_1_Q0xPVURGUk9OVA_913c910a0be8%3A0&aws.sessionId=c681c294-ada0-4cb4-80fd-fe8895aafd2f&ck=eyIwMDIyMzRmZDIzMjg4ZWI0NTBlMjcyYWZjZGU0MjBlNSI6IjAzOGJkZjlhMGI3Yzk1ZTIyOWI3YWRkZTc3MzA4MzJlIn0%3D",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "002234fd23288eb450e272afcde420e5:038bdf9a0b7c95e229b7adde7730832e"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52299/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52298/load-playlist?",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (ARABIC LIVE HD)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/yFsVZBRMH6Zd2ptDfbiLvmPYqpaKELYr0UisTNzbu3Ax0l74n_FB_0aVkvF9nMcvP_N7yZsYVOwEf1wE1dg7gg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/tw_master_dynamic_delta.m3u8?type=live",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (DAZN SPANISH)",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (ISCREEN BD FHD)",
-        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://iscreen.com.bd/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TSN SPORTS)",
-        "link": "https://soccerball.st/s1.php",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (beIN MAX HD)",
-        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (JOJ SPORTS FHD)",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (Somoy TV HD)",
-        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (FUSSBALL 4K [GER])",
-        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (FUSSBALL TV FHD)",
-        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (TELEMUNDO SPANISH)",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (SportzX Live)",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://instream.click",
-        "referrer": "https://instream.click/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (HD SERVER EN)",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (HD SERVER EN 2)",
-        "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (HD SERVER AR)",
-        "link": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (SD SERVER [ENG])",
-        "link": "?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (ENG SERVER SD)",
-        "link": "?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (SD SERVER  [SWE])",
-        "link": "?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (beiN SPORTS FR)",
-        "link": "?",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ecuador vs Cura\u00e7ao (ESPANOL SD)",
-        "link": "?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Tunisia vs Japan (RTE SPORTS FHD)",
         "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
@@ -2908,6 +2389,26 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
+        "name": "Tunisia vs Japan (FUSSBALL TV 4K)",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "e511fb81360c5f14b681605d1de52046:ec72f335d0e436ac7dc1d936aea1144a --key e1f8fc6898fc5bf7a00b5609af23fee0:98b7133ee006d9fae111ec0cb366641c --key 4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
+    },
+    {
+        "name": "Tunisia vs Japan (SPORTZX FHD)",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Tunisia vs Japan (FOX SPORTS [ALT])",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -2935,7 +2436,7 @@
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "userAgent": "Mozila",
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
@@ -2944,15 +2445,6 @@
         "name": "Tunisia vs Japan (TRT SPORTS 2K)",
         "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Tunisia vs Japan (FOX SPORTS HD)",
-        "link": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -3055,7 +2547,7 @@
     },
     {
         "name": "Tunisia vs Japan (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJCj8K4GZQA.m3u8?txSecret=bbcec815eb04a31da9b4674241c56ae9&txTime=6A346358",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8aT5FCRnSS.m3u8?txSecret=7ec4031a0208bf959353d83271fdc399&txTime=6A3784E9",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3086,7 +2578,7 @@
     },
     {
         "name": "Tunisia vs Japan (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52299/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52316/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -3104,7 +2596,7 @@
     },
     {
         "name": "Tunisia vs Japan (ARABIC LIVE HD)",
-        "link": "ok",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/rwgIHAHzFvgWWR-IbtZ5vRLSLG4bZFXMRh80nOm4emKfiON6qwSiSFkp0-ORXBi3juXEJlOXu-9hiE96Z69rQA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3131,7 +2623,7 @@
     },
     {
         "name": "Tunisia vs Japan (TOFFE BD FHD)",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782031423~Starts=1781945023~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ab86BO5xhFRJWIwd4hrKlygvpy5sg78MNR55Csko25L_ML0-XD8mAySh1eHNSfOtwQ0j31TIrz3ZyU4UY6WRCA",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3258,7 +2750,7 @@
     },
     {
         "name": "Tunisia vs Japan (SD SERVER [ENG])",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/adXFPPPA.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3267,7 +2759,7 @@
     },
     {
         "name": "Tunisia vs Japan (ENG SERVER SD)",
-        "link": "?",
+        "link": "http://193.47.62.42/hls/adXVVVV.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3275,17 +2767,17 @@
         "cookie": ""
     },
     {
-        "name": "Tunisia vs Japan (SD SERVER [SWAHILI])",
-        "link": "?",
+        "name": "Tunisia vs Japan (SD SERVER [JP])",
+        "link": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "http://www.fawanews.sc/",
-        "referrer": "http://www.fawanews.sc/",
+        "origin": "",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "Tunisia vs Japan (beiN SPORTS FR)",
-        "link": "?",
+        "link": "http://193.47.62.51/hls/adXZRRRZ.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3294,7 +2786,7 @@
     },
     {
         "name": "Tunisia vs Japan (ESPANOL SD)",
-        "link": "?",
+        "link": "http://193.47.62.59/hls/adXZRRR.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -5321,15 +4813,6 @@
         "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-        "name": "Richmond Tigers vs North Melbourne (SportzX Live)",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Washington Freedom vs MI New York (WILLOW FHD)",
         "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/gu3yfomqva/out/v1/583855fb8e0f42ac820f8c195ac771fc/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
@@ -5375,78 +4858,6 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Astros vs Guardians (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Phillies vs Mets (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Dream vs Indiana Fever (SportzX WNBA)",
-        "link": "https://chatgpt.hereisman.net/playlist/52274/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Dream vs Indiana Fever (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Mercury vs Seattle Storm (SportzX WNBA)",
-        "link": "https://chatgpt.hereisman.net/playlist/52283/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Mercury vs Seattle Storm (SportzX Live)",
-        "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Dallas Wings vs Chicago Sky (SportzX WNBA)",
-        "link": "https://chatgpt.hereisman.net/playlist/52302/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Dallas Wings vs Chicago Sky (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     }
