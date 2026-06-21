@@ -2843,6 +2843,15 @@
         "cookie": ""
     },
     {
+        "name": "Belgium vs Iran (SportzX FHD LIVE)",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Belgium vs Iran (FOX SPORTS [ALT])",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1n1mskjnsk/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -2877,14 +2886,14 @@
     },
     {
         "name": "Belgium vs Iran (CAZE TV FHD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
+        "drmLicense": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6"
     },
     {
         "name": "Belgium vs Iran (TELEMUNDO HD)",
@@ -3012,7 +3021,7 @@
     },
     {
         "name": "Belgium vs Iran (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSFMZFX1E4e.m3u8?txSecret=7c472f97893cf7a2679959370689a077&txTime=6A34C028",
+        "link": "https://pulltx.jdnzrgm.com/live/sd-6MvZ6BDhJJAmYXkTYa.m3u8?txSecret=2fc213980cc076bbe1ff716f56d1aa68&txTime=6A3857D8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3094,8 +3103,8 @@
         "cookie": ""
     },
     {
-        "name": "Belgium vs Iran (TOFFE BD FHD)",
-        "link": "ok",
+        "name": "Belgium vs Iran (TOFFEE BD FHD)",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8?hdntl=Expires=1782152406~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_uf_Y5-GEnJ1T_tFJPlNODTCW_ruHbJtvrzwSCZ7UhAl5kAY7AM4k6lyoRjIzLX9E22ZR_U8FhN6CokbZxju0N",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
