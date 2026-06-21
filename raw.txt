@@ -4282,7 +4282,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52204/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52318/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "ITV SPORTS HD",
         "type": "0"
@@ -4331,7 +4331,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782141612~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_Z7irFJWxgAmdayOmO3GpmlXDD2RpPhKrcIO0tWBx6gijtXM6x-XFrDxJzvH-1CHRJ473Ik19NSsP13qUrcvEF",
         "logo": "",
         "title": "TOFFE BD FHD",
         "type": "0"
