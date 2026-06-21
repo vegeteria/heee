@@ -1415,6 +1415,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE FHD [ALT]",
             "D Sports FHD",
             "CAZE TV FHD",
+            "CANAL5 SPANISH",
             "TELEMUNDO HD",
             "TRT SPORTS 2K",
             "TIPIK FR FHD",
@@ -1445,17 +1446,12 @@ URL: https://spxhomelive.lol/events.json
             "HD SERVER ENG",
             "HD SERVER EN 2",
             "HD SERVER AR",
-            "HD SERVER ENG",
-            "HD SERVER AR",
-            "FUSSBALL 4K 1",
-            "FUSSBALL 4K 2",
-            "SD SERVER [EN]",
+            "SD SERVER [ENG]",
             "ENG SERVER SD",
             "SD SERVER [SWAHILI]",
             "beiN SPORTS FR",
             "ESPANOL SD",
-            "ARABIC LIVE",
-            "ARABIC LIVE 2"
+            "TELEMUNDO FHD"
         ],
         "formatsNew": [
             {
@@ -1497,6 +1493,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CAZE TV FHD",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+            },
+            {
+                "title": "CANAL5 SPANISH",
+                "logo": ""
             },
             {
                 "title": "TELEMUNDO HD",
@@ -1619,23 +1619,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "HD SERVER ENG",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER AR",
-                "logo": ""
-            },
-            {
-                "title": "FUSSBALL 4K 1",
-                "logo": ""
-            },
-            {
-                "title": "FUSSBALL 4K 2",
-                "logo": ""
-            },
-            {
-                "title": "SD SERVER [EN]",
+                "title": "SD SERVER [ENG]",
                 "logo": ""
             },
             {
@@ -1655,11 +1639,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "ARABIC LIVE",
-                "logo": ""
-            },
-            {
-                "title": "ARABIC LIVE 2",
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             }
         ]
@@ -4222,6 +4202,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "logo": "",
+        "title": "CANAL5 SPANISH",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -4433,80 +4420,45 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "HD SERVER ENG",
+        "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER AR",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
-        "logo": "",
-        "title": "FUSSBALL 4K 1",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
-        "logo": "",
-        "title": "FUSSBALL 4K 2",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "http://193.47.62.44/hls/DXzzzz.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER [EN]",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "http://193.47.62.57/hls/DXzzzzCCCCC.m3u8?|Referer=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.41/hls/TTTTFF.m3u8?|Referer=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWAHILI]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.44/hls/TTTTFFFF.m3u8?|Referer=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.44/hls/TTTT.m3u8?|Referer=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/pl9BaZYToq9QsxkQZRTB3yhN0mWlLSAu7nGSxtLGHrDEA4KDzB6y4-RrLXNgV9Igd9QlV-aOhifiLT5Sg0lc9w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "",
-        "title": "ARABIC LIVE",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/j03LMPQ_jtwJNe8sMjk6Af-BXWxgbQe4ePUWUlbUoeJfKApZ5Zp3Are9a7YKE05qvQk-4S6n97hf7BCN1lXStg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
-        "logo": "",
-        "title": "ARABIC LIVE 2",
-        "type": "0"
+        "title": "TELEMUNDO FHD",
+        "type": "1"
     }
 ]
 ============================================================

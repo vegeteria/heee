@@ -2304,6 +2304,17 @@
         "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
     },
     {
+        "name": "Spain vs Saudi Arabia (CANAL5 SPANISH)",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+    },
+    {
         "name": "Spain vs Saudi Arabia (TELEMUNDO HD)",
         "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -2594,103 +2605,60 @@
         "cookie": ""
     },
     {
-        "name": "Spain vs Saudi Arabia (HD SERVER ENG)",
-        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "name": "Spain vs Saudi Arabia (SD SERVER [ENG])",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Spain vs Saudi Arabia (HD SERVER AR)",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Spain vs Saudi Arabia (FUSSBALL 4K 1)",
-        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Spain vs Saudi Arabia (FUSSBALL 4K 2)",
-        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Spain vs Saudi Arabia (SD SERVER [EN])",
-        "link": "http://193.47.62.44/hls/DXzzzz.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "Spain vs Saudi Arabia (ENG SERVER SD)",
-        "link": "http://193.47.62.57/hls/DXzzzzCCCCC.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "Spain vs Saudi Arabia (SD SERVER [SWAHILI])",
-        "link": "http://193.47.62.41/hls/TTTTFF.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "Spain vs Saudi Arabia (beiN SPORTS FR)",
-        "link": "http://193.47.62.44/hls/TTTTFFFF.m3u8?",
+        "link": "?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "origin": "",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "Spain vs Saudi Arabia (ESPANOL SD)",
-        "link": "http://193.47.62.44/hls/TTTT.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
+        "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Spain vs Saudi Arabia (ARABIC LIVE)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/pl9BaZYToq9QsxkQZRTB3yhN0mWlLSAu7nGSxtLGHrDEA4KDzB6y4-RrLXNgV9Igd9QlV-aOhifiLT5Sg0lc9w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "name": "Spain vs Saudi Arabia (TELEMUNDO FHD)",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Spain vs Saudi Arabia (ARABIC LIVE 2)",
-        "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/j03LMPQ_jtwJNe8sMjk6Af-BXWxgbQe4ePUWUlbUoeJfKApZ5Zp3Are9a7YKE05qvQk-4S6n97hf7BCN1lXStg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
     },
     {
         "name": "Belgium vs Iran (FOX ONE HD)",
