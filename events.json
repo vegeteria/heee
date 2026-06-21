@@ -2887,6 +2887,15 @@
         "drmLicense": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457"
     },
     {
+        "name": "Belgium vs Iran (TELEMUNDO HD)",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Belgium vs Iran (FUSSBALL TV 4K)",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -2936,13 +2945,70 @@
         "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
     },
     {
-        "name": "Belgium vs Iran (TELEMUNDO HD)",
-        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
+        "name": "Belgium vs Iran (TVP SPORTS FHD)",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0:0"
+    },
+    {
+        "name": "Belgium vs Iran (Sporza DUTCH FHD)",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460"
+    },
+    {
+        "name": "Belgium vs Iran (CT SPORTS CZ)",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "Belgium vs Iran (Match Football FHD)",
+        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
+    },
+    {
+        "name": "Belgium vs Iran (JOJ SPORTS FHD)",
+        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "Belgium vs Iran (M6 FRANCE SD)",
+        "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
     },
     {
         "name": "Belgium vs Iran (PEACOCK FHD [ALT])",
@@ -2963,28 +3029,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-    },
-    {
-        "name": "Belgium vs Iran (Sporza DUTCH FHD)",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91"
-    },
-    {
-        "name": "Belgium vs Iran (TVP SPORTS FHD)",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0:0"
     },
     {
         "name": "Belgium vs Iran (FAST SERVER)",
@@ -3134,28 +3178,6 @@
         "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
     },
     {
-        "name": "Belgium vs Iran (Match Football FHD)",
-        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
-    },
-    {
-        "name": "Belgium vs Iran (JOJ SPORTS FHD)",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
         "name": "Belgium vs Iran (SportzX Live)",
         "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -3224,24 +3246,6 @@
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Belgium vs Iran (FUSSBALL 4K 1)",
-        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Belgium vs Iran (FUSSBALL 4K 2)",
-        "link": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
