@@ -1429,14 +1429,14 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS HD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
-            "beIN MAX FHD",
+            "ARABIC LIVE HD",
+            "TYC SPORTS HD",
             "DAZN SPANISH",
+            "ISCREEN BD FHD",
+            "TOFFE BD FHD",
             "TSN SPORTS",
             "SOMOY TV HD",
-            "FOX SPORTS [ALT]",
-            "TSN SPORTS [ALT]",
-            "ORF GERMAN HD",
-            "ZDF GERMAN HD",
+            "beIN MAX HD",
             "TRT SPORTS 2K",
             "FUSSBALL 4K [GER]",
             "FUSSBALL TV FHD",
@@ -1555,11 +1555,23 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "beIN MAX FHD",
+                "title": "ARABIC LIVE HD",
+                "logo": ""
+            },
+            {
+                "title": "TYC SPORTS HD",
                 "logo": ""
             },
             {
                 "title": "DAZN SPANISH",
+                "logo": ""
+            },
+            {
+                "title": "ISCREEN BD FHD",
+                "logo": ""
+            },
+            {
+                "title": "TOFFE BD FHD",
                 "logo": ""
             },
             {
@@ -1571,19 +1583,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX SPORTS [ALT]",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "TSN SPORTS [ALT]",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
-                "title": "ORF GERMAN HD",
-                "logo": ""
-            },
-            {
-                "title": "ZDF GERMAN HD",
+                "title": "beIN MAX HD",
                 "logo": ""
             },
             {
@@ -4321,9 +4321,16 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+        "link": "ok",
         "logo": "",
-        "title": "beIN MAX FHD",
+        "title": "ARABIC LIVE HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
+        "logo": "",
+        "title": "TYC SPORTS HD",
         "type": "0"
     },
     {
@@ -4331,6 +4338,20 @@ URL: https://spxhomelive.lol/channels/50069.json
         "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
         "logo": "",
         "title": "DAZN SPANISH",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "ISCREEN BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "TOFFE BD FHD",
         "type": "0"
     },
     {
@@ -4348,32 +4369,11 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "0"
     },
     {
-        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|User-Agent=Mozilla",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|User-Agent=Mozilla",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+        "api": "",
+        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
         "logo": "",
-        "title": "ORF GERMAN HD",
-        "type": "1"
-    },
-    {
-        "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "logo": "",
-        "title": "ZDF GERMAN HD",
-        "type": "1"
+        "title": "beIN MAX HD",
+        "type": "0"
     },
     {
         "api": "",

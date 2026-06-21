@@ -721,34 +721,20 @@ https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (beIN MAX FHD)
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
+#EXTINF:-1 tvg-id="spainvssaudiarabia1700tycsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (TYC SPORTS HD)
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
 #EXTINF:-1 tvg-id="spainvssaudiarabia1700daznspanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (DAZN SPANISH)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
+#EXTINF:-1 tvg-id="spainvssaudiarabia1700iscreenbdfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (ISCREEN BD FHD)
+https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="spainvssaudiarabia1700somoytvhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (SOMOY TV HD)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700foxsportsalt" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (FOX SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700tsnsportsalt" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (TSN SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700orfgermanhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (ORF GERMAN HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398
-https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd
-
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700zdfgermanhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (ZDF GERMAN HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813
-https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd
+#EXTINF:-1 tvg-id="spainvssaudiarabia1700beinmaxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (beIN MAX HD)
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
 
 #EXTINF:-1 tvg-id="spainvssaudiarabia1700trtsports2k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (TRT SPORTS 2K)
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
