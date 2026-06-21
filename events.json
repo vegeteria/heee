@@ -2469,12 +2469,14 @@
     },
     {
         "name": "Spain vs Saudi Arabia (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021266-723124-4911ad1c134)/master_2hr.mpd?c3.ri=6a380b7d_Q1ZYMDc_1_RkFTVExZ_2a268e51ea4b%3A0&aws.sessionId=4c6404b3-258e-4e17-8e57-2e6a2eeac65a&ck=eyIwMDIyZWQ3Yzg4MGFiMzU3NWVkNjUwMDg3ODk5ZTdmZCI6Ijc1ODIyNjAxZGMxY2M3MmI2OGYwYmFhOGFhNWI5YzNlIn0%3D",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022ed7c880ab3575ed650087899e7fd:75822601dc1cc72b68f0baa8aa5b9c3e"
     },
     {
         "name": "Spain vs Saudi Arabia (TELEMUNDO [ALT])",
@@ -4231,6 +4233,87 @@
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Atlanta Braves vs Brewers (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Yankees vs Cincinnati Reds (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Detroit Tigers vs White Sox (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Miami Marlins vs Giants (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Tampa Bay Rays vs Nationals (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Houston Astros vs Guardians (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Royals vs Cardinals (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Texas Rangers vs Padres (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Rockies vs Pittsburgh Pirates (SportzX MLB)",
+        "link": "?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     }

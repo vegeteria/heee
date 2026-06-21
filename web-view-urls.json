@@ -806,6 +806,12 @@
                 "channel_title": "M6 FRANCE SD"
             },
             {
+                "web_view_url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021266-723124-4911ad1c134)/master_2hr.mpd?c3.ri=6a380b7d_Q1ZYMDc_1_RkFTVExZ_2a268e51ea4b%3A0&aws.sessionId=4c6404b3-258e-4e17-8e57-2e6a2eeac65a&ck=eyIwMDIyZWQ3Yzg4MGFiMzU3NWVkNjUwMDg3ODk5ZTdmZCI6Ijc1ODIyNjAxZGMxY2M3MmI2OGYwYmFhOGFhNWI5YzNlIn0%3D",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+                "clearkey": "0022ed7c880ab3575ed650087899e7fd:75822601dc1cc72b68f0baa8aa5b9c3e",
+                "channel_title": "PEACOCK FHD [ALT]"
+            },
+            {
                 "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
                 "clearkey": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
