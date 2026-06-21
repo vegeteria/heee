@@ -5133,7 +5133,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://f4f3343a2711.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.158486161195.channel.bZ9qZZUZ6s3F.m3u8",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/3xPCOGPxoFnsIOqj1Z-LnlsM1JkjdVb44RxrzHJ-vX1svBBsfRsbh0XGjX76tlEHoJpW2mMn8JMLPsixebBUMg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
