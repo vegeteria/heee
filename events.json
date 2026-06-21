@@ -3202,7 +3202,7 @@
     },
     {
         "name": "Belgium vs Iran (SD SERVER [ENG])",
-        "link": "?",
+        "link": "http://193.47.62.55/hls/Xrtttt.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3211,7 +3211,7 @@
     },
     {
         "name": "Belgium vs Iran (ENG SD SERVER)",
-        "link": "?",
+        "link": "http://193.47.62.55/hls/Xrttttx.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3219,8 +3219,8 @@
         "cookie": ""
     },
     {
-        "name": "Belgium vs Iran (SD SERVER [SWAHILI])",
-        "link": "?",
+        "name": "Belgium vs Iran (SD SERVER [SWE])",
+        "link": "http://193.47.62.42/hls/Xlplplpqqq.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3229,7 +3229,7 @@
     },
     {
         "name": "Belgium vs Iran (beiN SPORTS FR)",
-        "link": "?",
+        "link": "http://193.47.62.51/hls/Xlplplpqq.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3238,7 +3238,7 @@
     },
     {
         "name": "Belgium vs Iran (ESPANOL SD)",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/Xlplplpq.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -4382,10 +4382,28 @@
     },
     {
         "name": "Houston Astros vs Guardians (SportzX MLB)",
+        "link": "https://chatgpt.hereisman.net/playlist/52332/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Houston Astros vs Guardians (SportzX MLB)",
         "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Royals vs Cardinals (SportzX MLB)",
+        "link": "https://chatgpt.hereisman.net/playlist/52330/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -4400,10 +4418,28 @@
     },
     {
         "name": "Texas Rangers vs Padres (SportzX MLB)",
+        "link": "https://chatgpt.hereisman.net/playlist/52338/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Texas Rangers vs Padres (SportzX MLB)",
         "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Rockies vs Pittsburgh Pirates (SportzX MLB)",
+        "link": "https://chatgpt.hereisman.net/playlist/52342/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },

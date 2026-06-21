@@ -1878,7 +1878,7 @@ URL: https://spxhomelive.lol/events.json
             "HD SERVER AR",
             "SD SERVER [ENG]",
             "ENG SD SERVER",
-            "SD SERVER [SWAHILI]",
+            "SD SERVER [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD"
         ],
@@ -2064,7 +2064,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "SD SERVER [SWAHILI]",
+                "title": "SD SERVER [SWE]",
                 "logo": ""
             },
             {
@@ -2833,9 +2833,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX MLB"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX MLB",
                 "logo": ""
@@ -2861,9 +2866,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX MLB"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX MLB",
                 "logo": ""
@@ -2889,9 +2899,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX MLB"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX MLB",
                 "logo": ""
@@ -2917,9 +2932,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX MLB"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX MLB",
                 "logo": ""
@@ -5285,35 +5305,35 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/Xrtttt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/Xrttttx.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SD SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/Xlplplpqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SD SERVER [SWAHILI]",
+        "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/Xlplplpqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/Xlplplpq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
@@ -6173,6 +6193,13 @@ URL: https://spxhomelive.lol/channels/50078.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52332/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX MLB",
@@ -6184,6 +6211,13 @@ URL: https://spxhomelive.lol/channels/50078.json
 URL: https://spxhomelive.lol/channels/50079.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52330/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -6199,6 +6233,13 @@ URL: https://spxhomelive.lol/channels/50080.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52338/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX MLB",
@@ -6210,6 +6251,13 @@ URL: https://spxhomelive.lol/channels/50080.json
 URL: https://spxhomelive.lol/channels/50081.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52342/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
