@@ -1414,11 +1414,12 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
             "D Sports FHD",
+            "CAZE TV FHD",
             "TRT SPORTS 2K",
+            "TIPIK FR FHD",
+            "Sporza DUTCH FHD",
             "TELEMUNDO HD",
             "IRIB 4K",
-            "Sporza DUTCH FHD",
-            "TIPIK FR FHD",
             "TVP SPORTS FHD",
             "TELEMUNDO [ALT]",
             "TELEMUNDO FHD",
@@ -1428,7 +1429,6 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS HD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
-            "CAZE TV [ALT]",
             "TSN SPORTS",
             "SOMOY TV HD",
             "FOX SPORTS [ALT]",
@@ -1494,7 +1494,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "CAZE TV FHD",
+                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+            },
+            {
                 "title": "TRT SPORTS 2K",
+                "logo": ""
+            },
+            {
+                "title": "TIPIK FR FHD",
+                "logo": ""
+            },
+            {
+                "title": "Sporza DUTCH FHD",
                 "logo": ""
             },
             {
@@ -1503,14 +1515,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "IRIB 4K",
-                "logo": ""
-            },
-            {
-                "title": "Sporza DUTCH FHD",
-                "logo": ""
-            },
-            {
-                "title": "TIPIK FR FHD",
                 "logo": ""
             },
             {
@@ -1548,10 +1552,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "CAZE TV [ALT]",
-                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
                 "title": "TSN SPORTS",
@@ -4210,11 +4210,32 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
+        "title": "CAZE TV FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
         "logo": "",
         "title": "TRT SPORTS 2K",
         "type": "0"
+    },
+    {
+        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "",
+        "title": "TIPIK FR FHD",
+        "type": "1"
+    },
+    {
+        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+        "logo": "",
+        "title": "Sporza DUTCH FHD",
+        "type": "1"
     },
     {
         "api": "",
@@ -4229,20 +4250,6 @@ URL: https://spxhomelive.lol/channels/50069.json
         "logo": "",
         "title": "IRIB 4K",
         "type": "0"
-    },
-    {
-        "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "logo": "",
-        "title": "Sporza DUTCH FHD",
-        "type": "1"
-    },
-    {
-        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "",
-        "title": "TIPIK FR FHD",
-        "type": "1"
     },
     {
         "api": "0:0",
@@ -4306,13 +4313,6 @@ URL: https://spxhomelive.lol/channels/50069.json
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
-    },
-    {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-        "title": "CAZE TV [ALT]",
-        "type": "1"
     },
     {
         "api": "",
