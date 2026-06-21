@@ -1419,7 +1419,6 @@ URL: https://spxhomelive.lol/events.json
             "D Sports FHD",
             "CAZE TV FHD",
             "CANAL5 SPANISH",
-            "TELEMUNDO HD",
             "FOX ONE 4K",
             "NOW SPORTS 4K",
             "BBC IPLAYER 4K",
@@ -1433,6 +1432,7 @@ URL: https://spxhomelive.lol/events.json
             "JOJ SPORTS FHD",
             "IRIB 4K",
             "M6 FRANCE SD",
+            "TELEMUNDO HD",
             "FAST SERVER",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
@@ -1458,7 +1458,8 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "UNITE8 SPORTS EN"
         ],
         "formatsNew": [
             {
@@ -1518,10 +1519,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO HD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
-            },
-            {
                 "title": "FOX ONE 4K",
                 "logo": ""
             },
@@ -1572,6 +1569,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "M6 FRANCE SD",
                 "logo": ""
+            },
+            {
+                "title": "TELEMUNDO HD",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "FAST SERVER",
@@ -1675,6 +1676,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
+                "logo": ""
+            },
+            {
+                "title": "UNITE8 SPORTS EN",
                 "logo": ""
             }
         ]
@@ -4223,13 +4228,6 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO HD",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "https://34366344.ccjdgvtt.pages.dev/1782065774/34da013755d54146931d26b6e6602a20/OqTjQVfeolPEHkvnCqwZy-oxuDoNuHoa6jttkO7bTIU/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX ONE 4K",
@@ -4318,6 +4316,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "logo": "",
         "title": "M6 FRANCE SD",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "title": "TELEMUNDO HD",
+        "type": "0"
     },
     {
         "api": "",
@@ -4500,6 +4505,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
+    },
+    {
+        "api": "b314f2fdbec8b2ad0f41a700bb874ae5:b54583df554206d151fe6647ddf33d35",
+        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
+        "logo": "",
+        "title": "UNITE8 SPORTS EN",
+        "type": "1"
     }
 ]
 ============================================================

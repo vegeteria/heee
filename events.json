@@ -2346,15 +2346,6 @@
         "drmLicense": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
     },
     {
-        "name": "Spain vs Saudi Arabia (TELEMUNDO HD)",
-        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Spain vs Saudi Arabia (FOX ONE 4K)",
         "link": "https://34366344.ccjdgvtt.pages.dev/1782065774/34da013755d54146931d26b6e6602a20/OqTjQVfeolPEHkvnCqwZy-oxuDoNuHoa6jttkO7bTIU/fox4k-usa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -2484,6 +2475,15 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
+    },
+    {
+        "name": "Spain vs Saudi Arabia (TELEMUNDO HD)",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "Spain vs Saudi Arabia (FAST SERVER)",
@@ -2726,6 +2726,17 @@
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
+    },
+    {
+        "name": "Spain vs Saudi Arabia (UNITE8 SPORTS EN)",
+        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "b314f2fdbec8b2ad0f41a700bb874ae5:b54583df554206d151fe6647ddf33d35"
     },
     {
         "name": "Belgium vs Iran (FOX ONE HD)",
