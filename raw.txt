@@ -1826,6 +1826,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "TELEMUNDO FHD",
             "RTB SPORTS FHD",
+            "FOX SPORTS - AQ",
             "SportzX FHD LIVE",
             "FOX SPORTS [ALT]",
             "TSN SPORTS [ALT]",
@@ -1845,7 +1846,7 @@ URL: https://spxhomelive.lol/events.json
             "FAST SERVER",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
-            "ITV SPORTS HD",
+            "BBC SPORTS HD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
             "ARABIC LIVE HD",
@@ -1863,7 +1864,7 @@ URL: https://spxhomelive.lol/events.json
             "HD SERVER AR",
             "SD SERVER [ENG]",
             "ENG SD SERVER",
-            "SD SERVER [SWAHILI]",
+            "SD SERVER [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD"
         ],
@@ -1894,6 +1895,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "RTB SPORTS FHD",
+                "logo": ""
+            },
+            {
+                "title": "FOX SPORTS - AQ",
                 "logo": ""
             },
             {
@@ -1973,7 +1978,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "ITV SPORTS HD",
+                "title": "BBC SPORTS HD",
                 "logo": ""
             },
             {
@@ -2045,7 +2050,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "SD SERVER [SWAHILI]",
+                "title": "SD SERVER [SWE]",
                 "logo": ""
             },
             {
@@ -4762,6 +4767,13 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
+        "link": "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/92f6cbdfdbed488c94405d1c605bc403/manifest/video.m3u8",
+        "logo": "",
+        "title": "FOX SPORTS - AQ",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://soccerball.st/s1.php",
         "logo": "",
         "title": "SportzX FHD LIVE",
@@ -4880,11 +4892,11 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00226a44cc7e9c37dce1af71df653de8:04747e13bafdad95f15aafaf07ea9d1f",
+        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021278-723136-4911b88dc40)/master_2hr.mpd?c3.ri=6a38536b_Q1ZYMDc_0_Q09NQ0FTVA_3b45e8113252%3A0&aws.sessionId=6c22a072-f075-42a8-91c5-c20fe2a2db30&ck=eyIwMDIyNmE0NGNjN2U5YzM3ZGNlMWFmNzFkZjY1M2RlOCI6IjA0NzQ3ZTEzYmFmZGFkOTVmMTVhYWZhZjA3ZWE5ZDFmIn0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
@@ -4895,21 +4907,21 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52340/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52354/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "ITV SPORTS HD",
+        "title": "BBC SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52341/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52355/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52219/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52353/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
@@ -5007,35 +5019,35 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/Xrtttt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/Xrttttx.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SD SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/Xlplplpqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SD SERVER [SWAHILI]",
+        "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/Xlplplpqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/Xlplplpq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"

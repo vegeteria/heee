@@ -808,6 +808,9 @@ https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/def
 #EXTINF:-1 tvg-id="uruguayvscaboverde2300rtbsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Uruguay vs Cabo Verde 23:00 (RTB SPORTS FHD)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="uruguayvscaboverde2300foxsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Uruguay vs Cabo Verde 23:00 (FOX SPORTS - AQ)
+https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/92f6cbdfdbed488c94405d1c605bc403/manifest/video.m3u8
+
 #EXTINF:-1 tvg-id="uruguayvscaboverde2300foxsportsalt" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Uruguay vs Cabo Verde 23:00 (FOX SPORTS  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
