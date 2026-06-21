@@ -1871,15 +1871,15 @@ URL: https://spxhomelive.lol/events.json
         "formatsNew": [
             {
                 "title": "RTE SPORTS FHD",
-                "logo": ""
+                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
             {
                 "title": "CTV SPORTS FHD",
-                "logo": ""
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png"
             },
             {
                 "title": "RTB GOLIVE FHD",
-                "logo": ""
+                "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png"
             },
             {
                 "title": "FOX SPORTS FHD",
@@ -2082,14 +2082,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "CTV SPORTS FHD",
+            "RTE SPORTS FHD",
             "RTB GOLIVE FHD",
             "FOX ONE HD",
             "FOX ONE HD [ALT]",
             "TSN Sports FHD",
             "TSN SPORTS [ALT]",
-            "FOX ONE FHD",
             "FOX ONE FHD [ALT]",
-            "RTE SPORTS FHD",
             "ELTA SPORTS FHD",
             "FOX 4K [ALT]",
             "FOX ONE 4K",
@@ -2136,6 +2136,14 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
+                "title": "CTV SPORTS FHD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "RTE SPORTS FHD",
+                "logo": ""
+            },
+            {
                 "title": "RTB GOLIVE FHD",
                 "logo": ""
             },
@@ -2156,16 +2164,8 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "FOX ONE FHD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
                 "title": "FOX ONE FHD [ALT]",
                 "logo": ""
-            },
-            {
-                "title": "RTE SPORTS FHD",
-                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
             {
                 "title": "ELTA SPORTS FHD",
@@ -4719,21 +4719,21 @@ URL: https://spxhomelive.lol/channels/50071.json
     {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
         "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
-        "logo": "",
+        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
         "title": "RTE SPORTS FHD",
         "type": "1"
     },
     {
         "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "logo": "",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png",
         "title": "CTV SPORTS FHD",
         "type": "1"
     },
     {
         "api": "",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "",
+        "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
         "title": "RTB GOLIVE FHD",
         "type": "0"
     },
@@ -4886,7 +4886,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/sd-6MvZ6BDhJJAmYXkTYa.m3u8?txSecret=2fc213980cc076bbe1ff716f56d1aa68&txTime=6A3857D8",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdeGdoB5h66.m3u8?txSecret=692932e27a6a909b2ee258aff8fc960d&txTime=6A388550",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -5059,6 +5059,20 @@ URL: https://spxhomelive.lol/channels/50072.json
 ============================================================
 [
     {
+        "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "CTV SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+        "logo": "",
+        "title": "RTE SPORTS FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "logo": "",
@@ -5095,23 +5109,9 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozila",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX ONE FHD",
-        "type": "1"
-    },
-    {
-        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "",
         "title": "FOX ONE FHD [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
-        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-        "title": "RTE SPORTS FHD",
         "type": "1"
     },
     {
