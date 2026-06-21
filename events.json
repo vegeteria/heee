@@ -2260,6 +2260,17 @@
         "drmLicense": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
     },
     {
+        "name": "Spain vs Saudi Arabia (TELEMUNDO FHD)",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
+    },
+    {
         "name": "Spain vs Saudi Arabia (TSN SPORTS [ALT])",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -2648,17 +2659,6 @@
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "Spain vs Saudi Arabia (TELEMUNDO FHD)",
-        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
     },
     {
         "name": "Belgium vs Iran (FOX ONE HD)",

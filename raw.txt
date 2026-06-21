@@ -1411,6 +1411,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE FHD",
             "TSN SPORTS FHD",
             "FUSSBALL TV 4K",
+            "TELEMUNDO FHD",
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
             "D Sports FHD",
@@ -1450,8 +1451,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER [SWAHILI]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "TELEMUNDO FHD"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -1476,6 +1476,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FUSSBALL TV 4K",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
@@ -1636,10 +1640,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "TELEMUNDO FHD",
                 "logo": ""
             }
         ]
@@ -4174,6 +4174,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
+        "type": "1"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -4452,13 +4459,6 @@ URL: https://spxhomelive.lol/channels/50069.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
-    },
-    {
-        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
-        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "logo": "",
-        "title": "TELEMUNDO FHD",
-        "type": "1"
     }
 ]
 ============================================================
