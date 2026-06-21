@@ -1842,19 +1842,21 @@ URL: https://spxhomelive.lol/events.json
             "RTB SPORTS FHD",
             "FOX SPORTS [ALT]",
             "TSN SPORTS [ALT]",
-            "CAZE TV FHD",
             "D Sports FHD",
-            "TELEMUNDO HD",
+            "CAZE TV FHD",
+            "FUSSBALL TV 4K",
+            "TRT SPORTS 2K",
             "IRIB 4K",
-            "TELEMUNDO [ALT]",
+            "ARABIC LIVE FHD",
+            "TIPIK FR FHD",
+            "TELEMUNDO HD",
+            "PEACOCK FHD [ALT]",
             "TELEMUNDO FHD",
             "Sporza DUTCH FHD",
-            "TIPIK FR FHD",
             "TVP SPORTS FHD",
             "FAST SERVER",
             "beIN MAX FHD",
             "DAZN SPANISH",
-            "FAST SERVER 2",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
             "SporTV BR FHD",
@@ -1863,7 +1865,6 @@ URL: https://spxhomelive.lol/events.json
             "SOMOY TV HD",
             "Somoy TV HD",
             "ORF GERMAN HD",
-            "TRT SPORTS 2K",
             "ARABIC LIVE FHD",
             "FUSSBALL 4K [GER]",
             "FUSSBALL TV FHD",
@@ -1919,11 +1920,31 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "D Sports FHD",
+                "logo": ""
+            },
+            {
                 "title": "CAZE TV FHD",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
-                "title": "D Sports FHD",
+                "title": "FUSSBALL TV 4K",
+                "logo": ""
+            },
+            {
+                "title": "TRT SPORTS 2K",
+                "logo": ""
+            },
+            {
+                "title": "IRIB 4K",
+                "logo": ""
+            },
+            {
+                "title": "ARABIC LIVE FHD",
+                "logo": ""
+            },
+            {
+                "title": "TIPIK FR FHD",
                 "logo": ""
             },
             {
@@ -1931,11 +1952,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "IRIB 4K",
-                "logo": ""
-            },
-            {
-                "title": "TELEMUNDO [ALT]",
+                "title": "PEACOCK FHD [ALT]",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
@@ -1944,10 +1961,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "Sporza DUTCH FHD",
-                "logo": ""
-            },
-            {
-                "title": "TIPIK FR FHD",
                 "logo": ""
             },
             {
@@ -1964,10 +1977,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "DAZN SPANISH",
-                "logo": ""
-            },
-            {
-                "title": "FAST SERVER 2",
                 "logo": ""
             },
             {
@@ -2000,10 +2009,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ORF GERMAN HD",
-                "logo": ""
-            },
-            {
-                "title": "TRT SPORTS 2K",
                 "logo": ""
             },
             {
@@ -5041,6 +5046,13 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
+        "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
+        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|user-agent=Mozila",
+        "logo": "",
+        "title": "D Sports FHD",
+        "type": "1"
+    },
+    {
         "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
         "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd|User-Agent=Mozilla",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
@@ -5048,10 +5060,38 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
-        "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|User-Agent=Mozilla",
+        "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "",
-        "title": "D Sports FHD",
+        "title": "FUSSBALL TV 4K",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+        "logo": "",
+        "title": "TRT SPORTS 2K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "logo": "",
+        "title": "IRIB 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://f4f3343a2711.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.158486161195.channel.bZ9qZZUZ6s3F.m3u8",
+        "logo": "",
+        "title": "ARABIC LIVE FHD",
+        "type": "0"
+    },
+    {
+        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "",
+        "title": "TIPIK FR FHD",
         "type": "1"
     },
     {
@@ -5063,17 +5103,10 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "",
-        "title": "IRIB 4K",
-        "type": "0"
-    },
-    {
-        "api": "0022196d0817dc42c5c1ee64b787b89f:eadba49a8e10d31cc201f554a489e82b",
-        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021172-723030-49115376d56)/master_2hr.mpd?c3.ri=6a348abd_Q1ZYMDc_1_Q09NQ0FTVA_a23ed05f53ea%3A0&aws.sessionId=3be29f54-36d2-4e87-ac96-78f206f76328&ck=eyIwMDIyMTk2ZDA4MTdkYzQyYzVjMWVlNjRiNzg3Yjg5ZiI6ImVhZGJhNDlhOGUxMGQzMWNjMjAxZjU1NGE0ODllODJiIn0%3D",
+        "link": "ok",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO [ALT]",
-        "type": "1"
+        "title": "PEACOCK FHD [ALT]",
+        "type": "0"
     },
     {
         "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
@@ -5087,13 +5120,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
         "logo": "",
         "title": "Sporza DUTCH FHD",
-        "type": "1"
-    },
-    {
-        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "",
-        "title": "TIPIK FR FHD",
         "type": "1"
     },
     {
@@ -5122,13 +5148,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
         "logo": "",
         "title": "DAZN SPANISH",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://storage.googleapis.com/uourhnfgakefr1/mux_video_ts1/index-1.m3u8",
-        "logo": "",
-        "title": "FAST SERVER 2",
         "type": "0"
     },
     {
@@ -5186,13 +5205,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "",
         "title": "ORF GERMAN HD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "logo": "",
-        "title": "TRT SPORTS 2K",
-        "type": "0"
     },
     {
         "api": "",
