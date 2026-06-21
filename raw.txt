@@ -1834,11 +1834,11 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "RTE SPORTS FHD",
+            "CTV SPORTS FHD",
+            "RTB GOLIVE FHD",
             "FOX ONE HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
-            "CIGNAL ENGLISH",
-            "RTB GOLIVE FHD",
             "RTB SPORTS FHD",
             "CAZE TV FHD",
             "D Sports FHD",
@@ -1887,6 +1887,14 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
             {
+                "title": "CTV SPORTS FHD",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png"
+            },
+            {
+                "title": "RTB GOLIVE FHD",
+                "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png"
+            },
+            {
                 "title": "FOX ONE HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
@@ -1897,14 +1905,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX ONE FHD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "CIGNAL ENGLISH",
-                "logo": "https://cignal-web-assets-2.b-cdn.net/images/cignal-play/hero/cignal-play-logo.png"
-            },
-            {
-                "title": "RTB GOLIVE FHD",
-                "logo": ""
             },
             {
                 "title": "RTB SPORTS FHD",
@@ -4985,6 +4985,20 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
+        "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png",
+        "title": "CTV SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
+        "title": "RTB GOLIVE FHD",
+        "type": "0"
+    },
+    {
         "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd|user-agent=Mozila",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -5004,20 +5018,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE FHD",
         "type": "1"
-    },
-    {
-        "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
-        "logo": "https://cignal-web-assets-2.b-cdn.net/images/cignal-play/hero/cignal-play-logo.png",
-        "title": "CIGNAL ENGLISH",
-        "type": "1"
-    },
-    {
-        "api": "0",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "",
-        "title": "RTB GOLIVE FHD",
-        "type": "0"
     },
     {
         "api": "",
