@@ -660,17 +660,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (FUSSBALL TV 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700telemundofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (TELEMUNDO FHD)
+#EXTINF:-1 tvg-id="spainvssaudiarabia1700telemundofhd" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (TELEMUNDO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
 https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
 
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700vixmundiales" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (ViX MUNDIAL ES)
+#EXTINF:-1 tvg-id="spainvssaudiarabia1700vixmundiales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (ViX MUNDIAL ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+
+#EXTINF:-1 tvg-id="spainvssaudiarabia1700canal5spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (CANAL5 SPAIN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
@@ -695,19 +695,10 @@ https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e0
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
 
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700canal5spanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (CANAL5 SPANISH)
+#EXTINF:-1 tvg-id="spainvssaudiarabia1700fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700foxone4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (FOX ONE 4K)
-https://34366344.ccjdgvtt.pages.dev/1782065774/34da013755d54146931d26b6e6602a20/OqTjQVfeolPEHkvnCqwZy-oxuDoNuHoa6jttkO7bTIU/fox4k-usa.m3u8
-
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700nowsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (NOW SPORTS 4K)
-https://34366344.ccjdgvtt.pages.dev/1782065888/07e61298929a4a1996c28c6e6ec9db28/xIQlTNoesfMFa--jyQDvZzKrRTGJ39Eqjgduv1hsHNU/now-4k-hk.m3u8
-
-#EXTINF:-1 tvg-id="spainvssaudiarabia1700bbciplayer4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (BBC IPLAYER 4K)
-https://34366344.ccjdgvtt.pages.dev/1782066058/18189829851e442fb16db0b85eaa173f/Ymiz3Yco7K213T0BRws1UZyd-zEONqwdjj2kb8mVJTc/bbc-4k.m3u8
+#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
 #EXTINF:-1 tvg-id="spainvssaudiarabia1700trtsports2k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Spain vs Saudi Arabia 17:00 (TRT SPORTS 2K)
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
