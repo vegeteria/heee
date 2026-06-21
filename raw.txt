@@ -2099,10 +2099,10 @@ URL: https://spxhomelive.lol/events.json
             "TSN Sports FHD",
             "TELEMUNDO FHD",
             "RTB SPORTS FHD",
+            "ViX MUNDIAL ES",
             "SportzX FHD LIVE",
-            "ELTA SPORTS FHD",
-            "FOX 4K [ALT]",
-            "FOX ONE 4K",
+            "FOX SPORTS [ALT]",
+            "TSN SPORTS [ALT]",
             "RTB SPORTS FHD",
             "M6 FRANCE FHD",
             "TSN SPORTS 4K",
@@ -2174,19 +2174,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "ViX MUNDIAL ES",
+                "logo": ""
+            },
+            {
                 "title": "SportzX FHD LIVE",
                 "logo": ""
             },
             {
-                "title": "ELTA SPORTS FHD",
+                "title": "FOX SPORTS [ALT]",
                 "logo": ""
             },
             {
-                "title": "FOX 4K [ALT]",
-                "logo": ""
-            },
-            {
-                "title": "FOX ONE 4K",
+                "title": "TSN SPORTS [ALT]",
                 "logo": ""
             },
             {
@@ -5132,6 +5132,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "0"
     },
     {
+        "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
+        "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+        "logo": "",
+        "title": "ViX MUNDIAL ES",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://soccerball.st/s1.php",
         "logo": "",
@@ -5139,24 +5146,17 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/1n1mskjnsk/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "",
-        "title": "ELTA SPORTS FHD",
-        "type": "0"
-    },
-    {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "",
-        "title": "FOX 4K [ALT]",
+        "title": "FOX SPORTS [ALT]",
         "type": "1"
     },
     {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "",
-        "title": "FOX ONE 4K",
+        "title": "TSN SPORTS [ALT]",
         "type": "1"
     },
     {
