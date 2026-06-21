@@ -4,7 +4,7 @@ while true; do
     echo "Starting execution at $(date)"
     
     # 1. Run your Python script
-    python3 main.py
+    python3 file.py
     
     # 2. Stage changes, commit, and push
     git add .
