@@ -1412,6 +1412,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "FUSSBALL TV 4K",
             "TELEMUNDO FHD",
+            "SportzX FHD LIVE",
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
             "D Sports FHD",
@@ -1481,6 +1482,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
+                "title": "SportzX FHD LIVE",
                 "logo": ""
             },
             {
@@ -4143,6 +4148,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "",
+        "title": "SportzX FHD LIVE",
+        "type": "0"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -4249,7 +4261,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSQ9UjSJtgE.m3u8?txSecret=bb8aece6340b50ea97e4ac53431d3c7c&txTime=6A348F68",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJVAAtvt3K4.m3u8?txSecret=ad9d2c8188a8eb1b1a912df175fac11c&txTime=6A382E20",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -4277,7 +4289,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52205/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52320/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
