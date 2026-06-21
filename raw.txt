@@ -1422,6 +1422,7 @@ URL: https://spxhomelive.lol/events.json
             "Sporza DUTCH FHD",
             "CT SPORTS CZ",
             "MATCH TV RU",
+            "JOJ SPORTS FHD",
             "IRIB 4K",
             "FAST SERVER",
             "PEACOCK FHD [ALT]",
@@ -1437,14 +1438,13 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS",
             "SOMOY TV HD",
             "beIN MAX HD",
-            "TRT SPORTS 2K",
             "FUSSBALL 4K [GER]",
-            "FUSSBALL TV FHD",
+            "FUSSBALL TV [GER]",
             "TELEMUNDO [USA]",
-            "JOJ SPORTS FHD",
-            "ARABIC LIVE FHD",
-            "Match Football HD",
             "SportzX Live",
+            "HD SERVER ENG",
+            "HD SERVER EN 2",
+            "HD SERVER AR",
             "HD SERVER ENG",
             "HD SERVER AR",
             "FUSSBALL 4K 1",
@@ -1527,6 +1527,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "JOJ SPORTS FHD",
+                "logo": ""
+            },
+            {
                 "title": "IRIB 4K",
                 "logo": ""
             },
@@ -1587,15 +1591,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TRT SPORTS 2K",
-                "logo": ""
-            },
-            {
                 "title": "FUSSBALL 4K [GER]",
                 "logo": ""
             },
             {
-                "title": "FUSSBALL TV FHD",
+                "title": "FUSSBALL TV [GER]",
                 "logo": ""
             },
             {
@@ -1603,19 +1603,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "JOJ SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "ARABIC LIVE FHD",
-                "logo": ""
-            },
-            {
-                "title": "Match Football HD",
-                "logo": ""
-            },
-            {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER ENG",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER EN 2",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER AR",
                 "logo": ""
             },
             {
@@ -4271,6 +4271,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "logo": "",
+        "title": "JOJ SPORTS FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "",
@@ -4376,13 +4383,6 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "logo": "",
-        "title": "TRT SPORTS 2K",
-        "type": "0"
-    },
-    {
         "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
         "logo": "",
@@ -4393,7 +4393,7 @@ URL: https://spxhomelive.lol/channels/50069.json
         "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
         "logo": "",
-        "title": "FUSSBALL TV FHD",
+        "title": "FUSSBALL TV [GER]",
         "type": "1"
     },
     {
@@ -4404,31 +4404,31 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "",
-        "title": "JOJ SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://prod-fastly-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/V9qae4xD6q-6gTXud5iteRIq_qPyqMARkOeFavBm35PWyxTKuEp-OTgiTVWmpNq5dlL_cto72mEPZ6T1i1GSlA/transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDYwXzEwIiwiSGVpZ2h0IjoxMDgwLCJIaWdoRnJhbWVSYXRlIjp0cnVlLCJLYnBzIjo4MDAwLCJXaWR0aCI6MTkyMH0.OBq8EsoF4c8ydlmfZFxJzACPHYFjmjUaSER2wvsfHso/dynamic_eventplaylist.m3u8?type=event",
-        "logo": "",
-        "title": "ARABIC LIVE FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
-        "logo": "",
-        "title": "Match Football HD",
-        "type": "0"
-    },
-    {
         "api": "",
         "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER ENG",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER EN 2",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER AR",
         "type": "0"
     },
     {
