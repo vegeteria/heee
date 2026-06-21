@@ -1426,6 +1426,7 @@ URL: https://spxhomelive.lol/events.json
             "MATCH TV RU",
             "JOJ SPORTS FHD",
             "IRIB 4K",
+            "M6 FRANCE SD",
             "FAST SERVER",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
@@ -1464,7 +1465,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "RTB GOLIVE FHD",
-                "logo": ""
+                "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png"
             },
             {
                 "title": "FOX ONE FHD",
@@ -1536,6 +1537,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "IRIB 4K",
+                "logo": ""
+            },
+            {
+                "title": "M6 FRANCE SD",
                 "logo": ""
             },
             {
@@ -2470,49 +2475,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ARABIC LIVE",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50073,
-        "title": "West Indies W vs Sri Lanka W",
-        "image": "o",
-        "cat": "Cricket",
-        "eventInfo": {
-            "teamA": "WI-W",
-            "teamB": "SL-W",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-            "eventName": "West Indies W vs Sri Lanka W",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/21 09:30:00 +0000",
-            "endTime": "2026/06/21 13:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "WILLOW FHD",
-            "Willow HD",
-            "WILLOW ALT",
-            "SKY SPORTS"
-        ],
-        "formatsNew": [
-            {
-                "title": "WILLOW FHD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "Willow HD",
-                "logo": ""
-            },
-            {
-                "title": "WILLOW ALT",
-                "logo": ""
-            },
-            {
-                "title": "SKY SPORTS",
                 "logo": ""
             }
         ]
@@ -4148,7 +4110,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     {
         "api": "",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "",
+        "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
         "title": "RTB GOLIVE FHD",
         "type": "0"
     },
@@ -4210,7 +4172,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "logo": "",
         "title": "CANAL5 SPANISH",
         "type": "1"
@@ -4277,6 +4239,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "logo": "",
         "title": "IRIB 4K",
         "type": "0"
+    },
+    {
+        "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "logo": "",
+        "title": "M6 FRANCE SD",
+        "type": "1"
     },
     {
         "api": "",
@@ -5540,40 +5509,6 @@ URL: https://spxhomelive.lol/channels/50072.json
         "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2q-RmKdqTT3qCt95K5I376oFz6-1Q9RAT6Wsr299oTxsC6EQJm2kVJlFTzLQsCpbelIrnEvJcr95aP17xmBjHQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "",
         "title": "ARABIC LIVE",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50073.json
-============================================================
-[
-    {
-        "api": "3c5748ca4057e0164af63c902f7179a9:57226e66db80823fedc53e3aa7bc7c59",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
-        "type": "1"
-    },
-    {
-        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "logo": "",
-        "title": "Willow HD",
-        "type": "1"
-    },
-    {
-        "api": "3c5748ca4057e0164af63c902f7179a9:57226e66db80823fedc53e3aa7bc7c59",
-        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd",
-        "logo": "",
-        "title": "WILLOW ALT",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://tmaxapp.site/skynz3.m3u8",
-        "logo": "",
-        "title": "SKY SPORTS",
         "type": "0"
     }
 ]
