@@ -1833,11 +1833,11 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "RTE SPORTS FHD",
             "FOX ONE HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
             "CIGNAL ENGLISH",
-            "RTE SPORTS FHD",
             "RTB GOLIVE FHD",
             "RTB SPORTS FHD",
             "CAZE TV FHD",
@@ -1883,6 +1883,10 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
+                "title": "RTE SPORTS FHD",
+                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
+            },
+            {
                 "title": "FOX ONE HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
@@ -1897,10 +1901,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CIGNAL ENGLISH",
                 "logo": "https://cignal-web-assets-2.b-cdn.net/images/cignal-play/hero/cignal-play-logo.png"
-            },
-            {
-                "title": "RTE SPORTS FHD",
-                "logo": ""
             },
             {
                 "title": "RTB GOLIVE FHD",
@@ -2795,9 +2795,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX MLB"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX MLB",
                 "logo": ""
@@ -4973,6 +4978,13 @@ URL: https://spxhomelive.lol/channels/50070.json
 ============================================================
 [
     {
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
+        "title": "RTE SPORTS FHD",
+        "type": "1"
+    },
+    {
         "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd|user-agent=Mozila",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -4998,13 +5010,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
         "logo": "https://cignal-web-assets-2.b-cdn.net/images/cignal-play/hero/cignal-play-logo.png",
         "title": "CIGNAL ENGLISH",
-        "type": "1"
-    },
-    {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
-        "logo": "",
-        "title": "RTE SPORTS FHD",
         "type": "1"
     },
     {
@@ -6134,6 +6139,13 @@ URL: https://spxhomelive.lol/channels/50076.json
 URL: https://spxhomelive.lol/channels/50077.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52329/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
