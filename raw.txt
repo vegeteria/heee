@@ -1410,10 +1410,11 @@ URL: https://spxhomelive.lol/events.json
             "RTB GOLIVE FHD",
             "FOX ONE FHD",
             "TSN SPORTS FHD",
+            "FUSSBALL TV 4K",
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
             "D Sports FHD",
-            "CAZE TV FHD",
+            "TRT SPORTS 2K",
             "TELEMUNDO HD",
             "IRIB 4K",
             "Sporza DUTCH FHD",
@@ -1453,8 +1454,7 @@ URL: https://spxhomelive.lol/events.json
             "beiN SPORTS FR",
             "ESPANOL SD",
             "ARABIC LIVE",
-            "ARABIC LIVE 2",
-            "ARABIC HD"
+            "ARABIC LIVE 2"
         ],
         "formatsNew": [
             {
@@ -1478,6 +1478,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
+                "title": "FUSSBALL TV 4K",
+                "logo": ""
+            },
+            {
                 "title": "TSN SPORTS [ALT]",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
@@ -1490,8 +1494,8 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "CAZE TV FHD",
-                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+                "title": "TRT SPORTS 2K",
+                "logo": ""
             },
             {
                 "title": "TELEMUNDO HD",
@@ -1651,10 +1655,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ARABIC LIVE 2",
-                "logo": ""
-            },
-            {
-                "title": "ARABIC HD",
                 "logo": ""
             }
         ]
@@ -4182,6 +4182,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL TV 4K",
+        "type": "1"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -4196,18 +4203,18 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
-        "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|User-Agent=Mozilla",
+        "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
+        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|user-agent=Mozila",
         "logo": "",
         "title": "D Sports FHD",
         "type": "1"
     },
     {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|User-Agent=Mozilla",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-        "title": "CAZE TV FHD",
-        "type": "1"
+        "api": "",
+        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "logo": "",
+        "title": "TRT SPORTS 2K",
+        "type": "0"
     },
     {
         "api": "",
@@ -4487,13 +4494,6 @@ URL: https://spxhomelive.lol/channels/50069.json
         "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/j03LMPQ_jtwJNe8sMjk6Af-BXWxgbQe4ePUWUlbUoeJfKApZ5Zp3Are9a7YKE05qvQk-4S6n97hf7BCN1lXStg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "",
         "title": "ARABIC LIVE 2",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://8cup.s3.us-east-2.amazonaws.com/max1/master.m3u8",
-        "logo": "",
-        "title": "ARABIC HD",
         "type": "0"
     }
 ]
