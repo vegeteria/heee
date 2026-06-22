@@ -1664,7 +1664,7 @@
     {
         "name": "Norway vs Senegal (TELEMUNDO FHD)",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1848,6 +1848,15 @@
         "cookie": ""
     },
     {
+        "name": "Norway vs Senegal (ISCREEN BD FHD)",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://iscreen.com.bd/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Norway vs Senegal (PEACOCK FHD [ALT])",
         "link": "ok",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -1922,17 +1931,6 @@
         "cookie": ""
     },
     {
-        "name": "Norway vs Senegal (JOJ SPORTS FHD)",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
         "name": "Norway vs Senegal (TSN SPORTS)",
         "link": "https://soccerball.st/s1.php",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -1973,7 +1971,7 @@
         "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
     },
     {
-        "name": "Norway vs Senegal (TELEMUNDO FHD)",
+        "name": "Norway vs Senegal (TELEMUNDO [USA])",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
@@ -2012,7 +2010,7 @@
     },
     {
         "name": "Norway vs Senegal (SD SERVER [ENG])",
-        "link": "http://193.47.62.51/hls/dXFPPPA.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2021,7 +2019,7 @@
     },
     {
         "name": "Norway vs Senegal (ENG SD SERVER)",
-        "link": "http://193.47.62.41/hls/dXVVVV.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2030,7 +2028,7 @@
     },
     {
         "name": "Norway vs Senegal (SD SERVER [SWE])",
-        "link": "http://193.47.62.51/hls/dXFPPP.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2039,7 +2037,7 @@
     },
     {
         "name": "Norway vs Senegal (beiN SPORTS FR)",
-        "link": "http://193.47.62.59/hls/dXZRRRZ.m3u8?",
+        "link": "?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2048,7 +2046,7 @@
     },
     {
         "name": "Norway vs Senegal (ESPANOL SD)",
-        "link": "http://193.47.62.59/hls/dXZRRR.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -4519,6 +4517,15 @@
         "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+        "name": "Detroit Tigers vs Yankees (SportzX MLB)",
+        "link": "https://chatgpt.hereisman.net/playlist/52371/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Detroit Tigers vs Yankees (SportzX Live)",
         "link": "https://edge2caster.pro/hls/dazhfiach15.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -4528,11 +4535,29 @@
         "cookie": ""
     },
     {
+        "name": "Marlins vs Texas Rangers (SportzX MLB)",
+        "link": "https://chatgpt.hereisman.net/playlist/52374/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Marlins vs Texas Rangers (SportzX Live)",
         "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Rays vs Royals (SportzX MLB)",
+        "link": "https://chatgpt.hereisman.net/playlist/52372/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
