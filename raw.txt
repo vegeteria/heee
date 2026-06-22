@@ -4293,7 +4293,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
         "logo": "",
         "title": "ISCREEN BD FHD",
         "type": "0"
