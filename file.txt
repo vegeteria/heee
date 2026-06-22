@@ -140,6 +140,11 @@ http://193.47.62.41/hls/EEEEDDD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd
 
+#EXTINF:-1 tvg-id="argentinavsaustria1800fifawcfeed" tvg-logo="https://iili.io/CziyHTQ.png" group-title="Fifa world cup",Argentina vs Austria 18:00 (FIFA WC FEED)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+https://sh-bks400-11.starhubgo.com/bpk-token/1aa@io0tjez2jpgrepyrzfonfuhtikst4mcji0yijuba/bpk-tv/FIFAWCCh1/output/manifest.mpd
+
 #EXTINF:-1 tvg-id="argentinavsaustria1800rtbgolivefhd" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" group-title="Fifa world cup",Argentina vs Austria 18:00 (RTB GOLIVE FHD)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 

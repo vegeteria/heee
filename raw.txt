@@ -738,6 +738,7 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "RTE SPORTS FHD",
+            "FIFA WC FEED",
             "RTB GOLIVE FHD",
             "FOX ONE FHD",
             "TSN SPORTS FHD",
@@ -755,6 +756,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE 4K [ALT]",
             "FUSSBALL TV 4K",
             "FOX SPORTS 4K",
+            "TSN SPORTS 4K",
             "IRIB 4K",
             "TRT SPORTS 2K",
             "ARABIC LIVE FHD",
@@ -792,6 +794,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "RTE SPORTS FHD",
                 "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
+            },
+            {
+                "title": "FIFA WC FEED",
+                "logo": "https://iili.io/CziyHTQ.png"
             },
             {
                 "title": "RTB GOLIVE FHD",
@@ -859,6 +865,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -3522,6 +3532,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
+        "api": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
+        "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1aa@io0tjez2jpgrepyrzfonfuhtikst4mcji0yijuba/bpk-tv/FIFAWCCh1/output/manifest.mpd",
+        "logo": "https://iili.io/CziyHTQ.png",
+        "title": "FIFA WC FEED",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
@@ -3638,6 +3655,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "https://vizio.kuvuslov.cymru/fs1-4k/tracks-v1a1/mono.m3u8?|User-Agent=Mozilla",
         "logo": "",
         "title": "FOX SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vizio.kuvuslov.cymru/tsn4k/tracks-v1a1/mono.m3u8?|User-Agent=Mozilla",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
         "type": "0"
     },
     {
