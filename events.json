@@ -1064,6 +1064,15 @@
         "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
     },
     {
+        "name": "France vs Iraq (TSN SPORTS HD)",
+        "link": "https://storage.googleapis.com/poiuytyrnvggdover2/mux_video_ts1/index-1.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "France vs Iraq (RTB GOLIVE FHD)",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
@@ -1071,17 +1080,6 @@
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "France vs Iraq (FOX ONE FHD)",
-        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
         "name": "France vs Iraq (TSN SPORTS FHD)",
@@ -1093,6 +1091,17 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "France vs Iraq (FOX ONE FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
         "name": "France vs Iraq (TELEMUNDO FHD)",
