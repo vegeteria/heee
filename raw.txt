@@ -267,34 +267,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50053,
-        "title": "Philadelphia Phillies",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Phillies",
-            "teamB": "Mets",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-            "eventName": "Philadelphia Phillies vs New York Mets",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/21 23:20:00 +0000",
-            "endTime": "2026/06/22 02:20:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50059,
         "title": "Australia W vs Pakistan W",
         "image": "o",
@@ -3213,19 +3185,6 @@ URL: https://spxhomelive.lol/channels/50011.json
         "logo": "",
         "title": "USA TV",
         "type": "1"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50053.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
     }
 ]
 ============================================================
