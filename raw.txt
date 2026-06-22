@@ -1343,15 +1343,15 @@ URL: https://spxhomelive.lol/events.json
             "RTB GOLIVE FHD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
+            "D Sports FHD",
             "TELEMUNDO FHD",
+            "RTB SPORTS FHD",
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
-            "RTB SPORTS FHD",
             "TELEMUNDO HD",
             "FOX ONE 4K",
             "FOX 4K [ALT]",
             "CAZE TV FHD",
-            "D Sports FHD",
             "TIPIK FR FHD",
             "TVP POLISH FHD",
             "CT SPORTS CZ",
@@ -1406,7 +1406,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
+                "title": "D Sports FHD",
+                "logo": ""
+            },
+            {
                 "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
+                "title": "RTB SPORTS FHD",
                 "logo": ""
             },
             {
@@ -1415,10 +1423,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX ONE FHD [ALT]",
-                "logo": ""
-            },
-            {
-                "title": "RTB SPORTS FHD",
                 "logo": ""
             },
             {
@@ -1436,10 +1440,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CAZE TV FHD",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-            },
-            {
-                "title": "D Sports FHD",
-                "logo": ""
             },
             {
                 "title": "TIPIK FR FHD",
@@ -4424,11 +4424,25 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
+        "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|user-agent=Mozila",
+        "logo": "",
+        "title": "D Sports FHD",
+        "type": "1"
+    },
+    {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "",
         "title": "TELEMUNDO FHD",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "logo": "",
+        "title": "RTB SPORTS FHD",
+        "type": "0"
     },
     {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
@@ -4443,13 +4457,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "logo": "",
         "title": "FOX ONE FHD [ALT]",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
-        "logo": "",
-        "title": "RTB SPORTS FHD",
-        "type": "0"
     },
     {
         "api": "",
@@ -4477,13 +4484,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "CAZE TV FHD",
-        "type": "1"
-    },
-    {
-        "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-        "logo": "",
-        "title": "D Sports FHD",
         "type": "1"
     },
     {
