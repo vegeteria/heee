@@ -742,8 +742,9 @@ URL: https://spxhomelive.lol/events.json
             "RTB GOLIVE FHD",
             "FOX ONE FHD",
             "TSN SPORTS FHD",
-            "TELEMUNDO FHD",
             "TVE La1 SPANISH",
+            "ViX MUNDIAL ES",
+            "TELEMUNDO FHD",
             "RTB SPORTS FHD",
             "FOX SPORTS - AQ",
             "SportzX FHD LIVE",
@@ -812,11 +813,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "TELEMUNDO FHD",
+                "title": "TVE La1 SPANISH",
                 "logo": ""
             },
             {
-                "title": "TVE La1 SPANISH",
+                "title": "ViX MUNDIAL ES",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
@@ -3560,17 +3565,24 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
-        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
-        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "logo": "",
-        "title": "TELEMUNDO FHD",
-        "type": "1"
-    },
-    {
         "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
         "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
         "logo": "",
         "title": "TVE La1 SPANISH",
+        "type": "1"
+    },
+    {
+        "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
+        "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+        "logo": "",
+        "title": "ViX MUNDIAL ES",
+        "type": "1"
+    },
+    {
+        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
         "type": "1"
     },
     {
@@ -3743,7 +3755,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8dhEcC5mRx.m3u8?txSecret=d9a8ef2fd28312c70992ad6699ad695b&txTime=6A398CC0",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -3764,14 +3776,14 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52249/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52364/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "BBC SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52222/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52365/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
