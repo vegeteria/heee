@@ -740,6 +740,9 @@ URL: https://spxhomelive.lol/events.json
             "RTB GOLIVE FHD",
             "FOX SPORTS HD",
             "TOFFEE BD FHD",
+            "Toffee SD",
+            "Toffee HD 2",
+            "Toffee Low",
             "ISCREEN BD FHD",
             "ARABIC LIVE HD",
             "ARABIC LIVE FHD",
@@ -805,6 +808,18 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TOFFEE BD FHD",
+                "logo": ""
+            },
+            {
+                "title": "Toffee SD",
+                "logo": ""
+            },
+            {
+                "title": "Toffee HD 2",
+                "logo": ""
+            },
+            {
+                "title": "Toffee Low",
                 "logo": ""
             },
             {
@@ -3563,6 +3578,27 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG",
         "logo": "",
         "title": "TOFFEE BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/3/master_1000.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG",
+        "logo": "",
+        "title": "Toffee SD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/1/master_1800.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG",
+        "logo": "",
+        "title": "Toffee HD 2",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/4/master_600.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG",
+        "logo": "",
+        "title": "Toffee Low",
         "type": "0"
     },
     {
