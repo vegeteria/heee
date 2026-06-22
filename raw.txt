@@ -730,7 +730,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4718/image",
             "eventName": "Argentina vs Austria",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/22 17:00:00 +0000",
             "endTime": "2026/06/22 19:15:00 +0000"
         },
@@ -754,6 +754,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE 4K",
             "FOX ONE 4K [ALT]",
             "FUSSBALL TV 4K",
+            "FOX SPORTS 4K",
             "IRIB 4K",
             "TRT SPORTS 2K",
             "ARABIC LIVE FHD",
@@ -854,6 +855,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FUSSBALL TV 4K",
+                "logo": ""
+            },
+            {
+                "title": "FOX SPORTS 4K",
                 "logo": ""
             },
             {
@@ -3627,6 +3632,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "logo": "",
         "title": "FUSSBALL TV 4K",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://vizio.kuvuslov.cymru/fs1-4k/tracks-v1a1/mono.m3u8?|User-Agent=Mozilla",
+        "logo": "",
+        "title": "FOX SPORTS 4K",
+        "type": "0"
     },
     {
         "api": "",
