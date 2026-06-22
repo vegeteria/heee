@@ -341,12 +341,12 @@ URL: https://spxhomelive.lol/events.json
             "RTB GOLIVE FHD",
             "FOX ONE FHD",
             "TSN SPORTS FHD",
+            "TELEMUNDO FHD",
+            "RTB SPORTS FHD",
+            "SportzX FHD LIVE",
             "TSN SPORTS [ALT]",
-            "FOX SPORTS FHD",
-            "FOX SPORTS FHD [ALT]",
+            "FOX ONE FHD [ALT]",
             "CAZE TV FHD",
-            "RTE SPORTS FHD",
-            "FOX ONE 4K",
             "FOX ONE 4K [ALT]",
             "RTB SPORTS FHD",
             "TSN SPORTS 4K",
@@ -411,28 +411,28 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
+                "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
+                "title": "RTB SPORTS FHD",
+                "logo": ""
+            },
+            {
+                "title": "SportzX FHD LIVE",
+                "logo": ""
+            },
+            {
                 "title": "TSN SPORTS [ALT]",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "FOX SPORTS FHD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "FOX SPORTS FHD [ALT]",
+                "title": "FOX ONE FHD [ALT]",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "CAZE TV FHD",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-            },
-            {
-                "title": "RTE SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "FOX ONE 4K",
-                "logo": ""
             },
             {
                 "title": "FOX ONE 4K [ALT]",
@@ -2747,6 +2747,27 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
+        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "logo": "",
+        "title": "RTB SPORTS FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "",
+        "title": "SportzX FHD LIVE",
+        "type": "0"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -2755,16 +2776,9 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS FHD [ALT]",
+        "title": "FOX ONE FHD [ALT]",
         "type": "1"
     },
     {
@@ -2772,20 +2786,6 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd|user-agent=Mozila",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "CAZE TV FHD",
-        "type": "1"
-    },
-    {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
-        "logo": "",
-        "title": "RTE SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "",
-        "title": "FOX ONE 4K",
         "type": "1"
     },
     {
