@@ -3648,7 +3648,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/7ruw77zpm1/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/7ruw77zpm1/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "",
         "title": "FOX ONE 4K",
         "type": "1"
@@ -3766,11 +3766,11 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00229eeec940676084c8deba0952d6a4:e6c33533db056c7314a16ed48f23f359",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021282-723140-4911bc5e544)/master_2hr.mpd?c3.ri=6a395a34_Q1ZYMDc_0_RkFTVExZ_3b7b9911a44a%3A0&aws.sessionId=4333f5b4-f189-4271-97ca-42ff2537d83c&ck=eyIwMDIyOWVlZWM5NDA2NzYwODRjOGRlYmEwOTUyZDZhNCI6ImU2YzMzNTMzZGIwNTZjNzMxNGExNmVkNDhmMjNmMzU5In0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "",
