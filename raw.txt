@@ -1085,8 +1085,9 @@ URL: https://spxhomelive.lol/events.json
             "FAST SERVER",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
-            "ITV SPORTS HD",
+            "BBC SPORTS HD",
             "FOX SPORTS HD",
+            "TSN SPORTS HD",
             "ISCREEN BD FHD",
             "TOFFEE BD FHD",
             "Unite8 HIN [IN]",
@@ -1230,12 +1231,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "ITV SPORTS HD",
+                "title": "BBC SPORTS HD",
                 "logo": ""
             },
             {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "TSN SPORTS HD",
+                "logo": ""
             },
             {
                 "title": "ISCREEN BD FHD",
@@ -4126,7 +4131,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/-6XnHVtNdXM2i_QJuHqWsodeVGp5yxyrNf7Z9bOicgngVsSXZGj0FtJHMC17cOdI6kXZuf39ikFYUfzD9UURfg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
@@ -4245,16 +4250,23 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52257/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52368/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "ITV SPORTS HD",
+        "title": "BBC SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52256/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52367/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52369/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
@@ -4294,7 +4306,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Xk8UdmbKoXAS8H2a9mDKB5lhGsHbPZO1VwUdJwXK8cjxatanfZswP9vO1wrla7xXdH3RItgN2Zb_WdECHPMQEw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"

@@ -1178,7 +1178,7 @@
     },
     {
         "name": "France vs Iraq (ARABIC LIVE FHD)",
-        "link": "ok",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/-6XnHVtNdXM2i_QJuHqWsodeVGp5yxyrNf7Z9bOicgngVsSXZGj0FtJHMC17cOdI6kXZuf39ikFYUfzD9UURfg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1354,8 +1354,8 @@
         "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
     },
     {
-        "name": "France vs Iraq (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52257/load-playlist?",
+        "name": "France vs Iraq (BBC SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52368/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -1364,8 +1364,17 @@
     },
     {
         "name": "France vs Iraq (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52256/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52367/load-playlist?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "France vs Iraq (TSN SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52369/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1422,7 +1431,7 @@
     },
     {
         "name": "France vs Iraq (ARABIC LIVE HD)",
-        "link": "ok",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Xk8UdmbKoXAS8H2a9mDKB5lhGsHbPZO1VwUdJwXK8cjxatanfZswP9vO1wrla7xXdH3RItgN2Zb_WdECHPMQEw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
