@@ -1378,15 +1378,15 @@ URL: https://spxhomelive.lol/events.json
             "IRIB 4K",
             "TIPIK FR FHD",
             "TVP POLISH FHD",
-            "Sporza DUTCH SD",
-            "MATCH TV RU",
+            "Sporza DUTCH",
+            "Match Football FHD",
+            "FAST SERVER",
+            "TOFFEE BD FHD",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
-            "FAST SERVER",
             "ITV SPORTS UK",
             "TSN SPORTS HD",
             "ARABIC LIVE",
-            "TOFFEE BD FHD",
             "DAZN SPANISH",
             "TYC SPORTS HD",
             "beIN MAX HD",
@@ -1489,11 +1489,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "Sporza DUTCH SD",
+                "title": "Sporza DUTCH",
                 "logo": ""
             },
             {
-                "title": "MATCH TV RU",
+                "title": "Match Football FHD",
+                "logo": ""
+            },
+            {
+                "title": "FAST SERVER",
+                "logo": ""
+            },
+            {
+                "title": "TOFFEE BD FHD",
                 "logo": ""
             },
             {
@@ -1505,10 +1513,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "FAST SERVER",
-                "logo": ""
-            },
-            {
                 "title": "ITV SPORTS UK",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
@@ -1518,10 +1522,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ARABIC LIVE",
-                "logo": ""
-            },
-            {
-                "title": "TOFFEE BD FHD",
                 "logo": ""
             },
             {
@@ -4055,7 +4055,7 @@ URL: https://spxhomelive.lol/channels/50064.json
 [
     {
         "api": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
-        "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1ac@gocua004jqci1kc2ikrqfeibufrtafqwgkg41vca/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query",
+        "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1ac@gocua004jqci1kc2ikrqfeibufrtafqwgkg41vca/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query|user-agent=Mozila",
         "logo": "https://iili.io/CziyHTQ.png",
         "title": "FIFA WC FEED",
         "type": "1"
@@ -4293,7 +4293,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
+        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
         "logo": "",
         "title": "ISCREEN BD FHD",
         "type": "0"
@@ -4595,28 +4595,14 @@ URL: https://spxhomelive.lol/channels/50065.json
         "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
         "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
         "logo": "",
-        "title": "Sporza DUTCH SD",
+        "title": "Sporza DUTCH",
         "type": "1"
     },
     {
         "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "",
-        "title": "MATCH TV RU",
-        "type": "1"
-    },
-    {
-        "api": "0022f6951953486c608a2d2e82c3264e:5ed7b1b4736fc881ec6ec923f7348926",
-        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021392-723250-49122545d32)/master_2hr.mpd?c3.ri=6a36bda9_Q1ZYMDc_1_Q09NQ0FTVA_0b82d59c0340%3A0&aws.sessionId=c52fe347-9327-4c16-963b-b1a30421584f&ck=eyIwMDIyZjY5NTE5NTM0ODZjNjA4YTJkMmU4MmMzMjY0ZSI6IjVlZDdiMWI0NzM2ZmM4ODFlYzZlYzkyM2Y3MzQ4OTI2In0%3D",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "PEACOCK FHD [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO [ALT]",
+        "title": "Match Football FHD",
         "type": "1"
     },
     {
@@ -4625,6 +4611,27 @@ URL: https://spxhomelive.lol/channels/50065.json
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
+    },
+    {
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "TOFFEE BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "ok",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "title": "PEACOCK FHD [ALT]",
+        "type": "0"
+    },
+    {
+        "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "title": "TELEMUNDO [ALT]",
+        "type": "1"
     },
     {
         "api": "",
@@ -4642,16 +4649,9 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "link": "ok",
         "logo": "",
         "title": "ARABIC LIVE",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782060015~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9iUidklx7a2nS9ESuSegj2Ok2--flS2yoNWJUwZEmnSXpWfNA7imhYPXArPhOvj1aTb-8H_fu2PBOuAVpZhAYM",
-        "logo": "",
-        "title": "TOFFEE BD FHD",
         "type": "0"
     },
     {

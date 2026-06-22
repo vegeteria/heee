@@ -1047,7 +1047,7 @@
         "logo": "https://iili.io/CziyHTQ.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "userAgent": "Mozila",
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413"
@@ -1391,10 +1391,10 @@
     },
     {
         "name": "France vs Iraq (ISCREEN BD FHD)",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
+        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://iscreen.com.bd/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1808,7 +1808,7 @@
         "drmLicense": "0:0"
     },
     {
-        "name": "Norway vs Senegal (Sporza DUTCH SD)",
+        "name": "Norway vs Senegal (Sporza DUTCH)",
         "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1819,7 +1819,7 @@
         "drmLicense": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460"
     },
     {
-        "name": "Norway vs Senegal (MATCH TV RU)",
+        "name": "Norway vs Senegal (Match Football FHD)",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1830,15 +1830,31 @@
         "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
     },
     {
+        "name": "Norway vs Senegal (FAST SERVER)",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgnvmN2iVDfk.m3u8?txSecret=788aff98d4d43e7ae7c7fd7c6a87d75c&txTime=6A36EDF8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Norway vs Senegal (TOFFEE BD FHD)",
+        "link": "ok",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Norway vs Senegal (PEACOCK FHD [ALT])",
-        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021392-723250-49122545d32)/master_2hr.mpd?c3.ri=6a36bda9_Q1ZYMDc_1_Q09NQ0FTVA_0b82d59c0340%3A0&aws.sessionId=c52fe347-9327-4c16-963b-b1a30421584f&ck=eyIwMDIyZjY5NTE5NTM0ODZjNjA4YTJkMmU4MmMzMjY0ZSI6IjVlZDdiMWI0NzM2ZmM4ODFlYzZlYzkyM2Y3MzQ4OTI2In0%3D",
+        "link": "ok",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0022f6951953486c608a2d2e82c3264e:5ed7b1b4736fc881ec6ec923f7348926"
+        "cookie": ""
     },
     {
         "name": "Norway vs Senegal (TELEMUNDO [ALT])",
@@ -1850,15 +1866,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-    },
-    {
-        "name": "Norway vs Senegal (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgnvmN2iVDfk.m3u8?txSecret=788aff98d4d43e7ae7c7fd7c6a87d75c&txTime=6A36EDF8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "Norway vs Senegal (ITV SPORTS UK)",
@@ -1880,16 +1887,7 @@
     },
     {
         "name": "Norway vs Senegal (ARABIC LIVE)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Norway vs Senegal (TOFFEE BD FHD)",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782060015~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9iUidklx7a2nS9ESuSegj2Ok2--flS2yoNWJUwZEmnSXpWfNA7imhYPXArPhOvj1aTb-8H_fu2PBOuAVpZhAYM",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
