@@ -752,6 +752,7 @@ URL: https://spxhomelive.lol/events.json
             "CAZE TV FHD",
             "SporTV BR FHD",
             "FOX ONE 4K",
+            "FOX ONE 4K [ALT]",
             "FUSSBALL TV 4K",
             "IRIB 4K",
             "TRT SPORTS 2K",
@@ -784,8 +785,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWAHILI]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "FOX ONE 4K [ALT]"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -846,6 +846,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX ONE 4K",
+                "logo": ""
+            },
+            {
+                "title": "FOX ONE 4K [ALT]",
                 "logo": ""
             },
             {
@@ -978,10 +982,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "FOX ONE 4K [ALT]",
                 "logo": ""
             }
         ]
@@ -3615,6 +3615,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/7ruw77zpm1/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "logo": "",
+        "title": "FOX ONE 4K [ALT]",
+        "type": "1"
+    },
+    {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "",
@@ -3844,13 +3851,6 @@ URL: https://spxhomelive.lol/channels/50063.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
-    },
-    {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/7ruw77zpm1/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "",
-        "title": "FOX ONE 4K [ALT]",
-        "type": "1"
     }
 ]
 ============================================================
