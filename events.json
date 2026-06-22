@@ -3364,7 +3364,7 @@
     },
     {
         "name": "New Zealand vs Egypt (FOX ONE 4K)",
-        "link": "https://vizio.kuvuslov.cymru/fs1-4k/index.m3u8",
+        "link": "https://vizio.kuvuslov.cymru/fs1-4k/tracks-v1a1/mono.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3373,7 +3373,7 @@
     },
     {
         "name": "New Zealand vs Egypt (TSN SPORTS 4K)",
-        "link": "https://vizio.kuvuslov.cymru/tsn4k/index.m3u8",
+        "link": "https://vizio.kuvuslov.cymru/tsn4k/tracks-v1a1/mono.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3743,153 +3743,5 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
-        "name": "Atlanta Braves vs Brewers (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52321/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Atlanta Braves vs Brewers (SportzX MLB)",
-        "link": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Yankees vs Cincinnati Reds (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52323/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Yankees vs Cincinnati Reds (SportzX MLB)",
-        "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Detroit Tigers vs White Sox (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52326/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Detroit Tigers vs White Sox (SportzX MLB)",
-        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Miami Marlins vs Giants (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52324/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Miami Marlins vs Giants (SportzX MLB)",
-        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Tampa Bay Rays vs Nationals (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52329/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Tampa Bay Rays vs Nationals (SportzX MLB)",
-        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Houston Astros vs Guardians (SportzX MLB)",
-        "link": "https://chatgpt.hereisman.net/playlist/52332/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Houston Astros vs Guardians (SportzX MLB)",
-        "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Seattle Orcas vs Knight Riders (WILLOW FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "55588334195c73f5ddf74f40216a2d89:6de59c86a6afbfec96012045d009a135"
-    },
-    {
-        "name": "Seattle Orcas vs Knight Riders (SKY CRICKET FHD)",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla",
-        "cookie": ""
-    },
-    {
-        "name": "Seattle Orcas vs Knight Riders (WILLOW ALT)",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "55588334195c73f5ddf74f40216a2d89:6de59c86a6afbfec96012045d009a135"
-    },
-    {
-        "name": "Seattle Orcas vs Knight Riders (WILLOW HD)",
-        "link": "https://tmaxapp.site/willoweng.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     }
 ]
