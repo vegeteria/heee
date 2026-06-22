@@ -1361,6 +1361,7 @@ URL: https://spxhomelive.lol/events.json
             "RTE SPORTS FHD",
             "FIFA WC FEED",
             "RTB GOLIVE FHD",
+            "TSN SPORTS HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
             "D Sports FHD",
@@ -1406,7 +1407,8 @@ URL: https://spxhomelive.lol/events.json
             "beiN SPORTS FR",
             "ESPANOL SD",
             "M6 FRANCE SD",
-            "CT SPORTS CZ"
+            "CT SPORTS CZ",
+            "RTE PLAYER HD"
         ],
         "formatsNew": [
             {
@@ -1420,6 +1422,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "RTB GOLIVE FHD",
                 "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png"
+            },
+            {
+                "title": "TSN SPORTS HD",
+                "logo": ""
             },
             {
                 "title": "TSN SPORTS FHD",
@@ -1603,6 +1609,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
+                "logo": ""
+            },
+            {
+                "title": "RTE PLAYER HD",
                 "logo": ""
             }
         ]
@@ -4493,6 +4503,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://storage.googleapis.com/msnuke4/mainnet/manifest.m3u8",
+        "logo": "",
+        "title": "TSN SPORTS HD",
+        "type": "0"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozila",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -4812,6 +4829,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "logo": "",
         "title": "CT SPORTS CZ",
+        "type": "1"
+    },
+    {
+        "api": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a",
+        "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
+        "logo": "",
+        "title": "RTE PLAYER HD",
         "type": "1"
     }
 ]
