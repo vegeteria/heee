@@ -124,19 +124,19 @@
         "group-title": "Fifa world cup",
         "streams": [
             {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-                "channel_title": "FOX ONE HD"
+                "web_view_url": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
+                "clearkey": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
             },
             {
-                "web_view_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-                "channel_title": "FOX ONE HD [ALT]"
+                "clearkey": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                "channel_title": "FOX ONE FHD"
             },
             {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
                 "clearkey": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
                 "channel_title": "TSN SPORTS FHD"
@@ -1272,6 +1272,38 @@
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
                 "clearkey": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
                 "channel_title": "TELEMUNDO [USA]"
+            }
+        ]
+    },
+    {
+        "event_name": "New Zealand W vs Scotland W",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/213115/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/453162/image",
+        "start_time_gmt": "2026-06-23 09:30:00 +0000",
+        "end_time_gmt": "2026-06-23 13:15:00 +0000",
+        "group-title": "Cricket",
+        "streams": [
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "channel_title": "Willow HD"
+            }
+        ]
+    },
+    {
+        "event_name": "Sri Lanka W vs Ireland W",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/187806/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/213116/image",
+        "start_time_gmt": "2026-06-23 13:30:00 +0000",
+        "end_time_gmt": "2026-06-23 17:15:00 +0000",
+        "group-title": "Cricket",
+        "streams": [
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "channel_title": "Willow HD"
             }
         ]
     }
