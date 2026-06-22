@@ -4055,7 +4055,7 @@ URL: https://spxhomelive.lol/channels/50064.json
 [
     {
         "api": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
-        "link": "https://mh-bks400-07.starhubgo.com/bpk-token/1aa@tdqnafslawbuiv05ux404a1akm2amdirt3ew5qca/bpk-tv/FIFAWCCh1/output/manifest.mpd",
+        "link": "https://sh-bks400-08.starhubgo.com/bpk-token/1aa@z3lhxh4sp324yyocgs5ocxoop2o50z3rzd52isca/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query",
         "logo": "https://iili.io/CziyHTQ.png",
         "title": "FIFA WC FEED",
         "type": "1"
