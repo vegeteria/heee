@@ -1324,7 +1324,7 @@
     },
     {
         "name": "France vs Iraq (FAST SERVER)",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJXMemQhxTx.m3u8?txSecret=5404b2a96694e8c9c920bd5ce37aa101&txTime=6A39CB18",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1333,12 +1333,14 @@
     },
     {
         "name": "France vs Iraq (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021414-723272-49123a40ec8)/master_2hr.mpd?c3.ri=6a398ae1_Q1ZYMDc_1_Q0xPVURGUk9OVA_972a1d6cdac3%3A0&aws.sessionId=fd01558b-5ca2-47a3-ae6b-4353aa8a0640&ck=eyIwMDIyNTY3OWIyYjc2MjZjMjgwZmFkNGZiM2I4ZDY2NiI6ImY2M2JhMDQwOTc4NWRhMzkyMGExMWUzYjcyMTVlZDU4In0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "00225679b2b7626c280fad4fb3b8d666:f63ba0409785da3920a11e3b7215ed58"
     },
     {
         "name": "France vs Iraq (TELEMUNDO [ALT])",
