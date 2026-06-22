@@ -774,6 +774,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO [ALT]",
             "BBC SPORTS HD",
             "TSN SPORTS HD",
+            "FOX SPORTS HD",
             "ARABIC LIVE HD",
             "TYC SPORTS HD",
             "DAZN SPANISH",
@@ -787,7 +788,7 @@ URL: https://spxhomelive.lol/events.json
             "HD SERVER AR",
             "SD SERVER [ENG]",
             "ENG SD SERVER",
-            "SD SERVER [SWAHILI]",
+            "SD SERVER [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD"
         ],
@@ -941,6 +942,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
+                "title": "FOX SPORTS HD",
+                "logo": ""
+            },
+            {
                 "title": "ARABIC LIVE HD",
                 "logo": ""
             },
@@ -993,7 +998,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "SD SERVER [SWAHILI]",
+                "title": "SD SERVER [SWE]",
                 "logo": ""
             },
             {
@@ -3790,6 +3795,13 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
+        "link": "https://storage.googleapis.com/poiuytyrnvggdover1/mux_video_ts1/index-1.m3u8",
+        "logo": "",
+        "title": "FOX SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "ok",
         "logo": "",
         "title": "ARABIC LIVE HD",
@@ -3867,35 +3879,35 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/SXrtttt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/SXrttttx.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SD SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/SXlplplpqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SD SERVER [SWAHILI]",
+        "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/SXlplplpqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/SXlplplpq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
