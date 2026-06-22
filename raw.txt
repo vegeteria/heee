@@ -742,6 +742,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE FHD",
             "TSN SPORTS FHD",
             "TELEMUNDO FHD",
+            "TVE La1 SPANISH",
             "RTB SPORTS FHD",
             "FOX SPORTS - AQ",
             "SportzX FHD LIVE",
@@ -808,6 +809,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
+                "title": "TVE La1 SPANISH",
                 "logo": ""
             },
             {
@@ -3552,6 +3557,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "",
         "title": "TELEMUNDO FHD",
+        "type": "1"
+    },
+    {
+        "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "logo": "",
+        "title": "TVE La1 SPANISH",
         "type": "1"
     },
     {
