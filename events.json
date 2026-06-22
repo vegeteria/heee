@@ -457,6 +457,15 @@
         "cookie": ""
     },
     {
+        "name": "Argentina vs Austria (RTB GOLIVE FHD)",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Argentina vs Austria (FOX SPORTS HD)",
         "link": "https://storage.googleapis.com/poiuytyrnvggdover1/mux_video_ts1/index-1.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -553,15 +562,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413"
-    },
-    {
-        "name": "Argentina vs Austria (RTB GOLIVE FHD)",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "Argentina vs Austria (FOX ONE FHD)",

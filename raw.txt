@@ -737,6 +737,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "RTB GOLIVE FHD",
             "FOX SPORTS HD",
             "TOFFEE BD FHD",
             "ISCREEN BD FHD",
@@ -747,7 +748,6 @@ URL: https://spxhomelive.lol/events.json
             "Unite8 ENG",
             "RTE SPORTS FHD",
             "FIFA WC FEED",
-            "RTB GOLIVE FHD",
             "FOX ONE FHD",
             "TSN SPORTS FHD",
             "TVE La1 SPANISH",
@@ -796,6 +796,10 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
+                "title": "RTB GOLIVE FHD",
+                "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png"
+            },
+            {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
@@ -834,10 +838,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FIFA WC FEED",
                 "logo": "https://iili.io/CziyHTQ.png"
-            },
-            {
-                "title": "RTB GOLIVE FHD",
-                "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png"
             },
             {
                 "title": "FOX ONE FHD",
@@ -3546,6 +3546,13 @@ URL: https://spxhomelive.lol/channels/50063.json
 [
     {
         "api": "",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
+        "title": "RTB GOLIVE FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://storage.googleapis.com/poiuytyrnvggdover1/mux_video_ts1/index-1.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
@@ -3613,13 +3620,6 @@ URL: https://spxhomelive.lol/channels/50063.json
         "logo": "https://iili.io/CziyHTQ.png",
         "title": "FIFA WC FEED",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
-        "title": "RTB GOLIVE FHD",
-        "type": "0"
     },
     {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
