@@ -993,6 +993,28 @@
         "cookie": ""
     },
     {
+        "name": "Argentina vs Austria (Unite8 HINDI)",
+        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ffc8dba12a4d132d52b1338089d15b64:ef70eee471d4a83bf752b581291faaf7"
+    },
+    {
+        "name": "Argentina vs Austria (Unite8 ENG)",
+        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "fbb795d0d8497cb731a99e5250d857a1:8d85c5ac2e08233ff10ef2f7f636ecbb"
+    },
+    {
         "name": "France vs Iraq (RTB GOLIVE FHD)",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",

@@ -790,7 +790,9 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "Unite8 HINDI",
+            "Unite8 ENG"
         ],
         "formatsNew": [
             {
@@ -1007,6 +1009,14 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
+                "logo": ""
+            },
+            {
+                "title": "Unite8 HINDI",
+                "logo": ""
+            },
+            {
+                "title": "Unite8 ENG",
                 "logo": ""
             }
         ]
@@ -3911,6 +3921,20 @@ URL: https://spxhomelive.lol/channels/50063.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
+    },
+    {
+        "api": "ffc8dba12a4d132d52b1338089d15b64:ef70eee471d4a83bf752b581291faaf7",
+        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+        "logo": "",
+        "title": "Unite8 HINDI",
+        "type": "1"
+    },
+    {
+        "api": "fbb795d0d8497cb731a99e5250d857a1:8d85c5ac2e08233ff10ef2f7f636ecbb",
+        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd?",
+        "logo": "",
+        "title": "Unite8 ENG",
+        "type": "1"
     }
 ]
 ============================================================
