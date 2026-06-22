@@ -1095,12 +1095,12 @@ URL: https://spxhomelive.lol/events.json
             "FUSSBALL TV FHD",
             "SportzX Live",
             "HD SERVER ENG",
+            "HD SERVER ENG 2",
             "HD SERVER AR",
             "SD SERVER [ENG]",
             "ENG SERVER SD",
             "beIN SPORTS FR",
-            "D SPORTS ES",
-            "HD SERVER AR"
+            "D SPORTS ES"
         ],
         "formatsNew": [
             {
@@ -1264,6 +1264,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "HD SERVER ENG 2",
+                "logo": ""
+            },
+            {
                 "title": "HD SERVER AR",
                 "logo": ""
             },
@@ -1281,10 +1285,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "D SPORTS ES",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER AR",
                 "logo": ""
             }
         ]
@@ -4004,7 +4004,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozila",
+        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozila",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE FHD",
         "type": "1"
@@ -4193,7 +4193,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8?hdntl=Expires=1782243942~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvewX8yG0iWve3GE0tfemRk4AwMW-549INX_Dv8oOX28CVhVE3A9-iTeqY5E_9kwpFvmBJ8icsxpHerREvkPfSsE",
         "logo": "",
         "title": "TOFFEE BD FHD",
         "type": "0"
@@ -4270,6 +4270,13 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
+        "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER ENG 2",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER AR",
@@ -4301,13 +4308,6 @@ URL: https://spxhomelive.lol/channels/50064.json
         "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "D SPORTS ES",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER AR",
         "type": "0"
     }
 ]
