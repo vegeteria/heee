@@ -22,6 +22,40 @@
         ]
     },
     {
+        "event_name": "Ireland vs India",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/187766/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "start_time_gmt": "2026-06-26 12:30:00 +0000",
+        "end_time_gmt": "2026-06-26 16:15:00 +0000",
+        "group-title": "Cricket",
+        "streams": [
+            {
+                "web_view_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944",
+                "channel_title": "WILLOW FHD"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+                "clearkey": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+                "channel_title": "TNT Sports FHD"
+            },
+            {
+                "web_view_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944",
+                "channel_title": "WILLOW ALT"
+            },
+            {
+                "web_view_url": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+                "channel_title": "HOTSTAR HD"
+            }
+        ]
+    },
+    {
         "event_name": "ONE Friday Fights",
         "team_a_flag": "https://iili.io/FDjaT1R.md.png",
         "team_b_flag": "https://iili.io/FDjaT1R.md.png",
@@ -112,6 +146,28 @@
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
                 "clearkey": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                 "channel_title": "WILLOW HD"
+            }
+        ]
+    },
+    {
+        "event_name": "England vs New Zealand",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/187755/image",
+        "start_time_gmt": "2026-06-25 10:00:00 +0000",
+        "end_time_gmt": "2026-06-25 18:00:00 +0000",
+        "group-title": "Cricket",
+        "streams": [
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l2h5bdvlpd/out/v1/5fbcd0ec9fe044598d6f36f844300079/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "b4496b9a9e83b9dc0dedba157712ad1c:189df9061b7c96db75bb8d60bdc18c73",
+                "channel_title": "WILLOW FHD"
+            },
+            {
+                "web_view_url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/l2h5bdvlpd/out/v1/5fbcd0ec9fe044598d6f36f844300079/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "b4496b9a9e83b9dc0dedba157712ad1c:189df9061b7c96db75bb8d60bdc18c73",
+                "channel_title": "WILLOW ALT"
             }
         ]
     },
