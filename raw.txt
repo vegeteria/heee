@@ -730,7 +730,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4718/image",
             "eventName": "Argentina vs Austria",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/22 17:00:00 +0000",
             "endTime": "2026/06/22 19:15:00 +0000"
         },
@@ -1048,7 +1048,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4767/image",
             "eventName": "France vs Iraq",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/22 21:00:00 +0000",
             "endTime": "2026/06/22 23:15:00 +0000"
         },
@@ -1083,10 +1083,13 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO [ALT]",
             "ITV SPORTS HD",
             "FOX SPORTS HD",
+            "ISCREEN BD FHD",
+            "TOFFEE BD FHD",
             "DAZN SPANISH",
+            "ARABIC LIVE HD",
+            "TSN SPORTS",
             "beIN MAX FHD",
             "ARABIC LIVE FHD",
-            "TSN SPORTS",
             "SOMOY TV HD",
             "TRT SPORTS 2K",
             "TELEMUNDO FHD",
@@ -1216,8 +1219,24 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
+                "title": "ISCREEN BD FHD",
+                "logo": ""
+            },
+            {
+                "title": "TOFFEE BD FHD",
+                "logo": ""
+            },
+            {
                 "title": "DAZN SPANISH",
                 "logo": ""
+            },
+            {
+                "title": "ARABIC LIVE HD",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "beIN MAX FHD",
@@ -1226,10 +1245,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "ARABIC LIVE FHD",
                 "logo": ""
-            },
-            {
-                "title": "TSN SPORTS",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "SOMOY TV HD",
@@ -4186,9 +4201,37 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
+        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "ISCREEN BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "TOFFEE BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
         "logo": "",
         "title": "DAZN SPANISH",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "ARABIC LIVE HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS",
         "type": "0"
     },
     {
@@ -4203,13 +4246,6 @@ URL: https://spxhomelive.lol/channels/50064.json
         "link": "https://stream.liveostora.com/sportinaapp2/index.m3u8",
         "logo": "",
         "title": "ARABIC LIVE FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://soccerball.st/s1.php",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS",
         "type": "0"
     },
     {
