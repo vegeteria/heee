@@ -1995,12 +1995,17 @@ URL: https://spxhomelive.lol/events.json
             "D Sports FHD",
             "CAZE TV FHD",
             "SporTV BR FHD",
-            "TELEMUNDO HD",
+            "FOX ONE 4K",
+            "TSN SPORTS 4K",
+            "NOW SPORTS 4K",
+            "beIN ARABIC 4K",
+            "TELEMUNDO 4K",
             "FUSSBALL TV 4K",
             "TRT SPORTS 2K",
             "IRIB 4K",
             "ARABIC LIVE FHD",
             "TIPIK FR FHD",
+            "TELEMUNDO HD",
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
             "Match Football FHD",
@@ -2093,8 +2098,24 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO HD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+                "title": "FOX ONE 4K",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "NOW SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "beIN ARABIC 4K",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO 4K",
+                "logo": ""
             },
             {
                 "title": "FUSSBALL TV 4K",
@@ -2115,6 +2136,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TIPIK FR FHD",
                 "logo": ""
+            },
+            {
+                "title": "TELEMUNDO HD",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "TVP SPORTS FHD",
@@ -5020,9 +5045,37 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO HD",
+        "link": "https://vizio.kuvuslov.cymru/fs1-4k/index.m3u8",
+        "logo": "",
+        "title": "FOX ONE 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vizio.kuvuslov.cymru/tsn4k/index.m3u8",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vizio.kuvuslov.cymru/nowhk/index.m3u8",
+        "logo": "",
+        "title": "NOW SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vizio.kuvuslov.cymru/bein4k/index.m3u8",
+        "logo": "",
+        "title": "beIN ARABIC 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vizio.kuvuslov.cymru/telemundo-4k/index.m3u8",
+        "logo": "",
+        "title": "TELEMUNDO 4K",
         "type": "0"
     },
     {
@@ -5059,6 +5112,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "",
         "title": "TIPIK FR FHD",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "title": "TELEMUNDO HD",
+        "type": "0"
     },
     {
         "api": "0:0",

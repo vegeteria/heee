@@ -981,6 +981,21 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1
 #KODIPROP:inputstream.adaptive.license_key=cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
+#EXTINF:-1 tvg-id="newzealandvsegypt0200foxone4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Egypt 02:00 (FOX ONE 4K)
+https://vizio.kuvuslov.cymru/fs1-4k/index.m3u8
+
+#EXTINF:-1 tvg-id="newzealandvsegypt0200tsnsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Egypt 02:00 (TSN SPORTS 4K)
+https://vizio.kuvuslov.cymru/tsn4k/index.m3u8
+
+#EXTINF:-1 tvg-id="newzealandvsegypt0200nowsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Egypt 02:00 (NOW SPORTS 4K)
+https://vizio.kuvuslov.cymru/nowhk/index.m3u8
+
+#EXTINF:-1 tvg-id="newzealandvsegypt0200beinarabic4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Egypt 02:00 (beIN ARABIC 4K)
+https://vizio.kuvuslov.cymru/bein4k/index.m3u8
+
+#EXTINF:-1 tvg-id="newzealandvsegypt0200telemundo4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Egypt 02:00 (TELEMUNDO 4K)
+https://vizio.kuvuslov.cymru/telemundo-4k/index.m3u8
+
 #EXTINF:-1 tvg-id="newzealandvsegypt0200fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Egypt 02:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
