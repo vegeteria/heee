@@ -267,118 +267,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50032,
-        "title": "Arizona Diamondbacks",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Diamondbacks",
-            "teamB": "Twins",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-            "eventName": "Arizona Diamondbacks vs Minnesota Twins",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/21 19:15:00 +0000",
-            "endTime": "2026/06/21 22:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX LIVE"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX LIVE",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50033,
-        "title": "Los Angeles Angels",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Athletics",
-            "teamB": "Angels",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-            "eventName": "Athletics vs Los Angeles Angels",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/21 20:05:00 +0000",
-            "endTime": "2026/06/21 23:05:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50034,
-        "title": "Baltimore Orioles",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Dodgers",
-            "teamB": "Orioles",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-            "eventName": "Dodgers vs Baltimore Orioles",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/21 20:10:00 +0000",
-            "endTime": "2026/06/21 23:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50052,
-        "title": "Seattle Mariners",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Mariners",
-            "teamB": "Red Sox",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-            "eventName": "Seattle Mariners vs Boston Red Sox",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/21 20:10:00 +0000",
-            "endTime": "2026/06/21 23:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50053,
         "title": "Philadelphia Phillies",
         "image": "o",
@@ -1812,7 +1700,7 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "Uruguay vs Cabo Verde",
             "eventType": "null",
             "eventBanner": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/21 22:00:00 +0000",
             "endTime": "2026/06/22 00:15:00 +0000"
         },
@@ -2085,7 +1973,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4758/image",
             "eventName": "New Zealand vs Egypt",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/22 01:00:00 +0000",
             "endTime": "2026/06/22 03:15:00 +0000"
         },
@@ -2100,6 +1988,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO FHD",
             "RTB SPORTS FHD",
             "ViX MUNDIAL ES",
+            "FOX SPORTS - AQ",
             "SportzX FHD LIVE",
             "FOX SPORTS [ALT]",
             "TSN SPORTS [ALT]",
@@ -2173,6 +2062,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ViX MUNDIAL ES",
+                "logo": ""
+            },
+            {
+                "title": "FOX SPORTS - AQ",
                 "logo": ""
             },
             {
@@ -2851,58 +2744,6 @@ URL: https://spxhomelive.lol/channels/50011.json
         "logo": "",
         "title": "USA TV",
         "type": "1"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50032.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX LIVE",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50033.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50034.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50052.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
     }
 ]
 ============================================================
@@ -5130,6 +4971,13 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
+        "link": "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/92f6cbdfdbed488c94405d1c605bc403/manifest/video.m3u8",
+        "logo": "",
+        "title": "FOX SPORTS - AQ",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://soccerball.st/s1.php",
         "logo": "",
         "title": "SportzX FHD LIVE",
@@ -5263,21 +5111,21 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52354/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52362/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "ITV SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52355/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52363/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52220/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52361/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "FOX SPORTS HD",
         "type": "0"

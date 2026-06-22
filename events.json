@@ -203,42 +203,6 @@
         "drmLicense": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
     },
     {
-        "name": "Arizona Diamondbacks (SportzX LIVE)",
-        "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Los Angeles Angels (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Baltimore Orioles (SportzX Live)",
-        "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Seattle Mariners (SportzX Live)",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Philadelphia Phillies (SportzX Live)",
         "link": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -3317,6 +3281,15 @@
         "drmLicense": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203"
     },
     {
+        "name": "New Zealand vs Egypt (FOX SPORTS - AQ)",
+        "link": "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/92f6cbdfdbed488c94405d1c605bc403/manifest/video.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "New Zealand vs Egypt (SportzX FHD LIVE)",
         "link": "https://soccerball.st/s1.php",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -3513,7 +3486,7 @@
     },
     {
         "name": "New Zealand vs Egypt (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52354/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52362/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -3522,7 +3495,7 @@
     },
     {
         "name": "New Zealand vs Egypt (TSN SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52355/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52363/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -3531,7 +3504,7 @@
     },
     {
         "name": "New Zealand vs Egypt (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52220/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52361/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
