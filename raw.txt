@@ -743,6 +743,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "TELEMUNDO FHD",
             "RTB SPORTS FHD",
+            "FOX SPORTS - AQ",
             "SportzX FHD LIVE",
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
@@ -811,6 +812,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "RTB SPORTS FHD",
+                "logo": ""
+            },
+            {
+                "title": "FOX SPORTS - AQ",
                 "logo": ""
             },
             {
@@ -3558,6 +3563,13 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
+        "link": "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/6bbb3f01ec11e5b10e4369978f011941/manifest/video.m3u8",
+        "logo": "",
+        "title": "FOX SPORTS - AQ",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://soccerball.st/s1.php",
         "logo": "",
         "title": "SportzX FHD LIVE",
@@ -6262,7 +6274,8 @@ URL: https://spxhomelive.lol/channels/50075.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     }
@@ -6274,7 +6287,8 @@ URL: https://spxhomelive.lol/channels/50076.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     }
@@ -6286,7 +6300,8 @@ URL: https://spxhomelive.lol/channels/50077.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     }
@@ -6298,7 +6313,8 @@ URL: https://spxhomelive.lol/channels/50078.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     }
@@ -6310,7 +6326,8 @@ URL: https://spxhomelive.lol/channels/50079.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     }
