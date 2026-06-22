@@ -1104,6 +1104,17 @@
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
+        "name": "France vs Iraq (D Sports FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
+    },
+    {
         "name": "France vs Iraq (TELEMUNDO FHD)",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1155,26 +1166,15 @@
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
-        "name": "France vs Iraq (D Sports FHD)",
-        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
-    },
-    {
         "name": "France vs Iraq (CAZE TV FHD)",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb"
+        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
     },
     {
         "name": "France vs Iraq (ARABIC LIVE FHD)",

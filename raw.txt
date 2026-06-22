@@ -1061,12 +1061,12 @@ URL: https://spxhomelive.lol/events.json
             "RTB GOLIVE FHD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
+            "D Sports FHD",
             "TELEMUNDO FHD",
             "RTB SPORTS FHD",
             "SportzX FHD LIVE",
             "TSN SPORTS [ALT]",
             "FOX SPORTS [ALT]",
-            "D Sports FHD",
             "CAZE TV FHD",
             "ARABIC LIVE FHD",
             "FUSSBALL TV 4K",
@@ -1130,6 +1130,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
+                "title": "D Sports FHD",
+                "logo": ""
+            },
+            {
                 "title": "TELEMUNDO FHD",
                 "logo": ""
             },
@@ -1148,10 +1152,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS [ALT]",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "D Sports FHD",
-                "logo": ""
             },
             {
                 "title": "CAZE TV FHD",
@@ -4041,6 +4041,13 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "1"
     },
     {
+        "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|user-agent=Mozila",
+        "logo": "",
+        "title": "D Sports FHD",
+        "type": "1"
+    },
+    {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "",
@@ -4076,15 +4083,8 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "1"
     },
     {
-        "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
-        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|user-agent=Mozila",
-        "logo": "",
-        "title": "D Sports FHD",
-        "type": "1"
-    },
-    {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "CAZE TV FHD",
         "type": "1"
