@@ -1349,9 +1349,13 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
             "CAZE TV FHD",
+            "SporTV BR FHD",
             "TELEMUNDO HD",
             "FOX ONE 4K",
-            "FOX 4K [ALT]",
+            "FOX ONE 4K [ALT]",
+            "FUSSBALL TV 4K",
+            "TRT SPORTS 2K",
+            "IRIB 4K",
             "TIPIK FR FHD",
             "TVP POLISH FHD",
             "CT SPORTS CZ",
@@ -1370,7 +1374,6 @@ URL: https://spxhomelive.lol/events.json
             "JOJ SPORTS FHD",
             "TSN SPORTS",
             "SOMOY TV HD",
-            "TRT SPORTS 2K",
             "FUSSBALL 4K [GER]",
             "FUSSBALL TV FHD",
             "TELEMUNDO FHD",
@@ -1430,6 +1433,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
+                "title": "SporTV BR FHD",
+                "logo": ""
+            },
+            {
                 "title": "TELEMUNDO HD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
@@ -1438,7 +1445,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "FOX 4K [ALT]",
+                "title": "FOX ONE 4K [ALT]",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL TV 4K",
+                "logo": ""
+            },
+            {
+                "title": "TRT SPORTS 2K",
+                "logo": ""
+            },
+            {
+                "title": "IRIB 4K",
                 "logo": ""
             },
             {
@@ -1511,10 +1530,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SOMOY TV HD",
-                "logo": ""
-            },
-            {
-                "title": "TRT SPORTS 2K",
                 "logo": ""
             },
             {
@@ -4466,6 +4481,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
+        "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+        "logo": "",
+        "title": "SporTV BR FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -4474,17 +4496,38 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hsshvitvwa/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE 4K",
         "type": "1"
     },
     {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hsshvitvwa/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "",
-        "title": "FOX 4K [ALT]",
+        "title": "FOX ONE 4K [ALT]",
         "type": "1"
+    },
+    {
+        "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL TV 4K",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "logo": "",
+        "title": "TRT SPORTS 2K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "logo": "",
+        "title": "IRIB 4K",
+        "type": "0"
     },
     {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
@@ -4610,13 +4653,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
         "logo": "",
         "title": "SOMOY TV HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "logo": "",
-        "title": "TRT SPORTS 2K",
         "type": "0"
     },
     {
