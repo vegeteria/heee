@@ -1071,6 +1071,7 @@ URL: https://spxhomelive.lol/events.json
             "ARABIC LIVE FHD",
             "FOX ONE 4K",
             "FOX ONE 4K [ALT]",
+            "beIN MAX FHD",
             "FUSSBALL TV 4K",
             "TRT SPORTS 2K",
             "IRIB 4K",
@@ -1090,6 +1091,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS HD",
             "ISCREEN BD FHD",
             "TOFFEE BD FHD",
+            "TOFFEE LIVE HD",
             "Unite8 HIN [IN]",
             "Unite8 ENG [IN]",
             "DAZN SPANISH",
@@ -1107,7 +1109,8 @@ URL: https://spxhomelive.lol/events.json
             "SD SERVER [ENG]",
             "ENG SERVER SD",
             "beIN SPORTS FR",
-            "D SPORTS ES"
+            "D SPORTS ES",
+            "SD SERVER [SWE]"
         ],
         "formatsNew": [
             {
@@ -1172,6 +1175,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX ONE 4K [ALT]",
+                "logo": ""
+            },
+            {
+                "title": "beIN MAX FHD",
                 "logo": ""
             },
             {
@@ -1251,6 +1258,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TOFFEE LIVE HD",
+                "logo": ""
+            },
+            {
                 "title": "Unite8 HIN [IN]",
                 "logo": ""
             },
@@ -1320,6 +1331,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "D SPORTS ES",
+                "logo": ""
+            },
+            {
+                "title": "SD SERVER [SWE]",
                 "logo": ""
             }
         ]
@@ -4151,6 +4166,13 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/G7iRP3-TNdSmqwAGv39K_hsHX43dyVu5dsYEH2XW-Y2fcFzh4OIyComZSd2rd8AYMhRZ8ycSSiBU7v3QGORYMw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8?type=live",
+        "logo": "",
+        "title": "beIN MAX FHD",
+        "type": "0"
+    },
+    {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "",
@@ -4284,6 +4306,13 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/1/master_1800.m3u8?hdntl=Expires=1782248407~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvf74Un4PCU021gSE2a6JELl5MC7BUgwcARGm_SpZWmk_21ZP-XuAlh3l_2jinr9Mj3bahrg4rz6fQ0dVGuHEMQP",
+        "logo": "",
+        "title": "TOFFEE LIVE HD",
+        "type": "0"
+    },
+    {
         "api": "b90a8e3b967f0a7505bc0e925853c62d:def40d621397cf5fedb93884cf7eb3ef",
         "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
         "logo": "",
@@ -4383,30 +4412,37 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/SXrtttt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/SXrttttx.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/SXlplplpqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beIN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/SXlplplpq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "D SPORTS ES",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "http://193.47.62.47/hls/SXlplplpqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER [SWE]",
         "type": "0"
     }
 ]
