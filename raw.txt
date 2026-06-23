@@ -1888,6 +1888,7 @@ URL: https://spxhomelive.lol/events.json
             "WC TV FHD",
             "CTV SPORTS FHD",
             "DSports FHD",
+            "CAZE TV FHD",
             "TIPIK FR FHD",
             "QAZ SPORTS FHD",
             "TVP SPORTS FHD",
@@ -1913,7 +1914,6 @@ URL: https://spxhomelive.lol/events.json
             "MATCH TV RU",
             "JOJ SPORTS FHD",
             "M6 FRANCE SD",
-            "TELEMUNDO [ALT]",
             "ITV SPORTS HD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
@@ -1927,6 +1927,7 @@ URL: https://spxhomelive.lol/events.json
             "FUSSBALL 4K [GER]",
             "FUSSBALL TV [GER]",
             "TELEMUNDO [USA]",
+            "TELEMUNDO [ALT]",
             "SportzX Live",
             "HD SERVER ENG",
             "HD SERVER EN 2",
@@ -1935,10 +1936,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "UNITE8 SPORTS EN",
-            "UNITE8 SPORTS HIN",
-            "CAZE TV FHD"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -1952,6 +1950,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "DSports FHD",
                 "logo": "https://iili.io/CTbh7Gj.png"
+            },
+            {
+                "title": "CAZE TV FHD",
+                "logo": ""
             },
             {
                 "title": "TIPIK FR FHD",
@@ -2054,10 +2056,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO [ALT]",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
-            },
-            {
                 "title": "ITV SPORTS HD",
                 "logo": ""
             },
@@ -2110,6 +2108,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
+                "title": "TELEMUNDO [ALT]",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+            },
+            {
                 "title": "SportzX Live",
                 "logo": ""
             },
@@ -2143,18 +2145,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "UNITE8 SPORTS EN",
-                "logo": ""
-            },
-            {
-                "title": "UNITE8 SPORTS HIN",
-                "logo": ""
-            },
-            {
-                "title": "CAZE TV FHD",
                 "logo": ""
             }
         ]
@@ -5422,6 +5412,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "logo": "",
+        "title": "CAZE TV FHD",
+        "type": "1"
+    },
+    {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/91z1211657888348.png",
@@ -5597,13 +5594,6 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
-        "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO [ALT]",
-        "type": "1"
-    },
-    {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52318/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
@@ -5695,6 +5685,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "title": "TELEMUNDO [ALT]",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
@@ -5724,59 +5721,38 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/rtttt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/rttttx.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/lplplpqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/lplplpqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/lplplpq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
-    },
-    {
-        "api": "b314f2fdbec8b2ad0f41a700bb874ae5:b54583df554206d151fe6647ddf33d35",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
-        "logo": "",
-        "title": "UNITE8 SPORTS EN",
-        "type": "1"
-    },
-    {
-        "api": "ee5dea847c44d9f6063022978e3ce382:fb0ce876da1bd792260a99fb7dd97b4a",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
-        "logo": "",
-        "title": "UNITE8 SPORTS HIN",
-        "type": "1"
-    },
-    {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-        "logo": "",
-        "title": "CAZE TV FHD",
-        "type": "1"
     }
 ]
 ============================================================

@@ -2719,6 +2719,17 @@
         "drmLicense": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a"
     },
     {
+        "name": "Panama vs Croatia (CAZE TV FHD)",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+    },
+    {
         "name": "Panama vs Croatia (TIPIK FR FHD)",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/91z1211657888348.png",
@@ -2972,17 +2983,6 @@
         "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
     },
     {
-        "name": "Panama vs Croatia (TELEMUNDO [ALT])",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-    },
-    {
         "name": "Panama vs Croatia (ITV SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52318/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -3106,6 +3106,17 @@
         "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
     },
     {
+        "name": "Panama vs Croatia (TELEMUNDO [ALT])",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+    },
+    {
         "name": "Panama vs Croatia (SportzX Live)",
         "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -3143,7 +3154,7 @@
     },
     {
         "name": "Panama vs Croatia (SD SERVER [ENG])",
-        "link": "http://193.47.62.47/hls/rtttt.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3152,7 +3163,7 @@
     },
     {
         "name": "Panama vs Croatia (ENG SERVER SD)",
-        "link": "http://193.47.62.55/hls/rttttx.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3161,7 +3172,7 @@
     },
     {
         "name": "Panama vs Croatia (SD SERVER [SWE])",
-        "link": "http://193.47.62.47/hls/lplplpqqq.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3170,7 +3181,7 @@
     },
     {
         "name": "Panama vs Croatia (beiN SPORTS FR)",
-        "link": "http://193.47.62.51/hls/lplplpqq.m3u8?",
+        "link": "?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -3179,45 +3190,12 @@
     },
     {
         "name": "Panama vs Croatia (ESPANOL SD)",
-        "link": "http://193.47.62.59/hls/lplplpq.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "Panama vs Croatia (UNITE8 SPORTS EN)",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "b314f2fdbec8b2ad0f41a700bb874ae5:b54583df554206d151fe6647ddf33d35"
-    },
-    {
-        "name": "Panama vs Croatia (UNITE8 SPORTS HIN)",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "ee5dea847c44d9f6063022978e3ce382:fb0ce876da1bd792260a99fb7dd97b4a"
-    },
-    {
-        "name": "Panama vs Croatia (CAZE TV FHD)",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
     },
     {
         "name": "Colombia vs DR Congo (RTE SPORTS FHD)",
