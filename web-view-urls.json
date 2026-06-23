@@ -347,8 +347,8 @@
         "event_name": "France vs Iraq",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/4481/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4767/image",
-        "start_time_gmt": "2026-06-22 21:00:00 +0000",
-        "end_time_gmt": "2026-06-22 23:30:00 +0000",
+        "start_time_gmt": "2026-06-23 00:00:00 +0000",
+        "end_time_gmt": "2026-06-23 01:00:00 +0000",
         "group-title": "Fifa world cup",
         "streams": [
             {
@@ -518,10 +518,10 @@
         "group-title": "Fifa world cup",
         "streams": [
             {
-                "web_view_url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/76cf20f1-26ae-421b-9677-72b5c5543103:BRU/manifest.mpd",
+                "web_view_url": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
                 "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-                "clearkey": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                "channel_title": "RTE SPORTS FHD"
+                "clearkey": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a",
+                "channel_title": "RTE PLAYER FHD"
             },
             {
                 "web_view_url": "https://mh-bks400-07.starhubgo.com/bpk-token/1aa@tdqnafslawbuiv05ux404a1akm2amdirt3ew5qca/bpk-tv/FIFAWCCh1/output/manifest.mpd",
@@ -660,12 +660,6 @@
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "channel_title": "CT SPORTS CZ"
-            },
-            {
-                "web_view_url": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a",
-                "channel_title": "RTE PLAYER HD"
             }
         ]
     },

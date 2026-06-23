@@ -1144,6 +1144,15 @@
         "cookie": ""
     },
     {
+        "name": "France vs Iraq (TRT SPORTS 2K)",
+        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "France vs Iraq (TSN SPORTS [ALT])",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -1178,7 +1187,7 @@
     },
     {
         "name": "France vs Iraq (ARABIC LIVE FHD)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/-6XnHVtNdXM2i_QJuHqWsodeVGp5yxyrNf7Z9bOicgngVsSXZGj0FtJHMC17cOdI6kXZuf39ikFYUfzD9UURfg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Kkboo70-zdCaYuQrI8rYViBCk1pBE7z_r4XHk0LmypwuNR_26gB4DFf4RevI-GjylyJl2B3MWj420-7-CZ6Jnw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1226,15 +1235,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
-    },
-    {
-        "name": "France vs Iraq (TRT SPORTS 2K)",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "France vs Iraq (IRIB 4K)",
@@ -1598,15 +1598,15 @@
         "cookie": ""
     },
     {
-        "name": "Norway vs Senegal (RTE SPORTS FHD)",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/76cf20f1-26ae-421b-9677-72b5c5543103:BRU/manifest.mpd",
+        "name": "Norway vs Senegal (RTE PLAYER FHD)",
+        "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
+        "drmLicense": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a"
     },
     {
         "name": "Norway vs Senegal (FIFA WC FEED)",
@@ -1621,8 +1621,17 @@
     },
     {
         "name": "Norway vs Senegal (RTB GOLIVE FHD)",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
         "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Norway vs Senegal (SportzX FHD LIVE)",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -2094,17 +2103,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
-        "name": "Norway vs Senegal (RTE PLAYER HD)",
-        "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a"
     },
     {
         "name": "Jordan vs Algeria (RTE SPORTS FHD)",

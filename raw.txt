@@ -1048,9 +1048,9 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4767/image",
             "eventName": "France vs Iraq",
             "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/22 21:00:00 +0000",
-            "endTime": "2026/06/22 23:30:00 +0000"
+            "isHot": "1",
+            "startTime": "2026/06/23 00:00:00 +0000",
+            "endTime": "2026/06/23 01:00:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -1065,6 +1065,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO FHD",
             "RTB SPORTS FHD",
             "SportzX FHD LIVE",
+            "TRT SPORTS 2K",
             "TSN SPORTS [ALT]",
             "FOX SPORTS [ALT]",
             "CAZE TV FHD",
@@ -1073,7 +1074,6 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE 4K [ALT]",
             "beIN MAX FHD",
             "FUSSBALL TV 4K",
-            "TRT SPORTS 2K",
             "IRIB 4K",
             "TELEMUNDO HD",
             "TIPIK FR FHD",
@@ -1154,6 +1154,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TRT SPORTS 2K",
+                "logo": ""
+            },
+            {
                 "title": "TSN SPORTS [ALT]",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
@@ -1183,10 +1187,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FUSSBALL TV 4K",
-                "logo": ""
-            },
-            {
-                "title": "TRT SPORTS 2K",
                 "logo": ""
             },
             {
@@ -1358,9 +1358,10 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "RTE SPORTS FHD",
+            "RTE PLAYER FHD",
             "FIFA WC FEED",
             "RTB GOLIVE FHD",
+            "SportzX FHD LIVE",
             "TSN SPORTS HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
@@ -1407,12 +1408,11 @@ URL: https://spxhomelive.lol/events.json
             "beiN SPORTS FR",
             "ESPANOL SD",
             "M6 FRANCE SD",
-            "CT SPORTS CZ",
-            "RTE PLAYER HD"
+            "CT SPORTS CZ"
         ],
         "formatsNew": [
             {
-                "title": "RTE SPORTS FHD",
+                "title": "RTE PLAYER FHD",
                 "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
             {
@@ -1422,6 +1422,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "RTB GOLIVE FHD",
                 "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png"
+            },
+            {
+                "title": "SportzX FHD LIVE",
+                "logo": ""
             },
             {
                 "title": "TSN SPORTS HD",
@@ -1609,10 +1613,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
-                "logo": ""
-            },
-            {
-                "title": "RTE PLAYER HD",
                 "logo": ""
             }
         ]
@@ -4154,6 +4154,13 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "logo": "",
+        "title": "TRT SPORTS 2K",
+        "type": "0"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -4176,7 +4183,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/-6XnHVtNdXM2i_QJuHqWsodeVGp5yxyrNf7Z9bOicgngVsSXZGj0FtJHMC17cOdI6kXZuf39ikFYUfzD9UURfg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Kkboo70-zdCaYuQrI8rYViBCk1pBE7z_r4XHk0LmypwuNR_26gB4DFf4RevI-GjylyJl2B3MWj420-7-CZ6Jnw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
@@ -4208,13 +4215,6 @@ URL: https://spxhomelive.lol/channels/50064.json
         "logo": "",
         "title": "FUSSBALL TV 4K",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-        "logo": "",
-        "title": "TRT SPORTS 2K",
-        "type": "0"
     },
     {
         "api": "",
@@ -4482,10 +4482,10 @@ URL: https://spxhomelive.lol/channels/50065.json
 ============================================================
 [
     {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/76cf20f1-26ae-421b-9677-72b5c5543103:BRU/manifest.mpd",
+        "api": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a",
+        "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-        "title": "RTE SPORTS FHD",
+        "title": "RTE PLAYER FHD",
         "type": "1"
     },
     {
@@ -4497,9 +4497,16 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
         "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
         "title": "RTB GOLIVE FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://soccerball.st/s1.php",
+        "logo": "",
+        "title": "SportzX FHD LIVE",
         "type": "0"
     },
     {
@@ -4829,13 +4836,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "logo": "",
         "title": "CT SPORTS CZ",
-        "type": "1"
-    },
-    {
-        "api": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a",
-        "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
-        "logo": "",
-        "title": "RTE PLAYER HD",
         "type": "1"
     }
 ]
