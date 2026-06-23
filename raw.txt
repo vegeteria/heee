@@ -1568,11 +1568,11 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "WC TV FHD",
+            "BBC SPORTS HD",
             "DSports FHD",
             "CAZE TV FHD",
             "TIPIK FR FHD",
             "QAZ SPORTS FHD",
-            "BBC SPORTS HD",
             "CT SPORTS CZ",
             "SportzX FHD LIVE",
             "TOFFEE FHD BDIX",
@@ -1632,6 +1632,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "BBC SPORTS HD",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
+            },
+            {
                 "title": "DSports FHD",
                 "logo": "https://www.directvsports.com/__export/1674066777645/sites/dsports/arte/apps/facebook_1200x630.png"
             },
@@ -1646,10 +1650,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "QAZ SPORTS FHD",
                 "logo": ""
-            },
-            {
-                "title": "BBC SPORTS HD",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
             },
             {
                 "title": "CT SPORTS CZ",
@@ -4979,6 +4979,13 @@ URL: https://spxhomelive.lol/channels/50068.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52414/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
+        "title": "BBC SPORTS HD",
+        "type": "0"
+    },
+    {
         "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
         "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://www.directvsports.com/__export/1674066777645/sites/dsports/arte/apps/facebook_1200x630.png",
@@ -5004,13 +5011,6 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
         "logo": "",
         "title": "QAZ SPORTS FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52414/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
-        "title": "BBC SPORTS HD",
         "type": "0"
     },
     {
