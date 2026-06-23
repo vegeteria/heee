@@ -1059,9 +1059,8 @@ URL: https://spxhomelive.lol/events.json
             "FIFA WC FEED",
             "RTE SPORTS FHD",
             "TSN SPORTS HD",
-            "RTB GOLIVE FHD",
-            "TSN SPORTS FHD",
             "D Sports FHD",
+            "RTB GOLIVE FHD",
             "TELEMUNDO FHD",
             "RTB SPORTS FHD",
             "SportzX FHD LIVE",
@@ -1110,7 +1109,8 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "beIN SPORTS FR",
             "D SPORTS ES",
-            "SD SERVER [SWE]"
+            "SD SERVER [SWE]",
+            "TSN SPORTS FHD"
         ],
         "formatsNew": [
             {
@@ -1130,16 +1130,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "RTB GOLIVE FHD",
-                "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png"
-            },
-            {
-                "title": "TSN SPORTS FHD",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
                 "title": "D Sports FHD",
                 "logo": ""
+            },
+            {
+                "title": "RTB GOLIVE FHD",
+                "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png"
             },
             {
                 "title": "TELEMUNDO FHD",
@@ -1336,6 +1332,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "SD SERVER [SWE]",
                 "logo": ""
+            },
+            {
+                "title": "TSN SPORTS FHD",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             }
         ]
     },
@@ -4092,7 +4092,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
-        "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1ac@gocua004jqci1kc2ikrqfeibufrtafqwgkg41vca/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query|user-agent=Mozila",
+        "link": "https://rcg-bks400-06.starhubgo.com/bpk-token/1ac@moa2dai3bqpaqegwgp2ffayhaqtda5aamkewypaa/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query|user-agent=Mozila",
         "logo": "https://iili.io/CziyHTQ.png",
         "title": "FIFA WC FEED",
         "type": "1"
@@ -4112,25 +4112,18 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "0"
     },
     {
+        "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozila",
+        "logo": "",
+        "title": "D Sports FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
         "title": "RTB GOLIVE FHD",
         "type": "0"
-    },
-    {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozila",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|user-agent=Mozila",
-        "logo": "",
-        "title": "D Sports FHD",
-        "type": "1"
     },
     {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
@@ -4474,6 +4467,13 @@ URL: https://spxhomelive.lol/channels/50064.json
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
+    },
+    {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozila",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
     }
 ]
 ============================================================
