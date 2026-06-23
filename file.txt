@@ -153,7 +153,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8
 #EXTINF:-1 tvg-id="norwayvssenegal0100rte2sportsfhd" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png" group-title="Fifa world cup",Norway vs Senegal 01:00 (RTE2 SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/cf1ba3b7-c14f-48f7-8b7e-c6fc93bbcc5b:GRQ/manifest.mpd
+https://dai.google.com/linear/dash/pb/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2ba45673-4bb3-4087-93db-37ae1e96b4ee:SIN2/manifest.mpd
 
 #EXTINF:-1 tvg-id="norwayvssenegal0100rtbgolivefhd" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="Fifa world cup",Norway vs Senegal 01:00 (RTB GOLIVE FHD)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
@@ -299,7 +299,7 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="jordanvsalgeria0400rtesportsfhd" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (RTE SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/bbda78d3-2fdf-4627-af9e-9bfcc983f4c2:BRU/manifest.mpd
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2b08b904-18cc-4d97-99b7-b5d8c0f139c5:BRU/manifest.mpd
 
 #EXTINF:-1 tvg-id="jordanvsalgeria0400rtbgolivefhd" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (RTB GOLIVE FHD)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
