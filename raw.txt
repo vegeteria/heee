@@ -1291,6 +1291,7 @@ URL: https://spxhomelive.lol/events.json
             "Sporza DUTCH FHD",
             "ARABIC LIVE FHD",
             "FOX SPORTS 4K",
+            "TSN SPORTS 4K",
             "FUSSBALL TV 4K",
             "IRIB 4K",
             "TVP SPORTS FHD",
@@ -1319,7 +1320,8 @@ URL: https://spxhomelive.lol/events.json
             "SD SERVER  [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD",
-            "CT SPORTS CZ"
+            "CT SPORTS CZ",
+            "ITV SPORTS HD"
         ],
         "formatsNew": [
             {
@@ -1388,6 +1390,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -1504,6 +1510,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
+                "logo": ""
+            },
+            {
+                "title": "ITV SPORTS HD",
                 "logo": ""
             }
         ]
@@ -4607,6 +4617,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://streamxyz.shop/tsn4k/index.m3u8|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
+        "type": "0"
+    },
+    {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "",
@@ -4808,6 +4825,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "CT SPORTS CZ",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/ITV/playlist.m3u8",
+        "logo": "",
+        "title": "ITV SPORTS HD",
+        "type": "0"
     }
 ]
 ============================================================
