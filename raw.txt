@@ -1572,6 +1572,7 @@ URL: https://spxhomelive.lol/events.json
             "TIPIK FR FHD",
             "BBC SPORTS HD",
             "CT SPORTS CZ",
+            "FAST SERVER",
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
@@ -1588,7 +1589,6 @@ URL: https://spxhomelive.lol/events.json
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
             "MATCH TV RU",
-            "FAST SERVER",
             "TELEMUNDO [ALT]",
             "BBC SPORTS HD",
             "FOX SPORTS HD",
@@ -1633,6 +1633,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
+                "logo": ""
+            },
+            {
+                "title": "FAST SERVER",
                 "logo": ""
             },
             {
@@ -1697,10 +1701,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "MATCH TV RU",
-                "logo": ""
-            },
-            {
-                "title": "FAST SERVER",
                 "logo": ""
             },
             {
@@ -4948,6 +4948,13 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8rt7q53GML.m3u8?txSecret=90e42bb78e891c6706340490a4ae557f&txTime=6A3B0708",
+        "logo": "",
+        "title": "FAST SERVER",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "TELEMUNDO HD",
@@ -5057,13 +5064,6 @@ URL: https://spxhomelive.lol/channels/50068.json
         "logo": "",
         "title": "MATCH TV RU",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8aT5FCRnSS.m3u8?txSecret=7ec4031a0208bf959353d83271fdc399&txTime=6A3784E9",
-        "logo": "",
-        "title": "FAST SERVER",
-        "type": "0"
     },
     {
         "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
