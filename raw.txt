@@ -1279,6 +1279,7 @@ URL: https://spxhomelive.lol/events.json
             "TIPIK FR FHD",
             "TSN SPORTS HD",
             "ITV SPORTS HD",
+            "SportzX FHD LIVE",
             "D Sports HD",
             "RTE SPORTS FHD",
             "TOFFEE BD FHD",
@@ -1307,7 +1308,7 @@ URL: https://spxhomelive.lol/events.json
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
             "ITV SPORTS HD",
-            "FOX SPORTS HD",
+            "TSN SPORTS HD",
             "TYC SPORTS HD",
             "DAZN SPANISH",
             "ISCREEN BD FHD",
@@ -1346,6 +1347,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ITV SPORTS HD",
+                "logo": ""
+            },
+            {
+                "title": "SportzX FHD LIVE",
                 "logo": ""
             },
             {
@@ -1461,7 +1466,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX SPORTS HD",
+                "title": "TSN SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
@@ -4553,6 +4558,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-97/ouat-x8r2_1080p/chunklist_DVR.m3u8",
+        "logo": "",
+        "title": "SportzX FHD LIVE",
+        "type": "0"
+    },
+    {
         "api": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
         "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
@@ -4750,9 +4762,9 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52409/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://doret.s3.us-east-1.amazonaws.com/live/match.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS HD",
+        "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
