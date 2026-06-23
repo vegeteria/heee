@@ -528,9 +528,6 @@ https://dwvpdsrgavbzt.cloudfront.net/live/ch1/ch1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a3b68e5f2e15cfec39ee98461dfbff36:51256ff951bd8defc4604d5b92732e75
 https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/enc/brcuszv1in/out/v1/7832f893d9f043efbf0eabb9b33294cc/cenc.mpd
 
-#EXTINF:-1 tvg-id="portugalvsuzbekistan1800beinsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Portugal vs Uzbekistan 18:00 (beIN SPORTS 4K)
-https://streamxyz.shop/bein4k/index.m3u8
-
 #EXTINF:-1 tvg-id="portugalvsuzbekistan1800fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Portugal vs Uzbekistan 18:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
