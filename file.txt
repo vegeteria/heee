@@ -410,7 +410,7 @@ https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-id="jordanvsalgeria0400iscreenbdfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (ISCREEN BD FHD)
 https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
-#EXTINF:-1 tvg-id="jordanvsalgeria0400telemundoalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (TELEMUNDO  ALT )
+#EXTINF:-1 tvg-id="jordanvsalgeria0400telemundoalt" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (TELEMUNDO  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
