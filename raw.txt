@@ -1572,6 +1572,7 @@ URL: https://spxhomelive.lol/events.json
             "TIPIK FR FHD",
             "BBC SPORTS HD",
             "CT SPORTS CZ",
+            "TOFFE FHD BDIX",
             "FAST SERVER",
             "FAST SERVER 2",
             "FOX SPORTS",
@@ -1597,12 +1598,11 @@ URL: https://spxhomelive.lol/events.json
             "Sporza DUTCH FHD",
             "MATCH TV RU",
             "TELEMUNDO [ALT]",
-            "BBC SPORTS HD",
+            "TSN SPORTS HD",
             "FOX SPORTS HD",
             "ARABIC LIVE HD",
             "DAZN SPANISH",
             "ISCREEN BD FHD",
-            "TOFFE BD FHD",
             "TSN SPORTS",
             "beIN MAX HD",
             "SOMOY TV HD",
@@ -1617,7 +1617,7 @@ URL: https://spxhomelive.lol/events.json
             "HD SERVER AR",
             "SD SERVER [ENG]",
             "ENG SERVER SD",
-            "SD SERVER [JP]",
+            "SD SERVER [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD"
         ],
@@ -1640,6 +1640,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
+                "logo": ""
+            },
+            {
+                "title": "TOFFE FHD BDIX",
                 "logo": ""
             },
             {
@@ -1743,7 +1747,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "BBC SPORTS HD",
+                "title": "TSN SPORTS HD",
                 "logo": ""
             },
             {
@@ -1760,10 +1764,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ISCREEN BD FHD",
-                "logo": ""
-            },
-            {
-                "title": "TOFFE BD FHD",
                 "logo": ""
             },
             {
@@ -1823,7 +1823,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "SD SERVER [JP]",
+                "title": "SD SERVER [SWE]",
                 "logo": ""
             },
             {
@@ -4983,6 +4983,13 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782330007~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfN2ogFtj3foPavqieqMrOJwXmBP2Olt3A9hEn9kAlMEN9Ts--nvswLARW_sgorwQR794ZvOtRIc7aUXVj7KG4K",
+        "logo": "",
+        "title": "TOFFE FHD BDIX",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8rt7q53GML.m3u8?txSecret=90e42bb78e891c6706340490a4ae557f&txTime=6A3B0708",
         "logo": "",
         "title": "FAST SERVER",
@@ -5158,14 +5165,14 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52316/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52418/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "BBC SPORTS HD",
+        "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52317/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52417/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
@@ -5189,13 +5196,6 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
         "logo": "",
         "title": "ISCREEN BD FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782327610~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcVp0YAc1a8C1mhoFxbnAMxFB4Tc82zGcpe1_tXxfC1R4P2XLegQjJ-7FArv_Tb-nW9a9xk3YSu68OewEMoQhsL",
-        "logo": "",
-        "title": "TOFFE BD FHD",
         "type": "0"
     },
     {
@@ -5284,35 +5284,35 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/adXFPPPA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/XZAZAZAZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.42/hls/adXVVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/XFOFOFO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
+        "link": "http://193.47.62.51/hls/XZAZAZAZAS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SD SERVER [JP]",
+        "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/adXZRRRZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/XJUJUJUSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/adXZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/XJUJUJUS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
