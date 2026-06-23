@@ -1289,10 +1289,9 @@ URL: https://spxhomelive.lol/events.json
             "CAZE TV FHD",
             "TELEMUNDO HD",
             "ARABIC LIVE FHD",
-            "FOX SPORTS 4K",
+            "FUSSBALL TV 4K",
             "TVP SPORTS FHD",
             "CT SPORTS CZ",
-            "Sporza DUTCH FHD",
             "MATCH TV RU",
             "M6 FRANCE FHD",
             "IRIB 4K",
@@ -1319,7 +1318,8 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER  [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "Sporza DUTCH FHD"
         ],
         "formatsNew": [
             {
@@ -1328,7 +1328,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TIPIK FR FHD",
-                "logo": ""
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
             },
             {
                 "title": "TSN SPORTS HD",
@@ -1383,7 +1383,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX SPORTS 4K",
+                "title": "FUSSBALL TV 4K",
                 "logo": ""
             },
             {
@@ -1392,10 +1392,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
-                "logo": ""
-            },
-            {
-                "title": "Sporza DUTCH FHD",
                 "logo": ""
             },
             {
@@ -1504,6 +1500,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
+                "logo": ""
+            },
+            {
+                "title": "Sporza DUTCH FHD",
                 "logo": ""
             }
         ]
@@ -4497,7 +4497,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
         "title": "TIPIK FR FHD",
         "type": "1"
     },
@@ -4593,11 +4593,11 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://inproviszon.st/fox4k.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "",
-        "title": "FOX SPORTS 4K",
-        "type": "0"
+        "title": "FUSSBALL TV 4K",
+        "type": "1"
     },
     {
         "api": "0:0",
@@ -4611,13 +4611,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "logo": "",
         "title": "CT SPORTS CZ",
-        "type": "1"
-    },
-    {
-        "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "logo": "",
-        "title": "Sporza DUTCH FHD",
         "type": "1"
     },
     {
@@ -4808,6 +4801,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
+    },
+    {
+        "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "logo": "",
+        "title": "Sporza DUTCH FHD",
+        "type": "1"
     }
 ]
 ============================================================
