@@ -1274,10 +1274,9 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "FOX SPORTS FHD",
             "TRT SPORTS 2K",
+            "FOX SPORTS FHD",
             "TIPIK FR FHD",
-            "FIFA WC FEED",
             "TSN SPORTS HD",
             "ITV SPORTS HD",
             "SportzX FHD LIVE",
@@ -1296,7 +1295,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO HD",
             "Sporza DUTCH FHD",
             "ARABIC LIVE FHD",
-            "FOX SPORTS 4K",
+            "FOX SPORTS FHD",
             "TSN SPORTS 4K",
             "beIN SPORTS 4K",
             "FUSSBALL TV 4K",
@@ -1331,20 +1330,16 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "FOX SPORTS FHD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
                 "title": "TRT SPORTS 2K",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png"
             },
             {
-                "title": "TIPIK FR FHD",
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
+                "title": "FOX SPORTS FHD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "FIFA WC FEED",
-                "logo": ""
+                "title": "TIPIK FR FHD",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
             },
             {
                 "title": "TSN SPORTS HD",
@@ -1419,7 +1414,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX SPORTS 4K",
+                "title": "FOX SPORTS FHD",
                 "logo": ""
             },
             {
@@ -4529,16 +4524,16 @@ URL: https://spxhomelive.lol/channels/50067.json
 [
     {
         "api": "",
-        "link": "https://inproviszon.st/fox.m3u8",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS FHD",
+        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png",
+        "title": "TRT SPORTS 2K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png",
-        "title": "TRT SPORTS 2K",
+        "link": "https://inproviszon.st/fox.m3u8",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS FHD",
         "type": "0"
     },
     {
@@ -4550,13 +4545,6 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-        "logo": "",
-        "title": "FIFA WC FEED",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52409/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
@@ -4564,7 +4552,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/ITV/playlist.m3u8?|accept-language=en-GB",
+        "link": "https://chatgpt.hereisman.net/playlist/52408/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "ITV SPORTS HD",
         "type": "0"
@@ -4682,11 +4670,11 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://inproviszon.st/fox4k.m3u8?|accept-language=en-GB",
+        "api": "a3b68e5f2e15cfec39ee98461dfbff36:51256ff951bd8defc4604d5b92732e75",
+        "link": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/enc/brcuszv1in/out/v1/7832f893d9f043efbf0eabb9b33294cc/cenc.mpd",
         "logo": "",
-        "title": "FOX SPORTS 4K",
-        "type": "0"
+        "title": "FOX SPORTS FHD",
+        "type": "1"
     },
     {
         "api": "",
@@ -4697,7 +4685,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/bein4k.m3u8?|accept-language=en-GB",
+        "link": "https://streamxyz.shop/bein4k/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "",
         "title": "beIN SPORTS 4K",
         "type": "0"
