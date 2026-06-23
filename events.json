@@ -1571,6 +1571,17 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
+        "name": "Portugal vs Uzbekistan (D Sports HD)",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c"
+    },
+    {
         "name": "Portugal vs Uzbekistan (TRT SPORTS 2K)",
         "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png",
@@ -1580,8 +1591,8 @@
         "cookie": ""
     },
     {
-        "name": "Portugal vs Uzbekistan (FOX SPORTS FHD)",
-        "link": "https://inproviszon.st/fox.m3u8",
+        "name": "Portugal vs Uzbekistan (SportzX FHD LIVE)",
+        "link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-97/ouat-x8r2_1080p/chunklist_DVR.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
@@ -1609,6 +1620,15 @@
         "cookie": ""
     },
     {
+        "name": "Portugal vs Uzbekistan (TOFFEE BD FHD)",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782308414~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcaHQ5d5a91K8YyfS7yi4Bv00UrewTSq4ReESRRjtAKQSRyDoiDdnHBUNxx-UoRREfoIbaQN7nx9pWK3WMojHMM",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Portugal vs Uzbekistan (ITV SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52408/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1618,24 +1638,13 @@
         "cookie": ""
     },
     {
-        "name": "Portugal vs Uzbekistan (SportzX FHD LIVE)",
-        "link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-97/ouat-x8r2_1080p/chunklist_DVR.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "name": "Portugal vs Uzbekistan (FOX SPORTS HD)",
+        "link": "https://inproviszon.st/fox.m3u8",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "Portugal vs Uzbekistan (D Sports HD)",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c"
     },
     {
         "name": "Portugal vs Uzbekistan (RTE SPORTS FHD)",
@@ -1647,15 +1656,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
-    },
-    {
-        "name": "Portugal vs Uzbekistan (TOFFEE BD FHD)",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782308414~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcaHQ5d5a91K8YyfS7yi4Bv00UrewTSq4ReESRRjtAKQSRyDoiDdnHBUNxx-UoRREfoIbaQN7nx9pWK3WMojHMM",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "Portugal vs Uzbekistan (ARABIC LIVE FHD)",
@@ -1768,7 +1768,7 @@
     {
         "name": "Portugal vs Uzbekistan (TELEMUNDO FHD)",
         "link": "https://streamxyz.shop/Telemundo/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "https://xyzstreams.shop/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1806,7 +1806,7 @@
     {
         "name": "Portugal vs Uzbekistan (FOX SPORTS FHD)",
         "link": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/enc/brcuszv1in/out/v1/7832f893d9f043efbf0eabb9b33294cc/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1817,7 +1817,7 @@
     {
         "name": "Portugal vs Uzbekistan (TSN SPORTS 4K)",
         "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN4K/playlist.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1826,7 +1826,7 @@
     {
         "name": "Portugal vs Uzbekistan (beIN SPORTS 4K)",
         "link": "https://streamxyz.shop/bein4k/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "",
         "referrer": "https://xyzstreams.shop/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
