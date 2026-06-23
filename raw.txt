@@ -450,34 +450,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50056,
-        "title": "Atlanta Dream vs Toronto Tempo",
-        "image": "o",
-        "cat": "WNBA",
-        "eventInfo": {
-            "teamA": "Atlanta",
-            "teamB": "Tempo",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
-            "eventName": "Atlanta Dream vs Toronto Tempo",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/22 23:30:00 +0000",
-            "endTime": "2026/06/23 02:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50057,
         "title": "Storm vs Dallas Wings",
         "image": "o",
@@ -3137,18 +3109,6 @@ URL: https://spxhomelive.lol/channels/50053.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50056.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50057.json
 ============================================================
 [
@@ -3766,7 +3726,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/iFpT3yfcJ4b0o1GDxiuNZxYh_GCs6BEFTG8uY-2NXztPPQ9fmmbvQncxXkNsVegOQNYSd9A1qu0U7_S7vh-L1Q/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8?type=live",
+        "link": "https://euc11.playlist.ttvnw.net/v1/playlist/CrcHR3pFKWXvKMtrSwh1ABRdt4ndv3pRovHu8QBBe7ZgYNg8BgMroqvH4Ta0o2MYKXPbhKXjXfmDXQOV_0zg81wJmhto4LxBwaNEY3Ty3jdB47FHqKEiOsVrABtT43fvW5eJTlT2nUJFUXemdeI85GS55iz9AMGvMVxndjJY_kQ7epyzvZTiyHpKz4RqZJ1FTRovzSi1zKtNtsH7qpx43A_gHH2w1r52ShimGIW2Ly6jw-86S4ayTO38UrS8ww7vKVvSLWhFr3Wo9SwjdFEqnJpVb6A2nUrabJKgw8V3EOQvKK0qe1vZOsQdsoTjTpicZrw0eIf9PSjPu9Ks3jRX156aTNGbepqNZnNMEb1JLzMcscQVcmP2_Yn7EGVonHf_fEX_4bIkeigmB2MOrCjAk_CXJ9y3ElZW7mOk7SvQ1-BT_2yun2jdYZvAcZylZ2nmExsD8PaNeL7rSB97CdAj-xRXQqcU1ZbeDO-YVDsHJne_AdlvDMfMBQbRUdA48FqyaozMDEv9nxV_b1unAtfouPnUOQvEwwTY9-Z1pVRo3Wx_tHsInBi_V0rZirqbw4xbJm3VIKALCE3tLklk27IyrKlrLimrCoWA-SsbYlQX4hTTKqPp92efihI7EAdJaNBpAiVMQfp1OZrAYJbnY-jwRNHw3CQHu-tY9mI1Ez5B8G-vjTEpr34RyiSOPITosQiH1j8d4kHCUqwpA0PangC9B03Z_kMyl3eD-8Slp8namzlHaZsDdxyA7Z-AzeGOBf4O04blzL4I2H_fTJwmBjlO7OjakxOrwvB4RBBmykmhI2Ty63Cd7O6aQ5VykqYWiMPdVVJzFTbOswmY7UsSe1v-0EFjOwPSKlu9R6GXT8AmPxhl0-YjyXWvifULg2CnR9HI37N-f31ZGyR_e44W3FecfL8a1bY5kA7fA_UkEkMoEOQNWCAw3thwR2vMsTnNIIhj4otGqYllk16AY5lVDpIJdFRBdpxNDkNo3Ap_2B2EEIKfcbH6_RhRw5lTXfK8gNJngoe3ElPK3N5SuRXSVAmdHmf7TknVaM1azkau8WJhVhZsygAQudtDKTBf3FrM75iU9tKWNDOvqyGdypSR3xmdicV2hOGfJRjYTsoF9vARfLjvg3RrdRDBppun3Dmn1SMJKjS9t3nsNM8emVc_QEtae8efCSeMLamiXgWTq0bGsndK0XoXu9M_WxgEzrqg3GA15GZXFkWsTm3_4vVw0jC-jVBlUZaoxob9170iW3RWz1kYOSx96W_YsSHWGgzouDy3SykRp661bdUgASoJZXUtd2VzdC0yMLgP.m3u8",
         "logo": "",
         "title": "ARABIC LIVE - AQ",
         "type": "0"
