@@ -1262,7 +1262,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
             "eventName": "Portugal vs Uzbekistan",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/23 17:00:00 +0000",
             "endTime": "2026/06/23 19:15:00 +0000"
         },
@@ -1271,11 +1271,11 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "CAZE TV FHD",
             "D Sports HD",
-            "TRT SPORTS 2K",
-            "SportzX FHD LIVE",
             "TIPIK FR FHD",
             "TSN SPORTS HD",
             "TOFFEE BD FHD",
+            "TRT SPORTS 2K",
+            "SportzX FHD LIVE",
             "ISCREEN BD FHD",
             "ITV SPORTS HD",
             "FOX SPORTS HD",
@@ -1335,14 +1335,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TRT SPORTS 2K",
-                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png"
-            },
-            {
-                "title": "SportzX FHD LIVE",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
                 "title": "TIPIK FR FHD",
                 "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
             },
@@ -1353,6 +1345,14 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TOFFEE BD FHD",
                 "logo": ""
+            },
+            {
+                "title": "TRT SPORTS 2K",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png"
+            },
+            {
+                "title": "SportzX FHD LIVE",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "ISCREEN BD FHD",
@@ -1560,7 +1560,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
             "eventName": "England vs Ghana",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/23 20:00:00 +0000",
             "endTime": "2026/06/23 22:15:00 +0000"
         },
@@ -4535,20 +4535,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png",
-        "title": "TRT SPORTS 2K",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-97/ouat-x8r2_1080p/chunklist_DVR.m3u8",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "SportzX FHD LIVE",
-        "type": "0"
-    },
-    {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
@@ -4567,6 +4553,20 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782308414~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcaHQ5d5a91K8YyfS7yi4Bv00UrewTSq4ReESRRjtAKQSRyDoiDdnHBUNxx-UoRREfoIbaQN7nx9pWK3WMojHMM",
         "logo": "",
         "title": "TOFFEE BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png",
+        "title": "TRT SPORTS 2K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-97/ouat-x8r2_1080p/chunklist_DVR.m3u8",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "SportzX FHD LIVE",
         "type": "0"
     },
     {
