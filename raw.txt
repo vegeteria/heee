@@ -730,7 +730,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4767/image",
             "eventName": "France vs Iraq",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/23 00:00:00 +0000",
             "endTime": "2026/06/23 01:00:00 +0000"
         },
@@ -1043,6 +1043,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS FHD",
             "TSN SPORTS FHD",
             "ITV SPORTS FHD",
+            "FIFA WC FEED",
             "RTE PLAYER FHD",
             "TSN SPORTS HD",
             "SportzX FHD LIVE",
@@ -1106,6 +1107,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "ITV SPORTS FHD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/fy3hvo1678355466.png"
+            },
+            {
+                "title": "FIFA WC FEED",
+                "logo": "https://iili.io/CziyHTQ.png"
             },
             {
                 "title": "RTE PLAYER FHD",
@@ -1331,7 +1336,7 @@ URL: https://spxhomelive.lol/events.json
             "RTE SPORTS FHD",
             "CTV SPORTS FHD",
             "RTB GOLIVE FHD",
-            "FOX ONE FHD",
+            "FOX SPORTS FHD",
             "TSN SPORTS FHD",
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
@@ -1394,7 +1399,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png"
             },
             {
-                "title": "FOX ONE FHD",
+                "title": "FOX SPORTS FHD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
@@ -3776,6 +3781,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
+        "api": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
+        "link": "https://rcg-bks400-06.starhubgo.com/bpk-token/1ac@moa2dai3bqpaqegwgp2ffayhaqtda5aamkewypaa/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query|user-agent=Mozila",
+        "logo": "https://iili.io/CziyHTQ.png",
+        "title": "FIFA WC FEED",
+        "type": "1"
+    },
+    {
         "api": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a",
         "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
@@ -4153,10 +4165,10 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "0"
     },
     {
-        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozila",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozila",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX ONE FHD",
+        "title": "FOX SPORTS FHD",
         "type": "1"
     },
     {
@@ -4174,8 +4186,8 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "1"
     },
     {
-        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "",
         "title": "FOX ONE FHD [ALT]",
         "type": "1"

@@ -1046,6 +1046,17 @@
         "drmLicense": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
     },
     {
+        "name": "Norway vs Senegal (FIFA WC FEED)",
+        "link": "https://rcg-bks400-06.starhubgo.com/bpk-token/1ac@moa2dai3bqpaqegwgp2ffayhaqtda5aamkewypaa/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query",
+        "logo": "https://iili.io/CziyHTQ.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413"
+    },
+    {
         "name": "Norway vs Senegal (RTE PLAYER FHD)",
         "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
@@ -1571,15 +1582,15 @@
         "cookie": ""
     },
     {
-        "name": "Jordan vs Algeria (FOX ONE FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "name": "Jordan vs Algeria (FOX SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozila",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
         "name": "Jordan vs Algeria (TSN SPORTS FHD)",
@@ -1605,14 +1616,14 @@
     },
     {
         "name": "Jordan vs Algeria (FOX ONE FHD [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
         "name": "Jordan vs Algeria (TRT SPORTS 2K)",
