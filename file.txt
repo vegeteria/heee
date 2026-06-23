@@ -750,8 +750,8 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v
 
 #EXTINF:-1 tvg-id="panamavscroatia0000dsportsfhd" tvg-logo="https://iili.io/CTbh7Gj.png" group-title="Fifa world cup",Panama vs Croatia 00:00 (DSports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
 #EXTINF:-1 tvg-id="panamavscroatia0000cazetvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Panama vs Croatia 00:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -833,9 +833,6 @@ https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
-
-#EXTINF:-1 tvg-id="panamavscroatia0000foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Panama vs Croatia 00:00 (FOX SPORTS HD)
-https://storage.googleapis.com/mslakers/btsport/manifest.m3u8
 
 #EXTINF:-1 tvg-id="panamavscroatia0000tycsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Panama vs Croatia 00:00 (TYC SPORTS HD)
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
