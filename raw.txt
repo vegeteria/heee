@@ -1580,11 +1580,14 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE [ALT]",
             "TSN SPORTS [ALT]",
             "FOX ONE 4K [ALT]",
+            "FOX SPORTS 4K",
             "PEACOCK FHD [ALT]",
             "FUSSBALL TV 4K",
             "IRIB 4K",
             "TSN SPORTS 4K",
             "beIN SPORTS 4K",
+            "beIN MAX HDR",
+            "TELEMUNDO FHD",
             "SporTV BR FHD",
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
@@ -1612,7 +1615,8 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER [JP]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "FAST SERVER 2"
         ],
         "formatsNew": [
             {
@@ -1668,6 +1672,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
+                "title": "FOX SPORTS 4K",
+                "logo": ""
+            },
+            {
                 "title": "PEACOCK FHD [ALT]",
                 "logo": ""
             },
@@ -1685,6 +1693,14 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "beIN SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "beIN MAX HDR",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
@@ -1797,6 +1813,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
+                "logo": ""
+            },
+            {
+                "title": "FAST SERVER 2",
                 "logo": ""
             }
         ]
@@ -5004,6 +5024,13 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "FOX SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "ok",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
@@ -5035,6 +5062,20 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "https://wc.streamxyz.shop:2053/bein/index.m3u8?|referer=https://xyzstreams.shop/",
         "logo": "",
         "title": "beIN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://wc.streamxyz.shop:2053/bein4k/index.m3u8?|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "beIN MAX HDR",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://wc.streamxyz.shop:2053/Telemundo/index.m3u8?|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
         "type": "0"
     },
     {
@@ -5231,6 +5272,13 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "http://193.47.62.59/hls/adXZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4460936.m3u8?txSecret=5445351240630d2d051417b47fe2093b&txTime=6A3AF2A8|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "FAST SERVER 2",
         "type": "0"
     }
 ]
