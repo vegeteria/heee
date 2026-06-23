@@ -1376,6 +1376,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO HD",
             "FOX ONE 4K",
             "FOX ONE 4K [ALT]",
+            "FUSSBALL2 4K [GER]",
             "FUSSBALL TV 4K",
             "TRT SPORTS 2K",
             "IRIB 4K",
@@ -1481,6 +1482,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX ONE 4K [ALT]",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL2 4K [GER]",
                 "logo": ""
             },
             {
@@ -4605,6 +4610,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "",
         "title": "FOX ONE 4K [ALT]",
+        "type": "1"
+    },
+    {
+        "api": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL2 4K [GER]",
         "type": "1"
     },
     {
