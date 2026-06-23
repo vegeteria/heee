@@ -2188,11 +2188,11 @@ URL: https://spxhomelive.lol/events.json
             "TSN FHD LIVE",
             "FAST SERVER",
             "TELEMUNDO HD",
-            "TELEMUNDO HD",
-            "FUSSBALL TV 4K",
-            "TRT SPORTS 2K",
-            "IRIB 4K",
-            "ARABIC LIVE FHD",
+            "TSN SPORTS FHD",
+            "FOX SPORTS HD",
+            "FOX SPORTS 4K",
+            "TSN SPORTS [ALT]",
+            "FOX SPORTS [ALT]",
             "TIPIK FR FHD",
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
@@ -2280,23 +2280,23 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO HD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+                "title": "TSN SPORTS FHD",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "FUSSBALL TV 4K",
+                "title": "FOX SPORTS HD",
                 "logo": ""
             },
             {
-                "title": "TRT SPORTS 2K",
+                "title": "FOX SPORTS 4K",
                 "logo": ""
             },
             {
-                "title": "IRIB 4K",
+                "title": "TSN SPORTS [ALT]",
                 "logo": ""
             },
             {
-                "title": "ARABIC LIVE FHD",
+                "title": "FOX SPORTS [ALT]",
                 "logo": ""
             },
             {
@@ -5829,39 +5829,39 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO HD",
-        "type": "0"
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
     },
     {
-        "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
-        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "",
-        "title": "FUSSBALL TV 4K",
+        "title": "FOX SPORTS HD",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?|accept-language=en-GB",
         "logo": "",
-        "title": "TRT SPORTS 2K",
+        "title": "FOX SPORTS 4K",
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "",
-        "title": "IRIB 4K",
-        "type": "0"
+        "title": "TSN SPORTS [ALT]",
+        "type": "1"
     },
     {
-        "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/3xPCOGPxoFnsIOqj1Z-LnlsM1JkjdVb44RxrzHJ-vX1svBBsfRsbh0XGjX76tlEHoJpW2mMn8JMLPsixebBUMg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "",
-        "title": "ARABIC LIVE FHD",
-        "type": "0"
+        "title": "FOX SPORTS [ALT]",
+        "type": "1"
     },
     {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",

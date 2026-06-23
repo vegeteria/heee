@@ -3290,7 +3290,7 @@
     {
         "name": "Colombia vs DR Congo (TELEMUNDO HD)",
         "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -3299,51 +3299,57 @@
         "drmLicense": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6"
     },
     {
-        "name": "Colombia vs DR Congo (TELEMUNDO HD)",
-        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
+        "name": "Colombia vs DR Congo (TSN SPORTS FHD)",
+        "link": "https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "Colombia vs DR Congo (FOX SPORTS HD)",
+        "link": "https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+    },
+    {
+        "name": "Colombia vs DR Congo (FOX SPORTS 4K)",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Colombia vs DR Congo (FUSSBALL TV 4K)",
-        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
+        "name": "Colombia vs DR Congo (TSN SPORTS [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "Colombia vs DR Congo (TRT SPORTS 2K)",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "name": "Colombia vs DR Congo (FOX SPORTS [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Colombia vs DR Congo (IRIB 4K)",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Colombia vs DR Congo (ARABIC LIVE FHD)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/3xPCOGPxoFnsIOqj1Z-LnlsM1JkjdVb44RxrzHJ-vX1svBBsfRsbh0XGjX76tlEHoJpW2mMn8JMLPsixebBUMg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
         "name": "Colombia vs DR Congo (TIPIK FR FHD)",
