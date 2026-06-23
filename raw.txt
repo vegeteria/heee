@@ -1278,6 +1278,7 @@ URL: https://spxhomelive.lol/events.json
             "TRT SPORTS 2K",
             "TIPIK FR FHD",
             "TSN SPORTS HD",
+            "ITV SPORTS HD",
             "D Sports HD",
             "RTE SPORTS FHD",
             "TOFFEE BD FHD",
@@ -1321,8 +1322,7 @@ URL: https://spxhomelive.lol/events.json
             "SD SERVER  [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD",
-            "CT SPORTS CZ",
-            "ITV SPORTS HD"
+            "CT SPORTS CZ"
         ],
         "formatsNew": [
             {
@@ -1340,6 +1340,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TSN SPORTS HD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+            },
+            {
+                "title": "ITV SPORTS HD",
+                "logo": ""
             },
             {
                 "title": "D Sports HD",
@@ -1515,10 +1519,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
-                "logo": ""
-            },
-            {
-                "title": "ITV SPORTS HD",
                 "logo": ""
             }
         ]
@@ -4531,6 +4531,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/ITV/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "ITV SPORTS HD",
+        "type": "0"
+    },
+    {
         "api": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
         "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
@@ -4623,7 +4630,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox4k.m3u8",
+        "link": "https://inproviszon.st/fox4k.m3u8?|accept-language=en-GB",
         "logo": "",
         "title": "FOX SPORTS 4K",
         "type": "0"
@@ -4837,13 +4844,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "CT SPORTS CZ",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/ITV/playlist.m3u8?|accept-language=en-GB",
-        "logo": "",
-        "title": "ITV SPORTS HD",
-        "type": "0"
     }
 ]
 ============================================================
