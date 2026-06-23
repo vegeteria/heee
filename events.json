@@ -1878,7 +1878,7 @@
     },
     {
         "name": "Portugal vs Uzbekistan (FAST SERVER)",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8ftiUfugar.m3u8?txSecret=ad05be13ed4690721c8c2d3fb2e94d66&txTime=6A3AE368",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1887,12 +1887,14 @@
     },
     {
         "name": "Portugal vs Uzbekistan (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021304-723162-4911d1596da)/master_2hr.mpd?c3.ri=6a3ab587_Q1ZYMDc_1_RkFTVExZ_ba07b853e376%3A0&aws.sessionId=d605bd75-01fe-4658-a986-76049a013461&ck=eyIwMDIyNmNiMDQwY2NjODNkMWU0MmZjNTU4YzhmNjVmNCI6IjM0NjJlYWQ0ZjIxMGEzZjI1OWY0NzY5ZDhmYzcxYjA4In0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "00226cb040ccc83d1e42fc558c8f65f4:3462ead4f210a3f259f4769d8fc71b08"
     },
     {
         "name": "Portugal vs Uzbekistan (TELEMUNDO [ALT])",
