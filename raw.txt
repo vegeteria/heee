@@ -1288,13 +1288,14 @@ URL: https://spxhomelive.lol/events.json
             "ITV 1 FHD [ALT]",
             "CAZE TV FHD",
             "TELEMUNDO HD",
+            "Sporza DUTCH FHD",
             "ARABIC LIVE FHD",
             "FUSSBALL TV 4K",
+            "IRIB 4K",
             "TVP SPORTS FHD",
             "CT SPORTS CZ",
             "MATCH TV RU",
             "M6 FRANCE FHD",
-            "IRIB 4K",
             "FAST SERVER",
             "TELEMUNDO [ALT]",
             "PEACOCK FHD [ALT]",
@@ -1318,8 +1319,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER  [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "Sporza DUTCH FHD"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -1379,11 +1379,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
+                "title": "Sporza DUTCH FHD",
+                "logo": ""
+            },
+            {
                 "title": "ARABIC LIVE FHD",
                 "logo": ""
             },
             {
                 "title": "FUSSBALL TV 4K",
+                "logo": ""
+            },
+            {
+                "title": "IRIB 4K",
                 "logo": ""
             },
             {
@@ -1400,10 +1408,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "M6 FRANCE FHD",
-                "logo": ""
-            },
-            {
-                "title": "IRIB 4K",
                 "logo": ""
             },
             {
@@ -1500,10 +1504,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "Sporza DUTCH FHD",
                 "logo": ""
             }
         ]
@@ -4586,6 +4586,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
+        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+        "logo": "",
+        "title": "Sporza DUTCH FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "ok",
         "logo": "",
@@ -4598,6 +4605,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "FUSSBALL TV 4K",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "logo": "",
+        "title": "IRIB 4K",
+        "type": "0"
     },
     {
         "api": "0:0",
@@ -4626,13 +4640,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "M6 FRANCE FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "",
-        "title": "IRIB 4K",
-        "type": "0"
     },
     {
         "api": "",
@@ -4801,13 +4808,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
-    },
-    {
-        "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "logo": "",
-        "title": "Sporza DUTCH FHD",
-        "type": "1"
     }
 ]
 ============================================================
