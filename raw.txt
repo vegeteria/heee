@@ -1347,25 +1347,24 @@ URL: https://spxhomelive.lol/events.json
             "SporTV BR FHD",
             "TRT SPORTS 2K",
             "TELEMUNDO HD",
+            "beIN MAX HD",
             "RTB SPORTS FHD",
             "FUSSBALL TV 4K",
             "IRIB 4K",
             "TIPIK FR FHD",
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
+            "JOJ SPORTS FHD",
             "Match Football FHD",
             "FAST SERVER",
             "TOFFEE BD FHD",
+            "ISCREEN BD FHD",
             "PEACOCK FHD [ALT]",
+            "TELEMUNDO [ALT]",
             "ITV SPORTS HD",
             "FOX SPORTS HD",
             "ARABIC LIVE HD",
-            "TOFFEE BD FHD",
-            "ISCREEN BD FHD",
             "DAZN SPANISH",
-            "TYC SPORTS HD",
-            "M6 FRANCE SD",
-            "JOJ SPORTS FHD",
             "beIN MAX HD",
             "TSN SPORTS",
             "Somoy TV HD",
@@ -1373,7 +1372,7 @@ URL: https://spxhomelive.lol/events.json
             "ORF GERMAN HD",
             "FUSSBALL 4K [GER]",
             "FUSSBALL TV FHD",
-            "TELEMUNDO SPANISH",
+            "TELEMUNDO [USA]",
             "SportzX Live",
             "HD SERVER EN",
             "HD SERVER EN 2",
@@ -1382,8 +1381,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "beIN SPORTS FR"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -1443,6 +1441,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
+                "title": "beIN MAX HD",
+                "logo": ""
+            },
+            {
                 "title": "RTB SPORTS FHD",
                 "logo": ""
             },
@@ -1467,6 +1469,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "JOJ SPORTS FHD",
+                "logo": ""
+            },
+            {
                 "title": "Match Football FHD",
                 "logo": ""
             },
@@ -1479,7 +1485,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "ISCREEN BD FHD",
+                "logo": ""
+            },
+            {
                 "title": "PEACOCK FHD [ALT]",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO [ALT]",
                 "logo": ""
             },
             {
@@ -1495,27 +1509,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TOFFEE BD FHD",
-                "logo": ""
-            },
-            {
-                "title": "ISCREEN BD FHD",
-                "logo": ""
-            },
-            {
                 "title": "DAZN SPANISH",
-                "logo": ""
-            },
-            {
-                "title": "TYC SPORTS HD",
-                "logo": ""
-            },
-            {
-                "title": "M6 FRANCE SD",
-                "logo": ""
-            },
-            {
-                "title": "JOJ SPORTS FHD",
                 "logo": ""
             },
             {
@@ -1547,7 +1541,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO SPANISH",
+                "title": "TELEMUNDO [USA]",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
@@ -1584,10 +1578,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "beIN SPORTS FR",
                 "logo": ""
             }
         ]
@@ -3977,11 +3967,11 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "0022fb73d8023c8ce5ca375276cd7d75:2086ca62c54f76f1219f6c08530c1204",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021289-723147-4911c30b50b)/master_2hr.mpd?c3.ri=6a39c9ba_Q1ZYMDc_1_Q0xPVURGUk9OVA_c10be7f027e9%3A0&aws.sessionId=6593437c-beaf-42bd-8e1b-89367e267c6e&ck=eyIwMDIyZmI3M2Q4MDIzYzhjZTVjYTM3NTI3NmNkN2Q3NSI6IjIwODZjYTYyYzU0Zjc2ZjEyMTlmNmMwODUzMGMxMjA0In0%3D",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
@@ -4243,6 +4233,13 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
+        "link": "https://oottoo.online/max2--g/tracks-v1a1/mono.m3u8",
+        "logo": "",
+        "title": "beIN MAX HD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
         "logo": "",
         "title": "RTB SPORTS FHD",
@@ -4284,6 +4281,13 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "1"
     },
     {
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "logo": "",
+        "title": "JOJ SPORTS FHD",
+        "type": "1"
+    },
+    {
         "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "",
@@ -4305,10 +4309,24 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "0"
     },
     {
-        "api": "002234fd23288eb450e272afcde420e5:038bdf9a0b7c95e229b7adde7730832e",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021222-723080-49118325e08)/master_2hr.mpd?c3.ri=6a36e2ad_Q1ZYMDc_1_Q0xPVURGUk9OVA_913c910a0be8%3A0&aws.sessionId=c681c294-ada0-4cb4-80fd-fe8895aafd2f&ck=eyIwMDIyMzRmZDIzMjg4ZWI0NTBlMjcyYWZjZGU0MjBlNSI6IjAzOGJkZjlhMGI3Yzk1ZTIyOWI3YWRkZTc3MzA4MzJlIn0%3D",
+        "api": "",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "ISCREEN BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "ok",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
+        "type": "0"
+    },
+    {
+        "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "logo": "",
+        "title": "TELEMUNDO [ALT]",
         "type": "1"
     },
     {
@@ -4327,23 +4345,9 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "link": "ok",
         "logo": "",
         "title": "ARABIC LIVE HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8?hdntl=Expires=1782068407~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ-fnG5VCENnh7UipA-OFUboXqMllBhNy-DD5XkY6OiAZweruavHbK-Kyw20ZHHljxXpcYyp2CqLoV1hjjMc16oN",
-        "logo": "",
-        "title": "TOFFEE BD FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
-        "logo": "",
-        "title": "ISCREEN BD FHD",
         "type": "0"
     },
     {
@@ -4352,27 +4356,6 @@ URL: https://spxhomelive.lol/channels/50066.json
         "logo": "",
         "title": "DAZN SPANISH",
         "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
-        "logo": "",
-        "title": "TYC SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "logo": "",
-        "title": "M6 FRANCE SD",
-        "type": "1"
-    },
-    {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "",
-        "title": "JOJ SPORTS FHD",
-        "type": "1"
     },
     {
         "api": "",
@@ -4427,7 +4410,7 @@ URL: https://spxhomelive.lol/channels/50066.json
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO SPANISH",
+        "title": "TELEMUNDO [USA]",
         "type": "1"
     },
     {
@@ -4460,44 +4443,37 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/dXFPPPA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/dXVVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SD SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/dXVVVVZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/dXZRRRZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/dXZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/FyhWIHK7Zi_X4EafwFVbZFR7UQnSmbEWBrbwTB8pUFCRJLw80_Pq2R_X9cQ96Q0Sh7CQ7473As5FXtep6_IWGQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "logo": "",
-        "title": "beIN SPORTS FR",
         "type": "0"
     }
 ]

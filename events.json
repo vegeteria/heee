@@ -1333,12 +1333,14 @@
     },
     {
         "name": "Norway vs Senegal (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021289-723147-4911c30b50b)/master_2hr.mpd?c3.ri=6a39c9ba_Q1ZYMDc_1_Q0xPVURGUk9OVA_c10be7f027e9%3A0&aws.sessionId=6593437c-beaf-42bd-8e1b-89367e267c6e&ck=eyIwMDIyZmI3M2Q4MDIzYzhjZTVjYTM3NTI3NmNkN2Q3NSI6IjIwODZjYTYyYzU0Zjc2ZjEyMTlmNmMwODUzMGMxMjA0In0%3D",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022fb73d8023c8ce5ca375276cd7d75:2086ca62c54f76f1219f6c08530c1204"
     },
     {
         "name": "Norway vs Senegal (TELEMUNDO [ALT])",
@@ -1699,6 +1701,15 @@
         "cookie": ""
     },
     {
+        "name": "Jordan vs Algeria (beIN MAX HD)",
+        "link": "https://oottoo.online/max2--g/tracks-v1a1/mono.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Jordan vs Algeria (RTB SPORTS FHD)",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1761,6 +1772,17 @@
         "drmLicense": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460"
     },
     {
+        "name": "Jordan vs Algeria (JOJ SPORTS FHD)",
+        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
         "name": "Jordan vs Algeria (Match Football FHD)",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1790,15 +1812,33 @@
         "cookie": ""
     },
     {
+        "name": "Jordan vs Algeria (ISCREEN BD FHD)",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://iscreen.com.bd/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Jordan vs Algeria (PEACOCK FHD [ALT])",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021222-723080-49118325e08)/master_2hr.mpd?c3.ri=6a36e2ad_Q1ZYMDc_1_Q0xPVURGUk9OVA_913c910a0be8%3A0&aws.sessionId=c681c294-ada0-4cb4-80fd-fe8895aafd2f&ck=eyIwMDIyMzRmZDIzMjg4ZWI0NTBlMjcyYWZjZGU0MjBlNSI6IjAzOGJkZjlhMGI3Yzk1ZTIyOWI3YWRkZTc3MzA4MzJlIn0%3D",
+        "link": "ok",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Jordan vs Algeria (TELEMUNDO [ALT])",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "002234fd23288eb450e272afcde420e5:038bdf9a0b7c95e229b7adde7730832e"
+        "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
     },
     {
         "name": "Jordan vs Algeria (ITV SPORTS HD)",
@@ -1820,28 +1860,10 @@
     },
     {
         "name": "Jordan vs Algeria (ARABIC LIVE HD)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Jordan vs Algeria (TOFFEE BD FHD)",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8?hdntl=Expires=1782068407~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ-fnG5VCENnh7UipA-OFUboXqMllBhNy-DD5XkY6OiAZweruavHbK-Kyw20ZHHljxXpcYyp2CqLoV1hjjMc16oN",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Jordan vs Algeria (ISCREEN BD FHD)",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://iscreen.com.bd/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1853,37 +1875,6 @@
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "Jordan vs Algeria (TYC SPORTS HD)",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Jordan vs Algeria (M6 FRANCE SD)",
-        "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
-    },
-    {
-        "name": "Jordan vs Algeria (JOJ SPORTS FHD)",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
     },
     {
         "name": "Jordan vs Algeria (beIN MAX HD)",
@@ -1957,7 +1948,7 @@
         "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
     },
     {
-        "name": "Jordan vs Algeria (TELEMUNDO SPANISH)",
+        "name": "Jordan vs Algeria (TELEMUNDO [USA])",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
@@ -2005,7 +1996,7 @@
     },
     {
         "name": "Jordan vs Algeria (SD SERVER [ENG])",
-        "link": "http://193.47.62.59/hls/dXFPPPA.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2014,7 +2005,7 @@
     },
     {
         "name": "Jordan vs Algeria (ENG SD SERVER)",
-        "link": "http://193.47.62.47/hls/dXVVVV.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2023,7 +2014,7 @@
     },
     {
         "name": "Jordan vs Algeria (SD SERVER [SWE])",
-        "link": "http://193.47.62.55/hls/dXVVVVZ.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2032,7 +2023,7 @@
     },
     {
         "name": "Jordan vs Algeria (beiN SPORTS FR)",
-        "link": "http://193.47.62.51/hls/dXZRRRZ.m3u8?",
+        "link": "?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2041,19 +2032,10 @@
     },
     {
         "name": "Jordan vs Algeria (ESPANOL SD)",
-        "link": "http://193.47.62.51/hls/dXZRRR.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Jordan vs Algeria (beIN SPORTS FR)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/FyhWIHK7Zi_X4EafwFVbZFR7UQnSmbEWBrbwTB8pUFCRJLw80_Pq2R_X9cQ96Q0Sh7CQ7473As5FXtep6_IWGQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
