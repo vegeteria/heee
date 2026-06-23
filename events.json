@@ -2127,11 +2127,42 @@
         "drmLicense": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c"
     },
     {
+        "name": "England vs Ghana (TIPIK FR FHD)",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+    },
+    {
         "name": "England vs Ghana (BBC SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52414/load-playlist?",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "England vs Ghana (CT SPORTS CZ)",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
+        "name": "England vs Ghana (TELEMUNDO HD)",
+        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -2231,11 +2262,20 @@
         "cookie": ""
     },
     {
-        "name": "England vs Ghana (TELEMUNDO HD)",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "name": "England vs Ghana (TSN SPORTS 4K)",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN4K/playlist.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "England vs Ghana (beIN SPORTS 4K)",
+        "link": "https://wc.streamxyz.shop:2053/bein/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -2251,17 +2291,6 @@
         "drmLicense": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0"
     },
     {
-        "name": "England vs Ghana (TIPIK FR FHD)",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
-    },
-    {
         "name": "England vs Ghana (TVP SPORTS FHD)",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -2271,17 +2300,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "0:0"
-    },
-    {
-        "name": "England vs Ghana (CT SPORTS CZ)",
-        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
     },
     {
         "name": "England vs Ghana (Sporza DUTCH FHD)",
@@ -2306,15 +2324,6 @@
         "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
     },
     {
-        "name": "England vs Ghana (IRIB 4K)",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "England vs Ghana (FAST SERVER)",
         "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8aT5FCRnSS.m3u8?txSecret=7ec4031a0208bf959353d83271fdc399&txTime=6A3784E9",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -2322,17 +2331,6 @@
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "England vs Ghana (PEACOCK FHD [ALT])",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021222-723080-49118325e08)/master_2hr.mpd?c3.ri=6a36e2ad_Q1ZYMDc_1_Q0xPVURGUk9OVA_913c910a0be8%3A0&aws.sessionId=c681c294-ada0-4cb4-80fd-fe8895aafd2f&ck=eyIwMDIyMzRmZDIzMjg4ZWI0NTBlMjcyYWZjZGU0MjBlNSI6IjAzOGJkZjlhMGI3Yzk1ZTIyOWI3YWRkZTc3MzA4MzJlIn0%3D",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "002234fd23288eb450e272afcde420e5:038bdf9a0b7c95e229b7adde7730832e"
     },
     {
         "name": "England vs Ghana (TELEMUNDO [ALT])",
