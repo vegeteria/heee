@@ -1901,17 +1901,17 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE [ALT]",
             "TSN SPORTS [ALT]",
             "FOX ONE 4K [ALT]",
-            "CAZE TV FHD",
+            "PEACOCK FHD [ALT]",
             "FUSSBALL TV 4K",
-            "TRT SPORTS 2K",
-            "ARABIC LIVE FHD",
-            "TIPIK FR FHD",
+            "IRIB 4K",
+            "beIN SPORTS 4K",
+            "beIN MAX HDR",
+            "TELEMUNDO FHD",
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
             "CT SPORTS CZ",
             "MATCH TV RU",
             "JOJ SPORTS FHD",
-            "IRIB 4K",
             "M6 FRANCE SD",
             "TELEMUNDO HD",
             "FAST SERVER",
@@ -1941,7 +1941,8 @@ URL: https://spxhomelive.lol/events.json
             "beiN SPORTS FR",
             "ESPANOL SD",
             "UNITE8 SPORTS EN",
-            "UNITE8 SPORTS HIN"
+            "UNITE8 SPORTS HIN",
+            "CAZE TV FHD"
         ],
         "formatsNew": [
             {
@@ -2009,7 +2010,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "CAZE TV FHD",
+                "title": "PEACOCK FHD [ALT]",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
@@ -2017,15 +2018,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TRT SPORTS 2K",
+                "title": "IRIB 4K",
                 "logo": ""
             },
             {
-                "title": "ARABIC LIVE FHD",
+                "title": "beIN SPORTS 4K",
                 "logo": ""
             },
             {
-                "title": "TIPIK FR FHD",
+                "title": "beIN MAX HDR",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
@@ -2046,10 +2051,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "JOJ SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "IRIB 4K",
                 "logo": ""
             },
             {
@@ -2170,6 +2171,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "UNITE8 SPORTS HIN",
+                "logo": ""
+            },
+            {
+                "title": "CAZE TV FHD",
                 "logo": ""
             }
         ]
@@ -5424,7 +5429,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png",
         "title": "CTV SPORTS FHD",
         "type": "1"
@@ -5451,11 +5456,11 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "0"
     },
     {
-        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+        "api": "",
         "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "FOX FHD LIVE",
-        "type": "1"
+        "type": "0"
     },
     {
         "api": "",
@@ -5528,11 +5533,11 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "",
+        "link": "ok",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-        "title": "CAZE TV FHD",
-        "type": "1"
+        "title": "PEACOCK FHD [ALT]",
+        "type": "0"
     },
     {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
@@ -5543,24 +5548,31 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "",
-        "title": "TRT SPORTS 2K",
+        "title": "IRIB 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://f4f3343a2711.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.158486161195.channel.bZ9qZZUZ6s3F.m3u8",
+        "link": "https://wc.streamxyz.shop:2053/bein/index.m3u8?|referer=https://xyzstreams.shop/",
         "logo": "",
-        "title": "ARABIC LIVE FHD",
+        "title": "beIN SPORTS 4K",
         "type": "0"
     },
     {
-        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "api": "",
+        "link": "https://wc.streamxyz.shop:2053/bein4k/index.m3u8?|referer=https://xyzstreams.shop/",
         "logo": "",
-        "title": "TIPIK FR FHD",
-        "type": "1"
+        "title": "beIN MAX HDR",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://wc.streamxyz.shop:2053/Telemundo/index.m3u8?|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
+        "type": "0"
     },
     {
         "api": "0:0",
@@ -5596,13 +5608,6 @@ URL: https://spxhomelive.lol/channels/50069.json
         "logo": "",
         "title": "JOJ SPORTS FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "",
-        "title": "IRIB 4K",
-        "type": "0"
     },
     {
         "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
@@ -5812,6 +5817,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
         "logo": "",
         "title": "UNITE8 SPORTS HIN",
+        "type": "1"
+    },
+    {
+        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "logo": "",
+        "title": "CAZE TV FHD",
         "type": "1"
     }
 ]
