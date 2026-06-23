@@ -446,17 +446,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a70
 #EXTINF:-1 tvg-id="portugalvsuzbekistan1800rtesportsfhd" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png" group-title="Fifa world cup",Portugal vs Uzbekistan 18:00 (RTE SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/5f14fdb0-81cb-4e12-9a86-4fcfb21a9e6f:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-id="portugalvsuzbekistan1800ctvsportsfhd" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/obxyhz1665918406.png" group-title="Fifa world cup",Portugal vs Uzbekistan 18:00 (CTV SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
-
-#EXTINF:-1 tvg-id="portugalvsuzbekistan1800rtbgolivefhd" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="Fifa world cup",Portugal vs Uzbekistan 18:00 (RTB GOLIVE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-id="portugalvsuzbekistan1800trtsports2k" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png" group-title="Fifa world cup",Portugal vs Uzbekistan 18:00 (TRT SPORTS 2K)
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="portugalvsuzbekistan1800foxsportsfhd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Portugal vs Uzbekistan 18:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -1275,8 +1275,8 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "RTE SPORTS FHD",
-            "CTV SPORTS FHD",
-            "RTB GOLIVE FHD",
+            "TRT SPORTS 2K",
+            "TSN SPORTS HD",
             "FOX SPORTS FHD",
             "TSN SPORTS FHD",
             "FOX SPORTS [ALT]",
@@ -1324,12 +1324,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
             {
-                "title": "CTV SPORTS FHD",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/obxyhz1665918406.png"
+                "title": "TRT SPORTS 2K",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png"
             },
             {
-                "title": "RTB GOLIVE FHD",
-                "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png"
+                "title": "TSN SPORTS HD",
+                "logo": ""
             },
             {
                 "title": "FOX SPORTS FHD",
@@ -4474,23 +4474,23 @@ URL: https://spxhomelive.lol/channels/50067.json
 [
     {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/5f14fdb0-81cb-4e12-9a86-4fcfb21a9e6f:GRQ/manifest.mpd",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
         "title": "RTE SPORTS FHD",
         "type": "1"
     },
     {
-        "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/obxyhz1665918406.png",
-        "title": "CTV SPORTS FHD",
-        "type": "1"
+        "api": "",
+        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png",
+        "title": "TRT SPORTS 2K",
+        "type": "0"
     },
     {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
-        "title": "RTB GOLIVE FHD",
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
