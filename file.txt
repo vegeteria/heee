@@ -292,7 +292,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="norwayvssenegal0100itvsportsfhd" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fy3hvo1678355466.png" group-title="Fifa world cup",Norway vs Senegal 01:00 (ITV SPORTS FHD)
+#EXTINF:-1 tvg-id="norwayvssenegal0100itvsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png" group-title="Fifa world cup",Norway vs Senegal 01:00 (ITV SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
@@ -441,12 +441,7 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="jordanvsalgeria0400rtesportsfhd" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (RTE SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd
-
-#EXTINF:-1 tvg-id="jordanvsalgeria0400ctvsportsfhd" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/obxyhz1665918406.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (CTV SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/bbda78d3-2fdf-4627-af9e-9bfcc983f4c2:BRU/manifest.mpd
 
 #EXTINF:-1 tvg-id="jordanvsalgeria0400rtbgolivefhd" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (RTB GOLIVE FHD)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
@@ -466,10 +461,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a70
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
+#EXTINF:-1 tvg-id="jordanvsalgeria0400itvsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (ITV SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
 #EXTINF:-1 tvg-id="jordanvsalgeria0400foxonefhdalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (FOX ONE FHD  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="jordanvsalgeria0400itvsportsalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (ITV SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
 #EXTINF:-1 tvg-id="jordanvsalgeria0400trtsports2k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Algeria 04:00 (TRT SPORTS 2K)
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
