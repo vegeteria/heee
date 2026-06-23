@@ -1269,6 +1269,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "CAZE TV FHD",
             "D Sports HD",
             "TRT SPORTS 2K",
             "SportzX FHD LIVE",
@@ -1276,7 +1277,6 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS HD",
             "TOFFEE BD FHD",
             "ISCREEN BD FHD",
-            "CAZE TV FHD",
             "ITV SPORTS HD",
             "FOX SPORTS HD",
             "RTE SPORTS FHD",
@@ -1327,6 +1327,10 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
+                "title": "CAZE TV FHD",
+                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+            },
+            {
                 "title": "D Sports HD",
                 "logo": ""
             },
@@ -1353,10 +1357,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "ISCREEN BD FHD",
                 "logo": ""
-            },
-            {
-                "title": "CAZE TV FHD",
-                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
                 "title": "ITV SPORTS HD",
@@ -4521,6 +4521,13 @@ URL: https://spxhomelive.lol/channels/50067.json
 ============================================================
 [
     {
+        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
+        "title": "CAZE TV FHD",
+        "type": "1"
+    },
+    {
         "api": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
         "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
@@ -4568,13 +4575,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "ISCREEN BD FHD",
         "type": "0"
-    },
-    {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-        "title": "CAZE TV FHD",
-        "type": "1"
     },
     {
         "api": "",
