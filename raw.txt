@@ -1274,6 +1274,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "FOX SPORTS FHD",
             "TRT SPORTS 2K",
             "TIPIK FR FHD",
             "TSN SPORTS HD",
@@ -1324,6 +1325,10 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS HD"
         ],
         "formatsNew": [
+            {
+                "title": "FOX SPORTS FHD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
             {
                 "title": "TRT SPORTS 2K",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png"
@@ -4499,6 +4504,13 @@ URL: https://spxhomelive.lol/channels/50067.json
 [
     {
         "api": "",
+        "link": "https://inproviszon.st/fox.m3u8",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png",
         "title": "TRT SPORTS 2K",
@@ -4618,7 +4630,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://streamxyz.shop/tsn4k/index.m3u8|referer=https://xyzstreams.shop/",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN4K/playlist.m3u8?|accept-language=en-GB",
         "logo": "",
         "title": "TSN SPORTS 4K",
         "type": "0"
@@ -4828,7 +4840,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/ITV/playlist.m3u8",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/ITV/playlist.m3u8?|accept-language=en-GB",
         "logo": "",
         "title": "ITV SPORTS HD",
         "type": "0"
