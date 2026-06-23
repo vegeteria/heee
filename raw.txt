@@ -1573,18 +1573,22 @@ URL: https://spxhomelive.lol/events.json
             "BBC SPORTS HD",
             "CT SPORTS CZ",
             "FAST SERVER",
+            "FAST SERVER 2",
+            "FOX SPORTS",
+            "TSN SPORTS",
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
             "FOX ONE 4K",
             "FOX ONE [ALT]",
             "TSN SPORTS [ALT]",
+            "TVE La1 ES [ALT]",
             "FOX ONE 4K [ALT]",
             "FOX SPORTS 4K",
+            "TSN SPORTS 4K",
             "PEACOCK FHD [ALT]",
             "FUSSBALL TV 4K",
             "IRIB 4K",
-            "TSN SPORTS 4K",
             "beIN SPORTS 4K",
             "beIN MAX HDR",
             "TELEMUNDO FHD",
@@ -1615,8 +1619,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER [JP]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "FAST SERVER 2"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -1644,6 +1647,18 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "FAST SERVER 2",
+                "logo": ""
+            },
+            {
+                "title": "FOX SPORTS",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS",
+                "logo": ""
+            },
+            {
                 "title": "TELEMUNDO HD",
                 "logo": ""
             },
@@ -1668,11 +1683,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
+                "title": "TVE La1 ES [ALT]",
+                "logo": ""
+            },
+            {
                 "title": "FOX ONE 4K [ALT]",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "FOX SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -1685,10 +1708,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "IRIB 4K",
-                "logo": ""
-            },
-            {
-                "title": "TSN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -1813,10 +1832,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "FAST SERVER 2",
                 "logo": ""
             }
         ]
@@ -4975,6 +4990,27 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4460936.m3u8?txSecret=5445351240630d2d051417b47fe2093b&txTime=6A3AF2A8|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "FAST SERVER 2",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "FOX SPORTS",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN1/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "TSN SPORTS",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "TELEMUNDO HD",
@@ -5016,6 +5052,13 @@ URL: https://spxhomelive.lol/channels/50068.json
         "type": "1"
     },
     {
+        "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "logo": "",
+        "title": "TVE La1 ES [ALT]",
+        "type": "1"
+    },
+    {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -5027,6 +5070,13 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?|accept-language=en-GB",
         "logo": "",
         "title": "FOX SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN4K/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
         "type": "0"
     },
     {
@@ -5048,13 +5098,6 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "",
         "title": "IRIB 4K",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN4K/playlist.m3u8?|accept-language=en-GB",
-        "logo": "",
-        "title": "TSN SPORTS 4K",
         "type": "0"
     },
     {
@@ -5272,13 +5315,6 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "http://193.47.62.59/hls/adXZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4460936.m3u8?txSecret=5445351240630d2d051417b47fe2093b&txTime=6A3AF2A8|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "FAST SERVER 2",
         "type": "0"
     }
 ]
