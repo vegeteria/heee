@@ -1013,18 +1013,19 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "RTE SPORTS FHD",
+            "TSN SPORTS HD",
             "RTB GOLIVE FHD",
             "FOX SPORTS FHD",
             "TSN SPORTS FHD",
             "ITV SPORTS FHD",
             "TELEMUNDO FHD",
             "D Sports FHD",
+            "TRT SPORTS 2K",
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
             "ITV SPORTS [ALT]",
             "CAZE TV FHD",
             "SporTV BR FHD",
-            "TRT SPORTS 2K",
             "TELEMUNDO HD",
             "beIN MAX HD",
             "RTB SPORTS FHD",
@@ -1068,6 +1069,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
             {
+                "title": "TSN SPORTS HD",
+                "logo": ""
+            },
+            {
                 "title": "RTB GOLIVE FHD",
                 "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png"
             },
@@ -1092,6 +1097,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TRT SPORTS 2K",
+                "logo": ""
+            },
+            {
                 "title": "TSN SPORTS [ALT]",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
@@ -1110,10 +1119,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "SporTV BR FHD",
                 "logo": "https://iili.io/CFFRvqJ.png"
-            },
-            {
-                "title": "TRT SPORTS 2K",
-                "logo": ""
             },
             {
                 "title": "TELEMUNDO HD",
@@ -3937,6 +3942,13 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
+        "link": "https://storage.googleapis.com/msnuke4/mainnet/manifest.m3u8",
+        "logo": "",
+        "title": "TSN SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "logo": "https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",
         "title": "RTB GOLIVE FHD",
@@ -3978,6 +3990,13 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "logo": "",
+        "title": "TRT SPORTS 2K",
+        "type": "0"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -4011,13 +4030,6 @@ URL: https://spxhomelive.lol/channels/50066.json
         "logo": "https://iili.io/CFFRvqJ.png",
         "title": "SporTV BR FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-        "logo": "",
-        "title": "TRT SPORTS 2K",
-        "type": "0"
     },
     {
         "api": "",
@@ -4111,11 +4123,11 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "0022b498cf96c600071d45b52f86429a:82f89aebc238e228de112400925080ff",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021293-723151-4911c6dbe0f)/master_2hr.mpd?c3.ri=6a39eb92_Q1ZYMDc_0_RkFTVExZ_5402ee4a6307%3A0&aws.sessionId=f25a3c90-5384-4c4f-9be8-95a9ad28e137&ck=eyIwMDIyYjQ5OGNmOTZjNjAwMDcxZDQ1YjUyZjg2NDI5YSI6IjgyZjg5YWViYzIzOGUyMjhkZTExMjQwMDkyNTA4MGZmIn0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
