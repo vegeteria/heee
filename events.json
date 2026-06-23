@@ -1007,7 +1007,7 @@
     },
     {
         "name": "Jordan vs Algeria (RTE SPORTS FHD)",
-        "link": "https://dai.google.com/linear/dash/pb/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2ba45673-4bb3-4087-93db-37ae1e96b4ee:SIN2/manifest.mpd",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f96c00e2-8d18-475e-a5a5-3faa64d7819a:BRU/manifest.mpd",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
         "origin": "",
         "referrer": "",
@@ -1344,10 +1344,10 @@
     },
     {
         "name": "Jordan vs Algeria (ARABIC LIVE HD)",
-        "link": "ok",
+        "link": "https://43cup.s3.us-east-2.amazonaws.com/max4/master.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://8.kooralive360.com/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },

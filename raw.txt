@@ -3945,7 +3945,7 @@ URL: https://spxhomelive.lol/channels/50066.json
 [
     {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pb/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2ba45673-4bb3-4087-93db-37ae1e96b4ee:SIN2/manifest.mpd",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f96c00e2-8d18-475e-a5a5-3faa64d7819a:BRU/manifest.mpd",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
         "title": "RTE SPORTS FHD",
         "type": "1"
@@ -4176,7 +4176,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://43cup.s3.us-east-2.amazonaws.com/max4/master.m3u8|referer=https://8.kooralive360.com/",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"
