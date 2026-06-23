@@ -1592,10 +1592,10 @@
     },
     {
         "name": "Portugal vs Uzbekistan (TSN SPORTS HD)",
-        "link": "ok",
+        "link": "https://chatgpt.hereisman.net/playlist/52409/load-playlist?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1737,6 +1737,15 @@
         "cookie": ""
     },
     {
+        "name": "Portugal vs Uzbekistan (FOX SPORTS 4K)",
+        "link": "https://inproviszon.st/fox4k.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Portugal vs Uzbekistan (FUSSBALL TV 4K)",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1830,8 +1839,8 @@
         "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
     },
     {
-        "name": "Portugal vs Uzbekistan (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52299/load-playlist?",
+        "name": "Portugal vs Uzbekistan (ITV SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52408/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -1840,7 +1849,7 @@
     },
     {
         "name": "Portugal vs Uzbekistan (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52298/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52409/load-playlist?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
