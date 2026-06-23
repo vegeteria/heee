@@ -2203,6 +2203,286 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             }
         ]
+    },
+    {
+        "id": 50075,
+        "title": "Blue Jays vs Houston Astros",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Blue Jays",
+            "teamB": "Astros",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+            "eventName": "Toronto Blue Jays vs Houston Astros",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 20:07:00 +0000",
+            "endTime": "2026/06/23 23:07:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50076,
+        "title": "Detroit Tigers vs Yankees",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Tigers",
+            "teamB": "Yankees",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+            "eventName": "Detroit Tigers vs New York Yankees",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 22:40:00 +0000",
+            "endTime": "2026/06/24 01:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50077,
+        "title": "Miami Marlins vs Texas Rangers",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Marlins",
+            "teamB": "Rangers",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+            "eventName": "Miami Marlins vs Texas Rangers",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 22:40:00 +0000",
+            "endTime": "2026/06/24 01:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50078,
+        "title": "Pirates vs Seattle Mariners",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Pirates",
+            "teamB": "Mariners",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+            "eventName": "Pittsburgh Pirates vs Seattle Mariners",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 22:40:00 +0000",
+            "endTime": "2026/06/24 01:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50079,
+        "title": "Tampa Bay Rays vs Royals",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Rays",
+            "teamB": "Royals",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+            "eventName": "Tampa Bay Rays vs Kansas City Royals",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 22:40:00 +0000",
+            "endTime": "2026/06/24 01:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50080,
+        "title": "Nationals vs Philadelphia Phillies",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Nationals",
+            "teamB": "Phillies",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+            "eventName": "Nationals vs Philadelphia Phillies",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 22:45:00 +0000",
+            "endTime": "2026/06/24 01:45:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50081,
+        "title": "Cincinnati Reds vs Brewers",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Reds",
+            "teamB": "Brewers",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+            "eventName": "Cincinnati Reds vs Milwaukee Brewers",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 23:10:00 +0000",
+            "endTime": "2026/06/24 02:10:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50082,
+        "title": "Mets vs Chicago Cubs",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Mets",
+            "teamB": "Cubs",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+            "eventName": "New York Mets vs Chicago Cubs",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 23:10:00 +0000",
+            "endTime": "2026/06/24 02:10:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50083,
+        "title": "White Sox vs Guardians",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "White Sox",
+            "teamB": "Guardians",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+            "eventName": "Chicago White Sox vs Guardians",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 23:40:00 +0000",
+            "endTime": "2026/06/24 02:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50084,
+        "title": "Minnesota Twins vs Dodgers",
+        "image": "O",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Twins",
+            "teamB": "Dodgers",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+            "eventName": "Minnesota Twins vs Dodgers",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/23 23:40:00 +0000",
+            "endTime": "2026/06/24 02:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
     }
 ]
 ============================================================
@@ -4700,6 +4980,126 @@ URL: https://spxhomelive.lol/channels/50074.json
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
         "title": "Willow HD",
         "type": "1"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50075.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50076.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50077.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50078.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50079.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50080.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50081.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50082.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50083.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50084.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX LIVE",
+        "type": "0"
     }
 ]
 ============================================================
