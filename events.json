@@ -1042,6 +1042,17 @@
         "cookie": ""
     },
     {
+        "name": "France vs Iraq (FOX ONE FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+    },
+    {
         "name": "France vs Iraq (FIFA WC FEED)",
         "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1ac@gocua004jqci1kc2ikrqfeibufrtafqwgkg41vca/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query",
         "logo": "https://iili.io/CziyHTQ.png",
@@ -1093,17 +1104,6 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "France vs Iraq (FOX ONE FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-    },
-    {
         "name": "France vs Iraq (D Sports FHD)",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1117,7 +1117,7 @@
     {
         "name": "France vs Iraq (TELEMUNDO FHD)",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1248,7 +1248,7 @@
     {
         "name": "France vs Iraq (TELEMUNDO HD)",
         "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1354,7 +1354,7 @@
     {
         "name": "France vs Iraq (TELEMUNDO [ALT])",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1383,7 +1383,7 @@
     {
         "name": "France vs Iraq (TSN SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52369/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1609,6 +1609,28 @@
         "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
+        "name": "Norway vs Senegal (TSN SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozila",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "Norway vs Senegal (ITV SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/fy3hvo1678355466.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+    },
+    {
         "name": "Norway vs Senegal (RTE PLAYER FHD)",
         "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
@@ -1620,11 +1642,11 @@
         "drmLicense": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a"
     },
     {
-        "name": "Norway vs Senegal (SportzX FHD LIVE)",
-        "link": "https://soccerball.st/s2.php",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "name": "Norway vs Senegal (TSN SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52399/load-playlist?",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1645,17 +1667,6 @@
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "Norway vs Senegal (TSN SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozila",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
         "name": "Norway vs Senegal (D Sports FHD)",
@@ -1896,7 +1907,7 @@
     },
     {
         "name": "Norway vs Senegal (ITV SPORTS UK)",
-        "link": "https://chatgpt.hereisman.net/playlist/52271/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52396/load-playlist?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -1905,7 +1916,7 @@
     },
     {
         "name": "Norway vs Senegal (TSN SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52399/load-playlist?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
