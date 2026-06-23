@@ -1274,10 +1274,11 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "D Sports HD",
             "RTE SPORTS FHD",
             "TRT SPORTS 2K",
             "TSN SPORTS HD",
+            "D Sports HD",
+            "TOFFEE BD FHD",
             "FOX SPORTS FHD",
             "TSN SPORTS FHD",
             "FOX SPORTS [ALT]",
@@ -1320,10 +1321,6 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "D Sports HD",
-                "logo": ""
-            },
-            {
                 "title": "RTE SPORTS FHD",
                 "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
@@ -1333,6 +1330,14 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TSN SPORTS HD",
+                "logo": ""
+            },
+            {
+                "title": "D Sports HD",
+                "logo": ""
+            },
+            {
+                "title": "TOFFEE BD FHD",
                 "logo": ""
             },
             {
@@ -4473,13 +4478,6 @@ URL: https://spxhomelive.lol/channels/50067.json
 ============================================================
 [
     {
-        "api": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozila",
-        "logo": "",
-        "title": "D Sports HD",
-        "type": "1"
-    },
-    {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
         "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/5f14fdb0-81cb-4e12-9a86-4fcfb21a9e6f:GRQ/manifest.mpd",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
@@ -4498,6 +4496,20 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "ok",
         "logo": "",
         "title": "TSN SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozila",
+        "logo": "",
+        "title": "D Sports HD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782308414~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcaHQ5d5a91K8YyfS7yi4Bv00UrewTSq4ReESRRjtAKQSRyDoiDdnHBUNxx-UoRREfoIbaQN7nx9pWK3WMojHMM",
+        "logo": "",
+        "title": "TOFFEE BD FHD",
         "type": "0"
     },
     {
