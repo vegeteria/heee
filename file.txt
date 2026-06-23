@@ -300,7 +300,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8
 #EXTINF:-1 tvg-id="norwayvssenegal0100rte2sportsfhd" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png" group-title="Fifa world cup",Norway vs Senegal 01:00 (RTE2 SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/76cf20f1-26ae-421b-9677-72b5c5543103:BRU/manifest.mpd
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/cf1ba3b7-c14f-48f7-8b7e-c6fc93bbcc5b:GRQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="norwayvssenegal0100rtbgolivefhd" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="Fifa world cup",Norway vs Senegal 01:00 (RTB GOLIVE FHD)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
