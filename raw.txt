@@ -1346,17 +1346,16 @@ URL: https://spxhomelive.lol/events.json
             "CAZE TV FHD",
             "SporTV BR FHD",
             "TRT SPORTS 2K",
-            "RTB SPORTS FHD",
-            "TELEMUNDO [ALT]",
             "TELEMUNDO HD",
-            "FOX ONE 4K",
-            "FOX 4K [ALT]",
+            "RTB SPORTS FHD",
+            "FUSSBALL TV 4K",
+            "IRIB 4K",
             "TIPIK FR FHD",
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
-            "MATCH TV RU",
-            "IRIB 4K",
+            "Match Football FHD",
             "FAST SERVER",
+            "TOFFEE BD FHD",
             "PEACOCK FHD [ALT]",
             "ITV SPORTS HD",
             "FOX SPORTS HD",
@@ -1440,23 +1439,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "RTB SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "TELEMUNDO [ALT]",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
-            },
-            {
                 "title": "TELEMUNDO HD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "FOX ONE 4K",
+                "title": "RTB SPORTS FHD",
                 "logo": ""
             },
             {
-                "title": "FOX 4K [ALT]",
+                "title": "FUSSBALL TV 4K",
+                "logo": ""
+            },
+            {
+                "title": "IRIB 4K",
                 "logo": ""
             },
             {
@@ -1472,15 +1467,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "MATCH TV RU",
-                "logo": ""
-            },
-            {
-                "title": "IRIB 4K",
+                "title": "Match Football FHD",
                 "logo": ""
             },
             {
                 "title": "FAST SERVER",
+                "logo": ""
+            },
+            {
+                "title": "TOFFEE BD FHD",
                 "logo": ""
             },
             {
@@ -4241,38 +4236,31 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
-        "logo": "",
-        "title": "RTB SPORTS FHD",
-        "type": "0"
-    },
-    {
-        "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "",
         "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO HD",
         "type": "0"
     },
     {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hsshvitvwa/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "api": "",
+        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
         "logo": "",
-        "title": "FOX ONE 4K",
+        "title": "RTB SPORTS FHD",
+        "type": "0"
+    },
+    {
+        "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL TV 4K",
         "type": "1"
     },
     {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hsshvitvwa/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "api": "",
+        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "",
-        "title": "FOX 4K [ALT]",
-        "type": "1"
+        "title": "IRIB 4K",
+        "type": "0"
     },
     {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
@@ -4289,8 +4277,8 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "1"
     },
     {
-        "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
         "logo": "",
         "title": "Sporza DUTCH FHD",
         "type": "1"
@@ -4299,21 +4287,21 @@ URL: https://spxhomelive.lol/channels/50066.json
         "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "",
-        "title": "MATCH TV RU",
+        "title": "Match Football FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "",
-        "title": "IRIB 4K",
-        "type": "0"
     },
     {
         "api": "",
         "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoLwebzaJMc.m3u8?txSecret=ddd20a4d678fe4d7757d30fe0ff66a06&txTime=6A371990",
         "logo": "",
         "title": "FAST SERVER",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "TOFFEE BD FHD",
         "type": "0"
     },
     {
@@ -4353,7 +4341,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
         "logo": "",
         "title": "ISCREEN BD FHD",
         "type": "0"
