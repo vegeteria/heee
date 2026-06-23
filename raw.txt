@@ -1294,6 +1294,7 @@ URL: https://spxhomelive.lol/events.json
             "ARABIC LIVE FHD",
             "FOX SPORTS 4K",
             "TSN SPORTS 4K",
+            "beIN SPORTS 4K",
             "FUSSBALL TV 4K",
             "IRIB 4K",
             "TVP SPORTS FHD",
@@ -1403,6 +1404,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TSN SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "beIN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -4640,6 +4645,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN4K/playlist.m3u8?|accept-language=en-GB",
         "logo": "",
         "title": "TSN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/bein4k.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "beIN SPORTS 4K",
         "type": "0"
     },
     {
