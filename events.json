@@ -1095,11 +1095,11 @@
         "drmLicense": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
     },
     {
-        "name": "France vs Iraq (RTB GOLIVE FHD)",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
+        "name": "France vs Iraq (TSN SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52369/load-playlist?",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1322,7 +1322,7 @@
     },
     {
         "name": "France vs Iraq (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJXMemQhxTx.m3u8?txSecret=5404b2a96694e8c9c920bd5ce37aa101&txTime=6A39CB18",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJXMemQhxTx.m3u8?txSecret=f5b3e2707f7bc449a50e78a8fb0dff15&txTime=6A39FCC8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -2039,7 +2039,7 @@
     },
     {
         "name": "Norway vs Senegal (SD SERVER [ENG])",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/pSXrtttt.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2048,7 +2048,7 @@
     },
     {
         "name": "Norway vs Senegal (ENG SD SERVER)",
-        "link": "?",
+        "link": "http://193.47.62.55/hls/pSXrttttx.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2057,7 +2057,7 @@
     },
     {
         "name": "Norway vs Senegal (SD SERVER [SWE])",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/SXrtttt.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2066,7 +2066,7 @@
     },
     {
         "name": "Norway vs Senegal (beiN SPORTS FR)",
-        "link": "?",
+        "link": "http://193.47.62.51/hls/SXlplplpqq.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2075,7 +2075,7 @@
     },
     {
         "name": "Norway vs Senegal (ESPANOL SD)",
-        "link": "?",
+        "link": "http://193.47.62.59/hls/SXlplplpq.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",

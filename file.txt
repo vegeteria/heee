@@ -314,9 +314,6 @@ https://storage.googleapis.com/msnuke4/mainnet/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
-#EXTINF:-1 tvg-id="francevsiraq0100rtbgolivefhd" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" group-title="Fifa world cup",France vs Iraq 01:00 (RTB GOLIVE FHD)
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="francevsiraq0100telemundofhd" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Fifa world cup",France vs Iraq 01:00 (TELEMUNDO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
