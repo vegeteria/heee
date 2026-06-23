@@ -1923,8 +1923,8 @@ URL: https://spxhomelive.lol/events.json
             "FOX FHD LIVE",
             "TSN FHD LIVE",
             "FAST SERVER",
+            "FAST SERVER 2",
             "TELEMUNDO HD",
-            "D Sports HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
             "FOX ONE 4K",
@@ -2011,12 +2011,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO HD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+                "title": "FAST SERVER 2",
+                "logo": ""
             },
             {
-                "title": "D Sports HD",
-                "logo": ""
+                "title": "TELEMUNDO HD",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "TSN SPORTS FHD",
@@ -5496,17 +5496,17 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4460977.m3u8?txSecret=1ad622b5b7cefb648c5b9395ec44a0ea&txTime=6A3B204F|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "FAST SERVER 2",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO HD",
         "type": "0"
-    },
-    {
-        "api": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D Sports HD",
-        "type": "1"
     },
     {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
