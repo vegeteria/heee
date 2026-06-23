@@ -389,6 +389,33 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50013,
+        "title": "NBA DRAFT",
+        "image": "o",
+        "cat": "NBA",
+        "eventInfo": {
+            "teamA": "NBA",
+            "teamB": "NBA",
+            "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/132/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/132/image",
+            "eventName": "NBA DRAFT",
+            "eventType": "null",
+            "startTime": "2026/06/24 00:00:00 +0000",
+            "endTime": "2026/06/24 02:30:00 +0000"
+        },
+        "adsLimit": "8",
+        "publish": "1",
+        "formats": [
+            "Sports Center"
+        ],
+        "formatsNew": [
+            {
+                "title": "Sports Center",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50032,
         "title": "Arizona Diamondbacks",
         "image": "o",
