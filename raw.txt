@@ -1285,9 +1285,11 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "FOX ONE FHD",
             "ITV 1 FHD",
+            "FOX ONE 4K",
             "FOX ONE [ALT]",
             "TSN SPORTS [ALT]",
             "ITV 1 FHD [ALT]",
+            "FOX ONE 4K [ALT]",
             "CAZE TV FHD",
             "TELEMUNDO HD",
             "Sporza DUTCH FHD",
@@ -1371,6 +1373,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "FOX ONE 4K",
+                "logo": ""
+            },
+            {
                 "title": "FOX ONE [ALT]",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
@@ -1380,6 +1386,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ITV 1 FHD [ALT]",
+                "logo": ""
+            },
+            {
+                "title": "FOX ONE 4K [ALT]",
                 "logo": ""
             },
             {
@@ -4585,6 +4595,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "1"
     },
     {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX ONE 4K",
+        "type": "1"
+    },
+    {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -4603,6 +4620,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
         "logo": "",
         "title": "ITV 1 FHD [ALT]",
+        "type": "1"
+    },
+    {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "logo": "",
+        "title": "FOX ONE 4K [ALT]",
         "type": "1"
     },
     {
