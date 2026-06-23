@@ -1274,10 +1274,12 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "RTE SPORTS FHD",
+            "FOX SPORTS FHD",
             "TRT SPORTS 2K",
+            "TIPIK FR FHD",
             "TSN SPORTS HD",
             "D Sports HD",
+            "RTE SPORTS FHD",
             "TOFFEE BD FHD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
@@ -1289,7 +1291,6 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO HD",
             "beIN MAX HD",
             "TELEMUNDO HD",
-            "TIPIK FR FHD",
             "TVP SPORTS FHD",
             "CT SPORTS CZ",
             "Sporza DUTCH FHD",
@@ -1323,12 +1324,16 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "RTE SPORTS FHD",
-                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
+                "title": "FOX SPORTS FHD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "TRT SPORTS 2K",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png"
+            },
+            {
+                "title": "TIPIK FR FHD",
+                "logo": ""
             },
             {
                 "title": "TSN SPORTS HD",
@@ -1337,6 +1342,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "D Sports HD",
                 "logo": ""
+            },
+            {
+                "title": "RTE SPORTS FHD",
+                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
             {
                 "title": "TOFFEE BD FHD",
@@ -1381,10 +1390,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TELEMUNDO HD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
-            },
-            {
-                "title": "TIPIK FR FHD",
-                "logo": ""
             },
             {
                 "title": "TVP SPORTS FHD",
@@ -4488,11 +4493,11 @@ URL: https://spxhomelive.lol/channels/50067.json
 ============================================================
 [
     {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/5f14fdb0-81cb-4e12-9a86-4fcfb21a9e6f:GRQ/manifest.mpd",
-        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-        "title": "RTE SPORTS FHD",
-        "type": "1"
+        "api": "",
+        "link": "https://inproviszon.st/fox.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS FHD",
+        "type": "0"
     },
     {
         "api": "",
@@ -4500,6 +4505,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/trt-1.png",
         "title": "TRT SPORTS 2K",
         "type": "0"
+    },
+    {
+        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "",
+        "title": "TIPIK FR FHD",
+        "type": "1"
     },
     {
         "api": "",
@@ -4513,6 +4525,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "D Sports HD",
+        "type": "1"
+    },
+    {
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/5f14fdb0-81cb-4e12-9a86-4fcfb21a9e6f:GRQ/manifest.mpd",
+        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
+        "title": "RTE SPORTS FHD",
         "type": "1"
     },
     {
@@ -4591,13 +4610,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO HD",
         "type": "0"
-    },
-    {
-        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "",
-        "title": "TIPIK FR FHD",
-        "type": "1"
     },
     {
         "api": "0:0",
