@@ -1560,7 +1560,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
             "eventName": "England vs Ghana",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/23 20:00:00 +0000",
             "endTime": "2026/06/23 22:15:00 +0000"
         },
@@ -1878,7 +1878,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image",
             "eventName": "Panama vs Croatia",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/23 23:00:00 +0000",
             "endTime": "2026/06/24 01:15:00 +0000"
         },
