@@ -1043,7 +1043,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS FHD",
             "TSN SPORTS FHD",
             "ITV SPORTS FHD",
-            "FIFA WC FEED",
+            "RTE2 SPORTS FHD",
             "RTE PLAYER FHD",
             "TSN SPORTS HD",
             "SportzX FHD LIVE",
@@ -1109,8 +1109,8 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
             },
             {
-                "title": "FIFA WC FEED",
-                "logo": "https://iili.io/CziyHTQ.png"
+                "title": "RTE2 SPORTS FHD",
+                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
             },
             {
                 "title": "RTE PLAYER FHD",
@@ -1337,8 +1337,8 @@ URL: https://spxhomelive.lol/events.json
             "RTB GOLIVE FHD",
             "FOX SPORTS FHD",
             "TSN SPORTS FHD",
-            "TSN SPORTS [ALT]",
             "ITV SPORTS FHD",
+            "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
             "ITV SPORTS [ALT]",
             "TRT SPORTS 2K",
@@ -1404,12 +1404,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "TSN SPORTS [ALT]",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
                 "title": "ITV SPORTS FHD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+            },
+            {
+                "title": "TSN SPORTS [ALT]",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "FOX ONE FHD [ALT]",
@@ -3786,10 +3786,10 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
-        "api": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
-        "link": "https://rcg-bks400-06.starhubgo.com/bpk-token/1ac@moa2dai3bqpaqegwgp2ffayhaqtda5aamkewypaa/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query|user-agent=Mozila",
-        "logo": "https://iili.io/CziyHTQ.png",
-        "title": "FIFA WC FEED",
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/76cf20f1-26ae-421b-9677-72b5c5543103:BRU/manifest.mpd",
+        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
+        "title": "RTE2 SPORTS FHD",
         "type": "1"
     },
     {
@@ -4177,17 +4177,17 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "1"
     },
     {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS [ALT]",
-        "type": "1"
-    },
-    {
         "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "title": "ITV SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS [ALT]",
         "type": "1"
     },
     {
