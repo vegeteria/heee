@@ -904,6 +904,12 @@
                 "channel_title": "FOX ONE 4K [ALT]"
             },
             {
+                "web_view_url": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021308-723166-4911d529fde)/master_2hr.mpd?c3.ri=6a3b0871_Q1ZYMDc_0_Q09NQ0FTVA_121128c367c0%3A0&aws.sessionId=2bcb9f43-a689-4a22-a95d-afe1cc994b08&ck=eyIwMDIyM2UxYjdhOWE0NzY2MmZlZmY3NGYxYmU3ZjdmMyI6ImRiNTJlYmQxOWJmODY4ZWJkZDVmMjVjMTcxY2Q2OTM0In0%3D",
+                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
+                "clearkey": "00223e1b7a9a47662feff74f1be7f7f3:db52ebd19bf868ebdd5f25c171cd6934",
+                "channel_title": "PEACOCK FHD [ALT]"
+            },
+            {
                 "web_view_url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",

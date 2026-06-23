@@ -1915,6 +1915,7 @@ URL: https://spxhomelive.lol/events.json
             "RTE SPORTS FHD",
             "CTV SPORTS FHD",
             "BBC SPORTS HD",
+            "SportzX FHD LIVE",
             "DSports FHD",
             "CAZE TV FHD",
             "TIPIK FR FHD",
@@ -1977,6 +1978,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "BBC SPORTS HD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
+            },
+            {
+                "title": "SportzX FHD LIVE",
+                "logo": ""
             },
             {
                 "title": "DSports FHD",
@@ -5439,6 +5444,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://hugh.cdn.rumble.cloud/live/vf1v23qp/slot-18/lae9-zlj8_1080p/chunklist.m3u8",
+        "logo": "",
+        "title": "SportzX FHD LIVE",
+        "type": "0"
+    },
+    {
         "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://iili.io/CTbh7Gj.png",
@@ -5565,11 +5577,11 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00223e1b7a9a47662feff74f1be7f7f3:db52ebd19bf868ebdd5f25c171cd6934",
+        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021308-723166-4911d529fde)/master_2hr.mpd?c3.ri=6a3b0871_Q1ZYMDc_0_Q09NQ0FTVA_121128c367c0%3A0&aws.sessionId=2bcb9f43-a689-4a22-a95d-afe1cc994b08&ck=eyIwMDIyM2UxYjdhOWE0NzY2MmZlZmY3NGYxYmU3ZjdmMyI6ImRiNTJlYmQxOWJmODY4ZWJkZDVmMjVjMTcxY2Q2OTM0In0%3D",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
