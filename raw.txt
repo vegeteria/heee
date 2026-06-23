@@ -1289,8 +1289,8 @@ URL: https://spxhomelive.lol/events.json
             "ITV 1 FHD [ALT]",
             "CAZE TV FHD",
             "TELEMUNDO HD",
-            "beIN MAX HD",
-            "TELEMUNDO HD",
+            "ARABIC LIVE FHD",
+            "FOX SPORTS 4K",
             "TVP SPORTS FHD",
             "CT SPORTS CZ",
             "Sporza DUTCH FHD",
@@ -1320,7 +1320,10 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER  [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "beIN MAX 4K",
+            "TSN SPORTS 4K",
+            "beIN MAX FHD"
         ],
         "formatsNew": [
             {
@@ -1384,12 +1387,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "beIN MAX HD",
+                "title": "ARABIC LIVE FHD",
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO HD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+                "title": "FOX SPORTS 4K",
+                "logo": ""
             },
             {
                 "title": "TVP SPORTS FHD",
@@ -1509,6 +1512,18 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
+                "logo": ""
+            },
+            {
+                "title": "beIN MAX 4K",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "beIN MAX FHD",
                 "logo": ""
             }
         ]
@@ -4599,16 +4614,16 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+        "link": "ok",
         "logo": "",
-        "title": "beIN MAX HD",
+        "title": "ARABIC LIVE FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO HD",
+        "link": "https://inproviszon.st/fox4k.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX SPORTS 4K",
         "type": "0"
     },
     {
@@ -4819,6 +4834,27 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/bein4k.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "beIN MAX 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/tsn4k.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/beinmax.m3u8",
+        "logo": "",
+        "title": "beIN MAX FHD",
         "type": "0"
     }
 ]
