@@ -389,6 +389,161 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50032,
+        "title": "Chicago Cubs",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Mets",
+            "teamB": "Cubs",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+            "eventName": "New York Mets vs Chicago Cubs",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/24 23:10:00 +0000",
+            "endTime": "2026/06/25 02:10:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX MLB",
+            "SportzX LIVE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50033,
+        "title": "Minnesota Twins",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Twins",
+            "teamB": "Dodgers",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+            "eventName": "Minnesota Twins vs Dodgers",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/24 23:40:00 +0000",
+            "endTime": "2026/06/25 02:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX MLB",
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50034,
+        "title": "Arizona Diamondbacks",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Cardinals",
+            "teamB": "Diamondbacks",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+            "eventName": "Cardinals vs Arizona Diamondbacks",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/24 23:45:00 +0000",
+            "endTime": "2026/06/25 02:45:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50052,
+        "title": "San Diego Padres",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Padres",
+            "teamB": "Braves",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+            "eventName": "San Diego Padres vs Atlanta Braves",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/25 00:40:00 +0000",
+            "endTime": "2026/06/25 03:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50053,
+        "title": "San Francisco Giants",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Giants",
+            "teamB": "Athletics",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+            "eventName": "San Francisco Giants vs Athletics",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/25 01:45:00 +0000",
+            "endTime": "2026/06/25 04:45:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX MLB",
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50059,
         "title": "England W vs West Indies W",
         "image": "o",
@@ -3415,6 +3570,92 @@ URL: https://spxhomelive.lol/channels/50011.json
         "logo": "",
         "title": "USA TV",
         "type": "1"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50032.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52443/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX LIVE",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50033.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52444/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50034.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50052.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50053.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52452/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
     }
 ]
 ============================================================
