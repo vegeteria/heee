@@ -2186,13 +2186,12 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "ITV SPORTS FHD",
-            "RTE SPORTS FHD",
             "TELEMUNDO FHD",
-            "ITV SPORTS HD",
+            "QAZ SPORTS FHD",
             "TIPIK FR FHD",
+            "ITV SPORTS HD",
             "DSports FHD",
             "CAZE TV FHD",
-            "QAZ SPORTS FHD",
             "TVP SPORTS FHD",
             "TOFFE BD BDIX",
             "FOX FHD LIVE",
@@ -2239,20 +2238,20 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
             },
             {
-                "title": "RTE SPORTS FHD",
-                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
-            },
-            {
                 "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
-                "title": "ITV SPORTS HD",
-                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+                "title": "QAZ SPORTS FHD",
+                "logo": ""
             },
             {
                 "title": "TIPIK FR FHD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/91z1211657888348.png"
+            },
+            {
+                "title": "ITV SPORTS HD",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
             },
             {
                 "title": "DSports FHD",
@@ -2261,10 +2260,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CAZE TV FHD",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-            },
-            {
-                "title": "QAZ SPORTS FHD",
-                "logo": ""
             },
             {
                 "title": "TVP SPORTS FHD",
@@ -5747,13 +5742,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/3f37ced4-1871-4308-b5d3-70e50c23d9c0:GRQ/manifest.mpd",
-        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-        "title": "RTE SPORTS FHD",
-        "type": "1"
-    },
-    {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "",
@@ -5762,9 +5750,9 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52431/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "title": "ITV SPORTS HD",
+        "link": "https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+        "logo": "",
+        "title": "QAZ SPORTS FHD",
         "type": "0"
     },
     {
@@ -5773,6 +5761,13 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/91z1211657888348.png",
         "title": "TIPIK FR FHD",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52431/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "title": "ITV SPORTS HD",
+        "type": "0"
     },
     {
         "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
@@ -5787,13 +5782,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "CAZE TV FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
-        "logo": "",
-        "title": "QAZ SPORTS FHD",
-        "type": "0"
     },
     {
         "api": "0:0",
