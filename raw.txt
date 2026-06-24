@@ -2491,6 +2491,7 @@ URL: https://spxhomelive.lol/events.json
             "ISCREEN BD FHD",
             "FAST SERVER",
             "TELEMUNDO HD",
+            "M6 FRANCE FHD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
             "FOX ONE 4K [ALT]",
@@ -2500,6 +2501,7 @@ URL: https://spxhomelive.lol/events.json
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
             "FOX ONE 4K",
+            "TELEMUNDO 4K",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -2588,6 +2590,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
+                "title": "M6 FRANCE FHD",
+                "logo": ""
+            },
+            {
                 "title": "TSN SPORTS FHD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
@@ -2621,6 +2627,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX ONE 4K",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO 4K",
                 "logo": ""
             },
             {
@@ -6182,6 +6192,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "0"
     },
     {
+        "api": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
+        "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "M6 FRANCE FHD",
+        "type": "1"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -6242,6 +6259,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?|accept-language=en-GB",
         "logo": "",
         "title": "FOX ONE 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://xyzcloud3.xyz/tele4k/index.m3u8|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "TELEMUNDO 4K",
         "type": "0"
     },
     {
@@ -6616,7 +6640,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://customer-xnyp0i3qki5poety.cloudflarestream.com/a43fd284ab5508f8fc396c19d552c945/manifest/video.m3u8",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
@@ -6672,7 +6696,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://ex.creatas.site/poolos1.m3u8",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"
