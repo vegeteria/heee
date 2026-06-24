@@ -1322,7 +1322,8 @@ URL: https://spxhomelive.lol/events.json
             "beiN SPORTS FR",
             "ESPANOL SD",
             "M6 FRANCE SD",
-            "CT SPORTS CZ"
+            "CT SPORTS CZ",
+            "AZTECA7 FHD"
         ],
         "formatsNew": [
             {
@@ -1539,6 +1540,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
+                "logo": ""
+            },
+            {
+                "title": "AZTECA7 FHD",
                 "logo": ""
             }
         ]
@@ -4884,6 +4889,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "logo": "",
         "title": "CT SPORTS CZ",
+        "type": "1"
+    },
+    {
+        "api": "2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f",
+        "link": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd",
+        "logo": "",
+        "title": "AZTECA7 FHD",
         "type": "1"
     }
 ]
