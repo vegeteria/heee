@@ -2488,9 +2488,9 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS [ALT]",
             "FOX SPORTS [ALT]",
             "ITV 1 FHD [ALT]",
-            "SporTV BR FHD",
+            "PEACOCK FHD [ALT]",
             "FUSSBALL TV 4K",
-            "TRT SPORTS 2K",
+            "FUSSBALL TV2 4K",
             "IRIB 4K",
             "ARABIC LIVE FHD",
             "TVP SPORTS FHD",
@@ -2498,7 +2498,6 @@ URL: https://spxhomelive.lol/events.json
             "CT SPORTS CZ",
             "Match Football FHD",
             "JOJ SPORTS FHD",
-            "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
@@ -2585,15 +2584,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "SporTV BR FHD",
-                "logo": "https://iili.io/CFFRvqJ.png"
+                "title": "PEACOCK FHD [ALT]",
+                "logo": ""
             },
             {
                 "title": "FUSSBALL TV 4K",
                 "logo": ""
             },
             {
-                "title": "TRT SPORTS 2K",
+                "title": "FUSSBALL TV2 4K",
                 "logo": ""
             },
             {
@@ -2622,10 +2621,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "JOJ SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "PEACOCK FHD [ALT]",
                 "logo": ""
             },
             {
@@ -6204,11 +6199,11 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "logo": "https://iili.io/CFFRvqJ.png",
-        "title": "SporTV BR FHD",
-        "type": "1"
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "PEACOCK FHD [ALT]",
+        "type": "0"
     },
     {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
@@ -6218,11 +6213,11 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "api": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
         "logo": "",
-        "title": "TRT SPORTS 2K",
-        "type": "0"
+        "title": "FUSSBALL TV2 4K",
+        "type": "1"
     },
     {
         "api": "",
@@ -6233,7 +6228,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/AOxzEgfaQA5StISBvyZSjCTi4xP-6Z0SA5PWERa40C1TZZq1oXB5nSJc-nWI_Qq9dmbb5i-5ix9JLuVrwf_58A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+        "link": "ok",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
@@ -6271,13 +6266,6 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
         "logo": "",
         "title": "JOJ SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "00226a44cc7e9c37dce1af71df653de8:04747e13bafdad95f15aafaf07ea9d1f",
-        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021278-723136-4911b88dc40)/master_2hr.mpd?c3.ri=6a38536b_Q1ZYMDc_0_Q09NQ0FTVA_3b45e8113252%3A0&aws.sessionId=6c22a072-f075-42a8-91c5-c20fe2a2db30&ck=eyIwMDIyNmE0NGNjN2U5YzM3ZGNlMWFmNzFkZjY1M2RlOCI6IjA0NzQ3ZTEzYmFmZGFkOTVmMTVhYWZhZjA3ZWE5ZDFmIn0%3D",
-        "logo": "",
-        "title": "PEACOCK FHD [ALT]",
         "type": "1"
     },
     {
