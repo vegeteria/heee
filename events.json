@@ -3411,12 +3411,14 @@
     },
     {
         "name": "Colombia vs DR Congo (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021415-723273-49123b35109)/master_2hr.mpd?c3.ri=6a3b33e7_Q1ZYMDc_0_RkFTVExZ_e67c2faa8a3c%3A0&aws.sessionId=96fc32a7-a46e-4043-a3dd-4db9c98aff7c&ck=eyIwMDIyZDFlZjZiZTViMjA1MGYxMWFlYTZmOWJjYzViNCI6IjE0MTg2ZjYyZDY0Y2I5NTA2NGJjNzhkZDJhMDliMjVjIn0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022d1ef6be5b2050f11aea6f9bcc5b4:14186f62d64cb95064bc78dd2a09b25c"
     },
     {
         "name": "Colombia vs DR Congo (FUSSBALL TV 4K)",
