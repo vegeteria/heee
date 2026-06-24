@@ -656,14 +656,15 @@ URL: https://spxhomelive.lol/events.json
             "TVE La1 SPANISH",
             "D Sports FHD",
             "CAZE TV FHD",
+            "beIN MAX FHD",
             "SportzX HD LIVE",
+            "ISCREEN BD FHD",
+            "Binge+ FHD (BD)",
             "TVP SPORTS HD",
             "TVCG 1 FHD",
             "FOX ONE HD",
             "BBC SPORTS HD",
-            "beIN MAX FHD",
             "FAST SERVER",
-            "ISCREEN BD FHD",
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
@@ -673,6 +674,7 @@ URL: https://spxhomelive.lol/events.json
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
             "FOX ONE 4K",
+            "FOX 4K LIVE",
             "TELEMUNDO 4K",
             "TSN SPORTS 4K",
             "FUSSBALL TV 4K",
@@ -696,9 +698,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [PT]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "Bioscope+ BDIX (BD)",
-            "Binge+ FHD (BD)"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -734,7 +734,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
+                "title": "beIN MAX FHD",
+                "logo": ""
+            },
+            {
                 "title": "SportzX HD LIVE",
+                "logo": ""
+            },
+            {
+                "title": "ISCREEN BD FHD",
+                "logo": ""
+            },
+            {
+                "title": "Binge+ FHD (BD)",
                 "logo": ""
             },
             {
@@ -754,15 +766,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "beIN MAX FHD",
-                "logo": ""
-            },
-            {
                 "title": "FAST SERVER",
-                "logo": ""
-            },
-            {
-                "title": "ISCREEN BD FHD",
                 "logo": ""
             },
             {
@@ -799,6 +803,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX ONE 4K",
+                "logo": ""
+            },
+            {
+                "title": "FOX 4K LIVE",
                 "logo": ""
             },
             {
@@ -895,14 +903,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "Bioscope+ BDIX (BD)",
-                "logo": ""
-            },
-            {
-                "title": "Binge+ FHD (BD)",
                 "logo": ""
             }
         ]
@@ -3689,9 +3689,30 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
+        "link": "https://inproviszon.st/beinsportsmax4-sa.m3u8",
+        "logo": "",
+        "title": "beIN MAX FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8",
         "logo": "",
         "title": "SportzX HD LIVE",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|Referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "ISCREEN BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "Binge+ FHD (BD)",
         "type": "0"
     },
     {
@@ -3724,23 +3745,9 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/beinsportsmax4-sa.m3u8",
-        "logo": "",
-        "title": "beIN MAX FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoJkAjWkPCi.m3u8?txSecret=c6aaad0168258ac0f0eee506b9b73492&txTime=6A3C7689",
         "logo": "",
         "title": "FAST SERVER",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|Referer=https://iscreen.com.bd/",
-        "logo": "",
-        "title": "ISCREEN BD FHD",
         "type": "0"
     },
     {
@@ -3804,6 +3811,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "",
         "title": "FOX ONE 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8",
+        "logo": "",
+        "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
@@ -3972,20 +3986,6 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "http://193.47.62.59/hls/XEKKKQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://fifa-stream-02.bioscopelive.com/out/v1/3a61739d722a45d5bf42f1888f3bdeb7/index.m3u8|x-authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM",
-        "logo": "",
-        "title": "Bioscope+ BDIX (BD)",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
-        "logo": "",
-        "title": "Binge+ FHD (BD)",
         "type": "0"
     }
 ]

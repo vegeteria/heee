@@ -165,8 +165,17 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (beIN MAX FHD)
+https://inproviszon.st/beinsportsmax4-sa.m3u8
+
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300sportzxhdlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (SportzX HD LIVE)
 https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300iscreenbdfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (ISCREEN BD FHD)
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300bingefhdbd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (Binge  FHD (BD))
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300tvpsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TVP SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -180,12 +189,6 @@ https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FOX ONE HD)
 https://lb.xyzcloud3.xyz/FOX/index.m3u8
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (beIN MAX FHD)
-https://inproviszon.st/beinsportsmax4-sa.m3u8
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300iscreenbdfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (ISCREEN BD FHD)
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -219,6 +222,9 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300foxone4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FOX ONE 4K)
 https://lb.xyzcloud3.xyz/fox4k/index.m3u8
+
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FOX 4K LIVE)
+https://inproviszon.st/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300telemundo4k" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TELEMUNDO 4K)
 https://wc.xyzcloud3.xyz:2053/tele4k/index.m3u8
@@ -279,12 +285,6 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300bioscopebdixbd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (Bioscope  BDIX (BD))
-https://fifa-stream-02.bioscopelive.com/out/v1/3a61739d722a45d5bf42f1888f3bdeb7/index.m3u8
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300bingefhdbd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (Binge  FHD (BD))
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
 #EXTINF:-1 tvg-id="moroccovshaiti2300tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Morocco vs Haiti 23:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
