@@ -2752,23 +2752,23 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "SportzX Live",
-            "Sporza DUTCH FHD",
+            "HD SERVER ENG",
+            "HD SERVER AR",
             "Match Football FHD",
-            "ARABIC LIVE HD",
             "DAZN SPANISH",
+            "ARABIC LIVE HD",
             "ISCREEN BD FHD",
             "TSN SPORTS",
             "SOMOY TV HD",
             "FUSSBALL 4K [GER]",
             "FUSSBALL TV FHD",
             "TELEMUNDO [USA]",
-            "HD SERVER ENG",
-            "HD SERVER AR",
             "SD SERVER [ENG]",
             "ENG SERVER SD",
             "beIN SPORTS FR",
             "D SPORTS ES",
-            "SD SERVER [SWE]"
+            "SD SERVER [SWE]",
+            "Sporza DUTCH FHD"
         ],
         "formatsNew": [
             {
@@ -2880,7 +2880,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "Sporza DUTCH FHD",
+                "title": "HD SERVER ENG",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER AR",
                 "logo": ""
             },
             {
@@ -2888,11 +2892,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "ARABIC LIVE HD",
+                "title": "DAZN SPANISH",
                 "logo": ""
             },
             {
-                "title": "DAZN SPANISH",
+                "title": "ARABIC LIVE HD",
                 "logo": ""
             },
             {
@@ -2920,14 +2924,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "HD SERVER ENG",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER AR",
-                "logo": ""
-            },
-            {
                 "title": "SD SERVER [ENG]",
                 "logo": ""
             },
@@ -2945,6 +2941,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SD SERVER [SWE]",
+                "logo": ""
+            },
+            {
+                "title": "Sporza DUTCH FHD",
                 "logo": ""
             }
         ]
@@ -6110,7 +6110,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO HD",
         "type": "0"
@@ -6549,11 +6549,18 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "0"
     },
     {
-        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+        "api": "",
+        "link": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
-        "title": "Sporza DUTCH FHD",
-        "type": "1"
+        "title": "HD SERVER ENG",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER AR",
+        "type": "0"
     },
     {
         "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
@@ -6564,16 +6571,16 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/hj_BA0tHwHyQFlOwh6seUTPf2ACOiJ3_IjLgOj5DtwqcmL2_SKI3tWF2JoxA4SGJxr22d2nAMrfP92FcmYv6Dw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
         "logo": "",
-        "title": "ARABIC LIVE HD",
+        "title": "DAZN SPANISH",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "link": "ok",
         "logo": "",
-        "title": "DAZN SPANISH",
+        "title": "ARABIC LIVE HD",
         "type": "0"
     },
     {
@@ -6620,20 +6627,6 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER ENG",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER AR",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
@@ -6666,6 +6659,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
+    },
+    {
+        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+        "logo": "",
+        "title": "Sporza DUTCH FHD",
+        "type": "1"
     }
 ]
 ============================================================
