@@ -5818,7 +5818,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://hugh.cdn.rumble.cloud/live/vf1v23qp/slot-18/lae9-zlj8_1080p/chunklist.m3u8",
+        "link": "https://xyzcloud3.xyz/tsn1/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN FHD LIVE",
         "type": "0"
@@ -5909,21 +5909,21 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://wc.streamxyz.shop:2053/bein/index.m3u8?|referer=https://xyzstreams.shop/",
+        "link": "https://xyzcloud3.xyz/bein/index.m3u8?|referer=https://xyzstreams.shop/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beIN SPORTS FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://wc.streamxyz.shop:2053/bein4k/index.m3u8?|referer=https://xyzstreams.shop/",
+        "link": "https://xyzcloud3.xyz/bein4k/index.m3u8?|referer=https://xyzstreams.shop/",
         "logo": "",
         "title": "beIN MAX HDR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://wc.streamxyz.shop:2053/Telemundo/index.m3u8?|referer=https://xyzstreams.shop/",
+        "link": "https://xyzcloud3.xyz/Telemundo/index.m3u8?|referer=https://xyzstreams.shop/",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO FHD",
         "type": "0"
@@ -5937,7 +5937,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52341/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52446/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
