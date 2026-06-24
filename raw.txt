@@ -2479,6 +2479,7 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "ITV SPORTS FHD",
             "CTV SPORTS FHD",
+            "WC TV FHD",
             "TELEMUNDO FHD",
             "TIPIK FR FHD",
             "ITV SPORTS HD",
@@ -2531,6 +2532,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CTV SPORTS FHD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png"
+            },
+            {
+                "title": "WC TV FHD",
+                "logo": ""
             },
             {
                 "title": "TELEMUNDO FHD",
@@ -6050,6 +6055,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png",
         "title": "CTV SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "74d68f9d541c4430a0e94292bd478a65:a0a26dd189e54352b488343102a49efb",
+        "link": "https://dice-live-ap.akamaized.net/hdntl=exp=1782409676~acl=*dash%2flive%2f2102642%2f304343-322714%2f*!*dash%2flive%2f2102642-b%2f304343-322714-b%2f*~id=8cc847ff-b20e-4644-ae9a-efbbd033a733~data=hdntl,dWlkPWJOTWlFb3wwOWYyM2Y0YS04YTA4LTQ3NjEtYTQ1My1kOThmMjI5MTk0YzImaXA9NDkuMTU3LjE1OC4yMTAmZXhwPTE3ODI0MDk3MDYmZWlkPTMwNDM0MyZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=8f3ad655584ace2dafecbb7e2a154351dace283a9a485ccefa3e1e2f09865f5c/dash/live/2102642/304343-322714/manifest.mpd",
+        "logo": "",
+        "title": "WC TV FHD",
         "type": "1"
     },
     {
