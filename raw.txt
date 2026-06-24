@@ -2727,10 +2727,12 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "ITV SPORTS FHD",
             "FIFA WC FEED",
+            "TSN SPORTS FHD",
             "ITV SPORTS HD",
             "D Sports FHD",
             "CAZE TV FHD",
             "TOFFE BDIX (BD)",
+            "FAST SERVER",
             "FOX SPORTS FHD",
             "TSN Sports FHD",
             "TELEMUNDO FHD",
@@ -2756,7 +2758,6 @@ URL: https://spxhomelive.lol/events.json
             "Sporza DUTCH FHD",
             "Match Football FHD",
             "JOJ SPORTS FHD",
-            "FAST SERVER",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
             "ITV SPORTS HD",
@@ -2791,6 +2792,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://iili.io/CziyHTQ.png"
             },
             {
+                "title": "TSN SPORTS FHD",
+                "logo": ""
+            },
+            {
                 "title": "ITV SPORTS HD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
             },
@@ -2804,6 +2809,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TOFFE BDIX (BD)",
+                "logo": ""
+            },
+            {
+                "title": "FAST SERVER",
                 "logo": ""
             },
             {
@@ -2904,10 +2913,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "JOJ SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "FAST SERVER",
                 "logo": ""
             },
             {
@@ -6171,8 +6176,8 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "0"
     },
     {
-        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS FHD",
         "type": "1"
@@ -6185,8 +6190,8 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS [ALT]",
         "type": "1"
@@ -6429,6 +6434,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "0"
     },
     {
+        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "logo": "",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52354/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
@@ -6454,6 +6466,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "link": "ok",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8ceZ7gFhbL.m3u8?txSecret=b25c9198a95a0a168800fde1225f4d02&txTime=6A38B070",
+        "logo": "",
+        "title": "FAST SERVER",
         "type": "0"
     },
     {
@@ -6630,13 +6649,6 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "",
         "title": "JOJ SPORTS FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8ceZ7gFhbL.m3u8?txSecret=b25c9198a95a0a168800fde1225f4d02&txTime=6A38B070",
-        "logo": "",
-        "title": "FAST SERVER",
-        "type": "0"
     },
     {
         "api": "",

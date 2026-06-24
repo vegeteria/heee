@@ -3887,14 +3887,14 @@
     },
     {
         "name": "Switzerland vs Canada (TSN SPORTS FHD)",
-        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
         "name": "Switzerland vs Canada (FOX ONE FHD)",
@@ -3909,14 +3909,14 @@
     },
     {
         "name": "Switzerland vs Canada (TSN SPORTS [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
         "name": "Switzerland vs Canada (FOX SPORTS [ALT])",
@@ -4244,6 +4244,17 @@
         "cookie": ""
     },
     {
+        "name": "Bosnia vs Qatar (TSN SPORTS FHD)",
+        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+    },
+    {
         "name": "Bosnia vs Qatar (ITV SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52354/load-playlist?",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
@@ -4273,6 +4284,15 @@
     {
         "name": "Bosnia vs Qatar (TOFFE BDIX (BD))",
         "link": "ok",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Bosnia vs Qatar (FAST SERVER)",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8ceZ7gFhbL.m3u8?txSecret=b25c9198a95a0a168800fde1225f4d02&txTime=6A38B070",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -4529,15 +4549,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
-        "name": "Bosnia vs Qatar (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8ceZ7gFhbL.m3u8?txSecret=b25c9198a95a0a168800fde1225f4d02&txTime=6A38B070",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "Bosnia vs Qatar (PEACOCK FHD [ALT])",
