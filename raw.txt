@@ -654,7 +654,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO FHD",
             "M6 FRANCE FHD",
             "TVP SPORTS HD",
-            "TVCG1 FHD",
+            "TVCG 1 FHD",
             "FOX ONE HD",
             "BBC SPORTS HD",
             "TVE La1 SPANISH",
@@ -723,7 +723,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TVCG1 FHD",
+                "title": "TVCG 1 FHD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png"
             },
             {
@@ -904,7 +904,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/7229/image",
             "eventName": "Morocco vs Haiti",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/24 22:00:00 +0000",
             "endTime": "2026/06/25 00:15:00 +0000"
         },
@@ -924,6 +924,7 @@ URL: https://spxhomelive.lol/events.json
             "CAZE TV FHD",
             "TOFFE BDIX (BD)",
             "ViX MUNDIAL FHD",
+            "beIN MAX FHD",
             "FAST SERVER",
             "NBC SPORTS HD",
             "FOX SPORTS HD",
@@ -1008,6 +1009,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "ViX MUNDIAL FHD",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+            },
+            {
+                "title": "beIN MAX FHD",
+                "logo": ""
             },
             {
                 "title": "FAST SERVER",
@@ -3652,7 +3657,7 @@ URL: https://spxhomelive.lol/channels/50063.json
         "api": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a",
         "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png",
-        "title": "TVCG1 FHD",
+        "title": "TVCG 1 FHD",
         "type": "1"
     },
     {
@@ -4038,6 +4043,13 @@ URL: https://spxhomelive.lol/channels/50064.json
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
         "title": "ViX MUNDIAL FHD",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/beinsportsmax3-sa.m3u8",
+        "logo": "",
+        "title": "beIN MAX FHD",
+        "type": "0"
     },
     {
         "api": "",
