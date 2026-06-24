@@ -654,6 +654,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO FHD",
             "M6 FRANCE FHD",
             "TVP SPORTS HD",
+            "TVCG1 FHD",
             "FOX ONE HD",
             "BBC SPORTS HD",
             "TVE La1 SPANISH",
@@ -719,6 +720,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TVP SPORTS HD",
                 "logo": ""
+            },
+            {
+                "title": "TVCG1 FHD",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png"
             },
             {
                 "title": "FOX ONE HD",
@@ -3696,6 +3701,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
         "logo": "",
         "title": "TVP SPORTS HD",
+        "type": "1"
+    },
+    {
+        "api": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a",
+        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png",
+        "title": "TVCG1 FHD",
         "type": "1"
     },
     {

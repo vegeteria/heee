@@ -483,6 +483,17 @@
         "drmLicense": "0:0"
     },
     {
+        "name": "Scotland vs Brazil (TVCG1 FHD)",
+        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a"
+    },
+    {
         "name": "Scotland vs Brazil (FOX ONE HD)",
         "link": "https://lb.xyzcloud3.xyz/FOX/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
