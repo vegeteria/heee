@@ -2482,6 +2482,7 @@ URL: https://spxhomelive.lol/events.json
             "FIFA WC FEED",
             "TELEMUNDO FHD",
             "TIPIK FR FHD",
+            "ViX MUNDIAL FHD",
             "FOX ONE HD",
             "TSN SPORTS HD",
             "ITV SPORTS HD",
@@ -2554,6 +2555,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TIPIK FR FHD",
                 "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
+            },
+            {
+                "title": "ViX MUNDIAL FHD",
+                "logo": ""
             },
             {
                 "title": "FOX ONE HD",
@@ -2783,6 +2788,7 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS FHD",
             "FIFA WC FEED",
             "TSN SPORTS FHD",
+            "ViX MUNDIAL FHD",
             "CT SPORTS CZ",
             "ITV SPORTS HD",
             "FOX SPORTS HD",
@@ -2841,6 +2847,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TSN SPORTS FHD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+            },
+            {
+                "title": "ViX MUNDIAL FHD",
+                "logo": ""
             },
             {
                 "title": "CT SPORTS CZ",
@@ -6149,6 +6159,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
+        "api": "052aba8b4944541841db862526bbe6b6:b785276874581a60b8e95b668b7c0d2b",
+        "link": "https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd",
+        "logo": "",
+        "title": "ViX MUNDIAL FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
         "logo": "",
@@ -6533,6 +6550,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "1"
     },
     {
+        "api": "36a78e9664836d8d1b882c7772ef2119:4911f93d4a347873b3c2f187793dffb0",
+        "link": "https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd",
+        "logo": "",
+        "title": "ViX MUNDIAL FHD",
+        "type": "1"
+    },
+    {
         "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/ct4-sport.png",
@@ -6631,11 +6655,11 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00227802808c7818bfa61dc1702ff517:8cca9d7881fb3eb50de21d99c78e7535",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021309-723167-4911d61e21f)/master_2hr.mpd?c3.ri=6a3c1ea8_Q1ZYMDc_1_Q0xPVURGUk9OVA_94cee0417b49%3A0&aws.sessionId=4305d17d-8729-49d1-8b56-237895008fc7&ck=eyIwMDIyNzgwMjgwOGM3ODE4YmZhNjFkYzE3MDJmZjUxNyI6IjhjY2E5ZDc4ODFmYjNlYjUwZGUyMWQ5OWM3OGU3NTM1In0%3D&=--key",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
