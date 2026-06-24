@@ -561,9 +561,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -2216,7 +2221,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS HD",
             "Sporza DUTCH FHD",
             "Match Football FHD",
-            "JOJ SPORTS FHD",
+            "beIN MAX HD",
             "ARABIC LIVE HD",
             "DAZN SPANISH",
             "TSN SPORTS",
@@ -2240,7 +2245,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TELEMUNDO FHD",
-                "logo": ""
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "QAZ SPORTS FHD",
@@ -2284,11 +2289,11 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TSN 4K",
-                "logo": ""
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "FOX SPORTS 4K",
-                "logo": ""
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "FAST SERVER",
@@ -2344,7 +2349,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX SPORTS HD",
-                "logo": ""
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "TSN SPORTS HD",
@@ -2359,7 +2364,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "JOJ SPORTS FHD",
+                "title": "beIN MAX HD",
                 "logo": ""
             },
             {
@@ -3675,6 +3680,13 @@ URL: https://spxhomelive.lol/channels/50052.json
 URL: https://spxhomelive.lol/channels/50053.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52452/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -5749,7 +5761,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "logo": "",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO FHD",
         "type": "1"
     },
@@ -5826,14 +5838,14 @@ URL: https://spxhomelive.lol/channels/50070.json
     {
         "api": "",
         "link": "https://xyzcloud3.xyz/tsn4k/index.m3u8|referer=https://xyzstreams.shop/",
-        "logo": "",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN 4K",
         "type": "0"
     },
     {
         "api": "",
         "link": "https://xyzcloud3.xyz/fs14k/index.m3u8|referer=https://xyzstreams.shop/",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS 4K",
         "type": "0"
     },
@@ -5931,7 +5943,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52446/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
     },
@@ -5957,15 +5969,15 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "api": "",
+        "link": "https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8",
         "logo": "",
-        "title": "JOJ SPORTS FHD",
-        "type": "1"
+        "title": "beIN MAX HD",
+        "type": "0"
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://karim-xnbu-eu-20260623.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8|referer=https://www.kooratlyad33.site/",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"
