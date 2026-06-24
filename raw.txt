@@ -2185,6 +2185,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "ITV SPORTS FHD",
             "RTE SPORTS FHD",
             "TELEMUNDO FHD",
             "ITV SPORTS HD",
@@ -2203,6 +2204,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS 4K",
             "TSN SPORTS [ALT]",
             "FOX SPORTS [ALT]",
+            "ITV 1 FHD [ALT]",
             "PEACOCK FHD [ALT]",
             "FUSSBALL TV 4K",
             "IRIB 4K",
@@ -2229,10 +2231,13 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "ITV 1 FHD [ALT]"
+            "ESPANOL SD"
         ],
         "formatsNew": [
+            {
+                "title": "ITV SPORTS FHD",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+            },
             {
                 "title": "RTE SPORTS FHD",
                 "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
@@ -2304,6 +2309,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS [ALT]",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "ITV 1 FHD [ALT]",
+                "logo": ""
             },
             {
                 "title": "PEACOCK FHD [ALT]",
@@ -2411,10 +2420,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "ITV 1 FHD [ALT]",
                 "logo": ""
             }
         ]
@@ -5735,6 +5740,13 @@ URL: https://spxhomelive.lol/channels/50070.json
 ============================================================
 [
     {
+        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "title": "ITV SPORTS FHD",
+        "type": "1"
+    },
+    {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
         "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/3f37ced4-1871-4308-b5d3-70e50c23d9c0:GRQ/manifest.mpd",
         "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
@@ -5858,6 +5870,13 @@ URL: https://spxhomelive.lol/channels/50070.json
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS [ALT]",
+        "type": "1"
+    },
+    {
+        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+        "logo": "",
+        "title": "ITV 1 FHD [ALT]",
         "type": "1"
     },
     {
@@ -6048,13 +6067,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
-    },
-    {
-        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "logo": "",
-        "title": "ITV 1 FHD [ALT]",
-        "type": "1"
     }
 ]
 ============================================================
