@@ -1890,7 +1890,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image",
             "eventName": "Panama vs Croatia",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/23 23:00:00 +0000",
             "endTime": "2026/06/24 01:15:00 +0000"
         },
@@ -2194,13 +2194,13 @@ URL: https://spxhomelive.lol/events.json
             "CAZE TV FHD",
             "TVP SPORTS FHD",
             "TOFFE BD BDIX",
+            "FOX SPORTS 4K",
             "FOX FHD LIVE",
             "TSN FHD LIVE",
             "FAST SERVER",
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX SPORTS HD",
-            "FOX SPORTS 4K",
             "TSN SPORTS [ALT]",
             "FOX SPORTS [ALT]",
             "ITV 1 FHD [ALT]",
@@ -2270,6 +2270,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "FOX SPORTS 4K",
+                "logo": ""
+            },
+            {
                 "title": "FOX FHD LIVE",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
@@ -2291,10 +2295,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX SPORTS HD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "FOX SPORTS 4K",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
@@ -5799,6 +5799,13 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FS14K/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "FOX SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX FHD LIVE",
@@ -5838,13 +5845,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?|accept-language=en-GB",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS 4K",
-        "type": "0"
     },
     {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
