@@ -2493,6 +2493,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
+            "FOX ONE 4K [ALT]",
             "TSN SPORTS [ALT]",
             "FOX SPORTS [ALT]",
             "ITV 1 FHD [ALT]",
@@ -2591,6 +2592,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX ONE FHD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "FOX ONE 4K [ALT]",
+                "logo": ""
             },
             {
                 "title": "TSN SPORTS [ALT]",
@@ -6168,6 +6173,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE FHD",
+        "type": "1"
+    },
+    {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "logo": "",
+        "title": "FOX ONE 4K [ALT]",
         "type": "1"
     },
     {
