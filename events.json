@@ -1026,7 +1026,7 @@
     },
     {
         "name": "Morocco vs Haiti (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJXMemQhxTx.m3u8?txSecret=f5b3e2707f7bc449a50e78a8fb0dff15&txTime=6A39FCC8",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1108,8 +1108,17 @@
     },
     {
         "name": "Morocco vs Haiti (FOX SPORTS 4K)",
-        "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?",
+        "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.shop/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Morocco vs Haiti (NBC UNIVERSO 4K)",
+        "link": "https://lb.xyzcloud3.xyz/tele4k2/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://xyzstreams.shop/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1127,6 +1136,17 @@
         "drmLicense": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
     },
     {
+        "name": "Morocco vs Haiti (FUSSBALL TV2 4K)",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827"
+    },
+    {
         "name": "Morocco vs Haiti (IRIB 4K)",
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1136,59 +1156,58 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (TIPIK FR FHD)",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "name": "Morocco vs Haiti (ARABIC LIVE FHD)",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+        "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (TVP SPORTS FHD)",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "name": "Morocco vs Haiti (FOX SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52456/load-playlist?",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0:0"
+        "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (Sporza DUTCH FHD)",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "name": "Morocco vs Haiti (TSN SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52456/load-playlist?",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460"
+        "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (CT SPORTS CZ)",
-        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "name": "Morocco vs Haiti (SportzX Live)",
+        "link": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
+        "origin": "https://instream.click",
+        "referrer": "https://instream.click/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (JOJ SPORTS)",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+        "name": "Morocco vs Haiti (HD SERVER ENG)",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        "cookie": ""
+    },
+    {
+        "name": "Morocco vs Haiti (HD SERVER AR)",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "Morocco vs Haiti (Match Football FHD)",
@@ -1280,28 +1299,6 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (Unite8 HIN [IN])",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "b90a8e3b967f0a7505bc0e925853c62d:def40d621397cf5fedb93884cf7eb3ef"
-    },
-    {
-        "name": "Morocco vs Haiti (Unite8 ENG [IN])",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "156df45e915859b5bcb0586c4edc8da8:f2032a0a2ff59a2c0f2c609bf399e1d1"
-    },
-    {
         "name": "Morocco vs Haiti (DAZN SPANISH)",
         "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1313,33 +1310,6 @@
     {
         "name": "Morocco vs Haiti (ARABIC LIVE HD)",
         "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Xk8UdmbKoXAS8H2a9mDKB5lhGsHbPZO1VwUdJwXK8cjxatanfZswP9vO1wrla7xXdH3RItgN2Zb_WdECHPMQEw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Morocco vs Haiti (TSN SPORTS)",
-        "link": "https://soccerball.st/s1.php",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Morocco vs Haiti (SOMOY TV HD)",
-        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Morocco vs Haiti (beIN MAX HD)",
-        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1380,35 +1350,8 @@
         "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
     },
     {
-        "name": "Morocco vs Haiti (SportzX Live)",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://instream.click",
-        "referrer": "https://instream.click/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Morocco vs Haiti (HD SERVER ENG)",
-        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Morocco vs Haiti (HD SERVER ENG 2)",
         "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Morocco vs Haiti (HD SERVER AR)",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",

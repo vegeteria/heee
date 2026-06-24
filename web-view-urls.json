@@ -418,34 +418,10 @@
                 "channel_title": "FUSSBALL TV 4K"
             },
             {
-                "web_view_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                "web_view_url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-                "channel_title": "TIPIK FR FHD"
-            },
-            {
-                "web_view_url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "0:0",
-                "channel_title": "TVP SPORTS FHD"
-            },
-            {
-                "web_view_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-                "channel_title": "Sporza DUTCH FHD"
-            },
-            {
-                "web_view_url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "channel_title": "CT SPORTS CZ"
-            },
-            {
-                "web_view_url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "channel_title": "JOJ SPORTS"
+                "clearkey": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
+                "channel_title": "FUSSBALL TV2 4K"
             },
             {
                 "web_view_url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
@@ -470,18 +446,6 @@
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
                 "clearkey": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
                 "channel_title": "TELEMUNDO [ALT]"
-            },
-            {
-                "web_view_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "b90a8e3b967f0a7505bc0e925853c62d:def40d621397cf5fedb93884cf7eb3ef",
-                "channel_title": "Unite8 HIN [IN]"
-            },
-            {
-                "web_view_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "156df45e915859b5bcb0586c4edc8da8:f2032a0a2ff59a2c0f2c609bf399e1d1",
-                "channel_title": "Unite8 ENG [IN]"
             },
             {
                 "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
