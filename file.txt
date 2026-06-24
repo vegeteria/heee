@@ -130,7 +130,7 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2006/ENG/master
 #EXTINF:-1 tvg-id="englandvsnewzealand1100lowserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs New Zealand 11:00 (LOW SERVER)
 http://193.47.62.41/hls/EEEEDDD.m3u8
 
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TSN SPORTS FHD)
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
@@ -168,36 +168,33 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300arabiclivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (ARABIC LIVE FHD)
-https://37cup.s3.us-east-2.amazonaws.com/max1/master.m3u8
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300iscreenbdfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (ISCREEN BD FHD)
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300somoytvhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (SOMOY TV HD)
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300unite8hindi" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (Unite8 HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffc8dba12a4d132d52b1338089d15b64:ef70eee471d4a83bf752b581291faaf7
-https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300rtesportsfhd" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (RTE SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/event/oPeAYQs9T9yTHS98aR1EjQ/manifest.mpd
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300fifawcfeed" tvg-logo="https://iili.io/CziyHTQ.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FIFA WC FEED)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
-https://sh-bks400-11.starhubgo.com/bpk-token/1aa@io0tjez2jpgrepyrzfonfuhtikst4mcji0yijuba/bpk-tv/FIFAWCCh1/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300foxonefhd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FOX ONE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TSN SPORTS FHD)
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300foxonefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FOX ONE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300foxone4kalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FOX ONE 4K  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300tsnsportsalt" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TSN SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300foxonealt" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FOX ONE  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300tvela1spanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TVE La1 SPANISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1121,7 +1118,7 @@ https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
 https://xyzcloud3.xyz/FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="switzerlandvscanada2000tsnsportshd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Switzerland vs Canada 20:00 (TSN SPORTS HD)
-https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi1_1.m3u8
+https://underlow.s3.us-east-1.amazonaws.com/svg/eve1.m3u8
 
 #EXTINF:-1 tvg-id="switzerlandvscanada2000dsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Switzerland vs Canada 20:00 (DSports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1137,7 +1134,7 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v
 https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
 #EXTINF:-1 tvg-id="switzerlandvscanada2000sportzxhdlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Switzerland vs Canada 20:00 (SportzX HD LIVE)
-https://underlow.s3.us-east-1.amazonaws.com/svg/eve1.m3u8
+https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi1_1.m3u8
 
 #EXTINF:-1 tvg-id="switzerlandvscanada2000tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Switzerland vs Canada 20:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

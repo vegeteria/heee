@@ -421,7 +421,7 @@
     {
         "name": "Scotland vs Brazil (TSN SPORTS FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -523,8 +523,17 @@
         "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
     },
     {
-        "name": "Scotland vs Brazil (ARABIC LIVE FHD)",
-        "link": "https://37cup.s3.us-east-2.amazonaws.com/max1/master.m3u8",
+        "name": "Scotland vs Brazil (ISCREEN BD FHD)",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://iscreen.com.bd/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Scotland vs Brazil (FAST SERVER)",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -532,79 +541,68 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (SOMOY TV HD)",
-        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
+        "name": "Scotland vs Brazil (TELEMUNDO HD)",
+        "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "https://instream.click",
+        "referrer": "https://instream.click/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (Unite8 HINDI)",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+        "name": "Scotland vs Brazil (TSN SPORTS FHD)",
+        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "ffc8dba12a4d132d52b1338089d15b64:ef70eee471d4a83bf752b581291faaf7"
-    },
-    {
-        "name": "Scotland vs Brazil (Unite8 ENG)",
-        "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "fbb795d0d8497cb731a99e5250d857a1:8d85c5ac2e08233ff10ef2f7f636ecbb"
-    },
-    {
-        "name": "Scotland vs Brazil (RTE SPORTS FHD)",
-        "link": "https://dai.google.com/linear/dash/event/oPeAYQs9T9yTHS98aR1EjQ/manifest.mpd",
-        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
-    },
-    {
-        "name": "Scotland vs Brazil (FIFA WC FEED)",
-        "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1aa@io0tjez2jpgrepyrzfonfuhtikst4mcji0yijuba/bpk-tv/FIFAWCCh1/output/manifest.mpd",
-        "logo": "https://iili.io/CziyHTQ.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413"
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
         "name": "Scotland vs Brazil (FOX ONE FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozila",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
-        "name": "Scotland vs Brazil (TSN SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "name": "Scotland vs Brazil (FOX ONE 4K [ALT])",
+        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+    },
+    {
+        "name": "Scotland vs Brazil (TSN SPORTS [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozila",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "Scotland vs Brazil (FOX ONE [ALT])",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
         "name": "Scotland vs Brazil (TVE La1 SPANISH)",
@@ -3872,7 +3870,7 @@
     },
     {
         "name": "Switzerland vs Canada (TSN SPORTS HD)",
-        "link": "https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi1_1.m3u8",
+        "link": "https://underlow.s3.us-east-1.amazonaws.com/svg/eve1.m3u8",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
@@ -3939,7 +3937,7 @@
     },
     {
         "name": "Switzerland vs Canada (SportzX HD LIVE)",
-        "link": "https://underlow.s3.us-east-1.amazonaws.com/svg/eve1.m3u8",
+        "link": "https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi1_1.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
