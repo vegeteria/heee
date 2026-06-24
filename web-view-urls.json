@@ -174,6 +174,12 @@
         "group-title": "Fifa world cup",
         "streams": [
             {
+                "web_view_url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+                "clearkey": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS FHD"
+            },
+            {
                 "web_view_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "ffc8dba12a4d132d52b1338089d15b64:ef70eee471d4a83bf752b581291faaf7",
@@ -1206,6 +1212,12 @@
                 "channel_title": "ViX MUNDIAL FHD"
             },
             {
+                "web_view_url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
+                "channel_title": "M6 FRANCE FHD"
+            },
+            {
                 "web_view_url": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "0:0",
@@ -1222,12 +1234,6 @@
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
                 "clearkey": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
                 "channel_title": "CAZE TV FHD"
-            },
-            {
-                "web_view_url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
-                "channel_title": "M6 FRANCE FHD"
             },
             {
                 "web_view_url": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
