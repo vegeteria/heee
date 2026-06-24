@@ -1200,11 +1200,11 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
-            "FOX ONE FHD [ALT]",
-            "CAZE TV FHD",
-            "SporTV BR FHD",
-            "TELEMUNDO HD",
+            "TSN SPORTS [ALT]",
+            "PEACOCK FHD [ALT]",
+            "TELEMUNDO [USA]",
             "FOX ONE 4K",
+            "FOX 4K LIVE",
             "FOX ONE 4K [ALT]",
             "FUSSBALL2 4K [GER]",
             "FUSSBALL TV 4K",
@@ -1306,24 +1306,24 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX ONE FHD [ALT]",
+                "title": "TSN SPORTS [ALT]",
                 "logo": ""
             },
             {
-                "title": "CAZE TV FHD",
-                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+                "title": "PEACOCK FHD [ALT]",
+                "logo": ""
             },
             {
-                "title": "SporTV BR FHD",
-                "logo": "https://iili.io/CFFRvqJ.png"
-            },
-            {
-                "title": "TELEMUNDO HD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+                "title": "TELEMUNDO [USA]",
+                "logo": ""
             },
             {
                 "title": "FOX ONE 4K",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+                "logo": ""
+            },
+            {
+                "title": "FOX 4K LIVE",
+                "logo": ""
             },
             {
                 "title": "FOX ONE 4K [ALT]",
@@ -3820,7 +3820,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox4k-usa.m3u8",
+        "link": "https://hundredmilesperhour.uk/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
@@ -4447,39 +4447,39 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
-        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "",
-        "title": "FOX ONE FHD [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-        "title": "CAZE TV FHD",
-        "type": "1"
-    },
-    {
-        "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
-        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "logo": "https://iili.io/CFFRvqJ.png",
-        "title": "SporTV BR FHD",
+        "title": "TSN SPORTS [ALT]",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO HD",
+        "link": "ok",
+        "logo": "",
+        "title": "PEACOCK FHD [ALT]",
         "type": "0"
     },
     {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX ONE 4K",
+        "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "logo": "",
+        "title": "TELEMUNDO [USA]",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "FOX ONE 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://hundredmilesperhour.uk/fox4k-usa.m3u8",
+        "logo": "",
+        "title": "FOX 4K LIVE",
+        "type": "0"
     },
     {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
