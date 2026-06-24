@@ -1201,6 +1201,16 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ffwqzsa0zr/out/v
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
+#EXTINF:-1 tvg-id="bosniavsqatar2000ctsportscz" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ct4-sport.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (CT SPORTS CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="bosniavsqatar2000tvcgfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (TVCG FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a
+https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd
+
 #EXTINF:-1 tvg-id="bosniavsqatar2000foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (FOX SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
@@ -1211,6 +1221,11 @@ https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
+#EXTINF:-1 tvg-id="bosniavsqatar2000nbcuniversoalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (NBC UNIVERSO  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
 #EXTINF:-1 tvg-id="bosniavsqatar2000foxsportsalt" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (FOX SPORTS  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
@@ -1220,11 +1235,6 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000sportvbrfhd" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (SporTV BR FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0
-https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
 #EXTINF:-1 tvg-id="bosniavsqatar2000nowsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (NOW SPORTS 4K)
 https://vizio.kuvuslov.cymru/nowhk/index.m3u8
@@ -1299,8 +1309,3 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 
 #EXTINF:-1 tvg-id="bosniavsqatar2000sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (SportzX Live)
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000ctsportscz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (CT SPORTS CZ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd

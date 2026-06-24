@@ -4255,6 +4255,17 @@
         "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
     },
     {
+        "name": "Bosnia vs Qatar (CT SPORTS CZ)",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/ct4-sport.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    {
         "name": "Bosnia vs Qatar (FOX SPORTS HD)",
         "link": "https://xyzcloud3.xyz/FS1/index.m3u8?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -4271,6 +4282,17 @@
         "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
+    },
+    {
+        "name": "Bosnia vs Qatar (TVCG FHD)",
+        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a"
     },
     {
         "name": "Bosnia vs Qatar (D Sports FHD)",
@@ -4331,13 +4353,15 @@
         "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
     },
     {
-        "name": "Bosnia vs Qatar (FIFA WC FEED)",
-        "link": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+        "name": "Bosnia vs Qatar (NBC UNIVERSO [ALT])",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
     },
     {
         "name": "Bosnia vs Qatar (FOX SPORTS [ALT])",
@@ -4360,17 +4384,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-    },
-    {
-        "name": "Bosnia vs Qatar (SporTV BR FHD)",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "logo": "https://iili.io/CFFRvqJ.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0"
     },
     {
         "name": "Bosnia vs Qatar (FOX ONE 4K)",
@@ -4724,17 +4737,6 @@
         "referrer": "http://www.fawanews.sc/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "Bosnia vs Qatar (CT SPORTS CZ)",
-        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
     },
     {
         "name": "Miami Marlins vs Texas Rangers (SportzX Live)",

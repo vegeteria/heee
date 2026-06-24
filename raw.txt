@@ -2728,18 +2728,19 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS FHD",
             "FIFA WC FEED",
             "TSN SPORTS FHD",
+            "CT SPORTS CZ",
             "FOX SPORTS HD",
             "ITV SPORTS HD",
+            "TVCG FHD",
             "D Sports FHD",
             "CAZE TV FHD",
             "TOFFE BDIX (BD)",
             "FAST SERVER",
             "FOX SPORTS HD",
             "TSN Sports FHD",
-            "FIFA WC FEED",
+            "NBC UNIVERSO [ALT]",
             "FOX SPORTS [ALT]",
             "TSN SPORTS [ALT]",
-            "SporTV BR FHD",
             "FOX ONE 4K",
             "TSN SPORTS 4K",
             "NOW SPORTS 4K",
@@ -2776,8 +2777,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "beIN SPORTS FR",
             "D SPORTS ES",
-            "SD SERVER [SWE]",
-            "CT SPORTS CZ"
+            "SD SERVER [SWE]"
         ],
         "formatsNew": [
             {
@@ -2793,12 +2793,20 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
+                "title": "CT SPORTS CZ",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/ct4-sport.png"
+            },
+            {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "ITV SPORTS HD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+            },
+            {
+                "title": "TVCG FHD",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png"
             },
             {
                 "title": "D Sports FHD",
@@ -2825,7 +2833,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "FIFA WC FEED",
+                "title": "NBC UNIVERSO [ALT]",
                 "logo": ""
             },
             {
@@ -2835,10 +2843,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TSN SPORTS [ALT]",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
-                "title": "SporTV BR FHD",
-                "logo": "https://iili.io/CFFRvqJ.png"
             },
             {
                 "title": "FOX ONE 4K",
@@ -2986,10 +2990,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SD SERVER [SWE]",
-                "logo": ""
-            },
-            {
-                "title": "CT SPORTS CZ",
                 "logo": ""
             }
         ]
@@ -6426,6 +6426,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "1"
     },
     {
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/ct4-sport.png",
+        "title": "CT SPORTS CZ",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://xyzcloud3.xyz/FS1/index.m3u8?|referer=https://xyzstreams.shop/",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -6438,6 +6445,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "title": "ITV SPORTS HD",
         "type": "0"
+    },
+    {
+        "api": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a",
+        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png",
+        "title": "TVCG FHD",
+        "type": "1"
     },
     {
         "api": "",
@@ -6482,11 +6496,11 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+        "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
         "logo": "",
-        "title": "FIFA WC FEED",
-        "type": "0"
+        "title": "NBC UNIVERSO [ALT]",
+        "type": "1"
     },
     {
         "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
@@ -6500,13 +6514,6 @@ URL: https://spxhomelive.lol/channels/50072.json
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "logo": "https://iili.io/CFFRvqJ.png",
-        "title": "SporTV BR FHD",
         "type": "1"
     },
     {
@@ -6767,13 +6774,6 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
-    },
-    {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "logo": "",
-        "title": "CT SPORTS CZ",
-        "type": "1"
     }
 ]
 ============================================================
