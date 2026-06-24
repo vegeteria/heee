@@ -3188,15 +3188,6 @@
         "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
     },
     {
-        "name": "Colombia vs DR Congo (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52431/load-playlist?",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Colombia vs DR Congo (TELEMUNDO FHD)",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -3206,6 +3197,15 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
+    },
+    {
+        "name": "Colombia vs DR Congo (ITV SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52431/load-playlist?",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "Colombia vs DR Congo (TIPIK FR FHD)",
