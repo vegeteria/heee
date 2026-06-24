@@ -2482,6 +2482,8 @@ URL: https://spxhomelive.lol/events.json
             "WC TV FHD",
             "TELEMUNDO FHD",
             "TIPIK FR FHD",
+            "FOX ONE HD",
+            "TSN SPORTS HD",
             "ITV SPORTS HD",
             "DSports FHD",
             "CAZE TV FHD",
@@ -2496,6 +2498,7 @@ URL: https://spxhomelive.lol/events.json
             "ITV 1 FHD [ALT]",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
+            "FOX ONE 4K",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -2544,6 +2547,14 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TIPIK FR FHD",
                 "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
+            },
+            {
+                "title": "FOX ONE HD",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS HD",
+                "logo": ""
             },
             {
                 "title": "ITV SPORTS HD",
@@ -2600,6 +2611,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TELEMUNDO [USA]",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+            },
+            {
+                "title": "FOX ONE 4K",
+                "logo": ""
             },
             {
                 "title": "FUSSBALL TV 4K",
@@ -6080,6 +6095,20 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "FOX ONE HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN1/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "TSN SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52354/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "ITV SPORTS HD",
@@ -6175,6 +6204,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO [USA]",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?|accept-language=en-GB",
+        "logo": "",
+        "title": "FOX ONE 4K",
+        "type": "0"
     },
     {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
