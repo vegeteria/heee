@@ -1205,21 +1205,19 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO [USA]",
             "FOX ONE 4K",
             "FOX 4K LIVE",
-            "FOX ONE 4K [ALT]",
-            "FUSSBALL2 4K [GER]",
+            "TSN SPORTS 4K",
+            "TELEMUNDO 4K",
             "FUSSBALL TV 4K",
-            "TRT SPORTS 2K",
+            "FUSSBALL TV2 4K",
             "IRIB 4K",
-            "TIPIK FR FHD",
-            "TVP POLISH FHD",
-            "Sporza DUTCH",
-            "Match Football FHD",
-            "FAST SERVER",
+            "ARABIC LIVE HD",
+            "FOX SPORTS HD",
+            "TSN SPORTS HD",
             "ISCREEN BD FHD",
+            "Match Football FHD",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
             "ITV SPORTS UK",
-            "TSN SPORTS HD",
             "ARABIC LIVE",
             "DAZN SPANISH",
             "TYC SPORTS HD",
@@ -1326,11 +1324,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX ONE 4K [ALT]",
+                "title": "TSN SPORTS 4K",
                 "logo": ""
             },
             {
-                "title": "FUSSBALL2 4K [GER]",
+                "title": "TELEMUNDO 4K",
                 "logo": ""
             },
             {
@@ -1338,7 +1336,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TRT SPORTS 2K",
+                "title": "FUSSBALL TV2 4K",
                 "logo": ""
             },
             {
@@ -1346,27 +1344,23 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TIPIK FR FHD",
+                "title": "ARABIC LIVE HD",
                 "logo": ""
             },
             {
-                "title": "TVP POLISH FHD",
+                "title": "FOX SPORTS HD",
                 "logo": ""
             },
             {
-                "title": "Sporza DUTCH",
+                "title": "TSN SPORTS HD",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+            },
+            {
+                "title": "ISCREEN BD FHD",
                 "logo": ""
             },
             {
                 "title": "Match Football FHD",
-                "logo": ""
-            },
-            {
-                "title": "FAST SERVER",
-                "logo": ""
-            },
-            {
-                "title": "ISCREEN BD FHD",
                 "logo": ""
             },
             {
@@ -1380,10 +1374,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "ITV SPORTS UK",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "TSN SPORTS HD",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "ARABIC LIVE",
@@ -4482,18 +4472,18 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "0"
     },
     {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "",
-        "title": "FOX ONE 4K [ALT]",
-        "type": "1"
+        "title": "TSN SPORTS 4K",
+        "type": "0"
     },
     {
-        "api": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
-        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/tele4k/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "",
-        "title": "FUSSBALL2 4K [GER]",
-        "type": "1"
+        "title": "TELEMUNDO 4K",
+        "type": "0"
     },
     {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
@@ -4503,11 +4493,11 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "api": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
         "logo": "",
-        "title": "TRT SPORTS 2K",
-        "type": "0"
+        "title": "FUSSBALL TV2 4K",
+        "type": "1"
     },
     {
         "api": "",
@@ -4517,38 +4507,24 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "0"
     },
     {
-        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/tod1/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "",
-        "title": "TIPIK FR FHD",
-        "type": "1"
-    },
-    {
-        "api": "0:0",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "logo": "",
-        "title": "TVP POLISH FHD",
-        "type": "1"
-    },
-    {
-        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-        "logo": "",
-        "title": "Sporza DUTCH",
-        "type": "1"
-    },
-    {
-        "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "logo": "",
-        "title": "Match Football FHD",
-        "type": "1"
+        "title": "ARABIC LIVE HD",
+        "type": "0"
     },
     {
         "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdE6MDtzcQE.m3u8?txSecret=3104a2b2ea930430c8481f5deed1f19c&txTime=6A39F278",
+        "link": "https://chatgpt.hereisman.net/playlist/52458/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "FAST SERVER",
+        "title": "FOX SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52399/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
@@ -4557,6 +4533,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "logo": "",
         "title": "ISCREEN BD FHD",
         "type": "0"
+    },
+    {
+        "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "logo": "",
+        "title": "Match Football FHD",
+        "type": "1"
     },
     {
         "api": "0022fb73d8023c8ce5ca375276cd7d75:2086ca62c54f76f1219f6c08530c1204",
@@ -4577,13 +4560,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://chatgpt.hereisman.net/playlist/52396/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "ITV SPORTS UK",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52399/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
