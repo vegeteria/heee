@@ -2501,6 +2501,7 @@ URL: https://spxhomelive.lol/events.json
             "ARABIC LIVE FHD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
+            "TYC SPORTS HD",
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
             "CT SPORTS CZ",
@@ -2618,6 +2619,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "TYC SPORTS HD",
+                "logo": ""
             },
             {
                 "title": "TVP SPORTS FHD",
@@ -6259,6 +6264,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://chatgpt.hereisman.net/playlist/52353/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
+        "logo": "",
+        "title": "TYC SPORTS HD",
         "type": "0"
     },
     {
