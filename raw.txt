@@ -548,8 +548,8 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "WILLOW FHD",
+            "SKY CRICKET",
             "WILLOW ALT",
-            "SKY CRICKET FHD",
             "WILLOW HD",
             "SKY SPORT NZ"
         ],
@@ -559,12 +559,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
             },
             {
-                "title": "WILLOW ALT",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+                "title": "SKY CRICKET",
+                "logo": ""
             },
             {
-                "title": "SKY CRICKET FHD",
-                "logo": ""
+                "title": "WILLOW ALT",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
             },
             {
                 "title": "WILLOW HD",
@@ -2470,7 +2470,7 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "Switzerland vs Canada",
             "eventType": "null",
             "eventBanner": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/24 19:00:00 +0000",
             "endTime": "2026/06/24 21:15:00 +0000"
         },
@@ -2718,7 +2718,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
             "eventName": "Bosnia & Herzegovina vs Qatar",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/24 19:00:00 +0000",
             "endTime": "2026/06/24 21:15:00 +0000"
         },
@@ -3548,25 +3548,25 @@ URL: https://spxhomelive.lol/channels/50059.json
 ============================================================
 [
     {
-        "api": "e5ebe7c1ecbf30dd61fe5c0b6cab4009:49f000b9abc8e5b863a0aa7bf285dc99",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dgreeh7dby/out/v1/0becb4a313374a7c91de242c9e1b0fda/cenc.mpd",
+        "api": "b35978c7b6988c16a493e67cb35e3ed7:78cb4762e924126a02e0d19a3c7d5203",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zxv9btuhk4/out/v1/18a0b7d0d0054b728bc322e5ab14058a/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
-        "type": "1"
-    },
-    {
-        "api": "e5ebe7c1ecbf30dd61fe5c0b6cab4009:49f000b9abc8e5b863a0aa7bf285dc99",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dgreeh7dby/out/v1/0becb4a313374a7c91de242c9e1b0fda/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW ALT",
         "type": "1"
     },
     {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
         "logo": "",
-        "title": "SKY CRICKET FHD",
+        "title": "SKY CRICKET",
         "type": "0"
+    },
+    {
+        "api": "b35978c7b6988c16a493e67cb35e3ed7:78cb4762e924126a02e0d19a3c7d5203",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zxv9btuhk4/out/v1/18a0b7d0d0054b728bc322e5ab14058a/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW ALT",
+        "type": "1"
     },
     {
         "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
