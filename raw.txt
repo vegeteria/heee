@@ -5854,14 +5854,14 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox-sports-1-4k.m3u8|referer=https://vileembeds.pages.dev/",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FS14K/playlist.m3u8|accept-language=en-GB",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fusballtv1uhd-de.m3u8|referer=https://vileembeds.pages.dev/",
+        "link": "https://inproviszon.st/fusballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL TV 4K",
         "type": "0"

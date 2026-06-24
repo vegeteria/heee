@@ -938,7 +938,7 @@ https://naremanums.s3.eu-west-1.amazonaws.com/btsport.m3u8
 https://xyzcloud3.xyz/tsn4k/index.m3u8
 
 #EXTINF:-1 tvg-id="colombiavsdrcongo0300foxsports4k" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Colombia vs DR Congo 03:00 (FOX SPORTS 4K)
-https://inproviszon.st/fox-sports-1-4k.m3u8
+https://boombaclat0000-56789.heytheredelilah.xyz/001/FS14K/playlist.m3u8
 
 #EXTINF:-1 tvg-id="colombiavsdrcongo0300fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Colombia vs DR Congo 03:00 (FUSSBALL TV 4K)
 https://inproviszon.st/fusballtv1uhd-de.m3u8
