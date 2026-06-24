@@ -641,7 +641,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
             "eventName": "Scotland vs Brazil",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/24 22:00:00 +0000",
             "endTime": "2026/06/25 00:15:00 +0000"
         },
@@ -2510,7 +2510,6 @@ URL: https://spxhomelive.lol/events.json
             "DAZN SPANISH",
             "TSN SPORTS",
             "SOMOY TV HD",
-            "beIN MAX HD",
             "FUSSBALL 4K [GER]",
             "FUSSBALL TV FHD",
             "TELEMUNDO [USA]",
@@ -2654,10 +2653,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SOMOY TV HD",
-                "logo": ""
-            },
-            {
-                "title": "beIN MAX HD",
                 "logo": ""
             },
             {
@@ -6303,7 +6298,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/rzKPmyZvyFE0a1vDsV34_igvxZ6WgyHUXgXou7pfbMxlw6hpvmPcmDCbY0BxHZuCV8_CXyIc6aNOnGGOavHpdg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "link": "ok",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"
@@ -6327,13 +6322,6 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
         "logo": "",
         "title": "SOMOY TV HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "logo": "",
-        "title": "beIN MAX HD",
         "type": "0"
     },
     {
