@@ -649,11 +649,11 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "TSN SPORTS FHD",
-            "FOX SPORTS HD",
-            "TOFFEE BD FHD",
-            "Toffee SD",
-            "Toffee HD 2",
-            "Toffee Low",
+            "FOX ONE FHD",
+            "TOFFE BDIX (BD)",
+            "TELEMUNDO FHD",
+            "M6 FRANCE FHD",
+            "TVP SPORTS HD",
             "ISCREEN BD FHD",
             "ARABIC LIVE HD",
             "ARABIC LIVE FHD",
@@ -714,23 +714,23 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX SPORTS HD",
+                "title": "FOX ONE FHD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "TOFFEE BD FHD",
+                "title": "TOFFE BDIX (BD)",
                 "logo": ""
             },
             {
-                "title": "Toffee SD",
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
-                "title": "Toffee HD 2",
+                "title": "M6 FRANCE FHD",
                 "logo": ""
             },
             {
-                "title": "Toffee Low",
+                "title": "TVP SPORTS HD",
                 "logo": ""
             },
             {
@@ -3729,39 +3729,39 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://storage.googleapis.com/poiuytyrnvggdover1/mux_video_ts1/index-1.m3u8",
+        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS HD",
-        "type": "0"
+        "title": "FOX ONE FHD",
+        "type": "1"
     },
     {
         "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG",
+        "link": "ok",
         "logo": "",
-        "title": "TOFFEE BD FHD",
+        "title": "TOFFE BDIX (BD)",
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/3/master_1000.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG",
+        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "",
-        "title": "Toffee SD",
-        "type": "0"
+        "title": "TELEMUNDO FHD",
+        "type": "1"
     },
     {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/1/master_1800.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG",
+        "api": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
+        "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "Toffee HD 2",
-        "type": "0"
+        "title": "M6 FRANCE FHD",
+        "type": "1"
     },
     {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/4/master_600.m3u8?hdntl=Expires=1782221968~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBQQCClC7f2nigt-RYOPX4srVnQtUXEiMFGLMOMIqoUhsLMJKEqeoY03rNXIgsjNennbEvSbTQEedVJsxTIHAG",
+        "api": "0:0",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
         "logo": "",
-        "title": "Toffee Low",
-        "type": "0"
+        "title": "TVP SPORTS HD",
+        "type": "1"
     },
     {
         "api": "",
