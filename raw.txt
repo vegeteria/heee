@@ -2192,10 +2192,11 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS HD",
             "DSports FHD",
             "CAZE TV FHD",
+            "TOFFE BDIX (BD)",
+            "ISCREEN BDIX (BD)",
             "TVP SPORTS FHD",
-            "TOFFE BD BDIX",
             "FOX SPORTS 4K",
-            "FOX FHD LIVE",
+            "FOX HD LIVE",
             "TSN FHD LIVE",
             "FAST SERVER",
             "TELEMUNDO HD",
@@ -2210,13 +2211,12 @@ URL: https://spxhomelive.lol/events.json
             "beIN SPORTS FHD",
             "beIN MAX HDR",
             "TELEMUNDO FHD",
-            "ITV SPORTS HD",
+            "FOX SPORTS HD",
             "TSN SPORTS HD",
             "Sporza DUTCH FHD",
             "Match Football FHD",
             "JOJ SPORTS FHD",
             "ARABIC LIVE HD",
-            "ISCREEN FHD BDIX",
             "DAZN SPANISH",
             "TSN SPORTS",
             "SOMOY TV HD",
@@ -2262,11 +2262,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
-                "title": "TVP SPORTS FHD",
+                "title": "TOFFE BDIX (BD)",
                 "logo": ""
             },
             {
-                "title": "TOFFE BD BDIX",
+                "title": "ISCREEN BDIX (BD)",
+                "logo": ""
+            },
+            {
+                "title": "TVP SPORTS FHD",
                 "logo": ""
             },
             {
@@ -2274,7 +2278,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX FHD LIVE",
+                "title": "FOX HD LIVE",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
@@ -2334,7 +2338,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "ITV SPORTS HD",
+                "title": "FOX SPORTS HD",
                 "logo": ""
             },
             {
@@ -2355,10 +2359,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ARABIC LIVE HD",
-                "logo": ""
-            },
-            {
-                "title": "ISCREEN FHD BDIX",
                 "logo": ""
             },
             {
@@ -5764,7 +5764,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52431/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52447/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "title": "ITV SPORTS HD",
         "type": "0"
@@ -5784,18 +5784,25 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782349212~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcUH0Ym-D2JOfrD9TYgF4kZtvpJ1Q3OzqIVrlqvDWlQ7lIHyLW77zTmT1IMefTWy6KvptOkuWs-Kn_oMpLFpnEN",
+        "logo": "",
+        "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|Referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "ISCREEN BDIX (BD)",
+        "type": "0"
+    },
+    {
         "api": "0:0",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "logo": "",
         "title": "TVP SPORTS FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "ok",
-        "logo": "",
-        "title": "TOFFE BD BDIX",
-        "type": "0"
     },
     {
         "api": "",
@@ -5805,11 +5812,11 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
+        "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX FHD LIVE",
-        "type": "0"
+        "title": "FOX HD LIVE",
+        "type": "1"
     },
     {
         "api": "",
@@ -5911,9 +5918,9 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52340/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52446/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "ITV SPORTS HD",
+        "title": "FOX SPORTS HD",
         "type": "0"
     },
     {
@@ -5949,13 +5956,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "link": "ok",
         "logo": "",
         "title": "ARABIC LIVE HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
-        "logo": "",
-        "title": "ISCREEN FHD BDIX",
         "type": "0"
     },
     {

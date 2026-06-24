@@ -1028,6 +1028,12 @@
                 "channel_title": "TVP SPORTS FHD"
             },
             {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+                "clearkey": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
+                "channel_title": "FOX HD LIVE"
+            },
+            {
                 "web_view_url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
                 "clearkey": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
