@@ -2786,7 +2786,9 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS",
             "SOMOY TV HD",
             "FUSSBALL 4K [GER]",
+            "FUSSBALL2 4K [GER]",
             "FUSSBALL TV FHD",
+            "FUSSBALL2 TV FHD",
             "TELEMUNDO [USA]",
             "SD SERVER [ENG]",
             "ENG SERVER SD",
@@ -2941,7 +2943,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "FUSSBALL2 4K [GER]",
+                "logo": ""
+            },
+            {
                 "title": "FUSSBALL TV FHD",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL2 TV FHD",
                 "logo": ""
             },
             {
@@ -6672,10 +6682,24 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "1"
     },
     {
+        "api": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL2 4K [GER]",
+        "type": "1"
+    },
+    {
         "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
         "logo": "",
         "title": "FUSSBALL TV FHD",
+        "type": "1"
+    },
+    {
+        "api": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL2 TV FHD",
         "type": "1"
     },
     {
