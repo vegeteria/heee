@@ -1191,10 +1191,10 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000rtesportsfhd" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (RTE SPORTS FHD)
+#EXTINF:-1 tvg-id="bosniavsqatar2000itvsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (ITV SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
 
 #EXTINF:-1 tvg-id="bosniavsqatar2000ctvsportsfhd" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png" group-title="Fifa world cup",Bosnia vs Qatar 20:00 (CTV SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

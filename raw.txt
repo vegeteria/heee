@@ -2725,7 +2725,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "RTE SPORTS FHD",
+            "ITV SPORTS FHD",
             "CTV SPORTS FHD",
             "RTB GOLIVE FHD",
             "FOX SPORTS FHD",
@@ -2784,8 +2784,8 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "RTE SPORTS FHD",
-                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
+                "title": "ITV SPORTS FHD",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
             },
             {
                 "title": "CTV SPORTS FHD",
@@ -6420,10 +6420,10 @@ URL: https://spxhomelive.lol/channels/50072.json
 ============================================================
 [
     {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
-        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-        "title": "RTE SPORTS FHD",
+        "api": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12",
+        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "title": "ITV SPORTS FHD",
         "type": "1"
     },
     {
