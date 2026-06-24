@@ -2479,10 +2479,10 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "ITV SPORTS FHD",
             "CTV SPORTS FHD",
-            "FIFA WC FEED",
             "TELEMUNDO FHD",
             "TIPIK FR FHD",
             "ViX MUNDIAL FHD",
+            "TVP SPORTS HD",
             "FOX ONE HD",
             "TSN SPORTS HD",
             "ITV SPORTS HD",
@@ -2545,10 +2545,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png"
             },
             {
-                "title": "FIFA WC FEED",
-                "logo": "https://iili.io/CziyHTQ.png"
-            },
-            {
                 "title": "TELEMUNDO FHD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
@@ -2558,6 +2554,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ViX MUNDIAL FHD",
+                "logo": ""
+            },
+            {
+                "title": "TVP SPORTS HD",
                 "logo": ""
             },
             {
@@ -6138,13 +6138,6 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-        "logo": "https://iili.io/CziyHTQ.png",
-        "title": "FIFA WC FEED",
-        "type": "0"
-    },
-    {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -6166,8 +6159,15 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
+        "api": "0:0",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
+        "logo": "",
+        "title": "TVP SPORTS HD",
+        "type": "1"
+    },
+    {
         "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
+        "link": "https://xyzcloud3.xyz/FOX/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
