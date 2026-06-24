@@ -656,6 +656,7 @@ URL: https://spxhomelive.lol/events.json
             "TVP SPORTS HD",
             "FOX ONE HD",
             "BBC SPORTS HD",
+            "TVE La1 SPANISH",
             "D Sports FHD",
             "CAZE TV FHD",
             "ISCREEN BD FHD",
@@ -666,12 +667,11 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE 4K [ALT]",
             "TSN SPORTS [ALT]",
             "FOX ONE [ALT]",
-            "TVE La1 SPANISH",
-            "ViX MUNDIAL ES",
-            "TELEMUNDO FHD",
-            "RTB SPORTS FHD",
-            "FOX SPORTS - AQ",
-            "SportzX FHD LIVE",
+            "PEACOCK FHD [ALT]",
+            "TELEMUNDO [USA]",
+            "FOX ONE 4K",
+            "TELEMUNDO 4K",
+            "TSN SPORTS 4K",
             "TSN SPORTS [ALT]",
             "FOX ONE FHD [ALT]",
             "SporTV BR [ALT]",
@@ -742,6 +742,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TVE La1 SPANISH",
+                "logo": ""
+            },
+            {
                 "title": "D Sports FHD",
                 "logo": ""
             },
@@ -782,27 +786,23 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "TVE La1 SPANISH",
+                "title": "PEACOCK FHD [ALT]",
                 "logo": ""
             },
             {
-                "title": "ViX MUNDIAL ES",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+                "title": "TELEMUNDO [USA]",
+                "logo": ""
             },
             {
-                "title": "TELEMUNDO FHD",
+                "title": "FOX ONE 4K",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO 4K",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "RTB SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "FOX SPORTS - AQ",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "SportzX FHD LIVE",
+                "title": "TSN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -3778,6 +3778,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "0"
     },
     {
+        "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+        "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TVE La1 SPANISH",
+        "type": "1"
+    },
+    {
         "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
@@ -3848,45 +3855,38 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
-        "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-        "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "api": "",
+        "link": "ok",
         "logo": "",
-        "title": "TVE La1 SPANISH",
+        "title": "PEACOCK FHD [ALT]",
+        "type": "0"
+    },
+    {
+        "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "logo": "",
+        "title": "TELEMUNDO [USA]",
         "type": "1"
     },
     {
-        "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
-        "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-        "title": "ViX MUNDIAL ES",
-        "type": "1"
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "FOX ONE 4K",
+        "type": "0"
     },
     {
-        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
-        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "api": "",
+        "link": "https://wc.xyzcloud3.xyz:2053/tele4k/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO FHD",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
-        "logo": "",
-        "title": "RTB SPORTS FHD",
+        "title": "TELEMUNDO 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/6bbb3f01ec11e5b10e4369978f011941/manifest/video.m3u8",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS - AQ",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://soccerball.st/s1.php",
+        "link": "https://xyzcloud3.xyz/tsn4k/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "",
-        "title": "SportzX FHD LIVE",
+        "title": "TSN SPORTS 4K",
         "type": "0"
     },
     {
