@@ -909,9 +909,10 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "FOX SPORTS HD",
             "TVP SPORTS FHD",
-            "RTE SPORTS FHD",
+            "CT SPORTS CZ",
+            "BBC SPORTS HD",
+            "FOX SPORTS HD",
             "D Sports FHD",
-            "TSN SPORTS HD",
             "TELEMUNDO FHD",
             "RTB SPORTS FHD",
             "SportzX FHD LIVE",
@@ -977,15 +978,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-sport.png"
             },
             {
-                "title": "RTE SPORTS FHD",
-                "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png"
+                "title": "CT SPORTS CZ",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/ct4-sport.png"
             },
             {
-                "title": "D Sports FHD",
+                "title": "BBC SPORTS HD",
                 "logo": ""
             },
             {
-                "title": "TSN SPORTS HD",
+                "title": "FOX SPORTS HD",
+                "logo": ""
+            },
+            {
+                "title": "D Sports FHD",
                 "logo": ""
             },
             {
@@ -4004,8 +4009,8 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "1"
     },
     {
-        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
+        "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "FOX SPORTS HD",
         "type": "1"
@@ -4018,11 +4023,25 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "1"
     },
     {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/76cf20f1-26ae-421b-9677-72b5c5543103:BRU/manifest.mpd",
-        "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/RT%C3%89-2-Watch-online-live.png",
-        "title": "RTE SPORTS FHD",
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/ct4-sport.png",
+        "title": "CT SPORTS CZ",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52460/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "BBC SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/FS1/index.m3u8?|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "FOX SPORTS HD",
+        "type": "0"
     },
     {
         "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
@@ -4030,13 +4049,6 @@ URL: https://spxhomelive.lol/channels/50064.json
         "logo": "",
         "title": "D Sports FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52369/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "TSN SPORTS HD",
-        "type": "0"
     },
     {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
