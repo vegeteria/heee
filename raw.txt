@@ -2493,13 +2493,13 @@ URL: https://spxhomelive.lol/events.json
             "FUSSBALL TV2 4K",
             "IRIB 4K",
             "ARABIC LIVE FHD",
+            "TSN SPORTS HD",
             "TVP SPORTS FHD",
             "Sporza DUTCH FHD",
             "CT SPORTS CZ",
             "Match Football FHD",
             "JOJ SPORTS FHD",
             "TELEMUNDO [ALT]",
-            "TSN SPORTS HD",
             "FOX SPORTS HD",
             "ARABIC LIVE HD",
             "DAZN SPANISH",
@@ -2604,6 +2604,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TSN SPORTS HD",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+            },
+            {
                 "title": "TVP SPORTS FHD",
                 "logo": ""
             },
@@ -2626,10 +2630,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TELEMUNDO [ALT]",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
-            },
-            {
-                "title": "TSN SPORTS HD",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "FOX SPORTS HD",
@@ -6234,6 +6234,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52355/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS HD",
+        "type": "0"
+    },
+    {
         "api": "0:0",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "logo": "",
@@ -6274,13 +6281,6 @@ URL: https://spxhomelive.lol/channels/50071.json
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO [ALT]",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52355/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS HD",
-        "type": "0"
     },
     {
         "api": "",
