@@ -1073,11 +1073,6 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v
 #KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 
-#EXTINF:-1 tvg-id="switzerlandvscanada2000wctvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Switzerland vs Canada 20:00 (WC TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74d68f9d541c4430a0e94292bd478a65:a0a26dd189e54352b488343102a49efb
-https://dice-live-ap.akamaized.net/hdntl=exp=1782409676~acl=*dash%2flive%2f2102642%2f304343-322714%2f*!*dash%2flive%2f2102642-b%2f304343-322714-b%2f*~id=8cc847ff-b20e-4644-ae9a-efbbd033a733~data=hdntl,dWlkPWJOTWlFb3wwOWYyM2Y0YS04YTA4LTQ3NjEtYTQ1My1kOThmMjI5MTk0YzImaXA9NDkuMTU3LjE1OC4yMTAmZXhwPTE3ODI0MDk3MDYmZWlkPTMwNDM0MyZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=8f3ad655584ace2dafecbb7e2a154351dace283a9a485ccefa3e1e2f09865f5c/dash/live/2102642/304343-322714/manifest.mpd
-
 #EXTINF:-1 tvg-id="switzerlandvscanada2000telemundofhd" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Fifa world cup",Switzerland vs Canada 20:00 (TELEMUNDO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f

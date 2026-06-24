@@ -2479,7 +2479,7 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "ITV SPORTS FHD",
             "CTV SPORTS FHD",
-            "WC TV FHD",
+            "FIFA WC FEED",
             "TELEMUNDO FHD",
             "TIPIK FR FHD",
             "FOX ONE HD",
@@ -2537,8 +2537,8 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png"
             },
             {
-                "title": "WC TV FHD",
-                "logo": ""
+                "title": "FIFA WC FEED",
+                "logo": "https://iili.io/CziyHTQ.png"
             },
             {
                 "title": "TELEMUNDO FHD",
@@ -6073,11 +6073,11 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "74d68f9d541c4430a0e94292bd478a65:a0a26dd189e54352b488343102a49efb",
-        "link": "https://dice-live-ap.akamaized.net/hdntl=exp=1782409676~acl=*dash%2flive%2f2102642%2f304343-322714%2f*!*dash%2flive%2f2102642-b%2f304343-322714-b%2f*~id=8cc847ff-b20e-4644-ae9a-efbbd033a733~data=hdntl,dWlkPWJOTWlFb3wwOWYyM2Y0YS04YTA4LTQ3NjEtYTQ1My1kOThmMjI5MTk0YzImaXA9NDkuMTU3LjE1OC4yMTAmZXhwPTE3ODI0MDk3MDYmZWlkPTMwNDM0MyZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=8f3ad655584ace2dafecbb7e2a154351dace283a9a485ccefa3e1e2f09865f5c/dash/live/2102642/304343-322714/manifest.mpd",
-        "logo": "",
-        "title": "WC TV FHD",
-        "type": "1"
+        "api": "",
+        "link": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+        "logo": "https://iili.io/CziyHTQ.png",
+        "title": "FIFA WC FEED",
+        "type": "0"
     },
     {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
@@ -6444,7 +6444,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://xyzcloud3.xyz/FS1/index.m3u8?|referer=https://xyzstreams.shop/",
+        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FS1/playlist.m3u8?|accept-language=en-GB",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
