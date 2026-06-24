@@ -2187,6 +2187,7 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "RTE SPORTS FHD",
             "ITV SPORTS HD",
+            "TELEMUNDO FHD",
             "TIPIK FR FHD",
             "DSports FHD",
             "CAZE TV FHD",
@@ -2239,6 +2240,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "ITV SPORTS HD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+            },
+            {
+                "title": "TELEMUNDO FHD",
+                "logo": ""
             },
             {
                 "title": "TIPIK FR FHD",
@@ -5742,6 +5747,13 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "title": "ITV SPORTS HD",
         "type": "0"
+    },
+    {
+        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
+        "type": "1"
     },
     {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
