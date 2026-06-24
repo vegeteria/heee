@@ -2204,6 +2204,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN FHD LIVE",
             "TSN 4K",
             "FOX SPORTS 4K",
+            "FUSSBALL TV 4K",
             "FAST SERVER",
             "FAST SERVER 2",
             "TELEMUNDO HD",
@@ -2295,6 +2296,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS 4K",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "FUSSBALL TV 4K",
+                "logo": ""
             },
             {
                 "title": "FAST SERVER",
@@ -5849,9 +5854,16 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://xyzcloud3.xyz/fs14k/index.m3u8|referer=https://xyzstreams.shop/",
+        "link": "https://inproviszon.st/fox-sports-1-4k.m3u8|referer=https://vileembeds.pages.dev/",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/fusballtv1uhd-de.m3u8|referer=https://vileembeds.pages.dev/",
+        "logo": "",
+        "title": "FUSSBALL TV 4K",
         "type": "0"
     },
     {
