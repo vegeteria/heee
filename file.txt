@@ -145,7 +145,7 @@ https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v
 #KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
 https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
 
-#EXTINF:-1 tvg-id="scotlandvsbrazil2300m6francefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (M6 FRANCE FHD)
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300m6francefhd" tvg-logo="https://www.ideal-investisseur.fr/img/0-202601150929-6968b38f4c6ae.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (M6 FRANCE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283
 https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
@@ -156,7 +156,7 @@ https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FOX ONE HD)
-https://xyzcloud3.xyz/FOX/index.m3u8
+https://lb.xyzcloud3.xyz/FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300tvela1spanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TVE La1 SPANISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
