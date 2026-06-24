@@ -2490,6 +2490,7 @@ URL: https://spxhomelive.lol/events.json
             "TOFFE BDIX (BD)",
             "ISCREEN BD FHD",
             "FAST SERVER",
+            "SportzX HD LIVE",
             "TELEMUNDO HD",
             "M6 FRANCE FHD",
             "TSN SPORTS FHD",
@@ -2502,6 +2503,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO [USA]",
             "FOX ONE 4K",
             "TELEMUNDO 4K",
+            "TSN SPORTS 4K",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -2586,6 +2588,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "SportzX HD LIVE",
+                "logo": ""
+            },
+            {
                 "title": "TELEMUNDO HD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
@@ -2631,6 +2637,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TELEMUNDO 4K",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -2789,6 +2799,8 @@ URL: https://spxhomelive.lol/events.json
             "ITV 1 FHD [ALT]",
             "PEACOCK FHD [ALT]",
             "NBC UNIVERSO [ALT]",
+            "FOX SPORTS 4K",
+            "NBC UNIVERSO 4K",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -2892,6 +2904,14 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "NBC UNIVERSO [ALT]",
+                "logo": ""
+            },
+            {
+                "title": "FOX SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "NBC UNIVERSO 4K",
                 "logo": ""
             },
             {
@@ -6186,6 +6206,13 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
+        "link": "https://underlow.s3.us-east-1.amazonaws.com/svg/eve1.m3u8",
+        "logo": "",
+        "title": "SportzX HD LIVE",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO HD",
@@ -6241,11 +6268,11 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00225db32606f876d869ff084df65bcd:811337513bc69c1fed90b44cfa2999c1",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021418-723276-49123e117cc)/master_2hr.mpd?c3.ri=6a3c1e41_Q1ZYMDc_0_Q0xPVURGUk9OVA_6082ce313756%3A0&aws.sessionId=8ff915b2-a3a3-47d4-8092-23d0411d5958&ck=eyIwMDIyNWRiMzI2MDZmODc2ZDg2OWZmMDg0ZGY2NWJjZCI6IjgxMTMzNzUxM2JjNjljMWZlZDkwYjQ0Y2ZhMjk5OWMxIn0%3D&=--key",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
@@ -6266,6 +6293,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://xyzcloud3.xyz/tele4k/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "",
         "title": "TELEMUNDO 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://xyzcloud3.xyz/tsn4k/index.m3u8|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
         "type": "0"
     },
     {
@@ -6609,6 +6643,20 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "",
         "title": "NBC UNIVERSO [ALT]",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://xyzcloud3.xyz/fs14k/index.m3u8|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "FOX SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://xyzcloud3.xyz/tele4k2/index.m3u8|referer=https://xyzstreams.shop/",
+        "logo": "",
+        "title": "NBC UNIVERSO 4K",
+        "type": "0"
     },
     {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
