@@ -1187,11 +1187,12 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "FOX ONE FHD",
             "TELEMUNDO FHD",
+            "AZTECA7 FHD",
+            "CANAL5 FHD",
             "BBC SPORTS HD",
             "TVP SPORTS HD",
             "TVCG 1 FHD",
             "CT SPORTS CZ",
-            "TUDN ViX FHD",
             "D Sports FHD",
             "CAZE TV FHD",
             "TOFFEE BDIX (BD)",
@@ -1214,12 +1215,12 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "ISCREEN BD FHD",
+            "SportzX Live",
+            "HD SERVER ENG",
+            "HD SERVER AR",
             "Match Football FHD",
-            "PEACOCK FHD [ALT]",
-            "TELEMUNDO [ALT]",
-            "ITV SPORTS UK",
-            "ARABIC LIVE",
             "DAZN SPANISH",
+            "TELEMUNDO [ALT]",
             "TYC SPORTS HD",
             "beIN MAX HD",
             "TSN SPORTS",
@@ -1227,16 +1228,12 @@ URL: https://spxhomelive.lol/events.json
             "FUSSBALL 4K [GER]",
             "FUSSBALL TV FHD",
             "TELEMUNDO [USA]",
-            "SportzX Live",
-            "HD SERVER ENG",
-            "HD SERVER AR",
             "SD SERVER [ENG]",
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD",
-            "M6 FRANCE SD",
-            "AZTECA7 FHD"
+            "M6 FRANCE SD"
         ],
         "formatsNew": [
             {
@@ -1249,6 +1246,14 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
+                "title": "AZTECA7 FHD",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5c8u891621868366.png"
+            },
+            {
+                "title": "CANAL5 FHD",
                 "logo": ""
             },
             {
@@ -1266,10 +1271,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CT SPORTS CZ",
                 "logo": ""
-            },
-            {
-                "title": "TUDN ViX FHD",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
             },
             {
                 "title": "D Sports FHD",
@@ -1360,28 +1361,28 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "Match Football FHD",
+                "title": "SportzX Live",
                 "logo": ""
             },
             {
-                "title": "PEACOCK FHD [ALT]",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+                "title": "HD SERVER ENG",
+                "logo": ""
             },
             {
-                "title": "TELEMUNDO [ALT]",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+                "title": "HD SERVER AR",
+                "logo": ""
             },
             {
-                "title": "ITV SPORTS UK",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "ARABIC LIVE",
+                "title": "Match Football FHD",
                 "logo": ""
             },
             {
                 "title": "DAZN SPANISH",
                 "logo": ""
+            },
+            {
+                "title": "TELEMUNDO [ALT]",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "TYC SPORTS HD",
@@ -1412,18 +1413,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER ENG",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER AR",
-                "logo": ""
-            },
-            {
                 "title": "SD SERVER [ENG]",
                 "logo": ""
             },
@@ -1445,10 +1434,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "M6 FRANCE SD",
-                "logo": ""
-            },
-            {
-                "title": "AZTECA7 FHD",
                 "logo": ""
             }
         ]
@@ -4346,6 +4331,20 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
+        "api": "2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f",
+        "link": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5c8u891621868366.png",
+        "title": "AZTECA7 FHD",
+        "type": "1"
+    },
+    {
+        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+        "link": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "CANAL5 FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52399/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
@@ -4371,13 +4370,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "logo": "",
         "title": "CT SPORTS CZ",
-        "type": "1"
-    },
-    {
-        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "link": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-        "title": "TUDN ViX FHD",
         "type": "1"
     },
     {
@@ -4535,6 +4527,27 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER ENG",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER AR",
+        "type": "0"
+    },
+    {
         "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "",
@@ -4542,11 +4555,11 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
-        "api": "0022fb73d8023c8ce5ca375276cd7d75:2086ca62c54f76f1219f6c08530c1204",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021289-723147-4911c30b50b)/master_2hr.mpd?c3.ri=6a39c9ba_Q1ZYMDc_1_Q0xPVURGUk9OVA_c10be7f027e9%3A0&aws.sessionId=6593437c-beaf-42bd-8e1b-89367e267c6e&ck=eyIwMDIyZmI3M2Q4MDIzYzhjZTVjYTM3NTI3NmNkN2Q3NSI6IjIwODZjYTYyYzU0Zjc2ZjEyMTlmNmMwODUzMGMxMjA0In0%3D",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "PEACOCK FHD [ALT]",
-        "type": "1"
+        "api": "",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "logo": "",
+        "title": "DAZN SPANISH",
+        "type": "0"
     },
     {
         "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
@@ -4554,27 +4567,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO [ALT]",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52396/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "ITV SPORTS UK",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://oottoo.online/max1--g/tracks-v1a1/mono.m3u8",
-        "logo": "",
-        "title": "ARABIC LIVE",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "logo": "",
-        "title": "DAZN SPANISH",
-        "type": "0"
     },
     {
         "api": "",
@@ -4627,27 +4619,6 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER ENG",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER AR",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "http://193.47.62.47/hls/pSXrtttt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
@@ -4686,13 +4657,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
         "logo": "",
         "title": "M6 FRANCE SD",
-        "type": "1"
-    },
-    {
-        "api": "2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f",
-        "link": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd",
-        "logo": "",
-        "title": "AZTECA7 FHD",
         "type": "1"
     }
 ]

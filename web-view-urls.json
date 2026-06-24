@@ -494,6 +494,18 @@
                 "channel_title": "TELEMUNDO FHD"
             },
             {
+                "web_view_url": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5c8u891621868366.png",
+                "clearkey": "2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f",
+                "channel_title": "AZTECA7 FHD"
+            },
+            {
+                "web_view_url": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+                "channel_title": "CANAL5 FHD"
+            },
+            {
                 "web_view_url": "https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-2-poland.png",
                 "clearkey": "0:0",
@@ -510,12 +522,6 @@
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "channel_title": "CT SPORTS CZ"
-            },
-            {
-                "web_view_url": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-                "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-                "channel_title": "TUDN ViX FHD"
             },
             {
                 "web_view_url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
@@ -572,12 +578,6 @@
                 "channel_title": "Match Football FHD"
             },
             {
-                "web_view_url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021289-723147-4911c30b50b)/master_2hr.mpd?c3.ri=6a39c9ba_Q1ZYMDc_1_Q0xPVURGUk9OVA_c10be7f027e9%3A0&aws.sessionId=6593437c-beaf-42bd-8e1b-89367e267c6e&ck=eyIwMDIyZmI3M2Q4MDIzYzhjZTVjYTM3NTI3NmNkN2Q3NSI6IjIwODZjYTYyYzU0Zjc2ZjEyMTlmNmMwODUzMGMxMjA0In0%3D",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-                "clearkey": "0022fb73d8023c8ce5ca375276cd7d75:2086ca62c54f76f1219f6c08530c1204",
-                "channel_title": "PEACOCK FHD [ALT]"
-            },
-            {
                 "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
                 "clearkey": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
@@ -606,12 +606,6 @@
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
                 "channel_title": "M6 FRANCE SD"
-            },
-            {
-                "web_view_url": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f",
-                "channel_title": "AZTECA7 FHD"
             }
         ]
     },
