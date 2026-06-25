@@ -1675,6 +1675,15 @@
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
+        "name": "Ecuador vs Germany (SportzX HD Live)",
+        "link": "https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Ecuador vs Germany (CANAL5 FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
@@ -1842,12 +1851,14 @@
     },
     {
         "name": "Ecuador vs Germany (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021320-723178-4911e09baea)/master_2hr.mpd?c3.ri=6a3d75ae_Q1ZYMDc_1_Q09NQ0FTVA_23708a1976fe%3A0&aws.sessionId=7dd2cd87-c173-40ff-a597-be952fb88fae&ck=eyIwMDIyZWViNjlhNjM1MzYyOWZjZTM1OTRkNTY0OTdiMyI6IjczNzNhODMxZTg3MzA3MzA5NDFjZGUxYzU2MGM1ZGJkIn0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022eeb69a6353629fce3594d56497b3:7373a831e8730730941cde1c560c5dbd"
     },
     {
         "name": "Ecuador vs Germany (TELEMUNDO [USA])",
@@ -2058,7 +2069,7 @@
     },
     {
         "name": "Ecuador vs Germany (SD SERVER [ENG])",
-        "link": "?",
+        "link": "http://193.47.62.51/hls/TKKKQQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2067,7 +2078,7 @@
     },
     {
         "name": "Ecuador vs Germany (ENG SERVER SD)",
-        "link": "?",
+        "link": "http://193.47.62.59/hls/TKKKQQQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2076,7 +2087,7 @@
     },
     {
         "name": "Ecuador vs Germany (SD SERVER  [SWE])",
-        "link": "?",
+        "link": "http://193.47.62.51/hls/TKKK.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2085,7 +2096,7 @@
     },
     {
         "name": "Ecuador vs Germany (beiN SPORTS FR)",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/TKKKQ.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2094,7 +2105,7 @@
     },
     {
         "name": "Ecuador vs Germany (ESPANOL SD)",
-        "link": "?",
+        "link": "http://193.47.62.47/hls/TKKKQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2146,11 +2157,11 @@
         "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
     },
     {
-        "name": "Curacao vs Cote d Ivoire (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52510/load-playlist?",
+        "name": "Curacao vs Cote d Ivoire (SportzX HD Live)",
+        "link": "https://storage.googleapis.com/qwertyuipoiuytr/mux_video_ts/index-1.m3u8",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
         "origin": "",
-        "referrer": "https://gooz.aapmains.net",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -2487,7 +2498,7 @@
     },
     {
         "name": "Curacao vs Cote d Ivoire (SD SERVER [ENG])",
-        "link": "http://193.47.62.42/hls/XZAZAZAZA.m3u8?",
+        "link": "http://193.47.62.51/hls/QTKKKQQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2496,7 +2507,7 @@
     },
     {
         "name": "Curacao vs Cote d Ivoire (ENG SERVER SD)",
-        "link": "?",
+        "link": "http://193.47.62.59/hls/QTKKKQQQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2505,7 +2516,7 @@
     },
     {
         "name": "Curacao vs Cote d Ivoire (SD SERVER [SWE])",
-        "link": "?",
+        "link": "http://193.47.62.59/hls/QTKKK.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2514,7 +2525,7 @@
     },
     {
         "name": "Curacao vs Cote d Ivoire (beiN SPORTS FR)",
-        "link": "?",
+        "link": "http://193.47.62.59/hls/QTKKKQ.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -2523,7 +2534,7 @@
     },
     {
         "name": "Curacao vs Cote d Ivoire (ESPANOL SD)",
-        "link": "?",
+        "link": "http://193.47.62.55/hls/QTKKKQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",

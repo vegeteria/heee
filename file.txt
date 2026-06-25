@@ -509,6 +509,9 @@ https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+#EXTINF:-1 tvg-id="ecuadorvsgermany2100sportzxhdlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Ecuador vs Germany 21:00 (SportzX HD Live)
+https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8
+
 #EXTINF:-1 tvg-id="ecuadorvsgermany2100canal5fhd" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png" group-title="Fifa world cup",Ecuador vs Germany 21:00 (CANAL5 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
@@ -655,6 +658,9 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="curacaovscotedivoire2100sportzxhdlive" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (SportzX HD Live)
+https://storage.googleapis.com/qwertyuipoiuytr/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100tvpsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (TVP SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
