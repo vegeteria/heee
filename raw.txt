@@ -4883,7 +4883,7 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1782433218~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdg6Il_mhN5AGHKeuqliHa-w7b6vpSIt12wYU_kVfqqnP3QjQ4ybhS9yUyjpKYVVWhVYaVZPs8Azt7aj51CKrAL",
         "logo": "",
         "title": "TOFFEE BDIX (BD)",
         "type": "0"
@@ -4897,7 +4897,7 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSKkWzUf4NS.m3u8?txSecret=ec3e7fb4cfd9d3817d94b566af55b4b3&txTime=6A3CA220",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -5211,7 +5211,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782433216~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdpX-v9i4mlQNGrG2bohbSqPdK2SM3UBQYuk_wGQebu76mRz1-txDq8uru2a87nIVh7R5CEgM4a3oOC2ynqprUJ",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
@@ -5225,7 +5225,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "oj",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJ8LAa6cj6N.m3u8?txSecret=8a8a1774d4557bdc0a7f42a0dbedfa62&txTime=6A3CA220",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
