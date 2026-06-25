@@ -1633,33 +1633,20 @@ URL: https://spxhomelive.lol/events.json
             "FUSSBALL TV 4K",
             "UNIVERSEO 4K",
             "FUSSBALL TV 4K",
+            "FUSSBALL TV2 4K",
             "IRIB 4K",
-            "beIN SPORTS 4K",
-            "beIN MAX HDR",
-            "TELEMUNDO FHD",
-            "beIN SPORTS HD",
-            "FOX SPORTS SD",
-            "TSN SPORTS SD",
-            "SporTV BR FHD",
-            "Sporza DUTCH FHD",
-            "MATCH TV RU",
-            "TELEMUNDO [ALT]",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
-            "ARABIC LIVE HD",
-            "DAZN SPANISH",
-            "ISCREEN FHD BDIX",
-            "TSN SPORTS",
-            "SOMOY TV HD",
-            "JOJ SPORTS FHD",
-            "ORF GERMAN HD",
-            "FUSSBALL 4K [GER]",
-            "FUSSBALL TV FHD",
-            "TELEMUNDO [USA]",
             "SportzX Live",
             "HD SERVER ENG",
-            "HD SERVER EN 2",
             "HD SERVER AR",
+            "MATCH TV RU",
+            "DAZN SPANISH",
+            "FUSSBALL 4K [GER]",
+            "FUSSBALL2 4K [GER]",
+            "FUSSBALL TV FHD",
+            "FUSSBALL2 TV FHD",
+            "TELEMUNDO [USA]",
             "SD SERVER [ENG]",
             "ENG SERVER SD",
             "SD SERVER [SWE]",
@@ -1764,48 +1751,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "FUSSBALL TV2 4K",
+                "logo": ""
+            },
+            {
                 "title": "IRIB 4K",
                 "logo": ""
-            },
-            {
-                "title": "beIN SPORTS 4K",
-                "logo": ""
-            },
-            {
-                "title": "beIN MAX HDR",
-                "logo": ""
-            },
-            {
-                "title": "TELEMUNDO FHD",
-                "logo": ""
-            },
-            {
-                "title": "beIN SPORTS HD",
-                "logo": ""
-            },
-            {
-                "title": "FOX SPORTS SD",
-                "logo": ""
-            },
-            {
-                "title": "TSN SPORTS SD",
-                "logo": ""
-            },
-            {
-                "title": "SporTV BR FHD",
-                "logo": "https://iili.io/CFFRvqJ.png"
-            },
-            {
-                "title": "Sporza DUTCH FHD",
-                "logo": ""
-            },
-            {
-                "title": "MATCH TV RU",
-                "logo": ""
-            },
-            {
-                "title": "TELEMUNDO [ALT]",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "TSN SPORTS HD",
@@ -1816,46 +1767,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "ARABIC LIVE HD",
-                "logo": ""
-            },
-            {
-                "title": "DAZN SPANISH",
-                "logo": ""
-            },
-            {
-                "title": "ISCREEN FHD BDIX",
-                "logo": ""
-            },
-            {
-                "title": "TSN SPORTS",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
-                "title": "SOMOY TV HD",
-                "logo": ""
-            },
-            {
-                "title": "JOJ SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "ORF GERMAN HD",
-                "logo": ""
-            },
-            {
-                "title": "FUSSBALL 4K [GER]",
-                "logo": ""
-            },
-            {
-                "title": "FUSSBALL TV FHD",
-                "logo": ""
-            },
-            {
-                "title": "TELEMUNDO [USA]",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
-            },
-            {
                 "title": "SportzX Live",
                 "logo": ""
             },
@@ -1864,12 +1775,36 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "HD SERVER EN 2",
+                "title": "HD SERVER AR",
                 "logo": ""
             },
             {
-                "title": "HD SERVER AR",
+                "title": "MATCH TV RU",
                 "logo": ""
+            },
+            {
+                "title": "DAZN SPANISH",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL 4K [GER]",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL2 4K [GER]",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL TV FHD",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL2 TV FHD",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO [USA]",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "SD SERVER [ENG]",
@@ -4538,7 +4473,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoTY6DS43pJ.m3u8?txSecret=3b239872027f985ce0b1a8068df6923c&txTime=6A3DAEB8",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -4942,81 +4877,18 @@ URL: https://spxhomelive.lol/channels/50068.json
         "type": "1"
     },
     {
+        "api": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL TV2 4K",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "",
         "title": "IRIB 4K",
         "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://wc.streamxyz.shop:2053/bein/index.m3u8?|referer=https://xyzstreams.shop/",
-        "logo": "",
-        "title": "beIN SPORTS 4K",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://wc.streamxyz.shop:2053/bein4k/index.m3u8?|referer=https://xyzstreams.shop/",
-        "logo": "",
-        "title": "beIN MAX HDR",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://wc.streamxyz.shop:2053/Telemundo/index.m3u8?|referer=https://xyzstreams.shop/",
-        "logo": "",
-        "title": "TELEMUNDO FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://cdn.worldo2.xyz/hls/master.m3u8",
-        "logo": "",
-        "title": "beIN SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
-        "logo": "",
-        "title": "FOX SPORTS SD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://soccerball.st/s1.php",
-        "logo": "",
-        "title": "TSN SPORTS SD",
-        "type": "0"
-    },
-    {
-        "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
-        "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "logo": "https://iili.io/CFFRvqJ.png",
-        "title": "SporTV BR FHD",
-        "type": "1"
-    },
-    {
-        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-        "logo": "",
-        "title": "Sporza DUTCH FHD",
-        "type": "1"
-    },
-    {
-        "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "logo": "",
-        "title": "MATCH TV RU",
-        "type": "1"
-    },
-    {
-        "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO [ALT]",
-        "type": "1"
     },
     {
         "api": "",
@@ -5034,10 +4906,31 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "https://karim-qkcv-eu-20260623.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8|referer=https://www.kooratlyad33.site/",
+        "link": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
-        "title": "ARABIC LIVE HD",
+        "title": "SportzX Live",
         "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER ENG",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER AR",
+        "type": "0"
+    },
+    {
+        "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+        "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "logo": "",
+        "title": "MATCH TV RU",
+        "type": "1"
     },
     {
         "api": "",
@@ -5047,41 +4940,6 @@ URL: https://spxhomelive.lol/channels/50068.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
-        "logo": "",
-        "title": "ISCREEN FHD BDIX",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://soccerball.st/s1.php",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "logo": "",
-        "title": "SOMOY TV HD",
-        "type": "0"
-    },
-    {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "logo": "",
-        "title": "JOJ SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-        "logo": "",
-        "title": "ORF GERMAN HD",
-        "type": "1"
-    },
-    {
         "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
         "logo": "",
@@ -5089,10 +4947,24 @@ URL: https://spxhomelive.lol/channels/50068.json
         "type": "1"
     },
     {
+        "api": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL2 4K [GER]",
+        "type": "1"
+    },
+    {
         "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
         "logo": "",
         "title": "FUSSBALL TV FHD",
+        "type": "1"
+    },
+    {
+        "api": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL2 TV FHD",
         "type": "1"
     },
     {
@@ -5104,34 +4976,6 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER ENG",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER EN 2",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER AR",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "http://193.47.62.42/hls/XZAZAZAZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
@@ -5139,28 +4983,28 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/XFOFOFO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/XZAZAZAZAS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/XJUJUJUSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/XJUJUJUS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"

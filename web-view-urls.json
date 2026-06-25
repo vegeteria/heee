@@ -794,16 +794,10 @@
                 "channel_title": "FUSSBALL TV 4K"
             },
             {
-                "web_view_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-                "logo": "https://iili.io/CFFRvqJ.png",
-                "clearkey": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
-                "channel_title": "SporTV BR FHD"
-            },
-            {
-                "web_view_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+                "web_view_url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-                "channel_title": "Sporza DUTCH FHD"
+                "clearkey": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
+                "channel_title": "FUSSBALL TV2 4K"
             },
             {
                 "web_view_url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
@@ -812,34 +806,28 @@
                 "channel_title": "MATCH TV RU"
             },
             {
-                "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-                "clearkey": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-                "channel_title": "TELEMUNDO [ALT]"
-            },
-            {
-                "web_view_url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "channel_title": "JOJ SPORTS FHD"
-            },
-            {
-                "web_view_url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-                "channel_title": "ORF GERMAN HD"
-            },
-            {
                 "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
                 "channel_title": "FUSSBALL 4K [GER]"
             },
             {
+                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
+                "channel_title": "FUSSBALL2 4K [GER]"
+            },
+            {
                 "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
                 "channel_title": "FUSSBALL TV FHD"
+            },
+            {
+                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
+                "channel_title": "FUSSBALL2 TV FHD"
             },
             {
                 "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
