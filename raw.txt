@@ -716,20 +716,25 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "WILLOW FHD",
             "TNT Sports FHD",
-            "WILLOW [ALT]"
+            "WILLOW [ALT]",
+            "FANCODE - IN"
         ],
         "formatsNew": [
             {
                 "title": "WILLOW FHD",
-                "logo": ""
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
             },
             {
                 "title": "TNT Sports FHD",
-                "logo": ""
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
             },
             {
                 "title": "WILLOW [ALT]",
-                "logo": ""
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "FANCODE - IN",
+                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
             }
         ]
     },
@@ -3689,23 +3694,30 @@ URL: https://spxhomelive.lol/channels/50060.json
     {
         "api": "13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2",
         "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd",
-        "logo": "",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
     },
     {
         "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
-        "logo": "",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "title": "TNT Sports FHD",
         "type": "1"
     },
     {
         "api": "13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2",
         "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd",
-        "logo": "",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW [ALT]",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE - IN",
+        "type": "0"
     }
 ]
 ============================================================
