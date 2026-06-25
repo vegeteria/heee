@@ -174,34 +174,6 @@
         ]
     },
     {
-        "event_name": "India W vs Bangladesh W",
-        "team_a_flag": "https://img.sofascore.com/api/v1/team/213119/image",
-        "team_b_flag": "https://img.sofascore.com/api/v1/team/187809/image",
-        "start_time_gmt": "2026-06-25 13:30:00 +0000",
-        "end_time_gmt": "2026-06-25 17:15:00 +0000",
-        "group-title": "Cricket",
-        "streams": [
-            {
-                "web_view_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33",
-                "channel_title": "WILLOW FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33",
-                "channel_title": "WILLOW ALT"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "channel_title": "WILLOW HD"
-            }
-        ]
-    },
-    {
         "event_name": "West Indies vs Sri Lanka",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/187760/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image",
@@ -1000,10 +972,16 @@
         "group-title": "Fifa world cup",
         "streams": [
             {
-                "web_view_url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-                "clearkey": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-                "channel_title": "ITV SPORTS FHD"
+                "web_view_url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+                "clearkey": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                "channel_title": "TSN SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qwpvqt1435079173.png",
+                "clearkey": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
+                "channel_title": "M6 FRANCE FHD"
             },
             {
                 "web_view_url": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
