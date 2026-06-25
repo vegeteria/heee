@@ -556,7 +556,7 @@ https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
 https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd
 
 #EXTINF:-1 tvg-id="ecuadorvsgermany2100foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Ecuador vs Germany 21:00 (FOX ONE HD)
-https://vildid.hundredmilesperhour.uk/1782420795/23220638e5734cc587a65936528a76dd/qIzJVzCxBOr9CCD9dKPDyBk_zI8BPqO-R6AWn2o5KW4/fox-usa.m3u8
+https://vildid.hundredmilesperhour.uk/1782427275/3e4d442c726f46c3861b7f4b3e080232/TuvJK-J6j5gjqxDzGUfKcC5C2TgP-9qCDYl7xGpb_zQ/fox-usa.m3u8
 
 #EXTINF:-1 tvg-id="ecuadorvsgermany2100tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Ecuador vs Germany 21:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -654,6 +654,9 @@ https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
+#EXTINF:-1 tvg-id="curacaovscotedivoire2100foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (FOX SPORTS HD)
+https://vildid.hundredmilesperhour.uk/1782427080/8024d667b07e45cb940467f92303c0d3/fcYbeS6RxbfZ-s8upjqx6w0-Wrbb4bYZolRfKUop8RE/fox-sports-1.m3u8
+
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
@@ -691,7 +694,7 @@ https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v
 https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd
 
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (beIN MAX FHD)
-https://vildid.hundredmilesperhour.uk/1782424840/409668caf75e4736a8d10dcbaf0631e6/hq4BfBpiDVp6MBGdcQtQJ1LECl0Aa9qP3lKo4Q2HT0Q/beinsportsmax2-sa.m3u8
+https://vildid.hundredmilesperhour.uk/1782427249/1915fa862a4e4f94959a280005f32bc4/5YRH-7GeMXGh6kUSiPKZqqMGMmlwHxWfUenlDaK8oTY/beinsportsmax2-sa.m3u8
 
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (TSN Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -714,13 +717,13 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100fox4klive" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (FOX 4K LIVE)
-https://vildid.hundredmilesperhour.uk/1782425092/b2864d7486414345b7995ab663f48bd1/dCJL_f_Ge22aQECgIDvj0n9KUqdp1CzlVvIjR85_4UQ/fox-sports-1-4k.m3u8
+https://vildid.hundredmilesperhour.uk/1782427156/9ff2039fdf9243adb3d70aca39566ab0/DQMUPwEp_nhqlL9yFUBCK_z3eBa5JWAyw4NKf3IUDes/fox-sports-1-4k.m3u8
 
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (FUSSBALL TV 4K)
-https://vildid.hundredmilesperhour.uk/1782425120/25f0fdbf34f54217882808b3cb906da6/PrNp1lC3WieEL93CxeynybRRlbkMS6FT9kWvW5g1KXY/fusballtv2uhd-de.m3u8
+https://vildid.hundredmilesperhour.uk/1782427228/2ac47334b1a842ee8de92fc2f6641312/fR5wToooE-wNl_BHySA2RhQeXzER_kWX9XIJsqzXzPg/fusballtv2uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100universeo4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (UNIVERSEO 4K)
-https://vildid.hundredmilesperhour.uk/1782425172/427279ae06a74485842912368247a26b/BskkFSYIJmn_wxHhopgXu42gTHnxmeyu9uFZfBOddCU/universouhd-usa.m3u8
+https://vildid.hundredmilesperhour.uk/1782427196/ab6cb365219b4aa3892889a64a844086/AxVcjrhXOFeZtRonCbjHyfVxgrHSwDfJmYUXJ9xl_Ok/universouhd-usa.m3u8
 
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Curacao vs Cote d Ivoire 21:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
