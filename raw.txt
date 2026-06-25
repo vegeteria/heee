@@ -1819,7 +1819,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "RTE SPORTS FHD",
+            "FOX SPORTS HD",
             "CTV SPORTS FHD",
             "BBC SPORTS HD",
             "SportzX FHD LIVE",
@@ -1875,8 +1875,8 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "RTE SPORTS FHD",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png"
+                "title": "FOX SPORTS HD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "CTV SPORTS FHD",
@@ -2145,13 +2145,13 @@ URL: https://spxhomelive.lol/events.json
             "FUSSBALL 4K [GER]",
             "FUSSBALL2 4K [GER]",
             "FUSSBALL TV FHD",
+            "FUSSBALL2 TV FHD",
             "TELEMUNDO [USA]",
             "SD SERVER [ENG]",
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "FUSSBALL2 TV FHD"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -2307,6 +2307,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "FUSSBALL2 TV FHD",
+                "logo": ""
+            },
+            {
                 "title": "TELEMUNDO [USA]",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
@@ -2328,10 +2332,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "FUSSBALL2 TV FHD",
                 "logo": ""
             }
         ]
@@ -4955,10 +4955,10 @@ URL: https://spxhomelive.lol/channels/50069.json
 ============================================================
 [
     {
-        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/3f37ced4-1871-4308-b5d3-70e50c23d9c0:GRQ/manifest.mpd",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png",
-        "title": "RTE SPORTS FHD",
+        "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
+        "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS HD",
         "type": "1"
     },
     {
@@ -5598,6 +5598,13 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
+        "api": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
+        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL2 TV FHD",
+        "type": "1"
+    },
+    {
         "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -5638,13 +5645,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
-    },
-    {
-        "api": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
-        "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
-        "logo": "",
-        "title": "FUSSBALL2 TV FHD",
-        "type": "1"
     }
 ]
 ============================================================
