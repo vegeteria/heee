@@ -2115,16 +2115,17 @@ URL: https://spxhomelive.lol/events.json
             "D Sports FHD",
             "CAZE TV FHD",
             "TOFFE BDIX (BD)",
-            "ISCREEN BDIX (BD)",
             "TVP SPORTS FHD",
             "TVCG 2 FHD",
             "CT SPORTS CZ",
+            "FOX ONE HD",
+            "FAST SERVER",
+            "TELEMUNDO FHD",
+            "ISCREEN BDIX (BD)",
             "FOX HD LIVE",
             "TSN FHD LIVE",
             "FOX SPORTS 4K",
             "FUSSBALL TV 4K",
-            "FAST SERVER",
-            "FAST SERVER 2",
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX SPORTS HD",
@@ -2136,7 +2137,6 @@ URL: https://spxhomelive.lol/events.json
             "IRIB 4K",
             "beIN SPORTS FHD",
             "beIN MAX HDR",
-            "TELEMUNDO FHD",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "Sporza DUTCH FHD",
@@ -2192,10 +2192,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "ISCREEN BDIX (BD)",
-                "logo": ""
-            },
-            {
                 "title": "TVP SPORTS FHD",
                 "logo": ""
             },
@@ -2205,6 +2201,22 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
+                "logo": ""
+            },
+            {
+                "title": "FOX ONE HD",
+                "logo": ""
+            },
+            {
+                "title": "FAST SERVER",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO FHD",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+            },
+            {
+                "title": "ISCREEN BDIX (BD)",
                 "logo": ""
             },
             {
@@ -2221,14 +2233,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FUSSBALL TV 4K",
-                "logo": ""
-            },
-            {
-                "title": "FAST SERVER",
-                "logo": ""
-            },
-            {
-                "title": "FAST SERVER 2",
                 "logo": ""
             },
             {
@@ -2274,10 +2278,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "beIN MAX HDR",
                 "logo": ""
-            },
-            {
-                "title": "TELEMUNDO FHD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "FOX SPORTS HD",
@@ -5413,13 +5413,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|Referer=https://iscreen.com.bd/",
-        "logo": "",
-        "title": "ISCREEN BDIX (BD)",
-        "type": "0"
-    },
-    {
         "api": "95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "logo": "",
@@ -5439,6 +5432,34 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "",
         "title": "CT SPORTS CZ",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://vildid.hundredmilesperhour.uk/1782427275/3e4d442c726f46c3861b7f4b3e080232/TuvJK-J6j5gjqxDzGUfKcC5C2TgP-9qCDYl7xGpb_zQ/fox-usa.m3u8",
+        "logo": "",
+        "title": "FOX ONE HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTyo6rqQzyU.m3u8?txSecret=7103c7faf5ef2a7dd2a4420da5bd24e8&txTime=6A3B6090",
+        "logo": "",
+        "title": "FAST SERVER",
+        "type": "0"
+    },
+    {
+        "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "title": "TELEMUNDO FHD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|Referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "ISCREEN BDIX (BD)",
+        "type": "0"
     },
     {
         "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
@@ -5466,20 +5487,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "link": "https://inproviszon.st/fusballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL TV 4K",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTyo6rqQzyU.m3u8?txSecret=7103c7faf5ef2a7dd2a4420da5bd24e8&txTime=6A3B6090",
-        "logo": "",
-        "title": "FAST SERVER",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4460974.m3u8?txSecret=a86181604e022045bbad76e8eaa4f965&txTime=6A3B4CEA|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "FAST SERVER 2",
         "type": "0"
     },
     {
@@ -5557,13 +5564,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "link": "https://xyzcloud3.xyz/bein4k/index.m3u8?|referer=https://xyzstreams.shop/",
         "logo": "",
         "title": "beIN MAX HDR",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://xyzcloud3.xyz/Telemundo/index.m3u8?|referer=https://xyzstreams.shop/",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO FHD",
         "type": "0"
     },
     {
