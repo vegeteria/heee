@@ -1609,6 +1609,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "FOX SPORTS HD",
             "WC TV FHD",
             "BBC SPORTS HD",
             "DSports FHD",
@@ -1616,7 +1617,6 @@ URL: https://spxhomelive.lol/events.json
             "TIPIK FR FHD",
             "QAZ SPORTS FHD",
             "CT SPORTS CZ",
-            "SportzX FHD LIVE",
             "TOFFEE FHD BDIX",
             "FAST SERVER",
             "FAST SERVER 2",
@@ -1671,6 +1671,10 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
+                "title": "FOX SPORTS HD",
+                "logo": ""
+            },
+            {
                 "title": "WC TV FHD",
                 "logo": ""
             },
@@ -1696,10 +1700,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
-                "logo": ""
-            },
-            {
-                "title": "SportzX FHD LIVE",
                 "logo": ""
             },
             {
@@ -4789,7 +4789,14 @@ URL: https://spxhomelive.lol/channels/50068.json
 ============================================================
 [
     {
-        "api": "f3c91e7a2d844a5bb8f16e2d9c7a4f13:9b3045bcf35b0a6ccfdd992fd9e5bd9b",
+        "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX SPORTS HD",
+        "type": "1"
+    },
+    {
+        "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "logo": "",
         "title": "WC TV FHD",
@@ -4836,13 +4843,6 @@ URL: https://spxhomelive.lol/channels/50068.json
         "logo": "",
         "title": "CT SPORTS CZ",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://wc.streamxyz.shop:2053/FOX/index.m3u8?|referer=https://xyzstreams.shop/",
-        "logo": "",
-        "title": "SportzX FHD LIVE",
-        "type": "0"
     },
     {
         "api": "",
