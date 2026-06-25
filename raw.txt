@@ -534,9 +534,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -3479,34 +3484,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50075,
-        "title": "White Sox vs Cleveland Guardians",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "White Sox",
-            "teamB": "Guardians",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-            "eventName": "White Sox vs Cleveland Guardians",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/24 18:10:00 +0000",
-            "endTime": "2026/06/24 21:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50078,
         "title": "Detroit Tigers vs Yankees",
         "image": "o",
@@ -3972,6 +3949,13 @@ URL: https://spxhomelive.lol/channels/50052.json
 URL: https://spxhomelive.lol/channels/50053.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52506/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -7741,19 +7725,6 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "",
         "title": "Sporza DUTCH FHD",
         "type": "1"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50075.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
     }
 ]
 ============================================================
