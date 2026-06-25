@@ -4831,8 +4831,8 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
-        "api": "2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f",
-        "link": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd",
+        "api": "55b8f0b9ea3b5cd21cd1859cc82b16f3:d3b260e8628214b49394801d75c88e8e",
+        "link": "https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5c8u891621868366.png",
         "title": "AZTECA7 FHD",
         "type": "1"

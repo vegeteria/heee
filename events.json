@@ -1509,14 +1509,14 @@
     },
     {
         "name": "Czechia vs Mexico (AZTECA7 FHD)",
-        "link": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd",
+        "link": "https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5c8u891621868366.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f"
+        "drmLicense": "55b8f0b9ea3b5cd21cd1859cc82b16f3:d3b260e8628214b49394801d75c88e8e"
     },
     {
         "name": "Czechia vs Mexico (D Sports FHD)",
