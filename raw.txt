@@ -2046,7 +2046,7 @@ URL: https://spxhomelive.lol/events.json
             "M6 FRANCE FHD",
             "TIPIK FR FHD",
             "BBC SPORTS HD",
-            "FOX ONE FHD",
+            "FOX SPORTS HD",
             "D Sports FHD",
             "CAZE TV FHD",
             "TOFFE BDIX (BD)",
@@ -2058,9 +2058,9 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO HD",
             "TELEMUNDO FHD",
             "ISCREEN BDIX (BD)",
-            "FOX ONE FHD",
+            "FOX SPORTS HD",
             "TSN SPORTS FHD",
-            "FOX ONE [ALT]",
+            "FOX SPORTS [ALT]",
             "TSN SPORTS [ALT]",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
@@ -2106,7 +2106,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
             },
             {
-                "title": "FOX ONE FHD",
+                "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
@@ -2154,7 +2154,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX ONE FHD",
+                "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
@@ -2162,7 +2162,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX ONE [ALT]",
+                "title": "FOX SPORTS [ALT]",
                 "logo": ""
             },
             {
@@ -5013,7 +5013,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://vildid.hundredmilesperhour.uk/1782438829/7d3553a93d164dfb8f72a7b27fcae3b7/Xs66BScLOJsKCMEWuPMy89f2bzvt36zRKHw_fkMv6f8/peacock-1.m3u8",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
         "type": "0"
@@ -5187,7 +5187,7 @@ URL: https://spxhomelive.lol/channels/50070.json
 [
     {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "title": "TSN SPORTS FHD",
         "type": "1"
@@ -5217,7 +5217,7 @@ URL: https://spxhomelive.lol/channels/50070.json
         "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
         "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX ONE FHD",
+        "title": "FOX SPORTS HD",
         "type": "1"
     },
     {
@@ -5264,7 +5264,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782427275/3e4d442c726f46c3861b7f4b3e080232/TuvJK-J6j5gjqxDzGUfKcC5C2TgP-9qCDYl7xGpb_zQ/fox-usa.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782438789/89da594853cd4bb48e26b9626400a591/TTK-0juRUx3pgEQBg5vDSD_gfmpFS4fgbyjefk9-v0U/fox-sports-1.m3u8",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
@@ -5298,10 +5298,10 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "0"
     },
     {
-        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX ONE FHD",
+        "title": "FOX SPORTS HD",
         "type": "1"
     },
     {
@@ -5312,10 +5312,10 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
-        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "",
-        "title": "FOX ONE [ALT]",
+        "title": "FOX SPORTS [ALT]",
         "type": "1"
     },
     {
@@ -5341,7 +5341,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782427319/7f0cdbb2f2354df8b61ad17d1a4dc960/DFpemaQuqfi74UhnmHsNhDVDKwtXr15LahAe-ZBEA7M/fox4k-usa.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782438596/bf438c10f1fb4a6391f5c6b7951d5f86/leaAgZXWPwl5mV8lnNbmWCj9smNuj5A4n8xA_7f_E7U/fox-sports-1-4k.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
