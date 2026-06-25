@@ -524,6 +524,11 @@ https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v
 #KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
 https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
 
+#EXTINF:-1 tvg-id="ecuadorvsgermany2100tvela1spanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Ecuador vs Germany 21:00 (TVE La1 SPANISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
+https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
+
 #EXTINF:-1 tvg-id="ecuadorvsgermany2100iscreenbdfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Ecuador vs Germany 21:00 (ISCREEN BD FHD)
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
 
@@ -594,9 +599,6 @@ https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ecuadorvsgermany2100iscreenbdbdix" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Ecuador vs Germany 21:00 (ISCREEN BD (BDIX))
 https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
-
-#EXTINF:-1 tvg-id="ecuadorvsgermany2100sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Ecuador vs Germany 21:00 (SportzX Live)
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ecuadorvsgermany2100tycsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Ecuador vs Germany 21:00 (TYC SPORTS HD)
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8

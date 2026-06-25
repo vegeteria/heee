@@ -1708,6 +1708,17 @@
         "drmLicense": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2"
     },
     {
+        "name": "Ecuador vs Germany (TVE La1 SPANISH)",
+        "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54"
+    },
+    {
         "name": "Ecuador vs Germany (TOFFEE BD FHD)",
         "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1936,7 +1947,7 @@
     },
     {
         "name": "Ecuador vs Germany (SportzX Live)",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
+        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://instream.click",
         "referrer": "https://instream.click/",
@@ -1963,7 +1974,7 @@
     },
     {
         "name": "Ecuador vs Germany (HD SERVER EN)",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "link": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -1972,7 +1983,7 @@
     },
     {
         "name": "Ecuador vs Germany (HD SERVER AR)",
-        "link": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?",
+        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
