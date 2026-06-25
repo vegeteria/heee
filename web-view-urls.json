@@ -740,22 +740,28 @@
                 "channel_title": "TVP SPORTS FHD"
             },
             {
-                "web_view_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+                "web_view_url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "channel_title": "CT SPORTS CZ"
+            },
+            {
+                "web_view_url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
                 "logo": "https://www.directvsports.com/__export/1674066777645/sites/dsports/arte/apps/facebook_1200x630.png",
-                "clearkey": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
+                "clearkey": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
                 "channel_title": "DSports FHD"
             },
             {
-                "web_view_url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
+                "web_view_url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
                 "clearkey": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
                 "channel_title": "CAZE TV FHD"
             },
             {
-                "web_view_url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+                "web_view_url": "https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "channel_title": "CT SPORTS CZ"
+                "clearkey": "abf270b7b6b95ff48c65e3409f8aa3fd:0dbca83580a794c289f4448f427988a4",
+                "channel_title": "TVCG 2 FHD"
             },
             {
                 "web_view_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
