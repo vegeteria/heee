@@ -1,5 +1,63 @@
 [
     {
+        "event_name": "Formula 1 - Austria GP",
+        "team_a_flag": "https://scdnmain.net/assets/tournament/40-c.png",
+        "team_b_flag": "https://scdnmain.net/assets/tournament/40-c.png",
+        "start_time_gmt": "2026-06-26 11:30:00 +0000",
+        "end_time_gmt": "2026-06-26 16:30:00 +0000",
+        "group-title": "F1",
+        "streams": [
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+                "clearkey": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                "channel_title": "FANCODE FHD"
+            },
+            {
+                "web_view_url": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48",
+                "channel_title": "beIN SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+                "clearkey": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
+                "channel_title": "SKY SPORTS DE"
+            },
+            {
+                "web_view_url": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b",
+                "channel_title": "SKY GERMAN FHD"
+            },
+            {
+                "web_view_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/23b52321.isml/.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "ed52a165d7e947a1b5d6358eb05fbceb:3569ad9af6dc5a12bb7d5f69cca95345",
+                "channel_title": "Tipik FRANCE FHD"
+            },
+            {
+                "web_view_url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
+                "channel_title": "ELEVEN SPORTS"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+                "channel_title": "F1 TV FHD"
+            },
+            {
+                "web_view_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+                "clearkey": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+                "channel_title": "Fox Sports - AQ"
+            }
+        ]
+    },
+    {
         "event_name": "AEW Dynamite",
         "team_a_flag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
         "team_b_flag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",

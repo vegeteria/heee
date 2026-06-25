@@ -1,5 +1,156 @@
 [
     {
+        "name": "Formula 1 (FANCODE FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
+    },
+    {
+        "name": "Formula 1 (beIN SPORTS FHD)",
+        "link": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48"
+    },
+    {
+        "name": "Formula 1 (SKY SPORTS DE)",
+        "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9"
+    },
+    {
+        "name": "Formula 1 (SportzX F1 HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Formula 1 (SKY GERMAN FHD)",
+        "link": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b"
+    },
+    {
+        "name": "Formula 1 (Tipik FRANCE FHD)",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/23b52321.isml/.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "ed52a165d7e947a1b5d6358eb05fbceb:3569ad9af6dc5a12bb7d5f69cca95345"
+    },
+    {
+        "name": "Formula 1 (SKY SPORTS FHD)",
+        "link": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://pushembdz.store/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Formula 1 (DAZN ESPANOL HD)",
+        "link": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://pushembdz.store/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Formula 1 (SKY ITALY FHD)",
+        "link": "https://oe1.ossfeed.store/out/v2/984e389e76455ff421cd4f2aa19ce2d1/tracks-v0a0/mono.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Formula 1 (SKY SPORTS HD)",
+        "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Formula 1 (SKY SPORTS F1 UHD)",
+        "link": "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Formula 1 (ELEVEN SPORTS)",
+        "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59"
+    },
+    {
+        "name": "Formula 1 (Sky F1 DE)",
+        "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://instream.click",
+        "referrer": "https://instream.click/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Formula 1 (F1 TV FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
+    },
+    {
+        "name": "Formula 1 (Fox Sports - AQ)",
+        "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f"
+    },
+    {
         "name": "WWE (TSN SPORTS)",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
