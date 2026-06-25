@@ -1378,6 +1378,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX 4K LIVE",
             "FUSSBALL TV 4K",
             "ARABIC LIVE FHD",
+            "PEACOCK SPANISH 4K",
             "FUSSBALL TV1 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -1508,6 +1509,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ARABIC LIVE FHD",
+                "logo": ""
+            },
+            {
+                "title": "PEACOCK SPANISH 4K",
                 "logo": ""
             },
             {
@@ -4553,23 +4558,30 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782421833/f4e277bf9dca466fa23b941e7f25276d/k9H_fPs9xXXHtwGY-PnC8ixP2hU5CQk5Kdkk9MZnyzo/fox4k-usa.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782427319/7f0cdbb2f2354df8b61ad17d1a4dc960/DFpemaQuqfi74UhnmHsNhDVDKwtXr15LahAe-ZBEA7M/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782421931/82de365940a845e8b05431d7aed6f6f6/U_DyEjSC9hiayDfXL8uY448n4BkIayvWjl6y99KMsz4/fusballtv1uhd-de.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782427340/d51e6c6c78c442eb9dd44a449419967c/Sb0sou1ocn67_D1vcoTTN801A-HPIMIW3tM42uusXsk/fusballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL TV 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782421972/f515b3f09090484cb94685ff40fcea04/5-j_Yumz4tcaE0JGl0Z26_ZLwBB3rCOwSB41WS2vcn4/beinsportsmax-sa.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782427361/0180d0bb059d48feb792a382093b6ccb/ponAdBtTyFd6uaE99J2uG63SmEfthgtN62dEuWthCzk/beinsportsmax-sa.m3u8",
         "logo": "",
         "title": "ARABIC LIVE FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vildid.hundredmilesperhour.uk/1782427395/7c038afd9a464c5d8fd9eba0de9704fa/bvgPoSiuFD67b6_oukldCt8Jyrd1k9JFCzOLGxAOjyE/peacock-1.m3u8",
+        "logo": "",
+        "title": "PEACOCK SPANISH 4K",
         "type": "0"
     },
     {
