@@ -265,15 +265,6 @@
         "drmLicense": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
     },
     {
-        "name": "Chicago Cubs (SportzX LIVE)",
-        "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://streamscenter.online",
-        "referrer": "https://streamscenter.online/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "San Francisco Giants (SportzX MLB)",
         "link": "https://chatgpt.hereisman.net/playlist/52506/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -445,7 +436,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (TSN SPORTS FHD)",
+        "name": "Norway vs France (TSN SPORTS FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -456,7 +447,7 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "Scotland vs Brazil (FOX ONE FHD)",
+        "name": "Norway vs France (FOX ONE FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
@@ -467,7 +458,7 @@
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
-        "name": "Scotland vs Brazil (TOFFE BDIX (BD))",
+        "name": "Norway vs France (TOFFE BDIX (BD))",
         "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782418809~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveF8BgsmNe1sCxy0CAuaX0CpEJzUogRTlfjKkPvojCcdktcLGMvpcmtVW6uCNdLknLp-hjnAHmHww7pzwkZMsQD",
         "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg",
         "origin": "",
@@ -476,7 +467,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (TELEMUNDO FHD)",
+        "name": "Norway vs France (TELEMUNDO FHD)",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
@@ -487,7 +478,7 @@
         "drmLicense": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
     },
     {
-        "name": "Scotland vs Brazil (M6 FRANCE FHD)",
+        "name": "Norway vs France (M6 FRANCE FHD)",
         "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
         "logo": "https://www.ideal-investisseur.fr/img/0-202601150929-6968b38f4c6ae.png",
         "origin": "",
@@ -498,7 +489,7 @@
         "drmLicense": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283"
     },
     {
-        "name": "Scotland vs Brazil (TVE La1 SPANISH)",
+        "name": "Norway vs France (TVE La1 SPANISH)",
         "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -509,7 +500,7 @@
         "drmLicense": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54"
     },
     {
-        "name": "Scotland vs Brazil (D Sports FHD)",
+        "name": "Norway vs France (D Sports FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -520,7 +511,7 @@
         "drmLicense": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a"
     },
     {
-        "name": "Scotland vs Brazil (CAZE TV FHD)",
+        "name": "Norway vs France (CAZE TV FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "origin": "",
@@ -531,7 +522,7 @@
         "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
     },
     {
-        "name": "Scotland vs Brazil (beIN MAX FHD)",
+        "name": "Norway vs France (beIN MAX FHD)",
         "link": "https://inproviszon.st/beinsportsmax4-sa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -540,7 +531,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (SportzX HD LIVE)",
+        "name": "Norway vs France (SportzX HD LIVE)",
         "link": "https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -549,7 +540,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (ISCREEN BD FHD)",
+        "name": "Norway vs France (ISCREEN BD FHD)",
         "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -558,7 +549,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (Binge+ FHD (BD))",
+        "name": "Norway vs France (Binge+ FHD (BD))",
         "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -567,7 +558,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (TVP SPORTS HD)",
+        "name": "Norway vs France (TVP SPORTS HD)",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -578,7 +569,7 @@
         "drmLicense": "0:0"
     },
     {
-        "name": "Scotland vs Brazil (TVCG 1 FHD)",
+        "name": "Norway vs France (TVCG 1 FHD)",
         "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png",
         "origin": "",
@@ -589,7 +580,7 @@
         "drmLicense": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a"
     },
     {
-        "name": "Scotland vs Brazil (FOX ONE HD)",
+        "name": "Norway vs France (FOX ONE HD)",
         "link": "https://lb.xyzcloud3.xyz/FOX/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -598,7 +589,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (BBC SPORTS HD)",
+        "name": "Norway vs France (BBC SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52474/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -607,7 +598,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (FAST SERVER)",
+        "name": "Norway vs France (FAST SERVER)",
         "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoJkAjWkPCi.m3u8?txSecret=c6aaad0168258ac0f0eee506b9b73492&txTime=6A3C7689",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -616,7 +607,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (TELEMUNDO HD)",
+        "name": "Norway vs France (TELEMUNDO HD)",
         "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "https://instream.click",
@@ -625,7 +616,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (TSN SPORTS FHD)",
+        "name": "Norway vs France (TSN SPORTS FHD)",
         "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -636,7 +627,7 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "Scotland vs Brazil (FOX ONE FHD)",
+        "name": "Norway vs France (FOX ONE FHD)",
         "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -647,7 +638,7 @@
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
-        "name": "Scotland vs Brazil (FOX ONE 4K [ALT])",
+        "name": "Norway vs France (FOX ONE 4K [ALT])",
         "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -658,7 +649,7 @@
         "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
     },
     {
-        "name": "Scotland vs Brazil (TSN SPORTS [ALT])",
+        "name": "Norway vs France (TSN SPORTS [ALT])",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -669,7 +660,7 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "Scotland vs Brazil (FOX ONE [ALT])",
+        "name": "Norway vs France (FOX ONE [ALT])",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -680,7 +671,7 @@
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
-        "name": "Scotland vs Brazil (PEACOCK FHD [ALT])",
+        "name": "Norway vs France (PEACOCK FHD [ALT])",
         "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021312-723170-4911d8fa8e2)/master_2hr.mpd?c3.ri=6a3c4832_Q1ZYMDc_1_Q0xPVURGUk9OVA_906d6d3e137a%3A0&aws.sessionId=13bed550-6c6a-4d31-88a5-19ec199491a2&ck=eyIwMDIyYzRjNzI5ZDA3MjNlMDE0Y2E1YTFkNmI2MTc1NiI6Ijg1MmNiMTc0MTljZjA5N2E2NmEwNDA5MGYwNmY4NmNjIn0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -691,7 +682,7 @@
         "drmLicense": "0022c4c729d0723e014ca5a1d6b61756:852cb17419cf097a66a04090f06f86cc"
     },
     {
-        "name": "Scotland vs Brazil (TELEMUNDO [USA])",
+        "name": "Norway vs France (TELEMUNDO [USA])",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
@@ -702,7 +693,7 @@
         "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
     },
     {
-        "name": "Scotland vs Brazil (FOX ONE 4K)",
+        "name": "Norway vs France (FOX ONE 4K)",
         "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -711,7 +702,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (FOX 4K LIVE)",
+        "name": "Norway vs France (FOX 4K LIVE)",
         "link": "https://hundredmilesperhour.uk/fox4k-usa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -720,7 +711,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (TELEMUNDO 4K)",
+        "name": "Norway vs France (TELEMUNDO 4K)",
         "link": "https://lb.xyzcloud3.xyz/tele4k/index.m3u8",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
@@ -729,7 +720,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (TSN SPORTS 4K)",
+        "name": "Norway vs France (TSN SPORTS 4K)",
         "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -738,7 +729,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (FUSSBALL TV 4K)",
+        "name": "Norway vs France (FUSSBALL TV 4K)",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -749,7 +740,7 @@
         "drmLicense": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
     },
     {
-        "name": "Scotland vs Brazil (FUSSBALL TV2 4K)",
+        "name": "Norway vs France (FUSSBALL TV2 4K)",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -760,7 +751,7 @@
         "drmLicense": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827"
     },
     {
-        "name": "Scotland vs Brazil (SporTV BR [ALT])",
+        "name": "Norway vs France (SporTV BR [ALT])",
         "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
         "logo": "https://iili.io/CFFRvqJ.png",
         "origin": "",
@@ -771,7 +762,7 @@
         "drmLicense": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0"
     },
     {
-        "name": "Scotland vs Brazil (IRIB 4K)",
+        "name": "Norway vs France (IRIB 4K)",
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -780,7 +771,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (ARABIC LIVE HD)",
+        "name": "Norway vs France (ARABIC LIVE HD)",
         "link": "https://lb.xyzcloud3.xyz/tod1/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -789,7 +780,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (FOX SPORTS HD)",
+        "name": "Norway vs France (FOX SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52458/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -798,7 +789,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (TSN SPORTS HD)",
+        "name": "Norway vs France (TSN SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52458/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -807,7 +798,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (SportzX Live)",
+        "name": "Norway vs France (SportzX Live)",
         "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://instream.click",
@@ -816,7 +807,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (HD SERVER ENG)",
+        "name": "Norway vs France (HD SERVER ENG)",
         "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
@@ -825,7 +816,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (HD SERVER AR)",
+        "name": "Norway vs France (HD SERVER AR)",
         "link": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
@@ -834,7 +825,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (DAZN SPANISH)",
+        "name": "Norway vs France (DAZN SPANISH)",
         "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -843,7 +834,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (Match Football FHD)",
+        "name": "Norway vs France (Match Football FHD)",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -854,7 +845,7 @@
         "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
     },
     {
-        "name": "Scotland vs Brazil (FUSSBALL 4K [GER])",
+        "name": "Norway vs France (FUSSBALL 4K [GER])",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -865,7 +856,7 @@
         "drmLicense": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
     },
     {
-        "name": "Scotland vs Brazil (FUSSBALL2 4K [GER])",
+        "name": "Norway vs France (FUSSBALL2 4K [GER])",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -876,7 +867,7 @@
         "drmLicense": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5"
     },
     {
-        "name": "Scotland vs Brazil (FUSSBALL TV FHD)",
+        "name": "Norway vs France (FUSSBALL TV FHD)",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -887,7 +878,7 @@
         "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
     },
     {
-        "name": "Scotland vs Brazil (FUSSBALL2 TV FHD)",
+        "name": "Norway vs France (FUSSBALL2 TV FHD)",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -898,7 +889,7 @@
         "drmLicense": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef"
     },
     {
-        "name": "Scotland vs Brazil (TELEMUNDO [USA])",
+        "name": "Norway vs France (TELEMUNDO [USA])",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
@@ -909,7 +900,7 @@
         "drmLicense": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
     },
     {
-        "name": "Scotland vs Brazil (SD SERVER [ENG])",
+        "name": "Norway vs France (SD SERVER [ENG])",
         "link": "http://193.47.62.42/hls/XSKKKK.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
@@ -918,7 +909,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (ENG SD SERVER)",
+        "name": "Norway vs France (ENG SD SERVER)",
         "link": "http://193.47.62.55/hls/XSKKKKQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
@@ -927,7 +918,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (SD SERVER [PT])",
+        "name": "Norway vs France (SD SERVER [PT])",
         "link": "http://193.47.62.47/hls/EKKKQQQF.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
@@ -936,7 +927,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (beiN SPORTS FR)",
+        "name": "Norway vs France (beiN SPORTS FR)",
         "link": "http://193.47.62.55/hls/XEKKKQ.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
@@ -945,7 +936,7 @@
         "cookie": ""
     },
     {
-        "name": "Scotland vs Brazil (ESPANOL SD)",
+        "name": "Norway vs France (ESPANOL SD)",
         "link": "http://193.47.62.59/hls/XEKKKQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
@@ -954,7 +945,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (TSN SPORTS FHD)",
+        "name": "Senegal vs Iraq (TSN SPORTS FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -965,7 +956,7 @@
         "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
     },
     {
-        "name": "Morocco vs Haiti (FOX SPORTS HD)",
+        "name": "Senegal vs Iraq (FOX SPORTS HD)",
         "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
@@ -976,7 +967,7 @@
         "drmLicense": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933"
     },
     {
-        "name": "Morocco vs Haiti (TIPIK FR FHD)",
+        "name": "Senegal vs Iraq (TIPIK FR FHD)",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
         "origin": "",
@@ -987,7 +978,7 @@
         "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
     },
     {
-        "name": "Morocco vs Haiti (TVP SPORTS FHD)",
+        "name": "Senegal vs Iraq (TVP SPORTS FHD)",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-sport.png",
         "origin": "",
@@ -998,7 +989,7 @@
         "drmLicense": "95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64"
     },
     {
-        "name": "Morocco vs Haiti (SportzX HD LIVE)",
+        "name": "Senegal vs Iraq (SportzX HD LIVE)",
         "link": "https://storage.googleapis.com/qwertyuipoiuytr/mux_video_ts/index-1.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1007,7 +998,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (CT SPORTS CZ)",
+        "name": "Senegal vs Iraq (CT SPORTS CZ)",
         "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/ct4-sport.png",
         "origin": "",
@@ -1018,7 +1009,7 @@
         "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
     },
     {
-        "name": "Morocco vs Haiti (BBC SPORTS HD)",
+        "name": "Senegal vs Iraq (BBC SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52473/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1027,7 +1018,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (FOX SPORTS HD)",
+        "name": "Senegal vs Iraq (FOX SPORTS HD)",
         "link": "https://lb.xyzcloud3.xyz/FS1/index.m3u8?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
@@ -1036,7 +1027,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (TSN SPORTS HD)",
+        "name": "Senegal vs Iraq (TSN SPORTS HD)",
         "link": "https://lb.xyzcloud3.xyz/tsn2/index.m3u8?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -1045,7 +1036,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (TVCG 2 FHD)",
+        "name": "Senegal vs Iraq (TVCG 2 FHD)",
         "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1056,7 +1047,7 @@
         "drmLicense": "abf270b7b6b95ff48c65e3409f8aa3fd:0dbca83580a794c289f4448f427988a4"
     },
     {
-        "name": "Morocco vs Haiti (D Sports FHD)",
+        "name": "Senegal vs Iraq (D Sports FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1067,7 +1058,7 @@
         "drmLicense": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
     },
     {
-        "name": "Morocco vs Haiti (CAZE TV FHD)",
+        "name": "Senegal vs Iraq (CAZE TV FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "origin": "",
@@ -1078,7 +1069,7 @@
         "drmLicense": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6"
     },
     {
-        "name": "Morocco vs Haiti (TOFFE BDIX (BD))",
+        "name": "Senegal vs Iraq (TOFFE BDIX (BD))",
         "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782420013~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfZ5JmGmk77YGPec76Lfl8EP2Kfaj46SO_-bpB5hYto2URysqJhDvM09Ng-nXeGdSjktjXP91QY6tA0vkbaAFMC",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1087,7 +1078,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (ViX MUNDIAL FHD)",
+        "name": "Senegal vs Iraq (ViX MUNDIAL FHD)",
         "link": "https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
         "origin": "",
@@ -1098,7 +1089,7 @@
         "drmLicense": "052aba8b4944541841db862526bbe6b6:b785276874581a60b8e95b668b7c0d2b"
     },
     {
-        "name": "Morocco vs Haiti (beIN MAX FHD)",
+        "name": "Senegal vs Iraq (beIN MAX FHD)",
         "link": "https://inproviszon.st/beinsportsmax3-sa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1107,7 +1098,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (FAST SERVER)",
+        "name": "Senegal vs Iraq (FAST SERVER)",
         "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJMX3nyaE1k.m3u8?txSecret=4c1f5ec6cf85ce8116d085a2ae6684c3&txTime=6A3C7689",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1116,7 +1107,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (NBC SPORTS HD)",
+        "name": "Senegal vs Iraq (NBC SPORTS HD)",
         "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://instream.click",
@@ -1125,7 +1116,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (FOX SPORTS HD)",
+        "name": "Senegal vs Iraq (FOX SPORTS HD)",
         "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
@@ -1136,7 +1127,7 @@
         "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
-        "name": "Morocco vs Haiti (TSN Sports FHD)",
+        "name": "Senegal vs Iraq (TSN Sports FHD)",
         "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -1147,7 +1138,7 @@
         "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
     },
     {
-        "name": "Morocco vs Haiti (FOX SPORTS [ALT])",
+        "name": "Senegal vs Iraq (FOX SPORTS [ALT])",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
@@ -1158,7 +1149,7 @@
         "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
-        "name": "Morocco vs Haiti (TSN SPORTS [ALT])",
+        "name": "Senegal vs Iraq (TSN SPORTS [ALT])",
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -1169,7 +1160,7 @@
         "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
     },
     {
-        "name": "Morocco vs Haiti (PEACOCK FHD [ALT])",
+        "name": "Senegal vs Iraq (PEACOCK FHD [ALT])",
         "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021313-723171-4911d9eeb23)/master_2hr.mpd?c3.ri=6a3c48a6_Q1ZYMDc_1_Q0xPVURGUk9OVA_f89d4526b464%3A0&aws.sessionId=0b9ad00b-bdd5-4153-970f-8c465e3b4036&ck=eyIwMDIyN2NiNjBjN2U2NWU2OGFjZTNkNTU4N2Y1MDlmZiI6ImZhYzFmY2RhZmQwOTYxOTBmY2FiMmVlZDg4YTE3NzRhIn0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1180,7 +1171,7 @@
         "drmLicense": "00227cb60c7e65e68ace3d5587f509ff:fac1fcdafd096190fcab2eed88a1774a"
     },
     {
-        "name": "Morocco vs Haiti (NBC UNIVERSO [USA])",
+        "name": "Senegal vs Iraq (NBC UNIVERSO [USA])",
         "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1191,7 +1182,7 @@
         "drmLicense": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
     },
     {
-        "name": "Morocco vs Haiti (FOX SPORTS 4K)",
+        "name": "Senegal vs Iraq (FOX SPORTS 4K)",
         "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
@@ -1200,7 +1191,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (FS1 4K LIVE)",
+        "name": "Senegal vs Iraq (FS1 4K LIVE)",
         "link": "https://inproviszon.st/fox-sports-1-4k.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1209,7 +1200,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (NBC UNIVERSO 4K)",
+        "name": "Senegal vs Iraq (NBC UNIVERSO 4K)",
         "link": "https://lb.xyzcloud3.xyz/tele4k2/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1218,7 +1209,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (FUSSBALL TV 4K)",
+        "name": "Senegal vs Iraq (FUSSBALL TV 4K)",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1229,7 +1220,7 @@
         "drmLicense": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
     },
     {
-        "name": "Morocco vs Haiti (FUSSBALL TV2 4K)",
+        "name": "Senegal vs Iraq (FUSSBALL TV2 4K)",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1240,7 +1231,7 @@
         "drmLicense": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827"
     },
     {
-        "name": "Morocco vs Haiti (IRIB 4K)",
+        "name": "Senegal vs Iraq (IRIB 4K)",
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1249,7 +1240,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (ARABIC LIVE HD)",
+        "name": "Senegal vs Iraq (ARABIC LIVE HD)",
         "link": "https://karim-xjhr-eu-20260624.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1258,7 +1249,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (FOX SPORTS HD)",
+        "name": "Senegal vs Iraq (FOX SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52459/load-playlist?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
@@ -1267,7 +1258,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (TSN SPORTS HD)",
+        "name": "Senegal vs Iraq (TSN SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52459/load-playlist?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
@@ -1276,7 +1267,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (SportzX Live)",
+        "name": "Senegal vs Iraq (SportzX Live)",
         "link": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://instream.click",
@@ -1285,7 +1276,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (HD SERVER ENG)",
+        "name": "Senegal vs Iraq (HD SERVER ENG)",
         "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
@@ -1294,7 +1285,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (HD SERVER AR)",
+        "name": "Senegal vs Iraq (HD SERVER AR)",
         "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
@@ -1303,7 +1294,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (DAZN SPANISH)",
+        "name": "Senegal vs Iraq (DAZN SPANISH)",
         "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1312,7 +1303,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (Match Football FHD)",
+        "name": "Senegal vs Iraq (Match Football FHD)",
         "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1323,7 +1314,7 @@
         "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
     },
     {
-        "name": "Morocco vs Haiti (ISCREEN BD FHD)",
+        "name": "Senegal vs Iraq (ISCREEN BD FHD)",
         "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1332,7 +1323,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (FUSSBALL 4K [GER])",
+        "name": "Senegal vs Iraq (FUSSBALL 4K [GER])",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1343,7 +1334,7 @@
         "drmLicense": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
     },
     {
-        "name": "Morocco vs Haiti (FUSSBALL2 4K [GER])",
+        "name": "Senegal vs Iraq (FUSSBALL2 4K [GER])",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1354,7 +1345,7 @@
         "drmLicense": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5"
     },
     {
-        "name": "Morocco vs Haiti (FUSSBALL TV FHD)",
+        "name": "Senegal vs Iraq (FUSSBALL TV FHD)",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1365,7 +1356,7 @@
         "drmLicense": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
     },
     {
-        "name": "Morocco vs Haiti (FUSSBALL2 TV FHD)",
+        "name": "Senegal vs Iraq (FUSSBALL2 TV FHD)",
         "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1376,7 +1367,7 @@
         "drmLicense": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef"
     },
     {
-        "name": "Morocco vs Haiti (SD SERVER [ENG])",
+        "name": "Senegal vs Iraq (SD SERVER [ENG])",
         "link": "http://193.47.62.42/hls/SKKKK.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
@@ -1385,7 +1376,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (ENG SERVER SD)",
+        "name": "Senegal vs Iraq (ENG SERVER SD)",
         "link": "http://193.47.62.51/hls/SKKKKQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
@@ -1394,7 +1385,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (beIN SPORTS FR)",
+        "name": "Senegal vs Iraq (beIN SPORTS FR)",
         "link": "http://193.47.62.59/hls/EKKKQ.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
@@ -1403,7 +1394,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (D SPORTS ES)",
+        "name": "Senegal vs Iraq (D SPORTS ES)",
         "link": "http://193.47.62.47/hls/EKKKQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
@@ -1412,7 +1403,7 @@
         "cookie": ""
     },
     {
-        "name": "Morocco vs Haiti (SD SERVER [AR])",
+        "name": "Senegal vs Iraq (SD SERVER [AR])",
         "link": "http://193.47.62.59/hls/EKKKQQQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
@@ -5523,5 +5514,16 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460"
+    },
+    {
+        "name": "South Africa W vs Netherlands W (Willow HD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     }
 ]
