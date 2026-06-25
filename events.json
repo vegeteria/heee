@@ -2124,11 +2124,53 @@
         "drmLicense": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb"
     },
     {
+        "name": "Curacao vs Cote d Ivoire (TIPIK FR FHD)",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+    },
+    {
+        "name": "Curacao vs Cote d Ivoire (TSN SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+    },
+    {
         "name": "Curacao vs Cote d Ivoire (BBC SPORTS HD)",
         "link": "https://chatgpt.hereisman.net/playlist/52414/load-playlist?",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Curacao vs Cote d Ivoire (TVP SPORTS FHD)",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0:0"
+    },
+    {
+        "name": "Curacao vs Cote d Ivoire (FOX SPORTS HD)",
+        "link": "https://vildid.hundredmilesperhour.uk/1782424580/0897e971a0aa4960ab6cca8b04ac0bb6/6CQsrEVaru0e1IocMwxt_x0h-qNKXk17Umy5m4N1ASU/fox-sports-1.m3u8",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -2153,17 +2195,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6"
-    },
-    {
-        "name": "Curacao vs Cote d Ivoire (TIPIK FR FHD)",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/91z1211657888348.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
     },
     {
         "name": "Curacao vs Cote d Ivoire (QAZ SPORTS FHD)",
@@ -2197,24 +2228,6 @@
     {
         "name": "Curacao vs Cote d Ivoire (FAST SERVER)",
         "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8rt7q53GML.m3u8?txSecret=90e42bb78e891c6706340490a4ae557f&txTime=6A3B0708",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Curacao vs Cote d Ivoire (FAST SERVER 2)",
-        "link": "https://live.vivo200.com/live/hd-en-1-4460936.m3u8?txSecret=5445351240630d2d051417b47fe2093b&txTime=6A3AF2A8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://player.online909.com/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Curacao vs Cote d Ivoire (FOX SPORTS)",
-        "link": "https://inproviszon.st/fox.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -2440,17 +2453,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0"
-    },
-    {
-        "name": "Curacao vs Cote d Ivoire (TVP SPORTS FHD)",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0:0"
     },
     {
         "name": "Curacao vs Cote d Ivoire (Sporza DUTCH FHD)",
