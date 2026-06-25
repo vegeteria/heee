@@ -1247,12 +1247,12 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE FHD",
             "CANAL5 FHD",
             "AZTECA7 FHD",
+            "D Sports FHD",
             "TELEMUNDO FHD",
             "TSN SPORTS HD",
             "TVP SPORTS HD",
             "TVCG 1 FHD",
             "CT SPORTS CZ",
-            "D Sports FHD",
             "CAZE TV FHD",
             "TOFFEE BDIX (BD)",
             "FOX ONE HD",
@@ -1313,6 +1313,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5c8u891621868366.png"
             },
             {
+                "title": "D Sports FHD",
+                "logo": ""
+            },
+            {
                 "title": "TELEMUNDO FHD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
@@ -1330,10 +1334,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "CT SPORTS CZ",
-                "logo": ""
-            },
-            {
-                "title": "D Sports FHD",
                 "logo": ""
             },
             {
@@ -4833,6 +4833,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
+        "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
+        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "D Sports FHD",
+        "type": "1"
+    },
+    {
         "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
         "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -4865,13 +4872,6 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
         "logo": "",
         "title": "CT SPORTS CZ",
-        "type": "1"
-    },
-    {
-        "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D Sports FHD",
         "type": "1"
     },
     {
