@@ -665,8 +665,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "West Indies vs Sri Lanka",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/25 14:00:00 +0000",
-            "endTime": "2026/06/25 22:20:00 +0000"
+            "startTime": "2026/06/26 14:00:00 +0000",
+            "endTime": "2026/06/26 22:00:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -708,8 +708,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "England vs New Zealand",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/25 10:00:00 +0000",
-            "endTime": "2026/06/25 18:00:00 +0000"
+            "startTime": "2026/06/26 10:00:00 +0000",
+            "endTime": "2026/06/26 18:00:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -1301,7 +1301,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image",
             "eventName": "Ecuador vs Germany",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/25 20:00:00 +0000",
             "endTime": "2026/06/25 22:15:00 +0000"
         },
@@ -1579,7 +1579,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
             "eventName": "Cura\u00e7ao vs C\u00f4te d'Ivoire",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/25 20:00:00 +0000",
             "endTime": "2026/06/25 22:15:00 +0000"
         },
@@ -1817,7 +1817,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
             "eventName": "Japan vs Sweden",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/25 23:00:00 +0000",
             "endTime": "2026/06/26 01:15:00 +0000"
         },
@@ -2035,7 +2035,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
             "eventName": "Tunisia vs Netherlands",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/25 23:00:00 +0000",
             "endTime": "2026/06/26 01:15:00 +0000"
         },
