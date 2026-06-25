@@ -783,6 +783,9 @@ https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rgilyeubta/out/v
 #KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
 https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
+#EXTINF:-1 tvg-id="japanvssweden0000foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Japan vs Sweden 00:00 (FOX ONE HD)
+https://vildid.hundredmilesperhour.uk/1782438863/fb3ef9b40e9940f6aef39374b5efface/ZqnARoKa63CfoZp7oIkDL8oY3U9RtND9eyFxx3umV_I/fox-usa.m3u8
+
 #EXTINF:-1 tvg-id="japanvssweden0000beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Japan vs Sweden 00:00 (beIN MAX FHD)
 https://vildid.hundredmilesperhour.uk/1782438463/a8e1b7c8611145b18ab13bee1f96a9cb/HISXZq9PvJMsd3zSgNJWtMz7ms1JELbGt2DTnxXTbUg/beinsportsmax3-sa.m3u8
 
@@ -808,6 +811,9 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 
 #EXTINF:-1 tvg-id="japanvssweden0000peacockfhdalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Japan vs Sweden 00:00 (PEACOCK FHD  ALT )
 https://vildid.hundredmilesperhour.uk/1782438829/7d3553a93d164dfb8f72a7b27fcae3b7/Xs66BScLOJsKCMEWuPMy89f2bzvt36zRKHw_fkMv6f8/peacock-1.m3u8
+
+#EXTINF:-1 tvg-id="japanvssweden0000fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Japan vs Sweden 00:00 (FOX 4K LIVE)
+https://vildid.hundredmilesperhour.uk/1782438913/f0b375581bde457688c17009ba3d7624/z8sQmWh1O1liXJUyfZbMmHQ4XemAtvmtrngqGtnzeEM/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="japanvssweden0000fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Japan vs Sweden 00:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
