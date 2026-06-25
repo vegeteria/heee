@@ -699,7 +699,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
             "eventName": "Scotland vs Brazil",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/24 22:00:00 +0000",
             "endTime": "2026/06/25 00:15:00 +0000"
         },
@@ -977,7 +977,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/7229/image",
             "eventName": "Morocco vs Haiti",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/24 22:00:00 +0000",
             "endTime": "2026/06/25 00:15:00 +0000"
         },
@@ -1235,7 +1235,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4781/image",
             "eventName": "Czechia vs Mexico",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/25 01:00:00 +0000",
             "endTime": "2026/06/25 03:15:00 +0000"
         },
@@ -1493,7 +1493,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
             "eventName": "South Africa vs South Korea",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/25 01:00:00 +0000",
             "endTime": "2026/06/25 03:15:00 +0000"
         },
