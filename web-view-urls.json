@@ -824,10 +824,10 @@
                 "channel_title": "ITV SPORTS FHD"
             },
             {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png",
-                "clearkey": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-                "channel_title": "CTV SPORTS FHD"
+                "web_view_url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+                "clearkey": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+                "channel_title": "TSN SPORTS FHD"
             },
             {
                 "web_view_url": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",

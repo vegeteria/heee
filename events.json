@@ -2482,15 +2482,24 @@
         "drmLicense": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
     },
     {
-        "name": "Paraguay vs Australia (CTV SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png",
+        "name": "Paraguay vs Australia (ITV SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52461/load-playlist?",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Paraguay vs Australia (TSN SPORTS FHD)",
+        "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157"
+        "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
     },
     {
         "name": "Paraguay vs Australia (TELEMUNDO FHD)",
@@ -2562,15 +2571,6 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Paraguay vs Australia (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52461/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
