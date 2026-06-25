@@ -1372,15 +1372,15 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE [ALT]",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
-            "TELEMUNDO FHD",
-            "Sporza DUTCH FHD",
-            "ARABIC LIVE FHD",
-            "FOX SPORTS FHD",
-            "TSN SPORTS 4K",
-            "beIN SPORTS 4K",
+            "FOX 4K LIVE",
             "FUSSBALL TV 4K",
+            "ARABIC LIVE FHD",
+            "FUSSBALL TV1 4K",
+            "FUSSBALL TV2 4K",
             "IRIB 4K",
-            "TVP SPORTS FHD",
+            "FOX SPORTS HD",
+            "TSN SPORTS HD",
+            "ISCREEN BD (BDIX)",
             "JOJ SPORTS FHD",
             "MATCH TV RU",
             "M6 FRANCE FHD",
@@ -1491,11 +1491,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO FHD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+                "title": "FOX 4K LIVE",
+                "logo": ""
             },
             {
-                "title": "Sporza DUTCH FHD",
+                "title": "FUSSBALL TV 4K",
                 "logo": ""
             },
             {
@@ -1503,19 +1503,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX SPORTS FHD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+                "title": "FUSSBALL TV1 4K",
+                "logo": ""
             },
             {
-                "title": "TSN SPORTS 4K",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
-                "title": "beIN SPORTS 4K",
-                "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-            },
-            {
-                "title": "FUSSBALL TV 4K",
+                "title": "FUSSBALL TV2 4K",
                 "logo": ""
             },
             {
@@ -1523,7 +1515,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TVP SPORTS FHD",
+                "title": "FOX SPORTS HD",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS HD",
+                "logo": ""
+            },
+            {
+                "title": "ISCREEN BD (BDIX)",
                 "logo": ""
             },
             {
@@ -4632,51 +4632,37 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://streamxyz.shop/Telemundo/index.m3u8|referer=https://xyzstreams.shop/",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO FHD",
+        "link": "https://vildid.hundredmilesperhour.uk/1782421833/f4e277bf9dca466fa23b941e7f25276d/k9H_fPs9xXXHtwGY-PnC8ixP2hU5CQk5Kdkk9MZnyzo/fox4k-usa.m3u8",
+        "logo": "",
+        "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
-        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+        "api": "",
+        "link": "https://vildid.hundredmilesperhour.uk/1782421931/82de365940a845e8b05431d7aed6f6f6/U_DyEjSC9hiayDfXL8uY448n4BkIayvWjl6y99KMsz4/fusballtv1uhd-de.m3u8",
         "logo": "",
-        "title": "Sporza DUTCH FHD",
-        "type": "1"
+        "title": "FUSSBALL TV 4K",
+        "type": "0"
     },
     {
         "api": "",
-        "link": "https://dwvpdsrgavbzt.cloudfront.net/live/ch1/ch1.m3u8|referer=https://www.kooratlyad33.site/",
+        "link": "https://vildid.hundredmilesperhour.uk/1782421972/f515b3f09090484cb94685ff40fcea04/5-j_Yumz4tcaE0JGl0Z26_ZLwBB3rCOwSB41WS2vcn4/beinsportsmax-sa.m3u8",
         "logo": "",
         "title": "ARABIC LIVE FHD",
-        "type": "0"
-    },
-    {
-        "api": "a3b68e5f2e15cfec39ee98461dfbff36:51256ff951bd8defc4604d5b92732e75",
-        "link": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/enc/brcuszv1in/out/v1/7832f893d9f043efbf0eabb9b33294cc/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN4K/playlist.m3u8?|accept-language=en-GB",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS 4K",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://streamxyz.shop/bein4k/index.m3u8?|referer=https://xyzstreams.shop/",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "title": "beIN SPORTS 4K",
         "type": "0"
     },
     {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "",
-        "title": "FUSSBALL TV 4K",
+        "title": "FUSSBALL TV1 4K",
+        "type": "1"
+    },
+    {
+        "api": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
+        "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
+        "logo": "",
+        "title": "FUSSBALL TV2 4K",
         "type": "1"
     },
     {
@@ -4687,11 +4673,25 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
-        "api": "0:0",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52500/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "TVP SPORTS FHD",
-        "type": "1"
+        "title": "FOX SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52505/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TSN SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "ISCREEN BD (BDIX)",
+        "type": "0"
     },
     {
         "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
