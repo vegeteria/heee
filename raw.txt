@@ -1365,16 +1365,14 @@ URL: https://spxhomelive.lol/events.json
             "TVCG 1 FHD",
             "FOX ONE HD",
             "FAST SERVER",
+            "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
-            "FOX ONE 4K",
-            "FOX ONE [ALT]",
             "TSN SPORTS [ALT]",
-            "ITV 1 FHD [ALT]",
+            "FOX ONE [ALT]",
             "PEACOCK FHD [ALT]",
-            "FOX ONE 4K [ALT]",
+            "TELEMUNDO [USA]",
             "TELEMUNDO FHD",
-            "TELEMUNDO HD",
             "Sporza DUTCH FHD",
             "ARABIC LIVE FHD",
             "FOX SPORTS FHD",
@@ -1465,6 +1463,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TELEMUNDO HD",
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+            },
+            {
                 "title": "TSN SPORTS FHD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
@@ -1473,7 +1475,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "FOX ONE 4K",
+                "title": "TSN SPORTS [ALT]",
                 "logo": ""
             },
             {
@@ -1481,27 +1483,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "TSN SPORTS [ALT]",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
-                "title": "ITV 1 FHD [ALT]",
-                "logo": ""
-            },
-            {
                 "title": "PEACOCK FHD [ALT]",
                 "logo": ""
             },
             {
-                "title": "FOX ONE 4K [ALT]",
+                "title": "TELEMUNDO [USA]",
                 "logo": ""
             },
             {
                 "title": "TELEMUNDO FHD",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
-            },
-            {
-                "title": "TELEMUNDO HD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
@@ -4586,65 +4576,58 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8ftiUfugar.m3u8?txSecret=ad05be13ed4690721c8c2d3fb2e94d66&txTime=6A3AE368",
+        "link": "ok",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "title": "TELEMUNDO HD",
+        "type": "0"
+    },
+    {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS FHD",
         "type": "1"
     },
     {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE FHD",
         "type": "1"
     },
     {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "",
-        "title": "FOX ONE 4K",
+        "title": "TSN SPORTS [ALT]",
         "type": "1"
     },
     {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE [ALT]",
         "type": "1"
     },
     {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "logo": "",
-        "title": "ITV 1 FHD [ALT]",
-        "type": "1"
-    },
-    {
-        "api": "00226cb040ccc83d1e42fc558c8f65f4:3462ead4f210a3f259f4769d8fc71b08",
-        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021304-723162-4911d1596da)/master_2hr.mpd?c3.ri=6a3ab587_Q1ZYMDc_1_RkFTVExZ_ba07b853e376%3A0&aws.sessionId=d605bd75-01fe-4658-a986-76049a013461&ck=eyIwMDIyNmNiMDQwY2NjODNkMWU0MmZjNTU4YzhmNjVmNCI6IjM0NjJlYWQ0ZjIxMGEzZjI1OWY0NzY5ZDhmYzcxYjA4In0%3D",
+        "api": "",
+        "link": "ok",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "1"
+        "type": "0"
     },
     {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "logo": "",
-        "title": "FOX ONE 4K [ALT]",
+        "title": "TELEMUNDO [USA]",
         "type": "1"
     },
     {
@@ -4652,13 +4635,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "https://streamxyz.shop/Telemundo/index.m3u8|referer=https://xyzstreams.shop/",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO HD",
         "type": "0"
     },
     {
