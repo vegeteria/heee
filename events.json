@@ -1709,7 +1709,7 @@
     },
     {
         "name": "Ecuador vs Germany (TOFFEE BD FHD)",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782308414~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcaHQ5d5a91K8YyfS7yi4Bv00UrewTSq4ReESRRjtAKQSRyDoiDdnHBUNxx-UoRREfoIbaQN7nx9pWK3WMojHMM",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1748,8 +1748,28 @@
         "drmLicense": "0:0"
     },
     {
-        "name": "Ecuador vs Germany (ARABIC LIVE FHD)",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/5C0goZ5i9lNAYeFmUbGKmEeJi9PYqeBhyv7pcfBarj3pjQMRWQ3oqhTzIVflAZ6KBQ3bgex_U5e17Vp2GnWE2w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "name": "Ecuador vs Germany (TVCG 1 FHD)",
+        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a"
+    },
+    {
+        "name": "Ecuador vs Germany (FOX ONE HD)",
+        "link": "https://vildid.hundredmilesperhour.uk/1782420795/23220638e5734cc587a65936528a76dd/qIzJVzCxBOr9CCD9dKPDyBk_zI8BPqO-R6AWn2o5KW4/fox-usa.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Ecuador vs Germany (FAST SERVER)",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8ftiUfugar.m3u8?txSecret=ad05be13ed4690721c8c2d3fb2e94d66&txTime=6A3AE368",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1777,17 +1797,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-    },
-    {
-        "name": "Ecuador vs Germany (ITV 1 FHD)",
-        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
     },
     {
         "name": "Ecuador vs Germany (FOX ONE 4K)",
@@ -1985,15 +1994,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
-    },
-    {
-        "name": "Ecuador vs Germany (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8ftiUfugar.m3u8?txSecret=ad05be13ed4690721c8c2d3fb2e94d66&txTime=6A3AE368",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "Ecuador vs Germany (TELEMUNDO [ALT])",
