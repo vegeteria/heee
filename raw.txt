@@ -435,9 +435,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -463,9 +468,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -491,9 +501,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -2855,62 +2870,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50073,
-        "title": "Miami Marlins vs Texas Rangers",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Marlins",
-            "teamB": "Rangers",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-            "eventName": "Miami Marlins vs Texas Rangers",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/24 16:10:00 +0000",
-            "endTime": "2026/06/24 19:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50074,
-        "title": "Mets vs Chicago Cubs",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Mets",
-            "teamB": "Cubs",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-            "eventName": "New York Mets vs Chicago Cubs",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/24 17:10:00 +0000",
-            "endTime": "2026/06/24 20:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50075,
         "title": "White Sox vs Cleveland Guardians",
         "image": "o",
@@ -2925,62 +2884,6 @@ URL: https://spxhomelive.lol/events.json
             "isHot": "0",
             "startTime": "2026/06/24 18:10:00 +0000",
             "endTime": "2026/06/24 21:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50076,
-        "title": "Rockies vs Red Sox",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Rockies",
-            "teamB": "Red Sox",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-            "eventName": "Colorado Rockies vs Red Sox",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/24 19:10:00 +0000",
-            "endTime": "2026/06/24 22:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50077,
-        "title": "Angels vs Baltimore Orioles",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Angels",
-            "teamB": "Orioles",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-            "eventName": "Angels vs Baltimore Orioles",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/24 20:07:00 +0000",
-            "endTime": "2026/06/24 23:07:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -3402,6 +3305,13 @@ URL: https://spxhomelive.lol/channels/50033.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52494/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
@@ -3415,6 +3325,13 @@ URL: https://spxhomelive.lol/channels/50034.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52495/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
@@ -3426,6 +3343,13 @@ URL: https://spxhomelive.lol/channels/50034.json
 URL: https://spxhomelive.lol/channels/50052.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52498/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -6442,64 +6366,12 @@ URL: https://spxhomelive.lol/channels/50072.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50073.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50074.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50075.json
 ============================================================
 [
     {
         "api": "",
         "link": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50076.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50077.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
