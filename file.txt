@@ -920,8 +920,18 @@ https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
 #EXTINF:-1 tvg-id="tunisiavsnetherlands0000tvpsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Tunisia vs Netherlands 00:00 (TVP SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
+#KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000tvcg2fhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Tunisia vs Netherlands 00:00 (TVCG 2 FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abf270b7b6b95ff48c65e3409f8aa3fd:0dbca83580a794c289f4448f427988a4
+https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000ctsportscz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Tunisia vs Netherlands 00:00 (CT SPORTS CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="tunisiavsnetherlands0000foxhdlive" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Tunisia vs Netherlands 00:00 (FOX HD LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -930,9 +940,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1
 
 #EXTINF:-1 tvg-id="tunisiavsnetherlands0000tsnfhdlive" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Tunisia vs Netherlands 00:00 (TSN FHD LIVE)
 https://naremanums.s3.eu-west-1.amazonaws.com/btsport.m3u8
-
-#EXTINF:-1 tvg-id="tunisiavsnetherlands0000tsn4k" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Tunisia vs Netherlands 00:00 (TSN 4K)
-https://xyzcloud3.xyz/tsn4k/index.m3u8
 
 #EXTINF:-1 tvg-id="tunisiavsnetherlands0000foxsports4k" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Tunisia vs Netherlands 00:00 (FOX SPORTS 4K)
 https://boombaclat0000-56789.heytheredelilah.xyz/001/FS14K/playlist.m3u8

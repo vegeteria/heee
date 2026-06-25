@@ -3119,7 +3119,7 @@
     },
     {
         "name": "Tunisia vs Netherlands (TOFFE BDIX (BD))",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782349212~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcUH0Ym-D2JOfrD9TYgF4kZtvpJ1Q3OzqIVrlqvDWlQ7lIHyLW77zTmT1IMefTWy6KvptOkuWs-Kn_oMpLFpnEN",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -3144,7 +3144,29 @@
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "0:0"
+        "drmLicense": "95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64"
+    },
+    {
+        "name": "Tunisia vs Netherlands (TVCG 2 FHD)",
+        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "abf270b7b6b95ff48c65e3409f8aa3fd:0dbca83580a794c289f4448f427988a4"
+    },
+    {
+        "name": "Tunisia vs Netherlands (CT SPORTS CZ)",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
     },
     {
         "name": "Tunisia vs Netherlands (FOX HD LIVE)",
@@ -3163,15 +3185,6 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Tunisia vs Netherlands (TSN 4K)",
-        "link": "https://xyzcloud3.xyz/tsn4k/index.m3u8",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "origin": "",
-        "referrer": "https://xyzstreams.shop/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
