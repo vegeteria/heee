@@ -648,6 +648,54 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50059,
+        "title": "Sri Lanka W vs Scotland W",
+        "image": "o",
+        "cat": "Cricket",
+        "eventInfo": {
+            "teamA": "SL-W",
+            "teamB": "SCO-W",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/453162/image",
+            "eventName": "Sri Lanka W vs Scotland W",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/26 17:30:00 +0000",
+            "endTime": "2026/06/26 21:15:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "WILLOW FHD",
+            "WILLOW ALT",
+            "SKY SPORT NZ",
+            "WILLOW HD",
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "WILLOW FHD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "WILLOW ALT",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SKY SPORT NZ",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+            },
+            {
+                "title": "WILLOW HD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50060,
         "title": "West Indies vs Sri Lanka",
         "image": "o",
@@ -1795,6 +1843,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "FOX SPORTS HD",
             "TIPIK FR FHD",
+            "QAZ SPORTS FHD",
             "DSports FHD",
             "CAZE TV FHD",
             "TOFFE BDIX (BD)",
@@ -1854,6 +1903,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TIPIK FR FHD",
                 "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
+            },
+            {
+                "title": "QAZ SPORTS FHD",
+                "logo": ""
             },
             {
                 "title": "DSports FHD",
@@ -2705,6 +2758,47 @@ URL: https://spxhomelive.lol/channels/50054.json
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52538/load-playlist?|Referer=https://gooz.aapmains.net",
         "title": "SportzX CFL",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50059.json
+============================================================
+[
+    {
+        "api": "2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW FHD",
+        "type": "1"
+    },
+    {
+        "api": "2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW ALT",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/skynz3.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT NZ",
+        "type": "0"
+    },
+    {
+        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW HD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/willoweng.m3u8",
+        "logo": "",
+        "title": "SportzX Live",
         "type": "0"
     }
 ]
@@ -4162,6 +4256,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
         "title": "TIPIK FR FHD",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+        "logo": "",
+        "title": "QAZ SPORTS FHD",
+        "type": "0"
     },
     {
         "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",

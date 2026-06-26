@@ -497,6 +497,57 @@
         "cookie": ""
     },
     {
+        "name": "Sri Lanka W vs Scotland W (WILLOW FHD)",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33"
+    },
+    {
+        "name": "Sri Lanka W vs Scotland W (WILLOW ALT)",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33"
+    },
+    {
+        "name": "Sri Lanka W vs Scotland W (SKY SPORT NZ)",
+        "link": "https://tmaxapp.site/skynz3.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Sri Lanka W vs Scotland W (WILLOW HD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+        "name": "Sri Lanka W vs Scotland W (SportzX Live)",
+        "link": "https://tmaxapp.site/willoweng.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "West Indies vs Sri Lanka (WILLOW FHD)",
         "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
@@ -2513,6 +2564,15 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
+    },
+    {
+        "name": "Paraguay vs Australia (QAZ SPORTS FHD)",
+        "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "Paraguay vs Australia (DSports FHD)",
