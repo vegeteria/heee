@@ -892,7 +892,8 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [PT]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "RTE SPORTS FHD"
         ],
         "formatsNew": [
             {
@@ -1101,6 +1102,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
+                "logo": ""
+            },
+            {
+                "title": "RTE SPORTS FHD",
                 "logo": ""
             }
         ]
@@ -4094,6 +4099,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
+    },
+    {
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4425a49a-053b-4da9-9c34-fef747301923:GRQ/manifest.mpd",
+        "logo": "",
+        "title": "RTE SPORTS FHD",
+        "type": "1"
     }
 ]
 ============================================================

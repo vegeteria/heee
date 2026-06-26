@@ -402,6 +402,12 @@
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
                 "clearkey": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
                 "channel_title": "TELEMUNDO [USA]"
+            },
+            {
+                "web_view_url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4425a49a-053b-4da9-9c34-fef747301923:GRQ/manifest.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+                "channel_title": "RTE SPORTS FHD"
             }
         ]
     },
