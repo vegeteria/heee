@@ -854,14 +854,13 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO FHD",
             "beIN MAX FHD",
             "ISCREEN BD FHD",
-            "Binge+ FHD (BD)",
             "TVP SPORTS HD",
             "FOX ONE HD",
             "FAST SERVER",
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
-            "FOX ONE 4K [ALT]",
+            "ITV 1 FHD [ALT]",
             "TSN SPORTS [ALT]",
             "FOX ONE [ALT]",
             "PEACOCK FHD [ALT]",
@@ -947,10 +946,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "Binge+ FHD (BD)",
-                "logo": ""
-            },
-            {
                 "title": "TVP SPORTS HD",
                 "logo": ""
             },
@@ -975,7 +970,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX ONE 4K [ALT]",
+                "title": "ITV 1 FHD [ALT]",
                 "logo": ""
             },
             {
@@ -3818,14 +3813,7 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
-        "logo": "",
-        "title": "Binge+ FHD (BD)",
-        "type": "0"
-    },
-    {
-        "api": "95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64",
+        "api": "0:0",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
         "logo": "",
         "title": "TVP SPORTS HD",
@@ -3867,10 +3855,10 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
         "logo": "",
-        "title": "FOX ONE 4K [ALT]",
+        "title": "ITV 1 FHD [ALT]",
         "type": "1"
     },
     {
