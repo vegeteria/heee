@@ -836,6 +836,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "ITV SPORTS FHD",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
             "TOFFE BDIX (BD)",
@@ -889,6 +890,10 @@ URL: https://spxhomelive.lol/events.json
             "ESPANOL SD"
         ],
         "formatsNew": [
+            {
+                "title": "ITV SPORTS FHD",
+                "logo": ""
+            },
             {
                 "title": "TSN SPORTS FHD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
@@ -3149,7 +3154,7 @@ URL: https://spxhomelive.lol/channels/50002.json
 [
     {
         "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE FHD",
         "type": "1"
@@ -3170,28 +3175,28 @@ URL: https://spxhomelive.lol/channels/50002.json
     },
     {
         "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/8977c6ac6f223921fe330e74808321e0/index.m3u8?|referer=https://pushembdz.store/",
+        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/c23f741307e2689321d290e69d8d943d/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "",
         "title": "SKY SPORTS FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/053885fcb23afa8c714d7c365de9c928/index.m3u8?|referer=https://pushembdz.store/",
+        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/bcc79f2b4a086f9997212023667c182c/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "",
         "title": "DAZN ESPANOL",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/3a80e1c254551ba268416f3a752d9c14/index.m3u8?|referer=https://pushembdz.store/",
+        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/08d4d8edf496b1e52b0bba1a2973b8cf/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "",
         "title": "SKY ITALY FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/b927ea9a648871f9c0d00da01e4b9732/index.m3u8?|referer=https://pushembdz.store/",
+        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/21c7006dc2f78af00d68074937f6d054/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "",
         "title": "LOW RES",
         "type": "0"
@@ -3714,6 +3719,13 @@ URL: https://spxhomelive.lol/channels/50061.json
 URL: https://spxhomelive.lol/channels/50063.json
 ============================================================
 [
+    {
+        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+        "link": "https://otte-qw.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "ITV SPORTS FHD",
+        "type": "1"
+    },
     {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
