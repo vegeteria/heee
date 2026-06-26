@@ -3326,49 +3326,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             }
         ]
-    },
-    {
-        "id": 50073,
-        "title": "South Africa W vs Netherlands W",
-        "image": "o",
-        "cat": "Cricket",
-        "eventInfo": {
-            "teamA": "SA-W",
-            "teamB": "NED-W",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/213118/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image",
-            "eventName": "South Africa W vs Netherlands W",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/25 17:30:00 +0000",
-            "endTime": "2026/06/25 21:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "WILLOW FHD",
-            "WILLOW ALT",
-            "SKY SPORT NZ",
-            "WILLOW HD"
-        ],
-        "formatsNew": [
-            {
-                "title": "WILLOW FHD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "WILLOW ALT",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "SKY SPORT NZ",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            },
-            {
-                "title": "WILLOW HD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            }
-        ]
     }
 ]
 ============================================================
@@ -6714,11 +6671,11 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "0022b79ffa285670be9c7ffbf965deda:163c71031a0fabc7dee31bf33ccde334",
+        "link": "https://g003-sle-us-cmaf-prd-ns.prd.pck.netskrt.net/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021341-723199-4911f4a2a3f)/master_2hr.mpd?c3.ri=6a3dd4af_Q1ZYMDc_0_TkVUU0tSVA_f1a0c63f5abe%3A0&aws.sessionId=b6b12484-ec28-4de9-a384-47a7c19f134f&ck=eyIwMDIyYjc5ZmZhMjg1NjcwYmU5YzdmZmJmOTY1ZGVkYSI6IjE2M2M3MTAzMWEwZmFiYzdkZWUzMWJmMzNjY2RlMzM0In0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
@@ -7201,40 +7158,6 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50073.json
-============================================================
-[
-    {
-        "api": "84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
-        "type": "1"
-    },
-    {
-        "api": "84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW ALT",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://tmaxapp.site/skynz2.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORT NZ",
-        "type": "0"
-    },
-    {
-        "api": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW HD",
-        "type": "1"
     }
 ]
 ============================================================
