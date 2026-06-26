@@ -722,17 +722,6 @@
         "cookie": ""
     },
     {
-        "name": "Norway vs France (FOX ONE FHD)",
-        "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-    },
-    {
         "name": "Norway vs France (M6 FRANCE FHD)",
         "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
         "logo": "https://www.ideal-investisseur.fr/img/0-202601150929-6968b38f4c6ae.png",
@@ -742,6 +731,17 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283"
+    },
+    {
+        "name": "Norway vs France (FOX ONE FHD)",
+        "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
         "name": "Norway vs France (RTE SPORTS FHD)",
@@ -755,15 +755,13 @@
         "drmLicense": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
     },
     {
-        "name": "Norway vs France (TELEMUNDO FHD)",
-        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "name": "Norway vs France (ITV SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52474/load-playlist?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
+        "cookie": ""
     },
     {
         "name": "Norway vs France (D Sports FHD)",
@@ -786,6 +784,17 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+    },
+    {
+        "name": "Norway vs France (TELEMUNDO FHD)",
+        "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
     },
     {
         "name": "Norway vs France (beIN MAX FHD)",
@@ -823,40 +832,20 @@
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "0:0"
-    },
-    {
-        "name": "Norway vs France (TVCG 1 FHD)",
-        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvcg-1-montenegro.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a"
+        "drmLicense": "95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64"
     },
     {
         "name": "Norway vs France (FOX ONE HD)",
-        "link": "https://lb.xyzcloud3.xyz/FOX/index.m3u8",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://xyzstreams.shop/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Norway vs France (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52474/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "Norway vs France (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoJkAjWkPCi.m3u8?txSecret=c6aaad0168258ac0f0eee506b9b73492&txTime=6A3C7689",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
