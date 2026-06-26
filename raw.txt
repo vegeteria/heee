@@ -200,8 +200,8 @@ URL: https://spxhomelive.lol/events.json
             "eventType": "null",
             "eventBanner": "null",
             "isHot": "0",
-            "startTime": "2026/06/27 18:00:00 +0000",
-            "endTime": "2026/06/28 00:00:00 +0000"
+            "startTime": "2026/06/27 13:00:00 +0000",
+            "endTime": "2026/06/27 20:00:00 +0000"
         },
         "adsLimit": "15",
         "publish": "1",
