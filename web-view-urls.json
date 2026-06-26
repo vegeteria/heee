@@ -550,6 +550,12 @@
         "group-title": "Fifa world cup",
         "streams": [
             {
+                "web_view_url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+                "clearkey": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+                "channel_title": "ITV SPORTS FHD"
+            },
+            {
                 "web_view_url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
                 "clearkey": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
@@ -568,10 +574,10 @@
                 "channel_title": "CANAL5 FHD"
             },
             {
-                "web_view_url": "https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5c8u891621868366.png",
-                "clearkey": "55b8f0b9ea3b5cd21cd1859cc82b16f3:d3b260e8628214b49394801d75c88e8e",
-                "channel_title": "AZTECA7 FHD"
+                "web_view_url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+                "channel_title": "TVE La 1 FHD"
             },
             {
                 "web_view_url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
