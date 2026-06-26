@@ -854,6 +854,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO FHD",
             "beIN MAX FHD",
             "ISCREEN BD FHD",
+            "CT SPORTS CZ",
             "TVP SPORTS HD",
             "FOX ONE HD",
             "FAST SERVER",
@@ -867,7 +868,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO [USA]",
             "FOX ONE 4K",
             "FOX 4K LIVE",
-            "TELEMUNDO 4K",
+            "TELEMUNDO FHD",
             "TSN SPORTS 4K",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
@@ -946,6 +947,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "CT SPORTS CZ",
+                "logo": ""
+            },
+            {
                 "title": "TVP SPORTS HD",
                 "logo": ""
             },
@@ -998,7 +1003,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TELEMUNDO 4K",
+                "title": "TELEMUNDO FHD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
@@ -3813,6 +3818,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "0"
     },
     {
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "logo": "",
+        "title": "CT SPORTS CZ",
+        "type": "1"
+    },
+    {
         "api": "0:0",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
         "logo": "",
@@ -3821,7 +3833,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://lb.xyzcloud3.xyz/FOX/index.m3u8?|Referer=https://xyzstreams.st/",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
@@ -3898,21 +3910,21 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://hundredmilesperhour.uk/fox4k-usa.m3u8",
+        "link": "ok",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/tele4k/index.m3u8|referer=https://xyzstreams.shop/",
+        "link": "https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "title": "TELEMUNDO 4K",
+        "title": "TELEMUNDO FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8|referer=https://xyzstreams.shop/",
+        "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS 4K",
         "type": "0"
@@ -3947,7 +3959,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/tod1/index.m3u8|referer=https://xyzstreams.shop/",
+        "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"
