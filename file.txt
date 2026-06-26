@@ -525,8 +525,8 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3gg2jnixjn/out/v
 
 #EXTINF:-1 tvg-id="uruguayvsspain0100cazetvfhd" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="Fifa world cup",Uruguay vs Spain 01:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
-https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
 #EXTINF:-1 tvg-id="uruguayvsspain0100telemundofhd" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Fifa world cup",Uruguay vs Spain 01:00 (TELEMUNDO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -656,8 +656,8 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v
 
 #EXTINF:-1 tvg-id="caboverdevssaudiarabia0100cazetvfhd" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="Fifa world cup",Cabo Verde vs Saudi Arabia 01:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
+https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
 
 #EXTINF:-1 tvg-id="caboverdevssaudiarabia0100tvpsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-sport.png" group-title="Fifa world cup",Cabo Verde vs Saudi Arabia 01:00 (TVP SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
