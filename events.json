@@ -598,9 +598,20 @@
         "drmLicense": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
     },
     {
+        "name": "West Indies vs Sri Lanka (WILLOW FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9l2vb6syd/out/v1/aa21c8df2e9d4f42828895734934385a/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "5ac9a949be51e3bac478a2b6b89fd53e:1fab3b9de1c50dd740e473d439e15fce"
+    },
+    {
         "name": "West Indies vs Sri Lanka (TNT SPORTS HD)",
         "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -608,14 +619,14 @@
     },
     {
         "name": "West Indies vs Sri Lanka (WILLOW [ALT])",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r9l2vb6syd/out/v1/aa21c8df2e9d4f42828895734934385a/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2"
+        "drmLicense": "5ac9a949be51e3bac478a2b6b89fd53e:1fab3b9de1c50dd740e473d439e15fce"
     },
     {
         "name": "West Indies vs Sri Lanka (FANCODE - IN)",
