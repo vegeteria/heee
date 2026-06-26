@@ -856,8 +856,8 @@ URL: https://spxhomelive.lol/events.json
             "ISCREEN BD FHD",
             "CT SPORTS CZ",
             "TSN SPORTS FHD",
-            "TVP SPORTS HD",
             "FOX ONE HD",
+            "TVP SPORTS HD",
             "FAST SERVER",
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
@@ -956,11 +956,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TVP SPORTS HD",
+                "title": "FOX ONE HD",
                 "logo": ""
             },
             {
-                "title": "FOX ONE HD",
+                "title": "TVP SPORTS HD",
                 "logo": ""
             },
             {
@@ -1147,6 +1147,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS 4K",
             "FS1 4K LIVE",
             "NBC UNIVERSO FHD",
+            "FUSSBALL 4K LIVE",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -1260,6 +1261,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "NBC UNIVERSO FHD",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL 4K LIVE",
                 "logo": ""
             },
             {
@@ -3795,7 +3800,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://vildid.hundredmilesperhour.uk/1782505431/ea657348dfd94fa9a03ea9b9c4a63ddc/1cXbJqsCyU-sezwERv9t53CNuzWjAQrbw3S92PMbVW8/beinsportsmax2-sa.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
@@ -3822,18 +3827,18 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "0"
     },
     {
-        "api": "0:0",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
-        "logo": "",
-        "title": "TVP SPORTS HD",
-        "type": "1"
-    },
-    {
         "api": "",
         "link": "https://lb.xyzcloud3.xyz/FOX/index.m3u8?|Referer=https://xyzstreams.st/",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
+    },
+    {
+        "api": "0:0",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
+        "logo": "",
+        "title": "TVP SPORTS HD",
+        "type": "1"
     },
     {
         "api": "",
@@ -4165,7 +4170,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/bein/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://vildid.hundredmilesperhour.uk/1782505541/bf9bd5a3f94f41b1a618643f51cb624d/3okRkzIN8E9YgXBdVFikDOPpCQLrKFGVK8ZbRSCX2iI/beinsportsmax-sa.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
@@ -4248,6 +4253,13 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://vildid.hundredmilesperhour.uk/1782505674/102c4bc3a07342e6b34c1da547b83b4c/2tzQpUE7hL-JKxemghHxv-e4f9x43liWnmTvnEyqlw0/fusballtv2uhd-de.m3u8",
+        "logo": "",
+        "title": "FUSSBALL 4K LIVE",
+        "type": "0"
+    },
+    {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "",
@@ -4270,7 +4282,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://lb.xyzcloud3.xyz/bein/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"
@@ -4361,35 +4373,35 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.42/hls/SKKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/SKKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/EKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beIN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/EKKKQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "D SPORTS ES",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/EKKKQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [AR]",
         "type": "0"

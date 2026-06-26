@@ -798,7 +798,7 @@
     },
     {
         "name": "Norway vs France (beIN MAX FHD)",
-        "link": "ok",
+        "link": "https://vildid.hundredmilesperhour.uk/1782505431/ea657348dfd94fa9a03ea9b9c4a63ddc/1cXbJqsCyU-sezwERv9t53CNuzWjAQrbw3S92PMbVW8/beinsportsmax2-sa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -835,6 +835,15 @@
         "cookie": ""
     },
     {
+        "name": "Norway vs France (FOX ONE HD)",
+        "link": "https://lb.xyzcloud3.xyz/FOX/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.st/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Norway vs France (TVP SPORTS HD)",
         "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -844,15 +853,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "0:0"
-    },
-    {
-        "name": "Norway vs France (FOX ONE HD)",
-        "link": "https://lb.xyzcloud3.xyz/FOX/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.st/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "Norway vs France (FAST SERVER)",
@@ -1314,10 +1314,10 @@
     },
     {
         "name": "Senegal vs Iraq (beIN MAX FHD)",
-        "link": "https://lb.xyzcloud3.xyz/bein/index.m3u8?",
+        "link": "https://vildid.hundredmilesperhour.uk/1782505541/bf9bd5a3f94f41b1a618643f51cb624d/3okRkzIN8E9YgXBdVFikDOPpCQLrKFGVK8ZbRSCX2iI/beinsportsmax-sa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://xyzstreams.st/",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1431,6 +1431,15 @@
         "cookie": ""
     },
     {
+        "name": "Senegal vs Iraq (FUSSBALL 4K LIVE)",
+        "link": "https://vildid.hundredmilesperhour.uk/1782505674/102c4bc3a07342e6b34c1da547b83b4c/2tzQpUE7hL-JKxemghHxv-e4f9x43liWnmTvnEyqlw0/fusballtv2uhd-de.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Senegal vs Iraq (FUSSBALL TV 4K)",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1463,10 +1472,10 @@
     },
     {
         "name": "Senegal vs Iraq (ARABIC LIVE HD)",
-        "link": "ok",
+        "link": "https://lb.xyzcloud3.xyz/bein/index.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1590,7 +1599,7 @@
     },
     {
         "name": "Senegal vs Iraq (SD SERVER [ENG])",
-        "link": "http://193.47.62.42/hls/SKKKK.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1599,7 +1608,7 @@
     },
     {
         "name": "Senegal vs Iraq (ENG SERVER SD)",
-        "link": "http://193.47.62.51/hls/SKKKKQ.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1608,7 +1617,7 @@
     },
     {
         "name": "Senegal vs Iraq (beIN SPORTS FR)",
-        "link": "http://193.47.62.59/hls/EKKKQ.m3u8?",
+        "link": "?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1617,7 +1626,7 @@
     },
     {
         "name": "Senegal vs Iraq (D SPORTS ES)",
-        "link": "http://193.47.62.47/hls/EKKKQQ.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1626,7 +1635,7 @@
     },
     {
         "name": "Senegal vs Iraq (SD SERVER [AR])",
-        "link": "http://193.47.62.59/hls/EKKKQQQ.m3u8?",
+        "link": "?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
