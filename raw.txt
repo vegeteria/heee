@@ -2743,7 +2743,7 @@ URL: https://spxhomelive.lol/channels/50002.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "SportzX F1 HD",
         "type": "0"
