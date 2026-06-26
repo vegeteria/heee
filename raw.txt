@@ -31,6 +31,7 @@ URL: https://spxhomelive.lol/events.json
             "SKY ITALY FHD",
             "LOW RES",
             "SKY SPORTS F1",
+            "F1 GERMANY [USA]",
             "Tipik FRANCE FHD",
             "SKY SPORTS HD",
             "SKY SPORTS F1 UHD",
@@ -66,6 +67,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SKY SPORTS F1",
+                "logo": ""
+            },
+            {
+                "title": "F1 GERMANY [USA]",
                 "logo": ""
             },
             {
@@ -488,34 +493,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "USA TV",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50054,
-        "title": "CFL",
-        "image": "o",
-        "cat": "CFL",
-        "eventInfo": {
-            "teamA": "Winnipeg",
-            "teamB": "Edmonton",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4435/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
-            "eventName": "Winnipeg Blue Bombers vs Edmonton Elks",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/26 00:30:00 +0000",
-            "endTime": "2026/06/26 03:30:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX CFL"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX CFL",
                 "logo": ""
             }
         ]
@@ -2283,6 +2260,13 @@ URL: https://spxhomelive.lol/channels/50002.json
         "type": "0"
     },
     {
+        "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
+        "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+        "logo": "",
+        "title": "F1 GERMANY [USA]",
+        "type": "1"
+    },
+    {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "",
@@ -2291,7 +2275,7 @@ URL: https://spxhomelive.lol/channels/50002.json
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS HD",
         "type": "0"
@@ -2549,18 +2533,6 @@ URL: https://spxhomelive.lol/channels/50011.json
         "logo": "",
         "title": "USA TV",
         "type": "1"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50054.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52538/load-playlist?|Referer=https://gooz.aapmains.net",
-        "title": "SportzX CFL",
-        "type": "0"
     }
 ]
 ============================================================
