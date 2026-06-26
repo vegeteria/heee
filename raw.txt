@@ -3852,7 +3852,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJ2nQTAy3UJ.m3u8?txSecret=5a733c6d2b5b557345bb398060dad1cb&txTime=6A3EEF59",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -4201,7 +4201,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdBtsMRAhFL.m3u8?txSecret=a261c177bab5dba925a1232e786365aa&txTime=6A3EEF59",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
