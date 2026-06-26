@@ -653,6 +653,34 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50054,
+        "title": "CFL",
+        "image": "o",
+        "cat": "CFL",
+        "eventInfo": {
+            "teamA": "Winnipeg",
+            "teamB": "Edmonton",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/4435/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+            "eventName": "Winnipeg Blue Bombers vs Edmonton Elks",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/26 00:30:00 +0000",
+            "endTime": "2026/06/26 03:30:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX CFL"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX CFL",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50060,
         "title": "West Indies vs Sri Lanka",
         "image": "o",
@@ -2050,7 +2078,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS [ALT]",
             "ITV 1 FHD [ALT]",
             "PEACOCK FHD [ALT]",
-            "NBC UNIVERSO [ALT]",
+            "TELEMUNDO [ALT]",
             "FOX SPORTS 4K",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
@@ -2063,10 +2091,7 @@ URL: https://spxhomelive.lol/events.json
             "HD SERVER AR",
             "Match Football FHD",
             "DAZN SPANISH",
-            "ARABIC LIVE HD",
             "ISCREEN BD FHD",
-            "TSN SPORTS",
-            "SOMOY TV HD",
             "FUSSBALL 4K [GER]",
             "FUSSBALL2 4K [GER]",
             "FUSSBALL TV FHD",
@@ -2076,8 +2101,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "beIN SPORTS FR",
             "D SPORTS ES",
-            "SD SERVER [SWE]",
-            "Sporza DUTCH FHD"
+            "SD SERVER [SWE]"
         ],
         "formatsNew": [
             {
@@ -2149,7 +2173,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "NBC UNIVERSO [ALT]",
+                "title": "TELEMUNDO [ALT]",
                 "logo": ""
             },
             {
@@ -2201,19 +2225,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "ARABIC LIVE HD",
-                "logo": ""
-            },
-            {
                 "title": "ISCREEN BD FHD",
-                "logo": ""
-            },
-            {
-                "title": "TSN SPORTS",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
-                "title": "SOMOY TV HD",
                 "logo": ""
             },
             {
@@ -2254,10 +2266,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SD SERVER [SWE]",
-                "logo": ""
-            },
-            {
-                "title": "Sporza DUTCH FHD",
                 "logo": ""
             }
         ]
@@ -2855,6 +2863,18 @@ URL: https://spxhomelive.lol/channels/50053.json
         "link": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50054.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52538/load-playlist?|Referer=https://gooz.aapmains.net",
+        "title": "SportzX CFL",
         "type": "0"
     }
 ]
@@ -4684,36 +4704,36 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "1"
     },
     {
-        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS [ALT]",
         "type": "1"
     },
     {
-        "api": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12",
-        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
+        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
         "logo": "",
         "title": "ITV 1 FHD [ALT]",
         "type": "1"
     },
     {
-        "api": "00227802808c7818bfa61dc1702ff517:8cca9d7881fb3eb50de21d99c78e7535",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021309-723167-4911d61e21f)/master_2hr.mpd?c3.ri=6a3c1ea8_Q1ZYMDc_1_Q0xPVURGUk9OVA_94cee0417b49%3A0&aws.sessionId=4305d17d-8729-49d1-8b56-237895008fc7&ck=eyIwMDIyNzgwMjgwOGM3ODE4YmZhNjFkYzE3MDJmZjUxNyI6IjhjY2E5ZDc4ODFmYjNlYjUwZGUyMWQ5OWM3OGU3NTM1In0%3D&=--key",
+        "api": "",
+        "link": "ok",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "1"
+        "type": "0"
     },
     {
-        "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+        "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "logo": "",
-        "title": "NBC UNIVERSO [ALT]",
+        "title": "TELEMUNDO [ALT]",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://xyzcloud3.xyz/fs14k/index.m3u8|referer=https://xyzstreams.shop/",
+        "link": "ok",
         "logo": "",
         "title": "FOX SPORTS 4K",
         "type": "0"
@@ -4741,7 +4761,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://customer-xnyp0i3qki5poety.cloudflarestream.com/a43fd284ab5508f8fc396c19d552c945/manifest/video.m3u8",
+        "link": "ok",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
@@ -4797,30 +4817,9 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://ex.creatas.site/poolos1.m3u8",
-        "logo": "",
-        "title": "ARABIC LIVE HD",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
         "logo": "",
         "title": "ISCREEN BD FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://soccerball.st/s1.php",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "logo": "",
-        "title": "SOMOY TV HD",
         "type": "0"
     },
     {
@@ -4860,45 +4859,38 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/SKKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/SKKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/XEKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beIN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/XEKKKQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "D SPORTS ES",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/GGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
-    },
-    {
-        "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-        "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-        "logo": "",
-        "title": "Sporza DUTCH FHD",
-        "type": "1"
     }
 ]
 ============================================================
