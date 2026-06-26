@@ -652,6 +652,12 @@
                 "channel_title": "FOX ONE [ALT]"
             },
             {
+                "web_view_url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021345-723203-4911f873343)/master_2hr.mpd?c3.ri=6a3f08a4_Q1ZYMDc_1_RkFTVExZ_3a6a545fe76c%3A0&aws.sessionId=76838d8b-5947-440f-9ed2-2e1e3382b1f2&ck=eyIwMDIyOGMxOWYzMzBiMTUyOWE3YTM1YTc0NmE5NGNkYyI6IjM4ZGYyOGY1Y2E5ZmE2ZjIzOThlY2ZjOWQ2ZmIxNjJmIn0%3D",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "00228c19f330b1529a7a35a746a94cdc:38df28f5ca9fa6f2398ecfc9d6fb162f",
+                "channel_title": "PEACOCK FHD [ALT]"
+            },
+            {
                 "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
                 "clearkey": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
@@ -780,6 +786,12 @@
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12",
                 "channel_title": "ITV SPORTS [ALT]"
+            },
+            {
+                "web_view_url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021346-723204-4911f967584)/master_2hr.mpd?c3.ri=6a3f0948_Q1ZYMDc_1_Q0xPVURGUk9OVA_316994d0d8e3%3A0&aws.sessionId=b541a560-00d1-4414-8257-6d0bee1983f0&ck=eyIwMDIyMWU4ZTUyMWI1YjE1ZDU2MjhiNDQwZjA3ZDIxMCI6Ijg3NzNjNDE5ZDk4OWEwYTg1MjAxMGE2ZjE2YzQxMDQxIn0%3D",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "00221e8e521b5b15d5628b440f07d210:8773c419d989a0a852010a6f16c41041",
+                "channel_title": "PEACOCK FHD [ALT]"
             },
             {
                 "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",

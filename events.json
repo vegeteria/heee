@@ -1907,12 +1907,14 @@
     },
     {
         "name": "Uruguay vs Spain (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021345-723203-4911f873343)/master_2hr.mpd?c3.ri=6a3f08a4_Q1ZYMDc_1_RkFTVExZ_3a6a545fe76c%3A0&aws.sessionId=76838d8b-5947-440f-9ed2-2e1e3382b1f2&ck=eyIwMDIyOGMxOWYzMzBiMTUyOWE3YTM1YTc0NmE5NGNkYyI6IjM4ZGYyOGY1Y2E5ZmE2ZjIzOThlY2ZjOWQ2ZmIxNjJmIn0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "00228c19f330b1529a7a35a746a94cdc:38df28f5ca9fa6f2398ecfc9d6fb162f"
     },
     {
         "name": "Uruguay vs Spain (TELEMUNDO [USA])",
@@ -2379,12 +2381,14 @@
     },
     {
         "name": "Cabo Verde vs Saudi Arabia (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021346-723204-4911f967584)/master_2hr.mpd?c3.ri=6a3f0948_Q1ZYMDc_1_Q0xPVURGUk9OVA_316994d0d8e3%3A0&aws.sessionId=b541a560-00d1-4414-8257-6d0bee1983f0&ck=eyIwMDIyMWU4ZTUyMWI1YjE1ZDU2MjhiNDQwZjA3ZDIxMCI6Ijg3NzNjNDE5ZDk4OWEwYTg1MjAxMGE2ZjE2YzQxMDQxIn0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "00221e8e521b5b15d5628b440f07d210:8773c419d989a0a852010a6f16c41041"
     },
     {
         "name": "Cabo Verde vs Saudi Arabia (NBC UNIVERSO [USA])",
@@ -2401,6 +2405,24 @@
         "name": "Cabo Verde vs Saudi Arabia (FOX SPORTS 4K)",
         "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.st/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Cabo Verde vs Saudi Arabia (FS1 4K LIVE)",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782526695/c2154148e64b48d98111c589d2857a11/DrOTE81FPGhNuvZZ1Z3LsG0RGRb1eeXfsyBiZjtFbpk/fox-sports-1-4k.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Cabo Verde vs Saudi Arabia (beIN MAX FHD)",
+        "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -2448,10 +2470,10 @@
     },
     {
         "name": "Cabo Verde vs Saudi Arabia (ARABIC LIVE HD)",
-        "link": "ok",
+        "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },

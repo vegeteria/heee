@@ -1691,6 +1691,8 @@ URL: https://spxhomelive.lol/events.json
             "PEACOCK FHD [ALT]",
             "NBC UNIVERSO [USA]",
             "FOX SPORTS 4K",
+            "FS1 4K LIVE",
+            "beIN MAX FHD",
             "NBC UNIVERSO FHD",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
@@ -1798,6 +1800,14 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS 4K",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "FS1 4K LIVE",
+                "logo": ""
+            },
+            {
+                "title": "beIN MAX FHD",
+                "logo": ""
             },
             {
                 "title": "NBC UNIVERSO FHD",
@@ -4618,11 +4628,11 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00228c19f330b1529a7a35a746a94cdc:38df28f5ca9fa6f2398ecfc9d6fb162f",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021345-723203-4911f873343)/master_2hr.mpd?c3.ri=6a3f08a4_Q1ZYMDc_1_RkFTVExZ_3a6a545fe76c%3A0&aws.sessionId=76838d8b-5947-440f-9ed2-2e1e3382b1f2&ck=eyIwMDIyOGMxOWYzMzBiMTUyOWE3YTM1YTc0NmE5NGNkYyI6IjM4ZGYyOGY1Y2E5ZmE2ZjIzOThlY2ZjOWQ2ZmIxNjJmIn0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
@@ -4960,11 +4970,11 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00221e8e521b5b15d5628b440f07d210:8773c419d989a0a852010a6f16c41041",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021346-723204-4911f967584)/master_2hr.mpd?c3.ri=6a3f0948_Q1ZYMDc_1_Q0xPVURGUk9OVA_316994d0d8e3%3A0&aws.sessionId=b541a560-00d1-4414-8257-6d0bee1983f0&ck=eyIwMDIyMWU4ZTUyMWI1YjE1ZDU2MjhiNDQwZjA3ZDIxMCI6Ijg3NzNjNDE5ZDk4OWEwYTg1MjAxMGE2ZjE2YzQxMDQxIn0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
@@ -4978,6 +4988,20 @@ URL: https://spxhomelive.lol/channels/50066.json
         "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782526695/c2154148e64b48d98111c589d2857a11/DrOTE81FPGhNuvZZ1Z3LsG0RGRb1eeXfsyBiZjtFbpk/fox-sports-1-4k.m3u8",
+        "logo": "",
+        "title": "FS1 4K LIVE",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "beIN MAX FHD",
         "type": "0"
     },
     {
@@ -5010,7 +5034,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"
