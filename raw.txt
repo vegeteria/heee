@@ -1406,6 +1406,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE [ALT]",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
+            "beIN SPORTS FHD",
             "FOX ONE 4K",
             "FOX 4K LIVE",
             "TSN SPORTS 4K",
@@ -1530,6 +1531,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TELEMUNDO [USA]",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+            },
+            {
+                "title": "beIN SPORTS FHD",
+                "logo": ""
             },
             {
                 "title": "FOX ONE 4K",
@@ -4553,7 +4558,7 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJSxh2T48AA.m3u8?txSecret=b73511b365140a2ac7a8211f3ad6891a&txTime=6A3F3530",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -4616,7 +4621,14 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8|referer=https://xyzstreams.st/",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782525432/d846082eb32a47899dd64d5cdd44a7c1/xIfy6eeNbRd_7ftlmGnGIPTqYw2ha9H0fT1aZuJYMmo/beinsportsmax4-sa.m3u8",
+        "logo": "",
+        "title": "beIN SPORTS FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "FOX ONE 4K",
         "type": "0"
@@ -4839,7 +4851,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/FS1/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782525555/fa0bebc4b6544e0687a1936b1398f7f5/wTVG0Q97PTl5ZXVyK14ljWOqmOIYg_D5cTADMLT0QPs/fox-sports-1.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
@@ -4881,14 +4893,14 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782525638/576aeb9206524a18a90fa837b6d63a3d/CFkylaLto-xN0ZZ5PjKoCVmux35uiK7ZGF869ppQ8ho/beinsportsmax3-sa.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdks5QcZSYn.m3u8?txSecret=0d7bd0c3dd1da49b68b0f0e75f3e1735&txTime=6A3F3530",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
