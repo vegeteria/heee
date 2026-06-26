@@ -30,6 +30,7 @@ URL: https://spxhomelive.lol/events.json
             "DAZN ESPANOL",
             "SKY ITALY FHD",
             "LOW RES",
+            "SKY SPORTS F1",
             "Tipik FRANCE FHD",
             "SKY SPORTS HD",
             "SKY SPORTS F1 UHD",
@@ -61,6 +62,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "LOW RES",
+                "logo": ""
+            },
+            {
+                "title": "SKY SPORTS F1",
                 "logo": ""
             },
             {
@@ -2268,6 +2273,13 @@ URL: https://spxhomelive.lol/channels/50002.json
         "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/b927ea9a648871f9c0d00da01e4b9732/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "",
         "title": "LOW RES",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8",
+        "logo": "",
+        "title": "SKY SPORTS F1",
         "type": "0"
     },
     {
