@@ -488,39 +488,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50052,
-        "title": "Chicago Cubs",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Mets",
-            "teamB": "Cubs",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-            "eventName": "New York Mets vs Chicago Cubs",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/25 23:10:00 +0000",
-            "endTime": "2026/06/26 02:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50054,
         "title": "CFL",
         "image": "o",
@@ -3557,26 +3524,6 @@ URL: https://spxhomelive.lol/channels/50011.json
         "logo": "",
         "title": "USA TV",
         "type": "1"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50052.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52531/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
     }
 ]
 ============================================================
@@ -6764,7 +6711,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782446541/d25bb2d1a76c485596c4a547b6f9d0b6/bUnAASWYuk-Qn6ZK82AxjPF8Bd5rui7JTm9j6EBjqKs/fox-usa.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782452332/02e79a35f6a4498b83c7b41153316edc/Cp77oBBGp5gb0qsxA0SQfww1hyYnV5odTGf6k5jUdJA/fox-usa.m3u8",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
@@ -6834,21 +6781,21 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782446680/e0e64314a6134b7c8f9f55781b8eedf7/ABb5eUtvlvySVJgAk2wG7ziP4IktNGv93Ug_vSY0pw0/fox4k-usa.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782452358/ce969ca7a80543d6add57b5180d00aba/AWpy2NWfKgNI2ARKjT1aJY9EnwsZSzgINyD8mxWemvE/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX SPORTS 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782446773/5d53974203de4bd0b3978c6ac1ad2784/ILzNB-hB6GeMLCQDmhDiPntr6o4R7xx4JsMihvzSEwM/fusballtv1uhd-de.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782452439/410c13c271ea4b8c8d175145357d5d6f/_oBi9nw0KhKTP2EklRZCyNdBpfn9PSiCKmY1a0DEh9o/fusballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL TV UHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782446707/537f18bf553a4254b5d03001f8285f9b/Yhblsdz6O6j9OohI7UjX5oq58cr0kPrWARNpGc2i2hc/beinsportsmax-sa.m3u8",
+        "link": "https://vildid.hundredmilesperhour.uk/1782452412/67eef1038dee44c1a116059e66588bb8/gY1OCNQo72Gkt8RBD6LmoIL2NDQ3gzkUMrjDlKdomxU/beinsportsmax-sa.m3u8",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"

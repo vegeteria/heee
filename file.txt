@@ -1472,7 +1472,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
 #EXTINF:-1 tvg-id="turkiyevsusa0300foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (FOX ONE HD)
-https://vildid.hundredmilesperhour.uk/1782446541/d25bb2d1a76c485596c4a547b6f9d0b6/bUnAASWYuk-Qn6ZK82AxjPF8Bd5rui7JTm9j6EBjqKs/fox-usa.m3u8
+https://vildid.hundredmilesperhour.uk/1782452332/02e79a35f6a4498b83c7b41153316edc/Cp77oBBGp5gb0qsxA0SQfww1hyYnV5odTGf6k5jUdJA/fox-usa.m3u8
 
 #EXTINF:-1 tvg-id="turkiyevsusa0300foxonefhd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (FOX ONE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1505,13 +1505,13 @@ https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/d
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
 #EXTINF:-1 tvg-id="turkiyevsusa0300foxsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (FOX SPORTS 4K)
-https://vildid.hundredmilesperhour.uk/1782446680/e0e64314a6134b7c8f9f55781b8eedf7/ABb5eUtvlvySVJgAk2wG7ziP4IktNGv93Ug_vSY0pw0/fox4k-usa.m3u8
+https://vildid.hundredmilesperhour.uk/1782452358/ce969ca7a80543d6add57b5180d00aba/AWpy2NWfKgNI2ARKjT1aJY9EnwsZSzgINyD8mxWemvE/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="turkiyevsusa0300fussballtvuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (FUSSBALL TV UHD)
-https://vildid.hundredmilesperhour.uk/1782446773/5d53974203de4bd0b3978c6ac1ad2784/ILzNB-hB6GeMLCQDmhDiPntr6o4R7xx4JsMihvzSEwM/fusballtv1uhd-de.m3u8
+https://vildid.hundredmilesperhour.uk/1782452439/410c13c271ea4b8c8d175145357d5d6f/_oBi9nw0KhKTP2EklRZCyNdBpfn9PSiCKmY1a0DEh9o/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="turkiyevsusa0300arabiclivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (ARABIC LIVE FHD)
-https://vildid.hundredmilesperhour.uk/1782446707/537f18bf553a4254b5d03001f8285f9b/Yhblsdz6O6j9OohI7UjX5oq58cr0kPrWARNpGc2i2hc/beinsportsmax-sa.m3u8
+https://vildid.hundredmilesperhour.uk/1782452412/67eef1038dee44c1a116059e66588bb8/gY1OCNQo72Gkt8RBD6LmoIL2NDQ3gzkUMrjDlKdomxU/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 tvg-id="turkiyevsusa0300fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
