@@ -25,6 +25,7 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "FANCODE FHD",
+            "TSN SPORTS FHD",
             "SportzX F1 HD",
             "SKY SPORTS FHD",
             "DAZN ESPANOL",
@@ -44,6 +45,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FANCODE FHD",
                 "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+            },
+            {
+                "title": "TSN SPORTS FHD",
+                "logo": ""
             },
             {
                 "title": "SportzX F1 HD",
@@ -3147,6 +3152,13 @@ URL: https://spxhomelive.lol/channels/50002.json
         "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE FHD",
+        "type": "1"
+    },
+    {
+        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TSN SPORTS FHD",
         "type": "1"
     },
     {
