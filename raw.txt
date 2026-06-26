@@ -1127,11 +1127,9 @@ URL: https://spxhomelive.lol/events.json
             "TVP SPORTS FHD",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
-            "TVCG 2 FHD",
             "D Sports FHD",
             "CAZE TV FHD",
             "TOFFE BDIX (BD)",
-            "ViX MUNDIAL FHD",
             "beIN MAX FHD",
             "FAST SERVER",
             "NBC SPORTS HD",
@@ -1143,7 +1141,7 @@ URL: https://spxhomelive.lol/events.json
             "NBC UNIVERSO [USA]",
             "FOX SPORTS 4K",
             "FS1 4K LIVE",
-            "NBC UNIVERSO 4K",
+            "NBC UNIVERSO FHD",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -1200,10 +1198,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "TVCG 2 FHD",
-                "logo": ""
-            },
-            {
                 "title": "D Sports FHD",
                 "logo": ""
             },
@@ -1214,10 +1208,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TOFFE BDIX (BD)",
                 "logo": ""
-            },
-            {
-                "title": "ViX MUNDIAL FHD",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
             },
             {
                 "title": "beIN MAX FHD",
@@ -1264,7 +1254,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "NBC UNIVERSO 4K",
+                "title": "NBC UNIVERSO FHD",
                 "logo": ""
             },
             {
@@ -4141,13 +4131,6 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "0"
     },
     {
-        "api": "abf270b7b6b95ff48c65e3409f8aa3fd:0dbca83580a794c289f4448f427988a4",
-        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd",
-        "logo": "",
-        "title": "TVCG 2 FHD",
-        "type": "1"
-    },
-    {
         "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
@@ -4163,28 +4146,21 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782420013~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfZ5JmGmk77YGPec76Lfl8EP2Kfaj46SO_-bpB5hYto2URysqJhDvM09Ng-nXeGdSjktjXP91QY6tA0vkbaAFMC",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782582010~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdVvVxb57lNjL075QsFbjN-dBef_A8KVYO1bNx1thN2bq_vgwnWAvVoJdrRAxcqUfYPGRlM3rW_4Ts1liBwmacM",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
     },
     {
-        "api": "052aba8b4944541841db862526bbe6b6:b785276874581a60b8e95b668b7c0d2b",
-        "link": "https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-        "title": "ViX MUNDIAL FHD",
-        "type": "1"
-    },
-    {
         "api": "",
-        "link": "https://inproviszon.st/beinsportsmax3-sa.m3u8",
+        "link": "https://lb.xyzcloud3.xyz/bein/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJMX3nyaE1k.m3u8?txSecret=4c1f5ec6cf85ce8116d085a2ae6684c3&txTime=6A3C7689",
+        "link": "ok",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -4225,11 +4201,11 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "1"
     },
     {
-        "api": "00227cb60c7e65e68ace3d5587f509ff:fac1fcdafd096190fcab2eed88a1774a",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021313-723171-4911d9eeb23)/master_2hr.mpd?c3.ri=6a3c48a6_Q1ZYMDc_1_Q0xPVURGUk9OVA_f89d4526b464%3A0&aws.sessionId=0b9ad00b-bdd5-4153-970f-8c465e3b4036&ck=eyIwMDIyN2NiNjBjN2U2NWU2OGFjZTNkNTU4N2Y1MDlmZiI6ImZhYzFmY2RhZmQwOTYxOTBmY2FiMmVlZDg4YTE3NzRhIn0%3D",
+        "api": "",
+        "link": "ok",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "1"
+        "type": "0"
     },
     {
         "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
@@ -4240,23 +4216,23 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8|referer=https://xyzstreams.shop/",
+        "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "FOX SPORTS 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox-sports-1-4k.m3u8",
+        "link": "ok",
         "logo": "",
         "title": "FS1 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/tele4k2/index.m3u8|referer=https://xyzstreams.shop/",
+        "link": "https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
-        "title": "NBC UNIVERSO 4K",
+        "title": "NBC UNIVERSO FHD",
         "type": "0"
     },
     {
@@ -4282,7 +4258,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://karim-xjhr-eu-20260624.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8|referer=https://www.kooratlyad33.site/",
+        "link": "ok",
         "logo": "",
         "title": "ARABIC LIVE HD",
         "type": "0"

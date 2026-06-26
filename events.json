@@ -1275,17 +1275,6 @@
         "cookie": ""
     },
     {
-        "name": "Senegal vs Iraq (TVCG 2 FHD)",
-        "link": "https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "abf270b7b6b95ff48c65e3409f8aa3fd:0dbca83580a794c289f4448f427988a4"
-    },
-    {
         "name": "Senegal vs Iraq (D Sports FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1309,7 +1298,7 @@
     },
     {
         "name": "Senegal vs Iraq (TOFFE BDIX (BD))",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782420013~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfZ5JmGmk77YGPec76Lfl8EP2Kfaj46SO_-bpB5hYto2URysqJhDvM09Ng-nXeGdSjktjXP91QY6tA0vkbaAFMC",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782582010~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdVvVxb57lNjL075QsFbjN-dBef_A8KVYO1bNx1thN2bq_vgwnWAvVoJdrRAxcqUfYPGRlM3rW_4Ts1liBwmacM",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1317,28 +1306,17 @@
         "cookie": ""
     },
     {
-        "name": "Senegal vs Iraq (ViX MUNDIAL FHD)",
-        "link": "https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "052aba8b4944541841db862526bbe6b6:b785276874581a60b8e95b668b7c0d2b"
-    },
-    {
         "name": "Senegal vs Iraq (beIN MAX FHD)",
-        "link": "https://inproviszon.st/beinsportsmax3-sa.m3u8",
+        "link": "https://lb.xyzcloud3.xyz/bein/index.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "Senegal vs Iraq (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJMX3nyaE1k.m3u8?txSecret=4c1f5ec6cf85ce8116d085a2ae6684c3&txTime=6A3C7689",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1400,14 +1378,12 @@
     },
     {
         "name": "Senegal vs Iraq (PEACOCK FHD [ALT])",
-        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021313-723171-4911d9eeb23)/master_2hr.mpd?c3.ri=6a3c48a6_Q1ZYMDc_1_Q0xPVURGUk9OVA_f89d4526b464%3A0&aws.sessionId=0b9ad00b-bdd5-4153-970f-8c465e3b4036&ck=eyIwMDIyN2NiNjBjN2U2NWU2OGFjZTNkNTU4N2Y1MDlmZiI6ImZhYzFmY2RhZmQwOTYxOTBmY2FiMmVlZDg4YTE3NzRhIn0%3D",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "00227cb60c7e65e68ace3d5587f509ff:fac1fcdafd096190fcab2eed88a1774a"
+        "cookie": ""
     },
     {
         "name": "Senegal vs Iraq (NBC UNIVERSO [USA])",
@@ -1422,16 +1398,16 @@
     },
     {
         "name": "Senegal vs Iraq (FOX SPORTS 4K)",
-        "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8",
+        "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
-        "referrer": "https://xyzstreams.shop/",
+        "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "Senegal vs Iraq (FS1 4K LIVE)",
-        "link": "https://inproviszon.st/fox-sports-1-4k.m3u8",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1439,11 +1415,11 @@
         "cookie": ""
     },
     {
-        "name": "Senegal vs Iraq (NBC UNIVERSO 4K)",
-        "link": "https://lb.xyzcloud3.xyz/tele4k2/index.m3u8",
+        "name": "Senegal vs Iraq (NBC UNIVERSO FHD)",
+        "link": "https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://xyzstreams.shop/",
+        "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1480,10 +1456,10 @@
     },
     {
         "name": "Senegal vs Iraq (ARABIC LIVE HD)",
-        "link": "https://karim-xjhr-eu-20260624.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://www.kooratlyad33.site/",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
