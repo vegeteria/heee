@@ -11,15 +11,13 @@
         "drmLicense": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
     },
     {
-        "name": "Formula 1 (beIN SPORTS FHD)",
-        "link": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
+        "name": "Formula 1 (SportzX F1 HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48"
+        "cookie": ""
     },
     {
         "name": "Formula 1 (SKY SPORTS DE)",
@@ -31,15 +29,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9"
-    },
-    {
-        "name": "Formula 1 (SportzX F1 HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "Formula 1 (SKY GERMAN FHD)",

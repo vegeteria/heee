@@ -25,9 +25,8 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "FANCODE FHD",
-            "beIN SPORTS FHD",
-            "SKY SPORTS DE",
             "SportzX F1 HD",
+            "SKY SPORTS DE",
             "SKY GERMAN FHD",
             "Tipik FRANCE FHD",
             "SKY SPORTS FHD",
@@ -46,16 +45,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
             },
             {
-                "title": "beIN SPORTS FHD",
+                "title": "SportzX F1 HD",
                 "logo": ""
             },
             {
                 "title": "SKY SPORTS DE",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            },
-            {
-                "title": "SportzX F1 HD",
-                "logo": ""
             },
             {
                 "title": "SKY GERMAN FHD",
@@ -124,6 +119,7 @@ URL: https://spxhomelive.lol/events.json
             "SPOTV FHD",
             "FANCODE FHD",
             "TNT Sports FHD",
+            "MotoGP Italy",
             "MotoGP FHD",
             "TNT SPORTS SD",
             "SportzX Live",
@@ -143,6 +139,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TNT Sports FHD",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+            },
+            {
+                "title": "MotoGP Italy",
+                "logo": ""
             },
             {
                 "title": "MotoGP FHD",
@@ -2728,11 +2728,11 @@ URL: https://spxhomelive.lol/channels/50002.json
         "type": "1"
     },
     {
-        "api": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48",
-        "link": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "beIN SPORTS FHD",
-        "type": "1"
+        "title": "SportzX F1 HD",
+        "type": "0"
     },
     {
         "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
@@ -2740,13 +2740,6 @@ URL: https://spxhomelive.lol/channels/50002.json
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS DE",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX F1 HD",
-        "type": "0"
     },
     {
         "api": "ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b",
