@@ -1345,6 +1345,9 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Paraguay vs Australia 03:00 (FOX ONE HD)
+https://vildid.hundredmilesperhour.uk/1782446828/93188c43a8ac475e9784f20d18b00447/D_M9fgpj2Jpus-gbInpMePu2zsOzLty3krrCxJhBLh0/fox-sports-1.m3u8
+
 #EXTINF:-1 tvg-id="paraguayvsaustralia0300tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Paraguay vs Australia 03:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
@@ -1374,6 +1377,15 @@ https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Paraguay vs Australia 03:00 (FOX 4K LIVE)
+https://vildid.hundredmilesperhour.uk/1782446856/afabb3a80ebd4294b398cbf5ad05f025/SzWb1AlwtmUIeyAoOu5REXAxc-q0cyQRqBMH4c0jnHY/fox-sports-1-4k.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300fussballtvuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Paraguay vs Australia 03:00 (FUSSBALL TV UHD)
+https://vildid.hundredmilesperhour.uk/1782446949/a22a07b90091442bb20f17e35a498b9e/1VXwgVz5Rgr5GzuVVus8pun98FfawBkC81hiUpM9D9U/fusballtv2uhd-de.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300arabiclivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Paraguay vs Australia 03:00 (ARABIC LIVE FHD)
+https://vildid.hundredmilesperhour.uk/1782446903/1beed48f2a4c4b78b46076945511666e/HgWb_GYVtehfISquyRhQw_YN7l_eQwJFduVblP7Xsls/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 tvg-id="paraguayvsaustralia0300fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Paraguay vs Australia 03:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1494,6 +1506,12 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 
 #EXTINF:-1 tvg-id="turkiyevsusa0300foxsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (FOX SPORTS 4K)
 https://vildid.hundredmilesperhour.uk/1782446680/e0e64314a6134b7c8f9f55781b8eedf7/ABb5eUtvlvySVJgAk2wG7ziP4IktNGv93Ug_vSY0pw0/fox4k-usa.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300fussballtvuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (FUSSBALL TV UHD)
+https://vildid.hundredmilesperhour.uk/1782446773/5d53974203de4bd0b3978c6ac1ad2784/ILzNB-hB6GeMLCQDmhDiPntr6o4R7xx4JsMihvzSEwM/fusballtv1uhd-de.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300arabiclivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (ARABIC LIVE FHD)
+https://vildid.hundredmilesperhour.uk/1782446707/537f18bf553a4254b5d03001f8285f9b/Yhblsdz6O6j9OohI7UjX5oq58cr0kPrWARNpGc2i2hc/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 tvg-id="turkiyevsusa0300fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Turkiye vs USA 03:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

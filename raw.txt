@@ -2861,7 +2861,7 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "ITV SPORTS FHD",
-            "ITV SPORTS HD",
+            "FOX SPORTS HD",
             "TSN SPORTS FHD",
             "FOX SPORTS HD",
             "TIPIK FR FHD",
@@ -2881,11 +2881,12 @@ URL: https://spxhomelive.lol/events.json
             "ITV 1 FHD [ALT]",
             "PEACOCK FHD [ALT]",
             "UNIVERSEO [USA]",
-            "FOX ONE 4K",
+            "FOX 4K LIVE",
+            "FUSSBALL TV UHD",
+            "ARABIC LIVE FHD",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
-            "ARABIC LIVE FHD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
             "SportzX Live",
@@ -2911,8 +2912,8 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
             },
             {
-                "title": "ITV SPORTS HD",
-                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+                "title": "FOX SPORTS HD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "TSN SPORTS FHD",
@@ -2991,7 +2992,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
-                "title": "FOX ONE 4K",
+                "title": "FOX 4K LIVE",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL TV UHD",
+                "logo": ""
+            },
+            {
+                "title": "ARABIC LIVE FHD",
                 "logo": ""
             },
             {
@@ -3004,10 +3013,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "IRIB 4K",
-                "logo": ""
-            },
-            {
-                "title": "ARABIC LIVE FHD",
                 "logo": ""
             },
             {
@@ -3123,10 +3128,11 @@ URL: https://spxhomelive.lol/events.json
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [ALT]",
             "FOX SPORTS 4K",
+            "FUSSBALL TV UHD",
+            "ARABIC LIVE FHD",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
-            "ARABIC LIVE FHD",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "SportzX Live",
@@ -3228,6 +3234,14 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "FUSSBALL TV UHD",
+                "logo": ""
+            },
+            {
+                "title": "ARABIC LIVE FHD",
+                "logo": ""
+            },
+            {
                 "title": "FUSSBALL TV 4K",
                 "logo": ""
             },
@@ -3237,10 +3251,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "IRIB 4K",
-                "logo": ""
-            },
-            {
-                "title": "ARABIC LIVE FHD",
                 "logo": ""
             },
             {
@@ -6579,9 +6589,9 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52461/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "title": "ITV SPORTS HD",
+        "link": "https://chatgpt.hereisman.net/playlist/52543/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS HD",
         "type": "0"
     },
     {
@@ -6649,7 +6659,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446828/93188c43a8ac475e9784f20d18b00447/D_M9fgpj2Jpus-gbInpMePu2zsOzLty3krrCxJhBLh0/fox-sports-1.m3u8",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
@@ -6719,9 +6729,23 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446856/afabb3a80ebd4294b398cbf5ad05f025/SzWb1AlwtmUIeyAoOu5REXAxc-q0cyQRqBMH4c0jnHY/fox-sports-1-4k.m3u8",
         "logo": "",
-        "title": "FOX ONE 4K",
+        "title": "FOX 4K LIVE",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446949/a22a07b90091442bb20f17e35a498b9e/1VXwgVz5Rgr5GzuVVus8pun98FfawBkC81hiUpM9D9U/fusballtv2uhd-de.m3u8",
+        "logo": "",
+        "title": "FUSSBALL TV UHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446903/1beed48f2a4c4b78b46076945511666e/HgWb_GYVtehfISquyRhQw_YN7l_eQwJFduVblP7Xsls/beinsportsmax-sa.m3u8",
+        "logo": "",
+        "title": "ARABIC LIVE FHD",
         "type": "0"
     },
     {
@@ -6747,21 +6771,14 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "ok",
-        "logo": "",
-        "title": "ARABIC LIVE FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52457/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52546/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52457/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52543/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
@@ -7025,6 +7042,20 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446773/5d53974203de4bd0b3978c6ac1ad2784/ILzNB-hB6GeMLCQDmhDiPntr6o4R7xx4JsMihvzSEwM/fusballtv1uhd-de.m3u8",
+        "logo": "",
+        "title": "FUSSBALL TV UHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446707/537f18bf553a4254b5d03001f8285f9b/Yhblsdz6O6j9OohI7UjX5oq58cr0kPrWARNpGc2i2hc/beinsportsmax-sa.m3u8",
+        "logo": "",
+        "title": "ARABIC LIVE FHD",
+        "type": "0"
+    },
+    {
         "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "",
@@ -7043,13 +7074,6 @@ URL: https://spxhomelive.lol/channels/50072.json
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "logo": "",
         "title": "IRIB 4K",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "ok",
-        "logo": "",
-        "title": "ARABIC LIVE FHD",
         "type": "0"
     },
     {

@@ -4380,9 +4380,9 @@
         "drmLicense": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
     },
     {
-        "name": "Paraguay vs Australia (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52461/load-playlist?",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "name": "Paraguay vs Australia (FOX SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52543/load-playlist?",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -4485,7 +4485,7 @@
     },
     {
         "name": "Paraguay vs Australia (FOX ONE HD)",
-        "link": "ok",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446828/93188c43a8ac475e9784f20d18b00447/D_M9fgpj2Jpus-gbInpMePu2zsOzLty3krrCxJhBLh0/fox-sports-1.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -4586,8 +4586,26 @@
         "drmLicense": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
     },
     {
-        "name": "Paraguay vs Australia (FOX ONE 4K)",
-        "link": "ok",
+        "name": "Paraguay vs Australia (FOX 4K LIVE)",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446856/afabb3a80ebd4294b398cbf5ad05f025/SzWb1AlwtmUIeyAoOu5REXAxc-q0cyQRqBMH4c0jnHY/fox-sports-1-4k.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Paraguay vs Australia (FUSSBALL TV UHD)",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446949/a22a07b90091442bb20f17e35a498b9e/1VXwgVz5Rgr5GzuVVus8pun98FfawBkC81hiUpM9D9U/fusballtv2uhd-de.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Paraguay vs Australia (ARABIC LIVE FHD)",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446903/1beed48f2a4c4b78b46076945511666e/HgWb_GYVtehfISquyRhQw_YN7l_eQwJFduVblP7Xsls/beinsportsmax-sa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -4626,17 +4644,8 @@
         "cookie": ""
     },
     {
-        "name": "Paraguay vs Australia (ARABIC LIVE FHD)",
-        "link": "ok",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Paraguay vs Australia (TSN SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52457/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52546/load-playlist?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -4645,7 +4654,7 @@
     },
     {
         "name": "Paraguay vs Australia (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52457/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52543/load-playlist?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -5015,6 +5024,24 @@
         "cookie": ""
     },
     {
+        "name": "Turkiye vs USA (FUSSBALL TV UHD)",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446773/5d53974203de4bd0b3978c6ac1ad2784/ILzNB-hB6GeMLCQDmhDiPntr6o4R7xx4JsMihvzSEwM/fusballtv1uhd-de.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Turkiye vs USA (ARABIC LIVE FHD)",
+        "link": "https://vildid.hundredmilesperhour.uk/1782446707/537f18bf553a4254b5d03001f8285f9b/Yhblsdz6O6j9OohI7UjX5oq58cr0kPrWARNpGc2i2hc/beinsportsmax-sa.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Turkiye vs USA (FUSSBALL TV 4K)",
         "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -5039,15 +5066,6 @@
     {
         "name": "Turkiye vs USA (IRIB 4K)",
         "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Turkiye vs USA (ARABIC LIVE FHD)",
-        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
