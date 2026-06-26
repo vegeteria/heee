@@ -151,13 +151,13 @@ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Liv
 
 #EXTINF:-1 tvg-id="srilankawvsscotlandw1830willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Sri Lanka W vs Scotland W 18:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd
 
 #EXTINF:-1 tvg-id="srilankawvsscotlandw1830willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Sri Lanka W vs Scotland W 18:30 (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd
 
 #EXTINF:-1 tvg-id="srilankawvsscotlandw1830skysportnz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Cricket",Sri Lanka W vs Scotland W 18:30 (SKY SPORT NZ)
 https://tmaxapp.site/skynz3.m3u8
@@ -309,6 +309,9 @@ https://lb.xyzcloud3.xyz/fox4k/index.m3u8
 
 #EXTINF:-1 tvg-id="norwayvsfrance2000fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Norway vs France 20:00 (FOX 4K LIVE)
 https://vildid.hundredmilesperhour.uk/1782505282/88571e4fbc86415ba51d9e015dac65f4/LlpU_-tWIkhQkTG5Vtd4IGHun5C2JXu0ZmRjM1dv2Eo/fox4k-usa.m3u8
+
+#EXTINF:-1 tvg-id="norwayvsfrance2000fussball4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Norway vs France 20:00 (FUSSBALL 4K LIVE)
+https://vildid.hundredmilesperhour.uk/1782505729/f91631f4804e40918a34d6c22a2b425d/vzZrEt9bl3albPVR5vLtvFGGN-vUrPy08HJwPJ0ecKc/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="norwayvsfrance2000fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Norway vs France 20:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
