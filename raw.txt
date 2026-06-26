@@ -124,10 +124,11 @@ URL: https://spxhomelive.lol/events.json
             "SPOTV FHD",
             "FANCODE FHD",
             "TNT Sports FHD",
+            "MotoGP FHD",
             "TNT SPORTS SD",
+            "SportzX Live",
             "DAZN SPORTS",
             "CANAL+ HD",
-            "MotoGP FHD",
             "MotoGP FHD [ALT]"
         ],
         "formatsNew": [
@@ -144,8 +145,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
             },
             {
+                "title": "MotoGP FHD",
+                "logo": "https://img.sofascore.com/api/v1/category/1325/image"
+            },
+            {
                 "title": "TNT SPORTS SD",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+            },
+            {
+                "title": "SportzX Live",
+                "logo": ""
             },
             {
                 "title": "DAZN SPORTS",
@@ -154,10 +163,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CANAL+ HD",
                 "logo": ""
-            },
-            {
-                "title": "MotoGP FHD",
-                "logo": "https://img.sofascore.com/api/v1/category/1325/image"
             },
             {
                 "title": "MotoGP FHD [ALT]",
@@ -2717,7 +2722,7 @@ URL: https://spxhomelive.lol/channels/50002.json
 [
     {
         "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE FHD",
         "type": "1"
