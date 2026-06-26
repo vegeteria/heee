@@ -520,8 +520,8 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/62qdkefv9f/out/v
 
 #EXTINF:-1 tvg-id="uruguayvsspain0100dsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Uruguay vs Spain 01:00 (D Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
 #EXTINF:-1 tvg-id="uruguayvsspain0100cazetvfhd" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="Fifa world cup",Uruguay vs Spain 01:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
