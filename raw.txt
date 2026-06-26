@@ -121,9 +121,9 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "11",
         "publish": "1",
         "formats": [
+            "SPOTV FHD",
             "FANCODE FHD",
             "TNT Sports FHD",
-            "SPO TV - AQ",
             "TNT SPORTS SD",
             "DAZN SPORTS",
             "CANAL+ HD",
@@ -132,16 +132,16 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
+                "title": "SPOTV FHD",
+                "logo": "https://app.ksmctv.com/Content/MCTV/Image/Channel/31-SPOTV__2.png"
+            },
+            {
                 "title": "FANCODE FHD",
                 "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
             },
             {
                 "title": "TNT Sports FHD",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-            },
-            {
-                "title": "SPO TV - AQ",
-                "logo": ""
             },
             {
                 "title": "TNT SPORTS SD",
