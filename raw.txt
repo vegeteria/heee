@@ -537,14 +537,9 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX LIVE"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX LIVE",
                 "logo": ""
@@ -570,14 +565,9 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -603,14 +593,9 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -636,14 +621,9 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -669,14 +649,9 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX Live"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -3527,14 +3502,7 @@ URL: https://spxhomelive.lol/channels/50032.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52525/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX LIVE",
         "type": "0"
@@ -3547,14 +3515,7 @@ URL: https://spxhomelive.lol/channels/50033.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52529/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -3567,14 +3528,7 @@ URL: https://spxhomelive.lol/channels/50034.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52532/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -3587,14 +3541,7 @@ URL: https://spxhomelive.lol/channels/50052.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52531/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -3607,14 +3554,7 @@ URL: https://spxhomelive.lol/channels/50053.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52536/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -6468,7 +6408,8 @@ URL: https://spxhomelive.lol/channels/50077.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX MLB",
         "type": "0"
     }
@@ -6480,7 +6421,8 @@ URL: https://spxhomelive.lol/channels/50078.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX MLB",
         "type": "0"
     }
@@ -6492,7 +6434,8 @@ URL: https://spxhomelive.lol/channels/50079.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX MLB",
         "type": "0"
     }
@@ -6504,7 +6447,8 @@ URL: https://spxhomelive.lol/channels/50080.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX MLB",
         "type": "0"
     }
@@ -6516,7 +6460,8 @@ URL: https://spxhomelive.lol/channels/50081.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX MLB",
         "type": "0"
     }
@@ -6528,7 +6473,8 @@ URL: https://spxhomelive.lol/channels/50082.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX MLB",
         "type": "0"
     }
