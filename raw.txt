@@ -3596,7 +3596,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782525555/fa0bebc4b6544e0687a1936b1398f7f5/wTVG0Q97PTl5ZXVyK14ljWOqmOIYg_D5cTADMLT0QPs/fox-sports-1.m3u8",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782531233/1633c7f38fe041e1ab509ff481048302/MeDXHT0V0EASrsGdY8utPXlgB3Z84KThGzIgygb9hIU/fox-sports-1.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
@@ -3638,7 +3638,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782525638/576aeb9206524a18a90fa837b6d63a3d/CFkylaLto-xN0ZZ5PjKoCVmux35uiK7ZGF869ppQ8ho/beinsportsmax3-sa.m3u8",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782531286/a09b8c48da0849d28d61b9d0b5be7ee7/sJ4NkUCIuTiOSWg8VZHnohlmdWA_0uDRJfQyPTyl2_o/beinsportsmax3-sa.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
@@ -3715,7 +3715,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782526695/c2154148e64b48d98111c589d2857a11/DrOTE81FPGhNuvZZ1Z3LsG0RGRb1eeXfsyBiZjtFbpk/fox-sports-1-4k.m3u8",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782531267/7bae0b6204864cdaae539f9e19303d0c/-f5P4kWU7IfUXRQ_CZlTIjPS15RAbJZRJctPjV2k8k8/fox-sports-1-4k.m3u8",
         "logo": "",
         "title": "FS1 4K LIVE",
         "type": "0"
