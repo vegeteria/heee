@@ -2299,7 +2299,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX 4K LIVE",
             "TSN SPORTS 4K",
             "FUSSBALL TV 4K",
-            "NBC SPORTS FHD",
+            "TELEMUNDO FHD",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -2423,7 +2423,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "NBC SPORTS FHD",
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
@@ -5790,7 +5790,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1782613217~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdm0p8VN5a1VjwYaIM7zc4xVpMds-AZxv0CbjeE-Z3VZBmeq_tEiiN8qFoco28Cf23h2modnnQYvi3wxWVg-4oH",
         "logo": "",
         "title": "TOFFEE BD FHD",
         "type": "0"
@@ -6132,7 +6132,7 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536732/8fb66a1a5272484f90a1e0a966624df7/WhSaOzFXrHtee4SlZYhnJ1utfCK0_8m_t6NS-s6w7qM/fox-usa.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
@@ -6153,7 +6153,7 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536853/35e6f007a05a4fd78e7d28cac5005b01/gc-Q8aOIoPBaeD9yhEJMu0WqLihmaFg8-XxVHNoZB7g/beinsportsmax2-sa.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
@@ -6216,7 +6216,7 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536772/3bb069f59a41431d8dca06601cb34f29/Q4VkVbnO7OBslbV8BCq9etSF5ukha-JxjMdfXtj1g-E/fox4k-usa.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX 4K LIVE",
         "type": "0"
@@ -6230,16 +6230,16 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536805/3e75f19e9eb44e6cb982c412a372500c/VU899Ury879b2c-bxkfyo4zP50XUGiAXPFVUBcGCY4g/fusballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL TV 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536820/f09f9287b56847f193dabb4602442bf8/0yeIxjz4Tuh59m4PC1mCb6M5eYF6ep56hkuwvvRiU0I/telemundo-usa.m3u8",
         "logo": "",
-        "title": "NBC SPORTS FHD",
+        "title": "TELEMUNDO FHD",
         "type": "0"
     },
     {
