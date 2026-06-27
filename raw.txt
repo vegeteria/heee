@@ -636,11 +636,11 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "10",
         "publish": "1",
         "formats": [
-            "FIFA"
+            "HD SERVER"
         ],
         "formatsNew": [
             {
-                "title": "FIFA",
+                "title": "HD SERVER",
                 "logo": ""
             }
         ]
