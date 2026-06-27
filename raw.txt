@@ -617,6 +617,35 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50019,
+        "title": "Zayas vs Boots",
+        "image": "o",
+        "cat": "Boxing",
+        "eventInfo": {
+            "teamA": "X. Zayas",
+            "teamB": "J. Ennis",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/1076154/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/937814/image",
+            "eventName": "Xander Zayas vs Jaron Ennis",
+            "eventType": "null",
+            "eventBanner": "https://iili.io/CRCunAG.png",
+            "isHot": "0",
+            "startTime": "2026/06/27 22:00:00 +0000",
+            "endTime": "2026/06/28 03:30:00 +0000"
+        },
+        "adsLimit": "10",
+        "publish": "1",
+        "formats": [
+            "FIFA"
+        ],
+        "formatsNew": [
+            {
+                "title": "FIFA",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50023,
         "title": "WWE Night of Champions",
         "image": "o",
