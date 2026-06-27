@@ -639,6 +639,8 @@ URL: https://spxhomelive.lol/events.json
             "SportzX WWE",
             "WWE LIVE HD",
             "ESPN+ HD",
+            "HD SERVER",
+            "HD SERVER 2",
             "HD Quality",
             "WWE Live HD+"
         ],
@@ -653,6 +655,14 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPN+ HD",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER 2",
                 "logo": ""
             },
             {
