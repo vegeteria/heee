@@ -74,11 +74,57 @@
         ]
     },
     {
+        "event_name": "Zimbabwe vs Bangladesh",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/187745/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "start_time_gmt": "2026-06-28 07:30:00 +0000",
+        "end_time_gmt": "2026-06-28 15:30:00 +0000",
+        "group-title": "Cricket",
+        "streams": [
+            {
+                "web_view_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bd6zyslqrn/out/v1/ac547d11db5347a6bbd80e6fe23aaa22/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "0bcfafbaa2f575577a90d27aa962a214:2b30c9efb2bcd047db14438d49ab800e",
+                "channel_title": "WILLOW FHD"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+                "clearkey": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
+                "channel_title": "TNT SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+                "clearkey": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                "channel_title": "FANCODE FHD"
+            },
+            {
+                "web_view_url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/6cewm4wcnq/out/v1/9582c14dc2564f7ba8b16a658e6c2ed7/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "8a5ac34c1bacf0bd4546280e7e3ac8ca:5e9032df0725dc3b74db431e70bf2358",
+                "channel_title": "WILLOW ALT"
+            },
+            {
+                "web_view_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+                "clearkey": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                "channel_title": "FANCODE - SD"
+            },
+            {
+                "web_view_url": "https://sila-daw.wasabih.net/wasabi-kayo/jo74ryszmcvd1pzmbzp50q84a/manifest.mpd",
+                "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+                "clearkey": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
+                "channel_title": "FOX CRICKET"
+            }
+        ]
+    },
+    {
         "event_name": "Ireland vs India",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/187766/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "start_time_gmt": "2026-06-26 12:30:00 +0000",
-        "end_time_gmt": "2026-06-26 16:15:00 +0000",
+        "start_time_gmt": "2026-06-28 12:30:00 +0000",
+        "end_time_gmt": "2026-06-28 16:15:00 +0000",
         "group-title": "Cricket",
         "streams": [
             {

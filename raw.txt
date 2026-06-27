@@ -304,6 +304,79 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50007,
+        "title": "Zimbabwe vs Bangladesh",
+        "image": "o",
+        "cat": "Cricket",
+        "eventInfo": {
+            "teamA": "ZIM",
+            "teamB": "BAN",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+            "eventName": "Zimbabwe vs Bangladesh",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/28 07:30:00 +0000",
+            "endTime": "2026/06/28 15:30:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "WILLOW FHD",
+            "TNT SPORTS FHD",
+            "FANCODE FHD",
+            "WILLOW ALT",
+            "FANCODE - SD",
+            "FOX CRICKET",
+            "T SPORTS - AQ",
+            "FOX CRICKET HD",
+            "TAPMAD FHD",
+            "T SPORTS HD"
+        ],
+        "formatsNew": [
+            {
+                "title": "WILLOW FHD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "TNT SPORTS FHD",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+            },
+            {
+                "title": "FANCODE FHD",
+                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+            },
+            {
+                "title": "WILLOW ALT",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "FANCODE - SD",
+                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+            },
+            {
+                "title": "FOX CRICKET",
+                "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "title": "T SPORTS - AQ",
+                "logo": ""
+            },
+            {
+                "title": "FOX CRICKET HD",
+                "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "title": "TAPMAD FHD",
+                "logo": ""
+            },
+            {
+                "title": "T SPORTS HD",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50008,
         "title": "Ireland vs India",
         "image": "o",
@@ -317,8 +390,8 @@ URL: https://spxhomelive.lol/events.json
             "eventType": "null",
             "eventBanner": "null",
             "isHot": "0",
-            "startTime": "2026/06/26 12:30:00 +0000",
-            "endTime": "2026/06/26 16:15:00 +0000"
+            "startTime": "2026/06/28 12:30:00 +0000",
+            "endTime": "2026/06/28 16:15:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -2689,6 +2762,82 @@ URL: https://spxhomelive.lol/channels/50006.json
         "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
         "logo": "",
         "title": "BACKUP SD",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50007.json
+============================================================
+[
+    {
+        "api": "0bcfafbaa2f575577a90d27aa962a214:2b30c9efb2bcd047db14438d49ab800e",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bd6zyslqrn/out/v1/ac547d11db5347a6bbd80e6fe23aaa22/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW FHD",
+        "type": "1"
+    },
+    {
+        "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE FHD",
+        "type": "1"
+    },
+    {
+        "api": "8a5ac34c1bacf0bd4546280e7e3ac8ca:5e9032df0725dc3b74db431e70bf2358",
+        "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/6cewm4wcnq/out/v1/9582c14dc2564f7ba8b16a658e6c2ed7/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW ALT",
+        "type": "1"
+    },
+    {
+        "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE - SD",
+        "type": "1"
+    },
+    {
+        "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
+        "link": "https://sila-daw.wasabih.net/wasabi-kayo/jo74ryszmcvd1pzmbzp50q84a/manifest.mpd",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+        "title": "FOX CRICKET",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "http://starhub.pro/live/Anthony2/Anthony123/52500.ts",
+        "logo": "",
+        "title": "T SPORTS - AQ",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/foxcricket.m3u8",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+        "title": "FOX CRICKET HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://seriealeague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8",
+        "logo": "",
+        "title": "TAPMAD FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1781942066~Starts=1781855666~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=GWqDeRYBLPDd7t6O2Z6mY0kK-ZjAlsMYp9OIJMeexFfdZgY2w8e90na2LCtHxy3yIts4-nDPv33pM0nEKuzlDw",
+        "logo": "",
+        "title": "T SPORTS HD",
         "type": "0"
     }
 ]
