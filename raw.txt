@@ -1373,7 +1373,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX 4K LIVE",
             "FUSSBALL TV 4K",
             "ARABIC LIVE FHD",
-            "PEACOCK SPANISH 4K",
+            "NBC UNIVERSO FHD",
             "FUSSBALL TV1 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -1495,7 +1495,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "PEACOCK SPANISH 4K",
+                "title": "NBC UNIVERSO FHD",
                 "logo": ""
             },
             {
@@ -4018,38 +4018,38 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
-        "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
         "logo": "",
         "title": "TELEMUNDO [USA]",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782427319/7f0cdbb2f2354df8b61ad17d1a4dc960/DFpemaQuqfi74UhnmHsNhDVDKwtXr15LahAe-ZBEA7M/fox4k-usa.m3u8",
+        "link": "ok",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782427340/d51e6c6c78c442eb9dd44a449419967c/Sb0sou1ocn67_D1vcoTTN801A-HPIMIW3tM42uusXsk/fusballtv1uhd-de.m3u8",
+        "link": "ok",
         "logo": "",
         "title": "FUSSBALL TV 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782427361/0180d0bb059d48feb792a382093b6ccb/ponAdBtTyFd6uaE99J2uG63SmEfthgtN62dEuWthCzk/beinsportsmax-sa.m3u8",
+        "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://vildid.hundredmilesperhour.uk/1782427395/7c038afd9a464c5d8fd9eba0de9704fa/bvgPoSiuFD67b6_oukldCt8Jyrd1k9JFCzOLGxAOjyE/peacock-1.m3u8",
+        "link": "https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
-        "title": "PEACOCK SPANISH 4K",
+        "title": "NBC UNIVERSO FHD",
         "type": "0"
     },
     {
@@ -4096,7 +4096,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -4117,14 +4117,14 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER EN",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER AR",
         "type": "0"
