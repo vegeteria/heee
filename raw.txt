@@ -658,7 +658,7 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "WWE Night of Champions",
             "eventType": "null",
             "eventBanner": "https://iili.io/CR3SmVS.png",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/27 16:00:00 +0000",
             "endTime": "2026/06/27 20:30:00 +0000"
         },
@@ -4635,7 +4635,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782678007~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdtdV0mvPnr2ZjMIvfiKr_GZkkjfnmqI9UQF6ba9pkm4U48KgHCvxQFnXXS4W7pENAgP6dtSu834I2qGUaOkWUM",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
@@ -4977,7 +4977,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782678009~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdK-gniQODEhQ4zvjaDvsWHvk58YEf1Z3Ug2I5cK6hq-bbG5LcJqGla1xd4LacJ6lDfzb2zzxtXTwZVTS362r4D",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
