@@ -679,6 +679,54 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50059,
+        "title": "England W vs New Zealand W",
+        "image": "o",
+        "cat": "Cricket",
+        "eventInfo": {
+            "teamA": "ENG-W",
+            "teamB": "NZ-W",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+            "eventName": "England W vs New Zealand W",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/27 17:30:00 +0000",
+            "endTime": "2026/06/27 21:15:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "WILLOW FHD",
+            "WILLOW ALT",
+            "SKY SPORT NZ",
+            "WILLOW HD",
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "WILLOW FHD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "WILLOW ALT",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SKY SPORT NZ",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+            },
+            {
+                "title": "WILLOW HD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50060,
         "title": "West Indies vs Sri Lanka",
         "image": "o",
@@ -691,8 +739,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "West Indies vs Sri Lanka",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/26 14:00:00 +0000",
-            "endTime": "2026/06/26 22:00:00 +0000"
+            "startTime": "2026/06/27 14:00:00 +0000",
+            "endTime": "2026/06/27 22:00:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -739,8 +787,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "England vs New Zealand",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/26 10:00:00 +0000",
-            "endTime": "2026/06/26 18:00:00 +0000"
+            "startTime": "2026/06/27 10:00:00 +0000",
+            "endTime": "2026/06/27 18:00:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -3059,6 +3107,47 @@ URL: https://spxhomelive.lol/channels/50053.json
     {
         "api": "",
         "link": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50059.json
+============================================================
+[
+    {
+        "api": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709",
+        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW FHD",
+        "type": "1"
+    },
+    {
+        "api": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW ALT",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/skynz3.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT NZ",
+        "type": "0"
+    },
+    {
+        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW HD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/willoweng.m3u8",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"

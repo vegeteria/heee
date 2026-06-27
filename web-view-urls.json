@@ -162,11 +162,39 @@
         ]
     },
     {
+        "event_name": "England W vs New Zealand W",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/213121/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/213115/image",
+        "start_time_gmt": "2026-06-27 17:30:00 +0000",
+        "end_time_gmt": "2026-06-27 21:15:00 +0000",
+        "group-title": "Cricket",
+        "streams": [
+            {
+                "web_view_url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709",
+                "channel_title": "WILLOW FHD"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709",
+                "channel_title": "WILLOW ALT"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "channel_title": "WILLOW HD"
+            }
+        ]
+    },
+    {
         "event_name": "West Indies vs Sri Lanka",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/187760/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "start_time_gmt": "2026-06-26 14:00:00 +0000",
-        "end_time_gmt": "2026-06-26 22:00:00 +0000",
+        "start_time_gmt": "2026-06-27 14:00:00 +0000",
+        "end_time_gmt": "2026-06-27 22:00:00 +0000",
         "group-title": "Cricket",
         "streams": [
             {
@@ -193,8 +221,8 @@
         "event_name": "England vs New Zealand",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/187757/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "start_time_gmt": "2026-06-26 10:00:00 +0000",
-        "end_time_gmt": "2026-06-26 18:00:00 +0000",
+        "start_time_gmt": "2026-06-27 10:00:00 +0000",
+        "end_time_gmt": "2026-06-27 18:00:00 +0000",
         "group-title": "Cricket",
         "streams": [
             {
