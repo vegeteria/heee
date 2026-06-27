@@ -3246,6 +3246,7 @@ URL: https://spxhomelive.lol/events.json
             "CTV SPORTS FHD",
             "TIPIK FR FHD",
             "FOX SPORTS 4K",
+            "TOFFE BDIX (BD)",
             "WC TV FHD",
             "BBC SPORTS HD",
             "TSN SPORTS FHD",
@@ -3254,7 +3255,6 @@ URL: https://spxhomelive.lol/events.json
             "TVE La 1 FHD",
             "DSports FHD",
             "CAZE TV FHD",
-            "TOFFE BDIX (BD)",
             "TVP SPORTS HD",
             "TSN SPORTS HD",
             "FOX ONE HD",
@@ -3315,6 +3315,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
+                "title": "TOFFE BDIX (BD)",
+                "logo": ""
+            },
+            {
                 "title": "WC TV FHD",
                 "logo": ""
             },
@@ -3345,10 +3349,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CAZE TV FHD",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-            },
-            {
-                "title": "TOFFE BDIX (BD)",
-                "logo": ""
             },
             {
                 "title": "TVP SPORTS HD",
@@ -7764,6 +7764,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782688810~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcsGe6O5Jn9VVWP1jRpMHiO245G25dez3FwVo2fgiL9KNOwfbyI1L3MfDo3YSixq06AKPexKLm0esSu67C3NgsP",
+        "logo": "",
+        "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
         "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "logo": "",
@@ -7818,13 +7825,6 @@ URL: https://spxhomelive.lol/channels/50071.json
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "CAZE TV FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "ok",
-        "logo": "",
-        "title": "TOFFE BDIX (BD)",
-        "type": "0"
     },
     {
         "api": "0:0",
@@ -8184,7 +8184,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTwbczMb5pa.m3u8?txSecret=f2a7226a48c8bf4f97998a94665e4f6c&txTime=6A4082F0",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782688812~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdgBJcJPBifk7ytTg3C5dcZ9YNB3dvmsWmQ1KgYdg5WxWoSzvLzTBvmCxDUvEs9XSKwRwAbG-eFoej3zkeyIJAI",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
@@ -8205,7 +8205,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTwbczMb5pa.m3u8?txSecret=f2a7226a48c8bf4f97998a94665e4f6c&txTime=6A4082F0",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
