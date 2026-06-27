@@ -2158,7 +2158,7 @@
     {
         "name": "New Zealand vs Belgium (FOX SPORTS - AQ)",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ng45k16ryt/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -2189,6 +2189,15 @@
         "drmLicense": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb"
     },
     {
+        "name": "New Zealand vs Belgium (BBC SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52574/load-playlist?",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "New Zealand vs Belgium (TSN SPORTS FHD)",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -2200,11 +2209,22 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "New Zealand vs Belgium (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52574/load-playlist?",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
+        "name": "New Zealand vs Belgium (FOX ONE FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
-        "referrer": "https://gooz.aapmains.net",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+    },
+    {
+        "name": "New Zealand vs Belgium (TSN SPORTS HD)",
+        "link": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "origin": "",
+        "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -2218,17 +2238,8 @@
         "cookie": ""
     },
     {
-        "name": "New Zealand vs Belgium (TSN SPORTS HD)",
-        "link": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "origin": "",
-        "referrer": "https://xyzstreams.st/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "New Zealand vs Belgium (DSports FHD)",
-        "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "logo": "https://www.directvsports.com/__export/1674066777645/sites/dsports/arte/apps/facebook_1200x630.png",
         "origin": "",
         "referrer": "",
@@ -2338,6 +2349,17 @@
         "cookie": ""
     },
     {
+        "name": "New Zealand vs Belgium (TELEMUNDO [USA])",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
+    },
+    {
         "name": "New Zealand vs Belgium (FOX ONE 4K)",
         "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -2358,7 +2380,7 @@
     {
         "name": "New Zealand vs Belgium (TSN SPORTS 4K)",
         "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
