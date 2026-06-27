@@ -744,39 +744,39 @@
         "group-title": "Fifa world cup",
         "streams": [
             {
-                "web_view_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/3eckcsaoqz/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+                "clearkey": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
+                "channel_title": "FOX SPORTS - AQ"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-                "clearkey": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                "clearkey": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12",
+                "channel_title": "ITV SPORTS FHD"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+                "clearkey": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
                 "channel_title": "TSN SPORTS FHD"
             },
             {
-                "web_view_url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qwpvqt1435079173.png",
-                "clearkey": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
-                "channel_title": "M6 FRANCE FHD"
-            },
-            {
-                "web_view_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/91z1211657888348.png",
-                "clearkey": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-                "channel_title": "TIPIK FR FHD"
-            },
-            {
-                "web_view_url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
                 "clearkey": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
                 "channel_title": "FOX SPORTS HD"
             },
             {
-                "web_view_url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
                 "clearkey": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
                 "channel_title": "D Sports FHD"
             },
             {
-                "web_view_url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
+                "web_view_url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-                "clearkey": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
+                "clearkey": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
                 "channel_title": "CAZE TV FHD"
             },
             {
