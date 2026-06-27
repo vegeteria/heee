@@ -717,7 +717,8 @@ URL: https://spxhomelive.lol/events.json
             "SKY MAIN EVENT",
             "LOW SERVER",
             "SKY SPORT NZ",
-            "SonyLiv"
+            "SonyLiv",
+            "FOX CRICKET HD"
         ],
         "formatsNew": [
             {
@@ -747,6 +748,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "SonyLiv",
                 "logo": ""
+            },
+            {
+                "title": "FOX CRICKET HD",
+                "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
             }
         ]
     },
@@ -3396,8 +3401,8 @@ URL: https://spxhomelive.lol/channels/50061.json
 ============================================================
 [
     {
-        "api": "3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd",
+        "api": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e",
+        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
@@ -3410,8 +3415,8 @@ URL: https://spxhomelive.lol/channels/50061.json
         "type": "0"
     },
     {
-        "api": "3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd",
+        "api": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW ALT",
         "type": "1"
@@ -3439,9 +3444,16 @@ URL: https://spxhomelive.lol/channels/50061.json
     },
     {
         "api": "",
-        "link": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8?hdnea=exp=1782419410~acl=/*~id=b13c7ca22427446aa65cacff732e5bd0-1782376200191~hmac=e47f0428cfdfd2606d6fac79c58df6067ee4d0bebb80a21346dd3b73709881c1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8f27d17b66e84dc4b57e21f81b43cd6f-1782379800208",
+        "link": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bd93df851991f163df797f8a338779ce-1782552600172",
         "logo": "",
         "title": "SonyLiv",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/foxcricket.m3u8",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+        "title": "FOX CRICKET HD",
         "type": "0"
     }
 ]
