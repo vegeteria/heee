@@ -196,17 +196,25 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "15",
         "publish": "1",
         "formats": [
+            "SPX UFC+ HD",
+            "UFC+ - AQ",
             "HUB Sports FHD",
             "TNT Sports FHD",
             "PARAMOUNT+ HD",
             "PARAMOUNT+ FHD",
             "RMC SPORTS LIVE",
             "TNT SPORTS HD",
-            "SPX UFC+ HD",
-            "SportzX LIVE",
-            "UFC+ - AQ"
+            "SportzX LIVE"
         ],
         "formatsNew": [
+            {
+                "title": "SPX UFC+ HD",
+                "logo": ""
+            },
+            {
+                "title": "UFC+ - AQ",
+                "logo": ""
+            },
             {
                 "title": "HUB Sports FHD",
                 "logo": ""
@@ -229,18 +237,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TNT SPORTS HD",
-                "logo": ""
-            },
-            {
-                "title": "SPX UFC+ HD",
-                "logo": ""
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
             },
             {
                 "title": "SportzX LIVE",
-                "logo": ""
-            },
-            {
-                "title": "UFC+ - AQ",
                 "logo": ""
             }
         ]
