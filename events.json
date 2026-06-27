@@ -666,29 +666,29 @@
     },
     {
         "name": "England W vs New Zealand W (WILLOW FHD)",
-        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709"
+        "drmLicense": "5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c"
     },
     {
         "name": "England W vs New Zealand W (WILLOW ALT)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709"
+        "drmLicense": "5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c"
     },
     {
         "name": "England W vs New Zealand W (SKY SPORT NZ)",
-        "link": "https://tmaxapp.site/skynz3.m3u8",
+        "link": "https://tmaxapp.site/skynz2.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "origin": "",
         "referrer": "",
@@ -705,15 +705,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-        "name": "England W vs New Zealand W (SportzX Live)",
-        "link": "https://tmaxapp.site/willoweng.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "West Indies vs Sri Lanka (TNT Sports FHD)",

@@ -638,7 +638,8 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "SportzX WWE",
             "WWE LIVE HD",
-            "ESPN+ HD",
+            "ESPN+ ENG",
+            "ESPN+ ES",
             "HD SERVER",
             "HD SERVER 2",
             "HD Quality",
@@ -654,7 +655,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "ESPN+ HD",
+                "title": "ESPN+ ENG",
+                "logo": ""
+            },
+            {
+                "title": "ESPN+ ES",
                 "logo": ""
             },
             {
@@ -946,8 +951,7 @@ URL: https://spxhomelive.lol/events.json
             "WILLOW FHD",
             "WILLOW ALT",
             "SKY SPORT NZ",
-            "WILLOW HD",
-            "SportzX Live"
+            "WILLOW HD"
         ],
         "formatsNew": [
             {
@@ -965,10 +969,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "WILLOW HD",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
             }
         ]
     },
@@ -4111,22 +4111,22 @@ URL: https://spxhomelive.lol/channels/50059.json
 ============================================================
 [
     {
-        "api": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709",
-        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+        "api": "5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
     },
     {
-        "api": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+        "api": "5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW ALT",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://tmaxapp.site/skynz3.m3u8",
+        "link": "https://tmaxapp.site/skynz2.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORT NZ",
         "type": "0"
@@ -4137,13 +4137,6 @@ URL: https://spxhomelive.lol/channels/50059.json
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW HD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://tmaxapp.site/willoweng.m3u8",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
     }
 ]
 ============================================================
