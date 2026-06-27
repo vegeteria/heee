@@ -1916,17 +1916,6 @@
         "cookie": ""
     },
     {
-        "name": "Panama vs England (TVP SPORTS HD)",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "0:0"
-    },
-    {
         "name": "Panama vs England (DSports FHD)",
         "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
         "logo": "https://iili.io/CTbh7Gj.png",
@@ -1949,15 +1938,6 @@
         "drmLicense": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
     },
     {
-        "name": "Panama vs England (FOX ONE HD)",
-        "link": "https://vildid.hundredmilesperhour.uk/1782438863/fb3ef9b40e9940f6aef39374b5efface/ZqnARoKa63CfoZp7oIkDL8oY3U9RtND9eyFxx3umV_I/fox-usa.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "Panama vs England (TOFFE BDIX (BD))",
         "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782514813~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvd-DWx2VEtBdldcZtAf1cPwM6bwFQTpElb46GgHH5mkLFexkHIW79_fKfgMcNPQD7Skus2NEg75EZUfQiQUTkkD",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -1967,8 +1947,37 @@
         "cookie": ""
     },
     {
+        "name": "Panama vs England (TVP SPORTS HD)",
+        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0:0"
+    },
+    {
+        "name": "Panama vs England (FOX ONE HD)",
+        "link": "ok",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Panama vs England (TSN SPORTS HD)",
+        "link": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "origin": "",
+        "referrer": "https://xyzstreams.st/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Panama vs England (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8YFbNibsHY.m3u8?txSecret=175fe9323ecdf2b2493959aa4149e1b5&txTime=6A3DDF78",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1977,7 +1986,7 @@
     },
     {
         "name": "Panama vs England (beIN MAX FHD)",
-        "link": "https://vildid.hundredmilesperhour.uk/1782438463/a8e1b7c8611145b18ab13bee1f96a9cb/HISXZq9PvJMsd3zSgNJWtMz7ms1JELbGt2DTnxXTbUg/beinsportsmax3-sa.m3u8",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1986,7 +1995,7 @@
     },
     {
         "name": "Panama vs England (TELEMUNDO HD)",
-        "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?",
+        "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "https://instream.click",
         "referrer": "https://instream.click/",
@@ -1995,18 +2004,18 @@
     },
     {
         "name": "Panama vs England (TSN Sports FHD)",
-        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
         "name": "Panama vs England (FOX ONE FHD)",
-        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
