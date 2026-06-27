@@ -3194,7 +3194,8 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "SportzX MLB",
-            "SportzX Live"
+            "SportzX Live",
+            "HD SERVER"
         ],
         "formatsNew": [
             {
@@ -3203,6 +3204,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
                 "logo": ""
             }
         ]
@@ -3227,7 +3232,8 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "SportzX MLB",
-            "SportzX Live"
+            "SportzX Live",
+            "HD SERVER"
         ],
         "formatsNew": [
             {
@@ -3236,6 +3242,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
                 "logo": ""
             }
         ]
@@ -3259,11 +3269,16 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX Live"
+            "SportzX Live",
+            "HD SERVER"
         ],
         "formatsNew": [
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
                 "logo": ""
             }
         ]
@@ -3287,11 +3302,16 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX Live"
+            "SportzX Live",
+            "HD SERVER"
         ],
         "formatsNew": [
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
                 "logo": ""
             }
         ]
@@ -3315,11 +3335,16 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX Live"
+            "SportzX Live",
+            "HD SERVER"
         ],
         "formatsNew": [
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
                 "logo": ""
             }
         ]
@@ -3343,11 +3368,16 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX Live"
+            "SportzX Live",
+            "HD SERVER"
         ],
         "formatsNew": [
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
                 "logo": ""
             }
         ]
@@ -3371,11 +3401,16 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX Live"
+            "SportzX Live",
+            "HD SERVER"
         ],
         "formatsNew": [
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
                 "logo": ""
             }
         ]
@@ -6859,6 +6894,13 @@ URL: https://spxhomelive.lol/channels/50075.json
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
     }
 ]
 ============================================================
@@ -6879,6 +6921,13 @@ URL: https://spxhomelive.lol/channels/50076.json
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
     }
 ]
 ============================================================
@@ -6888,8 +6937,16 @@ URL: https://spxhomelive.lol/channels/50077.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
     }
 ]
@@ -6900,8 +6957,16 @@ URL: https://spxhomelive.lol/channels/50078.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
     }
 ]
@@ -6912,8 +6977,16 @@ URL: https://spxhomelive.lol/channels/50079.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
     }
 ]
@@ -6924,8 +6997,16 @@ URL: https://spxhomelive.lol/channels/50080.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB5/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
     }
 ]
@@ -6936,8 +7017,16 @@ URL: https://spxhomelive.lol/channels/50081.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB7/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
     }
 ]
