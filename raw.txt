@@ -617,6 +617,35 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50023,
+        "title": "WWE Night of Champions",
+        "image": "o",
+        "cat": "WWE",
+        "eventInfo": {
+            "teamA": "Night of Champions",
+            "teamB": "Night of Champions",
+            "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png",
+            "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png",
+            "eventName": "WWE Night of Champions",
+            "eventType": "null",
+            "eventBanner": "null",
+            "isHot": "0",
+            "startTime": "2026/06/27 15:00:00 +0000",
+            "endTime": "2026/06/27 20:00:00 +0000"
+        },
+        "adsLimit": "12",
+        "publish": "1",
+        "formats": [
+            "SportzX WWE"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX WWE",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50059,
         "title": "England W vs New Zealand W",
         "image": "o",
