@@ -196,21 +196,20 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "15",
         "publish": "1",
         "formats": [
-            "TNT Sports FHD",
             "PARAMOUNT+ HD",
             "UFC FIGHT PASS",
+            "SPORT CAST FHD",
             "SPX UFC+ HD",
             "UFC+ - AQ",
+            "TNT Sports FHD",
             "PARAMOUNT+ FHD",
             "RMC SPORTS LIVE",
             "TNT SPORTS HD",
-            "SportzX LIVE"
+            "SportzX LIVE",
+            "SD TV (USE VPN) ",
+            "Paramount+ WEB"
         ],
         "formatsNew": [
-            {
-                "title": "TNT Sports FHD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-            },
             {
                 "title": "PARAMOUNT+ HD",
                 "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
@@ -220,12 +219,20 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "SPORT CAST FHD",
+                "logo": ""
+            },
+            {
                 "title": "SPX UFC+ HD",
                 "logo": ""
             },
             {
                 "title": "UFC+ - AQ",
                 "logo": ""
+            },
+            {
+                "title": "TNT Sports FHD",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
             },
             {
                 "title": "PARAMOUNT+ FHD",
@@ -242,6 +249,14 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "SportzX LIVE",
                 "logo": ""
+            },
+            {
+                "title": "SD TV (USE VPN) ",
+                "logo": ""
+            },
+            {
+                "title": "Paramount+ WEB",
+                "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
             }
         ]
     },
