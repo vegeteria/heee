@@ -197,6 +197,7 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "PARAMOUNT+ HD",
+            "Paramount+ WEB",
             "UFC FIGHT PASS",
             "SPORT CAST FHD",
             "SPX UFC+ HD",
@@ -207,11 +208,16 @@ URL: https://spxhomelive.lol/events.json
             "TNT SPORTS HD",
             "SportzX LIVE",
             "SD TV (USE VPN) ",
-            "Paramount+ WEB"
+            "Paramount+ BR",
+            "Paramount ES"
         ],
         "formatsNew": [
             {
                 "title": "PARAMOUNT+ HD",
+                "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+            },
+            {
+                "title": "Paramount+ WEB",
                 "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
             },
             {
@@ -255,7 +261,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "Paramount+ WEB",
+                "title": "Paramount+ BR",
+                "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+            },
+            {
+                "title": "Paramount ES",
                 "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
             }
         ]
