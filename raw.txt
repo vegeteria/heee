@@ -864,9 +864,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX WNBA",
             "SportzX Live"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX WNBA",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -4076,7 +4081,15 @@ URL: https://spxhomelive.lol/channels/50055.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52610/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX WNBA",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     }
