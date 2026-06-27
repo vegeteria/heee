@@ -5864,11 +5864,11 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00222f75e93b7fe047c093ceb2f7dab0:1198faa7119871d93d0efcdf7603c41e",
+        "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021350-723208-4911fd37e88)/master_2hr.mpd?c3.ri=6a3f315a_Q1ZYMDc_0_Q09NQ0FTVA_9b6ec003c663%3A0&aws.sessionId=9bb5fea5-c3d2-4fb8-9cdc-4f3b4c7612f9&ck=eyIwMDIyMmY3NWU5M2I3ZmUwNDdjMDkzY2ViMmY3ZGFiMCI6IjExOThmYWE3MTE5ODcxZDkzZDBlZmNkZjc2MDNjNDFlIn0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
@@ -6033,35 +6033,35 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/TKKKQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/JJJJQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/TKKKQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/FFFFFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/TKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/RFRFRF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER  [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/TKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/JJJJQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/TKKKQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/JJJJ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
@@ -6361,35 +6361,35 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/QTKKKQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/GOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/QTKKKQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/UIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/QTKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/RFRFRF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/QTKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/RFRFRFQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/QTKKKQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/RFRFRFQQX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
