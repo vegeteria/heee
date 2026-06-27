@@ -967,11 +967,14 @@ https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v
 #KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
 https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
+#EXTINF:-1 tvg-id="newzealandvsbelgium0400tsnsportshd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (TSN SPORTS HD)
+https://nhjjhhjhjjhfjj.pages.dev/1782542347/3721be6081fc4bb9a2ac025f9a7f99aa/HbzYJRVP038shZGoU_wye4BHvv9cxLpunRgCUmTwEWo/tsn1-ca.m3u8
+
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (FOX SPORTS HD)
-https://nhjjhhjhjjhfjj.pages.dev/1782536732/8fb66a1a5272484f90a1e0a966624df7/WhSaOzFXrHtee4SlZYhnJ1utfCK0_8m_t6NS-s6w7qM/fox-usa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542312/a1846957079e41799485afa0d1ef4e63/uXOHsxclZ2EerKm2N13bKyI8_4bf614MUB4E8sCDry0/fox-usa.m3u8
 
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (beIN MAX FHD)
-https://nhjjhhjhjjhfjj.pages.dev/1782536853/35e6f007a05a4fd78e7d28cac5005b01/gc-Q8aOIoPBaeD9yhEJMu0WqLihmaFg8-XxVHNoZB7g/beinsportsmax2-sa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542366/ac435e7650914311849509163936e75d/WAZAkRNQaAPQxxfAvT1my2j200RxBZBxqk1_7dAmJno/beinsportsmax2-sa.m3u8
 
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (TSN Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -999,10 +1002,10 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400fox4klive" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (FOX 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782536772/3bb069f59a41431d8dca06601cb34f29/Q4VkVbnO7OBslbV8BCq9etSF5ukha-JxjMdfXtj1g-E/fox4k-usa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542410/81e3f7a45769483f9722659c217c932a/kXFAAoD1JjNPI5eOLIqODUK1yERYQ9Ry6_jFyZcxrTQ/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (FUSSBALL TV 4K)
-https://nhjjhhjhjjhfjj.pages.dev/1782536805/3e75f19e9eb44e6cb982c412a372500c/VU899Ury879b2c-bxkfyo4zP50XUGiAXPFVUBcGCY4g/fusballtv1uhd-de.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782542388/5b30401fff074b68bb75781ec61bfb56/fPgwkb40g5rW3MEl4Ai_ZEsm6th_k4QU6SeQoEFmsng/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400telemundofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (TELEMUNDO FHD)
 https://nhjjhhjhjjhfjj.pages.dev/1782536820/f09f9287b56847f193dabb4602442bf8/0yeIxjz4Tuh59m4PC1mCb6M5eYF6ep56hkuwvvRiU0I/telemundo-usa.m3u8
