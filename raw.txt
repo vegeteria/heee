@@ -27,7 +27,7 @@ URL: https://spxhomelive.lol/events.json
             "FANCODE FHD",
             "TSN SPORTS FHD",
             "SportzX F1 HD",
-            "SKY SPORTS FHD",
+            "APPLE TV FHD",
             "DAZN ESPANOL",
             "SKY ITALY FHD",
             "MULTI FEED",
@@ -55,7 +55,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "SKY SPORTS FHD",
+                "title": "APPLE TV FHD",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
             },
             {
@@ -2900,9 +2900,9 @@ URL: https://spxhomelive.lol/channels/50002.json
     },
     {
         "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/c23f741307e2689321d290e69d8d943d/index.m3u8?|referer=https://pushembdz.store/",
+        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/0fd4f8faa595ff8b72b4cf1aeaa818bb/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS FHD",
+        "title": "APPLE TV FHD",
         "type": "0"
     },
     {
