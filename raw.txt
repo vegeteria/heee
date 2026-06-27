@@ -3250,10 +3250,10 @@ URL: https://spxhomelive.lol/events.json
             "iScreen BD (BDIX)",
             "WC TV FHD",
             "CANAL5 FHD",
+            "TVE La 1 FHD",
             "BBC SPORTS HD",
             "TSN SPORTS FHD",
             "FOX ONE HD",
-            "TVE La 1 FHD",
             "DSports FHD",
             "CAZE TV FHD",
             "TVP SPORTS HD",
@@ -3332,6 +3332,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png"
             },
             {
+                "title": "TVE La 1 FHD",
+                "logo": ""
+            },
+            {
                 "title": "BBC SPORTS HD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
             },
@@ -3342,10 +3346,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX ONE HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "TVE La 1 FHD",
-                "logo": ""
             },
             {
                 "title": "DSports FHD",
@@ -7797,6 +7797,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
+        "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "logo": "",
+        "title": "TVE La 1 FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52626/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
@@ -7815,13 +7822,6 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE HD",
-        "type": "1"
-    },
-    {
-        "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "logo": "",
-        "title": "TVE La 1 FHD",
         "type": "1"
     },
     {
