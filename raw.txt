@@ -29,7 +29,7 @@ URL: https://spxhomelive.lol/events.json
             "APPLE TV FHD",
             "DAZN ESPANOL",
             "SKY ITALY FHD",
-            "MULTI FEED",
+            "LOW RES",
             "SKY SPORTS F1",
             "F1 GERMANY [USA]",
             "Tipik FRANCE FHD",
@@ -62,7 +62,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "MULTI FEED",
+                "title": "LOW RES",
                 "logo": ""
             },
             {
@@ -196,17 +196,21 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "15",
         "publish": "1",
         "formats": [
+            "TNT Sports FHD",
             "PARAMOUNT+ HD",
             "UFC FIGHT PASS",
             "SPX UFC+ HD",
             "UFC+ - AQ",
-            "TNT Sports FHD",
             "PARAMOUNT+ FHD",
             "RMC SPORTS LIVE",
             "TNT SPORTS HD",
             "SportzX LIVE"
         ],
         "formatsNew": [
+            {
+                "title": "TNT Sports FHD",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+            },
             {
                 "title": "PARAMOUNT+ HD",
                 "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
@@ -222,10 +226,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "UFC+ - AQ",
                 "logo": ""
-            },
-            {
-                "title": "TNT Sports FHD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
             },
             {
                 "title": "PARAMOUNT+ FHD",
@@ -2890,23 +2890,23 @@ URL: https://spxhomelive.lol/channels/50002.json
     },
     {
         "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/bbae016bb7b4268f9840a1811c507545/index.m3u8?|referer=https://pushembdz.store/",
+        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/146e8ac04ccdb2daeca7dc48607d93e1/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "",
         "title": "DAZN ESPANOL",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/fbf28db395c645bb9a171ade16e90d36/index.m3u8?|referer=https://pushembdz.store/",
+        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/356fcb5d20d2df8256767660a5f16657/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "",
         "title": "SKY ITALY FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/6870f75b27a22fdeae9dd393da742e55/index.m3u8?|referer=https://pushembdz.store/",
+        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/dcd17c5562f064139252420f2fd8f6df/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "",
-        "title": "MULTI FEED",
+        "title": "LOW RES",
         "type": "0"
     },
     {
