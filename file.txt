@@ -828,6 +828,12 @@ https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v
 #KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
 https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
+#EXTINF:-1 tvg-id="egyptvsiran0400foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Egypt vs Iran 04:00 (FOX SPORTS HD)
+https://nhjjhhjhjjhfjj.pages.dev/1782536921/e051dfaf3cdd44f6b67a480ce7274cb4/9wbkIkVxNAdiJb-_dfxC2tYjIoNjQTg5S1tAYK0fbXE/fox-sports-1.m3u8
+
+#EXTINF:-1 tvg-id="egyptvsiran0400beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Egypt vs Iran 04:00 (beIN MAX FHD)
+https://nhjjhhjhjjhfjj.pages.dev/1782536952/0376e569467d4477b2017bba0cc04b81/PifK9A2bBo47IOmsDBfKdT8aSHsnOMBNQv9aXFwneek/beinsportsmax-sa.m3u8
+
 #EXTINF:-1 tvg-id="egyptvsiran0400ctsportscz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Egypt vs Iran 04:00 (CT SPORTS CZ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -862,6 +868,12 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="egyptvsiran0400fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Egypt vs Iran 04:00 (FOX 4K LIVE)
+https://nhjjhhjhjjhfjj.pages.dev/1782536991/45f5ea3acae44221a0a7d4a1e6bc9d0a/1ESOM0Ok3ALDbqAwTHPicXb9fEpIxzp4XxMOsVVPICM/fox-sports-1-4k.m3u8
+
+#EXTINF:-1 tvg-id="egyptvsiran0400fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Egypt vs Iran 04:00 (FUSSBALL TV 4K)
+https://nhjjhhjhjjhfjj.pages.dev/1782537010/d9b52d50d1674f89b9b600ef5e7fc9df/uuPY2P2po9FjUQevi3HnsMg68WsmQrb7GFreyj1OZAg/fusballtv2uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="egyptvsiran0400fussballtv14k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Egypt vs Iran 04:00 (FUSSBALL TV1 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
