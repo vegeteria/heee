@@ -2067,7 +2067,7 @@ URL: https://spxhomelive.lol/events.json
         "formatsNew": [
             {
                 "title": "FOX SPORTS - AQ",
-                "logo": ""
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "TSN SPORTS FHD",
@@ -2275,6 +2275,7 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "FOX SPORTS - AQ",
+            "CTV SPORTS FHD",
             "FOX SPORTS HD",
             "WC TV FHD",
             "BBC SPORTS HD",
@@ -2324,6 +2325,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS - AQ",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "CTV SPORTS FHD",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png"
             },
             {
                 "title": "FOX SPORTS HD",
@@ -5723,7 +5728,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     {
         "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/3eckcsaoqz/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS - AQ",
         "type": "1"
     },
@@ -6060,6 +6065,13 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ng45k16ryt/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS - AQ",
+        "type": "1"
+    },
+    {
+        "api": "f58142cad3c596f586fb9960e506b13e:4a5194d672e94b538d3cd6a7fcd0b1aa",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eqpuae7ql0/out/v1/3ee0a774288446558a786b0d93fafa4e/cenc.mpd",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
+        "title": "CTV SPORTS FHD",
         "type": "1"
     },
     {
