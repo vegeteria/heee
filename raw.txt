@@ -628,7 +628,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png",
             "eventName": "WWE Night of Champions",
             "eventType": "null",
-            "eventBanner": "null",
+            "eventBanner": "https://iili.io/CR3SmVS.png",
             "isHot": "0",
             "startTime": "2026/06/27 15:00:00 +0000",
             "endTime": "2026/06/27 20:00:00 +0000"
