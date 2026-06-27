@@ -4773,7 +4773,7 @@
     {
         "name": "Colombia vs Portugal (CTV SPORTS FHD)",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sh9xmjbhhr/out/v1/6b4982b95f7843659ead6393341dd532/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -4793,8 +4793,19 @@
         "drmLicense": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
     },
     {
+        "name": "Colombia vs Portugal (WC TV FHD)",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb"
+    },
+    {
         "name": "Colombia vs Portugal (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52543/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52626/load-playlist?",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -4907,7 +4918,7 @@
     },
     {
         "name": "Colombia vs Portugal (beIN MAX FHD)",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609557/16f7b12d700749a58a0da0cb252465c0/IW0Yl0ePTEGksYctwOq3j8UpVC4Alwxa5Z_K7YzCCcs/beinsportsmax-sa.m3u8",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782610805/8616945c72454eb3be7b5071f253631e/jiqerUlLAqq-fXoRd34Uihh0uvu-PyGQYb9Ukk3uZa4/beinsportsmax3-sa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -4916,7 +4927,7 @@
     },
     {
         "name": "Colombia vs Portugal (FAST SERVER)",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8nVA67PS3Y.m3u8?txSecret=b02b2e8a2acd65802ac6af78389d2941&txTime=6A408278",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -5361,7 +5372,7 @@
     },
     {
         "name": "DR Congo vs Uzbekistan (TOFFE BDIX (BD))",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTwbczMb5pa.m3u8?txSecret=f2a7226a48c8bf4f97998a94665e4f6c&txTime=6A4082F0",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -5370,7 +5381,7 @@
     },
     {
         "name": "DR Congo vs Uzbekistan (FOX ONE HD)",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782610902/db5d9ae8abbd48f49f87e79c614adfe7/gc4Ekzt1QM2Kc-gOFzxEZF1PapJO76xEclQkvOPjz98/fox-sports-1.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -5479,7 +5490,16 @@
     },
     {
         "name": "DR Congo vs Uzbekistan (FOX 4K LIVE)",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782610926/159cb0a17ce8455784eb0834b051232f/ro-zVuPR7CEgmRZG73cu8ZL97FzGa2qLGZx_ejg73LA/fox-sports-1-4k.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "DR Congo vs Uzbekistan (UNIVERSO FHD)",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782611069/c6e3aa66166a4f46949169646702d12e/29WrAZdH_DGa1M59f0QZLDt6eOU9AYaSIWMi49h5YKc/universo-usa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -5488,7 +5508,7 @@
     },
     {
         "name": "DR Congo vs Uzbekistan (FUSSBALL TV UHD)",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782610939/08c7ecabde1c484b842dfc909bb4a33b/DgiZOwumZkRomTC-YnOQ41ERanHpkX8R93pI3Oert1A/fusballtv2uhd-de.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -5497,7 +5517,7 @@
     },
     {
         "name": "DR Congo vs Uzbekistan (ARABIC LIVE FHD)",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782611033/4e4f0679030c4df699de8ac8bf90cf97/APFf5E0KdgQqjnFm7uSxIyCDN0sKxWk0QI3jGlFcxpw/beinsportsmax4-sa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",

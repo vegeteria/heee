@@ -1515,7 +1515,7 @@
             },
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sh9xmjbhhr/out/v1/6b4982b95f7843659ead6393341dd532/cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
                 "clearkey": "ac59787c884c9b19e3a6219c974c2fd2:443fd36e2a294f3ce69fdb7488fdd65a",
                 "channel_title": "CTV SPORTS FHD"
             },
@@ -1524,6 +1524,12 @@
                 "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
                 "clearkey": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
                 "channel_title": "TIPIK FR FHD"
+            },
+            {
+                "web_view_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+                "channel_title": "WC TV FHD"
             },
             {
                 "web_view_url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
