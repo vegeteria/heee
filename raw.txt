@@ -3247,11 +3247,12 @@ URL: https://spxhomelive.lol/events.json
             "TIPIK FR FHD",
             "FOX SPORTS 4K",
             "TOFFE BDIX (BD)",
+            "iScreen BD (BDIX)",
             "WC TV FHD",
+            "CANAL5 FHD",
             "BBC SPORTS HD",
             "TSN SPORTS FHD",
             "FOX ONE HD",
-            "CANAL5 FHD",
             "TVE La 1 FHD",
             "DSports FHD",
             "CAZE TV FHD",
@@ -3319,8 +3320,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "iScreen BD (BDIX)",
+                "logo": ""
+            },
+            {
                 "title": "WC TV FHD",
                 "logo": ""
+            },
+            {
+                "title": "CANAL5 FHD",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png"
             },
             {
                 "title": "BBC SPORTS HD",
@@ -3333,10 +3342,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX ONE HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "CANAL5 FHD",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png"
             },
             {
                 "title": "TVE La 1 FHD",
@@ -7765,9 +7770,16 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782688810~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcsGe6O5Jn9VVWP1jRpMHiO245G25dez3FwVo2fgiL9KNOwfbyI1L3MfDo3YSixq06AKPexKLm0esSu67C3NgsP",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782676370~Starts=1782589970~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=j4LnAGENv7cWWpjaIbQXMILXDprBCQ7FvZ6pq2xfEC2Mg0O9gICITBWDz5piwUOu-RD97dggOvV4B1T574RdCg",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "iScreen BD (BDIX)",
         "type": "0"
     },
     {
@@ -7775,6 +7787,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "logo": "",
         "title": "WC TV FHD",
+        "type": "1"
+    },
+    {
+        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+        "link": "https://otte-azion.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
+        "title": "CANAL5 FHD",
         "type": "1"
     },
     {
@@ -7796,13 +7815,6 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE HD",
-        "type": "1"
-    },
-    {
-        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "link": "https://otte-azion.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
-        "title": "CANAL5 FHD",
         "type": "1"
     },
     {
