@@ -2009,7 +2009,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4766/image",
             "eventName": "Egypt vs Iran",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/27 03:00:00 +0000",
             "endTime": "2026/06/27 05:15:00 +0000"
         },
@@ -2267,7 +2267,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
             "eventName": "New Zealand vs Belgium",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/27 03:00:00 +0000",
             "endTime": "2026/06/27 05:15:00 +0000"
         },
