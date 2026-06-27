@@ -571,6 +571,12 @@ https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
+#EXTINF:-1 tvg-id="panamavsengland2200foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Panama vs England 22:00 (FOX ONE HD)
+https://nhjjhhjhjjhfjj.pages.dev/1782601830/0d1ba7d2a931430a9811b5431f45cfc5/PPfcMBa776gvmwhFFJjlWZRmM1-ZOPfOKR-mqCUnSqs/fox-usa.m3u8
+
+#EXTINF:-1 tvg-id="panamavsengland2200beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Panama vs England 22:00 (beIN MAX FHD)
+https://nhjjhhjhjjhfjj.pages.dev/1782601877/756dff3bf63242728900fab86ae5869e/CKNBZ7vok8P-_PEHmlLVipFRTbmgvi5xv8gU0s2IS38/beinsportsmax-sa.m3u8
+
 #EXTINF:-1 tvg-id="panamavsengland2200tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Panama vs England 22:00 (TSN Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
@@ -600,6 +606,12 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="panamavsengland2200fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Panama vs England 22:00 (FOX 4K LIVE)
+https://nhjjhhjhjjhfjj.pages.dev/1782601902/cbff9de94908431dbfabaf8b5fd918f1/-LWNr-pBIqQc9vTvCwn5B8wm-vO81nDw_ykIjuypWkM/fox4k-usa.m3u8
+
+#EXTINF:-1 tvg-id="panamavsengland2200fussball4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Panama vs England 22:00 (FUSSBALL 4K LIVE)
+https://nhjjhhjhjjhfjj.pages.dev/1782601955/18e0b7d861384a4ba4baaf444bbd61c5/bpgtebVHIDYI1gbSarYPxKf8_9tCMoc1jtPiHUbELMI/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="panamavsengland2200fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Panama vs England 22:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -694,6 +706,12 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
 
+#EXTINF:-1 tvg-id="croatiavsghana2200beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Croatia vs Ghana 22:00 (beIN MAX FHD)
+https://nhjjhhjhjjhfjj.pages.dev/1782602036/7dfc1555ca3d45d09ede3a9a654f2ae9/7VYDUWeDO-BC25JdXG9yPmv589Y4p9cxmusXYK2QhNM/beinsportsmax2-sa.m3u8
+
+#EXTINF:-1 tvg-id="croatiavsghana2200foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Croatia vs Ghana 22:00 (FOX ONE HD)
+https://nhjjhhjhjjhfjj.pages.dev/1782601975/160215f410d74cc59788ee9cf9af7955/IV_PGJeB9Fa1s1-MhhmH6rQiKDn8N3540z-B4NcEpEA/fox-sports-1.m3u8
+
 #EXTINF:-1 tvg-id="croatiavsghana2200foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Croatia vs Ghana 22:00 (FOX SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
@@ -718,6 +736,12 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="croatiavsghana2200fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Croatia vs Ghana 22:00 (FOX 4K LIVE)
+https://nhjjhhjhjjhfjj.pages.dev/1782602000/e7652bd4c66c463881a72f2d759c92c7/igC-o6M5N59CJrj5SlJG8Pn6C30WjrcTkQJwyrfUSm0/fox-sports-1-4k.m3u8
+
+#EXTINF:-1 tvg-id="croatiavsghana2200fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Croatia vs Ghana 22:00 (FUSSBALL TV 4K)
+https://nhjjhhjhjjhfjj.pages.dev/1782602051/562f1940283b4d15a6d7833dc82e64fc/_C6F5nvfDjwHAHcH528h_4orYqWqWNzVU149pbhQXzs/fusballtv2uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="croatiavsghana2200fussballtv14k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Croatia vs Ghana 22:00 (FUSSBALL TV1 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
