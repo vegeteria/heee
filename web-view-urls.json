@@ -1774,5 +1774,27 @@
                 "channel_title": "Willow HD"
             }
         ]
+    },
+    {
+        "event_name": "West Indies W vs Ireland W",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/213120/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/213116/image",
+        "start_time_gmt": "2026-06-27 13:30:00 +0000",
+        "end_time_gmt": "2026-06-27 17:15:00 +0000",
+        "group-title": "Cricket",
+        "streams": [
+            {
+                "web_view_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a",
+                "channel_title": "WILLOW - AQ"
+            },
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a",
+                "channel_title": "WILLOW ALT"
+            }
+        ]
     }
 ]
