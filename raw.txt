@@ -637,7 +637,9 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "SportzX WWE",
-            "ESPN+ FHD"
+            "ESPN+ FHD",
+            "HD Quality ",
+            "WWE Live HD+"
         ],
         "formatsNew": [
             {
@@ -646,6 +648,14 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPN+ FHD",
+                "logo": ""
+            },
+            {
+                "title": "HD Quality ",
+                "logo": ""
+            },
+            {
+                "title": "WWE Live HD+",
                 "logo": ""
             }
         ]
