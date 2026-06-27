@@ -180,20 +180,20 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="englandwvsnewzealandw1830willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England W vs New Zealand W 18:30 (WILLOW FHD)
+#EXTINF:-1 tvg-id="australiawvsindiaw1430willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Australia W vs India W 14:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd
 
-#EXTINF:-1 tvg-id="englandwvsnewzealandw1830willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England W vs New Zealand W 18:30 (WILLOW ALT)
+#EXTINF:-1 tvg-id="australiawvsindiaw1430willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Australia W vs India W 14:30 (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd
 
-#EXTINF:-1 tvg-id="englandwvsnewzealandw1830skysportnz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Cricket",England W vs New Zealand W 18:30 (SKY SPORT NZ)
+#EXTINF:-1 tvg-id="australiawvsindiaw1430skysportnz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Cricket",Australia W vs India W 14:30 (SKY SPORT NZ)
 https://tmaxapp.site/skynz2.m3u8
 
-#EXTINF:-1 tvg-id="englandwvsnewzealandw1830willowhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England W vs New Zealand W 18:30 (WILLOW HD)
+#EXTINF:-1 tvg-id="australiawvsindiaw1430willowhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Australia W vs India W 14:30 (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd

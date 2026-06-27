@@ -202,11 +202,11 @@
         ]
     },
     {
-        "event_name": "England W vs New Zealand W",
-        "team_a_flag": "https://img.sofascore.com/api/v1/team/213121/image",
-        "team_b_flag": "https://img.sofascore.com/api/v1/team/213115/image",
-        "start_time_gmt": "2026-06-27 17:30:00 +0000",
-        "end_time_gmt": "2026-06-27 21:15:00 +0000",
+        "event_name": "Australia W vs India W",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/213117/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/213119/image",
+        "start_time_gmt": "2026-06-28 13:30:00 +0000",
+        "end_time_gmt": "2026-06-28 17:15:00 +0000",
         "group-title": "Cricket",
         "streams": [
             {
@@ -233,8 +233,8 @@
         "event_name": "West Indies vs Sri Lanka",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/187760/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "start_time_gmt": "2026-06-27 14:00:00 +0000",
-        "end_time_gmt": "2026-06-27 22:00:00 +0000",
+        "start_time_gmt": "2026-06-28 14:00:00 +0000",
+        "end_time_gmt": "2026-06-28 22:00:00 +0000",
         "group-title": "Cricket",
         "streams": [
             {

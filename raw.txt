@@ -638,6 +638,8 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "DAZN SPORTS HD",
             "PPV LIVE HD",
+            "PPV ENGLISH",
+            "PPV SPANISH",
             "HD SERVER"
         ],
         "formatsNew": [
@@ -650,71 +652,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50023,
-        "title": "WWE Night of Champions",
-        "image": "o",
-        "cat": "WWE",
-        "eventInfo": {
-            "teamA": "Night of Champions",
-            "teamB": "Night of Champions",
-            "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png",
-            "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png",
-            "eventName": "WWE Night of Champions",
-            "eventType": "null",
-            "eventBanner": "https://iili.io/CR3SmVS.png",
-            "isHot": "0",
-            "startTime": "2026/06/27 16:00:00 +0000",
-            "endTime": "2026/06/27 20:30:00 +0000"
-        },
-        "adsLimit": "12",
-        "publish": "1",
-        "formats": [
-            "SportzX WWE",
-            "WWE LIVE HD",
-            "ESPN+ ENG",
-            "ESPN+ ES",
-            "HD SERVER",
-            "HD SERVER 2",
-            "HD Quality",
-            "WWE Live HD+"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX WWE",
+                "title": "PPV ENGLISH",
                 "logo": ""
             },
             {
-                "title": "WWE LIVE HD",
-                "logo": ""
-            },
-            {
-                "title": "ESPN+ ENG",
-                "logo": ""
-            },
-            {
-                "title": "ESPN+ ES",
+                "title": "PPV SPANISH",
                 "logo": ""
             },
             {
                 "title": "HD SERVER",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER 2",
-                "logo": ""
-            },
-            {
-                "title": "HD Quality",
-                "logo": ""
-            },
-            {
-                "title": "WWE Live HD+",
                 "logo": ""
             }
         ]
@@ -975,19 +921,19 @@ URL: https://spxhomelive.lol/events.json
     },
     {
         "id": 50059,
-        "title": "England W vs New Zealand W",
+        "title": "Australia W vs India W",
         "image": "o",
         "cat": "Cricket",
         "eventInfo": {
-            "teamA": "ENG-W",
-            "teamB": "NZ-W",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-            "eventName": "England W vs New Zealand W",
+            "teamA": "AUS-W",
+            "teamB": "IND-W",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+            "eventName": "Australia W vs India W",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/27 17:30:00 +0000",
-            "endTime": "2026/06/27 21:15:00 +0000"
+            "startTime": "2026/06/28 13:30:00 +0000",
+            "endTime": "2026/06/28 17:15:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -1029,8 +975,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "West Indies vs Sri Lanka",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/27 14:00:00 +0000",
-            "endTime": "2026/06/27 22:00:00 +0000"
+            "startTime": "2026/06/28 14:00:00 +0000",
+            "endTime": "2026/06/28 22:00:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -2737,7 +2683,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
             "eventName": "Panama vs England",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/27 21:00:00 +0000",
             "endTime": "2026/06/27 23:15:00 +0000"
         },
@@ -3020,7 +2966,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
             "eventName": "Croatia vs Ghana",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/27 21:00:00 +0000",
             "endTime": "2026/06/27 23:15:00 +0000"
         },
@@ -3289,7 +3235,7 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "Colombia vs Portugal",
             "eventType": "null",
             "eventBanner": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/27 23:30:00 +0000",
             "endTime": "2026/06/28 01:45:00 +0000"
         },
@@ -3567,7 +3513,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
             "eventName": "DR Congo vs Uzbekistan",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/27 23:30:00 +0000",
             "endTime": "2026/06/28 01:45:00 +0000"
         },
