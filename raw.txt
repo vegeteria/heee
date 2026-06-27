@@ -1979,6 +1979,7 @@ URL: https://spxhomelive.lol/events.json
             "UNIVERSEO [USA]",
             "FOX SPORTS 4K",
             "FOX 4K LIVE",
+            "UNIVERSO FHD",
             "FUSSBALL TV 4K",
             "ARABIC LIVE FHD",
             "FUSSBALL TV1 4K",
@@ -2098,6 +2099,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX 4K LIVE",
+                "logo": ""
+            },
+            {
+                "title": "UNIVERSO FHD",
                 "logo": ""
             },
             {
@@ -4630,8 +4635,8 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "0"
     },
     {
-        "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-        "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://iili.io/CTbh7Gj.png",
         "title": "DSports FHD",
         "type": "1"
@@ -5102,6 +5107,13 @@ URL: https://spxhomelive.lol/channels/50070.json
         "link": "https://nhjjhhjhjjhfjj.pages.dev/1782602000/e7652bd4c66c463881a72f2d759c92c7/igC-o6M5N59CJrj5SlJG8Pn6C30WjrcTkQJwyrfUSm0/fox-sports-1-4k.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782602061/3986ef0419624e2f90f409c7e5a75b23/dbWvKLbaozu8y6XIBJXx6Ll2ryAHk2NskU_t4xP5TWs/universo-usa.m3u8",
+        "logo": "",
+        "title": "UNIVERSO FHD",
         "type": "0"
     },
     {
