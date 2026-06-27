@@ -590,6 +590,12 @@
         "group-title": "Fifa world cup",
         "streams": [
             {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sh9xmjbhhr/out/v1/6b4982b95f7843659ead6393341dd532/cenc.mpd",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
+                "clearkey": "ac59787c884c9b19e3a6219c974c2fd2:443fd36e2a294f3ce69fdb7488fdd65a",
+                "channel_title": "CTV SPORTS FHD"
+            },
+            {
                 "web_view_url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
                 "clearkey": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",

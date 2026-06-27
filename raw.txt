@@ -1672,6 +1672,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "CTV SPORTS FHD",
             "FOX ONE FHD",
             "WC TV FHD",
             "BBC SPORTS HD",
@@ -1717,6 +1718,10 @@ URL: https://spxhomelive.lol/events.json
             "ESPANOL SD"
         ],
         "formatsNew": [
+            {
+                "title": "CTV SPORTS FHD",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png"
+            },
             {
                 "title": "FOX ONE FHD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
@@ -4476,6 +4481,13 @@ URL: https://spxhomelive.lol/channels/50064.json
 URL: https://spxhomelive.lol/channels/50069.json
 ============================================================
 [
+    {
+        "api": "ac59787c884c9b19e3a6219c974c2fd2:443fd36e2a294f3ce69fdb7488fdd65a",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sh9xmjbhhr/out/v1/6b4982b95f7843659ead6393341dd532/cenc.mpd",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
+        "title": "CTV SPORTS FHD",
+        "type": "1"
+    },
     {
         "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
         "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
