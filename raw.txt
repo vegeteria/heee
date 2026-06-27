@@ -116,8 +116,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "MotoGP - TT Assen",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/27 08:00:00 +0000",
-            "endTime": "2026/06/27 14:15:00 +0000"
+            "startTime": "2026/06/28 12:00:00 +0000",
+            "endTime": "2026/06/28 14:15:00 +0000"
         },
         "adsLimit": "11",
         "publish": "1",
