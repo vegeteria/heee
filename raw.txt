@@ -1955,6 +1955,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "ITV SPORTS HD",
             "FOX SPORTS HD",
+            "QAZ SPORTS FHD",
             "D Sports FHD",
             "CAZE TV FHD",
             "TOFFE BDIX (BD)",
@@ -2016,6 +2017,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "QAZ SPORTS FHD",
+                "logo": ""
             },
             {
                 "title": "D Sports FHD",
@@ -2221,6 +2226,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS [ALT]",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
+            "FOX ONE 4K",
             "FOX 4K LIVE",
             "FUSSBALL TV UHD",
             "ARABIC LIVE FHD",
@@ -2334,6 +2340,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TELEMUNDO [USA]",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+            },
+            {
+                "title": "FOX ONE 4K",
+                "logo": ""
             },
             {
                 "title": "FOX 4K LIVE",
@@ -4940,6 +4950,13 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+        "logo": "",
+        "title": "QAZ SPORTS FHD",
+        "type": "0"
+    },
+    {
         "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -5381,6 +5398,13 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
+        "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "FOX ONE 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "ok",
         "logo": "",
         "title": "FOX 4K LIVE",
@@ -5465,14 +5489,14 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER ENG",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER AR",
         "type": "0"
@@ -5514,35 +5538,35 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.42/hls/QTKKKQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/QTKKKQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SD SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/TKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/QTKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/QTKKKQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
