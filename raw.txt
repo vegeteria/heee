@@ -636,11 +636,16 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "12",
         "publish": "1",
         "formats": [
-            "SportzX WWE"
+            "SportzX WWE",
+            "ESPN+ FHD"
         ],
         "formatsNew": [
             {
                 "title": "SportzX WWE",
+                "logo": ""
+            },
+            {
+                "title": "ESPN+ FHD",
                 "logo": ""
             }
         ]
