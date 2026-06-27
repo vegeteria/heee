@@ -630,67 +630,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50052,
-        "title": "San Diego Padres",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Padres",
-            "teamB": "Dodgers",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-            "eventName": "San Diego Padres vs Los Angeles Dodgers",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/27 01:45:00 +0000",
-            "endTime": "2026/06/27 04:45:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50053,
-        "title": "Atlanta Braves",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Giants",
-            "teamB": "Braves",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-            "eventName": "Giants vs Atlanta Braves",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/27 02:15:00 +0000",
-            "endTime": "2026/06/27 05:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50059,
         "title": "England W vs New Zealand W",
         "image": "o",
@@ -1943,7 +1882,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4766/image",
             "eventName": "Egypt vs Iran",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/27 03:00:00 +0000",
             "endTime": "2026/06/27 05:15:00 +0000"
         },
@@ -2206,7 +2145,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
             "eventName": "New Zealand vs Belgium",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/27 03:00:00 +0000",
             "endTime": "2026/06/27 05:15:00 +0000"
         },
@@ -3948,39 +3887,6 @@ URL: https://spxhomelive.lol/channels/50034.json
     {
         "api": "",
         "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50052.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52557/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50053.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
