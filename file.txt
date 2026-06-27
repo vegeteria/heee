@@ -825,8 +825,8 @@ https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v
 
 #EXTINF:-1 tvg-id="egyptvsiran0400cazetvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Egypt vs Iran 04:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
 #EXTINF:-1 tvg-id="egyptvsiran0400foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Egypt vs Iran 04:00 (FOX SPORTS HD)
 https://nhjjhhjhjjhfjj.pages.dev/1782536921/e051dfaf3cdd44f6b67a480ce7274cb4/9wbkIkVxNAdiJb-_dfxC2tYjIoNjQTg5S1tAYK0fbXE/fox-sports-1.m3u8
@@ -959,13 +959,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1
 
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400dsportsfhd" tvg-logo="https://www.directvsports.com/__export/1674066777645/sites/dsports/arte/apps/facebook_1200x630.png" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (DSports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400cazetvfhd" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
 #EXTINF:-1 tvg-id="newzealandvsbelgium0400foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",New Zealand vs Belgium 04:00 (FOX SPORTS HD)
 https://nhjjhhjhjjhfjj.pages.dev/1782536732/8fb66a1a5272484f90a1e0a966624df7/WhSaOzFXrHtee4SlZYhnJ1utfCK0_8m_t6NS-s6w7qM/fox-usa.m3u8
