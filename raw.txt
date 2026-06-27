@@ -17,7 +17,7 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "Formula 1 - Austria GP",
             "eventType": "null",
             "eventBanner": "https://iili.io/CumYfYQ.png",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/27 10:30:00 +0000",
             "endTime": "2026/06/27 15:30:00 +0000"
         },
