@@ -2248,6 +2248,7 @@ URL: https://spxhomelive.lol/events.json
             "TVP SPORTS HD",
             "TSN SPORTS HD",
             "FOX ONE HD",
+            "beIN MAX FHD",
             "FAST SERVER",
             "TELEMUNDO HD",
             "TSN SPORTS FHD",
@@ -2258,7 +2259,10 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO [USA]",
             "FOX ONE 4K",
             "FOX 4K LIVE",
+            "TSN SPORTS 4K",
+            "TELEMUNDO FHD",
             "FUSSBALL TV UHD",
+            "beIN SPORTS 4K",
             "ARABIC LIVE FHD",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
@@ -2340,6 +2344,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "beIN MAX FHD",
+                "logo": ""
+            },
+            {
                 "title": "FAST SERVER",
                 "logo": ""
             },
@@ -2380,7 +2388,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TSN SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
                 "title": "FUSSBALL TV UHD",
+                "logo": ""
+            },
+            {
+                "title": "beIN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -4679,7 +4699,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782601830/0d1ba7d2a931430a9811b5431f45cfc5/PPfcMBa776gvmwhFFJjlWZRmM1-ZOPfOKR-mqCUnSqs/fox-usa.m3u8",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609505/c2ed46f8fd90464697f57c935fc3c709/wIziCn5_Xt-90uhsB6ckBN7PyQ10NGAtrtA6so7WC48/fox-usa.m3u8",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
@@ -4700,7 +4720,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782601877/756dff3bf63242728900fab86ae5869e/CKNBZ7vok8P-_PEHmlLVipFRTbmgvi5xv8gU0s2IS38/beinsportsmax-sa.m3u8",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609557/16f7b12d700749a58a0da0cb252465c0/IW0Yl0ePTEGksYctwOq3j8UpVC4Alwxa5Z_K7YzCCcs/beinsportsmax-sa.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
@@ -4777,7 +4797,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782601902/cbff9de94908431dbfabaf8b5fd918f1/-LWNr-pBIqQc9vTvCwn5B8wm-vO81nDw_ykIjuypWkM/fox4k-usa.m3u8",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609531/6295308293c5456aa1fbfe7e9d58a630/KTKl24ec6ION37WhESRPgDeK05in79m9XUA44YQrZag/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
@@ -4798,7 +4818,7 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782601955/18e0b7d861384a4ba4baaf444bbd61c5/bpgtebVHIDYI1gbSarYPxKf8_9tCMoc1jtPiHUbELMI/fusballtv1uhd-de.m3u8",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609547/e2793adf48d84820a0594b3e365a17b1/SVAopR2x7jYNW34QGjR6HLrbzEhnpX19r9nsNV7duqE/fusballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL 4K LIVE",
         "type": "0"
@@ -5398,9 +5418,16 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609505/c2ed46f8fd90464697f57c935fc3c709/wIziCn5_Xt-90uhsB6ckBN7PyQ10NGAtrtA6so7WC48/fox-usa.m3u8",
         "logo": "",
         "title": "FOX ONE HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609557/16f7b12d700749a58a0da0cb252465c0/IW0Yl0ePTEGksYctwOq3j8UpVC4Alwxa5Z_K7YzCCcs/beinsportsmax-sa.m3u8",
+        "logo": "",
+        "title": "beIN MAX FHD",
         "type": "0"
     },
     {
@@ -5468,21 +5495,42 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609531/6295308293c5456aa1fbfe7e9d58a630/KTKl24ec6ION37WhESRPgDeK05in79m9XUA44YQrZag/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609547/e2793adf48d84820a0594b3e365a17b1/SVAopR2x7jYNW34QGjR6HLrbzEhnpX19r9nsNV7duqE/fusballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL TV UHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://lb.xyzcloud3.xyz/bein4k/index.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "beIN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://lb.xyzcloud3.xyz/bein/index.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
