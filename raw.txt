@@ -750,10 +750,15 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -783,10 +788,15 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -816,49 +826,21 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
             },
             {
                 "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50055,
-        "title": "Toronto Tempo vs Phoenix Mercury",
-        "image": "o",
-        "cat": "WNBA",
-        "eventInfo": {
-            "teamA": "Tempo",
-            "teamB": "Mercury",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
-            "eventName": "Toronto Tempo vs Phoenix Mercury",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/27 18:00:00 +0000",
-            "endTime": "2026/06/27 20:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX WNBA",
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX WNBA",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
                 "logo": ""
             }
         ]
@@ -910,9 +892,14 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX WNBA",
             "SportzX Live"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX WNBA",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -4146,6 +4133,13 @@ URL: https://spxhomelive.lol/channels/50034.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52643/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
@@ -4164,6 +4158,13 @@ URL: https://spxhomelive.lol/channels/50034.json
 URL: https://spxhomelive.lol/channels/50052.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52646/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -4186,6 +4187,13 @@ URL: https://spxhomelive.lol/channels/50053.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52647/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
@@ -4196,26 +4204,6 @@ URL: https://spxhomelive.lol/channels/50053.json
         "link": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50055.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52610/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX WNBA",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
         "type": "0"
     }
 ]
@@ -4238,7 +4226,15 @@ URL: https://spxhomelive.lol/channels/50057.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52645/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX WNBA",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     }
