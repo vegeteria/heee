@@ -232,6 +232,9 @@ https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
 
+#EXTINF:-1 tvg-id="southafricavscanada2000foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",South Africa vs Canada 20:00 (FOX ONE HD)
+https://cdn011.viaplus.site/fox-usa.m3u8
+
 #EXTINF:-1 tvg-id="southafricavscanada2000tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",South Africa vs Canada 20:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
@@ -261,6 +264,18 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="southafricavscanada2000foxone4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",South Africa vs Canada 20:00 (FOX ONE 4K)
+https://cdn011.viaplus.site/fox4k-usa.m3u8
+
+#EXTINF:-1 tvg-id="southafricavscanada2000fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",South Africa vs Canada 20:00 (FOX 4K LIVE)
+https://cdn011.viaplus.site/fox4k-xyz.m3u8
+
+#EXTINF:-1 tvg-id="southafricavscanada2000fussballtvuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",South Africa vs Canada 20:00 (FUSSBALL TV UHD)
+https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8
+
+#EXTINF:-1 tvg-id="southafricavscanada2000beinarabic4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",South Africa vs Canada 20:00 (beIN ARABIC 4K)
+https://cdn011.viaplus.site/bein4k-xyz.m3u8
 
 #EXTINF:-1 tvg-id="southafricavscanada2000fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",South Africa vs Canada 20:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

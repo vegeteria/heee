@@ -868,7 +868,7 @@
     },
     {
         "name": "South Africa vs Canada (TSN SPORTS FHD)",
-        "link": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?",
+        "link": "https://cdn011.viaplus.site/tsn1-xyz.m3u8?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "https://xyzstreams.st/",
@@ -877,7 +877,7 @@
     },
     {
         "name": "South Africa vs Canada (FOX ONE HD)",
-        "link": "ok",
+        "link": "https://cdn011.viaplus.site/fox-usa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -990,7 +990,7 @@
     },
     {
         "name": "South Africa vs Canada (FOX ONE 4K)",
-        "link": "ok",
+        "link": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -999,7 +999,7 @@
     },
     {
         "name": "South Africa vs Canada (FOX 4K LIVE)",
-        "link": "ok",
+        "link": "https://cdn011.viaplus.site/fox4k-xyz.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1008,7 +1008,7 @@
     },
     {
         "name": "South Africa vs Canada (TSN SPORTS 4K)",
-        "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?",
+        "link": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "https://xyzstreams.st/",
@@ -1017,10 +1017,37 @@
     },
     {
         "name": "South Africa vs Canada (TELEMUNDO FHD)",
-        "link": "https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?",
+        "link": "https://cdn011.viaplus.site/telemundo-xyz.m3u8?",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "https://xyzstreams.st/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "South Africa vs Canada (ARABIC LIVE HD)",
+        "link": "https://cdn011.viaplus.site/bein-xyz.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.st/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "South Africa vs Canada (FUSSBALL TV UHD)",
+        "link": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "South Africa vs Canada (beIN ARABIC 4K)",
+        "link": "https://cdn011.viaplus.site/bein4k-xyz.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1052,15 +1079,6 @@
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "South Africa vs Canada (ARABIC LIVE HD)",
-        "link": "https://cdn2.xyzstreams.st/bein/index.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
