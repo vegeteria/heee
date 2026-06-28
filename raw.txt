@@ -17,7 +17,7 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "Formula 1 - Austria GP",
             "eventType": "null",
             "eventBanner": "https://iili.io/CumYfYQ.png",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/28 13:00:00 +0000",
             "endTime": "2026/06/28 15:15:00 +0000"
         },
@@ -375,8 +375,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "Zimbabwe vs Bangladesh",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/28 07:30:00 +0000",
-            "endTime": "2026/06/28 15:30:00 +0000"
+            "startTime": "2026/06/29 07:30:00 +0000",
+            "endTime": "2026/06/29 15:15:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -725,15 +725,10 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -763,15 +758,10 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -801,15 +791,10 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -4015,7 +4000,7 @@ URL: https://spxhomelive.lol/channels/50033.json
 [
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -4035,14 +4020,7 @@ URL: https://spxhomelive.lol/channels/50034.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52643/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -4062,14 +4040,7 @@ URL: https://spxhomelive.lol/channels/50052.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52646/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -4087,13 +4058,6 @@ URL: https://spxhomelive.lol/channels/50052.json
 URL: https://spxhomelive.lol/channels/50053.json
 ============================================================
 [
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52647/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
     {
         "api": "",
         "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -7275,13 +7239,15 @@ URL: https://spxhomelive.lol/channels/50081.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
         "title": "HD SERVER",
         "type": "0"
     }
@@ -7313,13 +7279,15 @@ URL: https://spxhomelive.lol/channels/50083.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
         "title": "HD SERVER",
         "type": "0"
     }
