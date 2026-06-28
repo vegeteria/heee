@@ -19,7 +19,7 @@ URL: https://spxhomelive.lol/events.json
             "eventBanner": "https://iili.io/CumYfYQ.png",
             "isHot": "1",
             "startTime": "2026/06/28 13:00:00 +0000",
-            "endTime": "2026/06/28 14:30:00 +0000"
+            "endTime": "2026/06/28 15:15:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
