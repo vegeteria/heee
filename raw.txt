@@ -411,8 +411,8 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "TNT Sports FHD",
             "WILLOW FHD",
-            "TNT SPORTS - AQ",
             "WILLOW ALT",
             "TNT SPORTS HD",
             "WILLOW HD",
@@ -424,12 +424,12 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "WILLOW FHD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+                "title": "TNT Sports FHD",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
             },
             {
-                "title": "TNT SPORTS - AQ",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+                "title": "WILLOW FHD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
             },
             {
                 "title": "WILLOW ALT",
@@ -666,72 +666,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50032,
-        "title": "Minnesota Twins",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Twins",
-            "teamB": "Rockies",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-            "eventName": "Minnesota Twins vs Colorado Rockies",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/27 23:10:00 +0000",
-            "endTime": "2026/06/28 02:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX LIVE",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX LIVE",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50033,
-        "title": "Miami Marlins",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Cardinals",
-            "teamB": "Marlins",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-            "eventName": "Cardinals vs Miami Marlins",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/27 23:15:00 +0000",
-            "endTime": "2026/06/28 02:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50034,
         "title": "San Diego Padres",
         "image": "o",
@@ -841,39 +775,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50056,
-        "title": "Indiana Fever vs Sparks",
-        "image": "o",
-        "cat": "WNBA",
-        "eventInfo": {
-            "teamA": "Fever",
-            "teamB": "Sparks",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-            "eventName": "Indiana Fever vs Los Angeles Sparks",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 00:00:00 +0000",
-            "endTime": "2026/06/28 02:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX WNBA",
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX WNBA",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
                 "logo": ""
             }
         ]
@@ -3660,17 +3561,17 @@ URL: https://spxhomelive.lol/channels/50008.json
 ============================================================
 [
     {
+        "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT Sports FHD",
+        "type": "1"
+    },
+    {
         "api": "fff0c88530698729506de226786a0ce2:473273ba6a5323ff4174a55ab2e3dfca",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wkyr0oiayl/out/v1/ab6df1604fe34712a1a5bc16cc8489c3/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
-        "type": "1"
-    },
-    {
-        "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT SPORTS - AQ",
         "type": "1"
     },
     {
@@ -3862,46 +3763,6 @@ URL: https://spxhomelive.lol/channels/50011.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50032.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX LIVE",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50033.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB12/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50034.json
 ============================================================
 [
@@ -3978,26 +3839,6 @@ URL: https://spxhomelive.lol/channels/50053.json
         "link": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50056.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52639/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX WNBA",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
         "type": "0"
     }
 ]
