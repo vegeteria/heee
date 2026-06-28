@@ -697,7 +697,7 @@ URL: https://spxhomelive.lol/events.json
             "SKY MAIN EVENT",
             "LOW SERVER",
             "SKY SPORT NZ",
-            "SonyLiv",
+            "Sony Liv [Asia]",
             "FOX CRICKET HD"
         ],
         "formatsNew": [
@@ -726,7 +726,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
             },
             {
-                "title": "SonyLiv",
+                "title": "Sony Liv [Asia]",
                 "logo": ""
             },
             {
@@ -2312,8 +2312,8 @@ URL: https://spxhomelive.lol/channels/50061.json
 ============================================================
 [
     {
-        "api": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e",
-        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
+        "api": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa",
+        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
@@ -2326,8 +2326,8 @@ URL: https://spxhomelive.lol/channels/50061.json
         "type": "0"
     },
     {
-        "api": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
+        "api": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW ALT",
         "type": "1"
@@ -2341,7 +2341,7 @@ URL: https://spxhomelive.lol/channels/50061.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/bbbbZQ.m3u8?|referer=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
@@ -2355,9 +2355,9 @@ URL: https://spxhomelive.lol/channels/50061.json
     },
     {
         "api": "",
-        "link": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bd93df851991f163df797f8a338779ce-1782552600172",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/20000295/Englandv2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683707~acl=/*~id=90059764072974571438912851560412~hmac=d028531eb8e50ebd1ff5f2fc2945f1361956dff837764fd012bb23cc540a1b9d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bd93df851991f163df797f8a338779ce-1782552600172",
         "logo": "",
-        "title": "SonyLiv",
+        "title": "Sony Liv [Asia]",
         "type": "0"
     },
     {
