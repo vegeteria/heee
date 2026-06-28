@@ -617,93 +617,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50019,
-        "title": "Zayas vs Boots",
-        "image": "o",
-        "cat": "Boxing",
-        "eventInfo": {
-            "teamA": "X. Zayas",
-            "teamB": "J. Ennis",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1076154/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/937814/image",
-            "eventName": "Xander Zayas vs Jaron Ennis",
-            "eventType": "null",
-            "eventBanner": "https://iili.io/CRCunAG.png",
-            "isHot": "0",
-            "startTime": "2026/06/27 22:00:00 +0000",
-            "endTime": "2026/06/28 03:30:00 +0000"
-        },
-        "adsLimit": "10",
-        "publish": "1",
-        "formats": [
-            "DAZN SPORTS HD",
-            "PPV LIVE HD",
-            "PPV ENGLISH",
-            "PPV SPANISH",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "DAZN SPORTS HD",
-                "logo": ""
-            },
-            {
-                "title": "PPV LIVE HD",
-                "logo": ""
-            },
-            {
-                "title": "PPV ENGLISH",
-                "logo": ""
-            },
-            {
-                "title": "PPV SPANISH",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50053,
-        "title": "Athletics",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Angels",
-            "teamB": "Athletics",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-            "eventName": "Los Angeles Angels vs Athletics",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 01:38:00 +0000",
-            "endTime": "2026/06/28 04:38:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50059,
         "title": "Australia W vs India W",
         "image": "o",
@@ -2532,33 +2445,6 @@ URL: https://spxhomelive.lol/channels/50011.json
         "logo": "",
         "title": "USA TV",
         "type": "1"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50053.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52647/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
     }
 ]
 ============================================================
