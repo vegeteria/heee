@@ -1082,9 +1082,10 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE - AQ",
             "CTV SPORTS FHD",
             "TOFFE BDIX (BD)",
+            "ISCREEN BD FHD",
             "TIPIK FR FHD",
             "TSN SPORTS FHD",
-            "ISCREEN BD FHD",
+            "FOX SPORTS 4K",
             "WC TV FHD",
             "DSports FHD",
             "CAZE TV FHD",
@@ -1148,6 +1149,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg"
             },
             {
+                "title": "ISCREEN BD FHD",
+                "logo": ""
+            },
+            {
                 "title": "TIPIK FR FHD",
                 "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
             },
@@ -1156,7 +1161,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "ISCREEN BD FHD",
+                "title": "FOX SPORTS 4K",
                 "logo": ""
             },
             {
@@ -4148,6 +4153,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "ISCREEN BD FHD",
+        "type": "0"
+    },
+    {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
@@ -4162,11 +4174,11 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "",
-        "title": "ISCREEN BD FHD",
-        "type": "0"
+        "title": "FOX SPORTS 4K",
+        "type": "1"
     },
     {
         "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
@@ -4471,35 +4483,35 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/fllll.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.42/hls/JCCCC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SD SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/skkkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/skkkk.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://live06.zuqiu106.com/live/20233432.m3u8",
+        "link": "http://193.47.62.47/hls/skkkkqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"

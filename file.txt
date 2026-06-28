@@ -248,6 +248,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/hgpxfatexm/out/v1/b788
 #KODIPROP:inputstream.adaptive.license_key=ac59787c884c9b19e3a6219c974c2fd2:443fd36e2a294f3ce69fdb7488fdd65a
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sh9xmjbhhr/out/v1/6b4982b95f7843659ead6393341dd532/cenc.mpd
 
+#EXTINF:-1 tvg-id="jordanvsargentina0300iscreenbdfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Argentina 03:00 (ISCREEN BD FHD)
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+
 #EXTINF:-1 tvg-id="jordanvsargentina0300tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png" group-title="Fifa world cup",Jordan vs Argentina 03:00 (TIPIK FR FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
@@ -258,8 +261,10 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.m
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="jordanvsargentina0300iscreenbdfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Argentina 03:00 (ISCREEN BD FHD)
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+#EXTINF:-1 tvg-id="jordanvsargentina0300foxsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Argentina 03:00 (FOX SPORTS 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
 #EXTINF:-1 tvg-id="jordanvsargentina0300wctvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Argentina 03:00 (WC TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -385,7 +390,7 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 #EXTINF:-1 tvg-id="jordanvsargentina0300espanolsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Jordan vs Argentina 03:00 (ESPANOL SD)
-https://live06.zuqiu106.com/live/20233432.m3u8
+http://193.47.62.47/hls/skkkkqq.m3u8
 
 #EXTINF:-1 tvg-id="algeriavsaustria0300foxsportsaq" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png" group-title="Fifa world cup",Algeria vs Austria 03:00 (FOX SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
