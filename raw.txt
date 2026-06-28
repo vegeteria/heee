@@ -727,6 +727,123 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50055,
+        "title": "Dallas Wings vs Minnesota Lynx",
+        "image": "o",
+        "cat": "WNBA",
+        "eventInfo": {
+            "teamA": "Wings",
+            "teamB": "Lynx",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+            "eventName": "Dallas Wings vs Minnesota Lynx",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/28 18:00:00 +0000",
+            "endTime": "2026/06/28 20:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX WNBA",
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX WNBA",
+                "logo": ""
+            },
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50056,
+        "title": "Washington Mystics vs Portland Fire",
+        "image": "o",
+        "cat": "WNBA",
+        "eventInfo": {
+            "teamA": "Mystics",
+            "teamB": "Fire",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+            "eventName": "Washington Mystics vs Portland Fire",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/28 19:00:00 +0000",
+            "endTime": "2026/06/28 21:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50057,
+        "title": "Chicago Sky vs Las Vegas Aces",
+        "image": "o",
+        "cat": "WNBA",
+        "eventInfo": {
+            "teamA": "Sky",
+            "teamB": "Aces",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+            "eventName": "Chicago Sky vs Las Vegas Aces",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/28 20:00:00 +0000",
+            "endTime": "2026/06/28 22:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50058,
+        "title": "Valkyries vs Liberty",
+        "image": "o",
+        "cat": "WNBA",
+        "eventInfo": {
+            "teamA": "Valkyries",
+            "teamB": "Liberty",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+            "eventName": "Valkyries vs Liberty",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/28 23:00:00 +0000",
+            "endTime": "2026/06/29 01:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50061,
         "title": "England vs New Zealand",
         "image": "o",
@@ -3862,6 +3979,65 @@ URL: https://spxhomelive.lol/channels/50053.json
 ]
 ============================================================
 
+URL: https://spxhomelive.lol/channels/50055.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52671/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX WNBA",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50056.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50057.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50058.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/51890/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
 URL: https://spxhomelive.lol/channels/50061.json
 ============================================================
 [
@@ -4103,11 +4279,11 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "002269fcdea18cd986bb517864981282:300f31aaa339d49d4fe5773382fefc5f",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021693-723551-4913445439f)/master_2hr.mpd?c3.ri=6a416112_Q1ZYMDc_0_RkFTVExZ_681e692eb376%3A0&aws.sessionId=0c556309-69f8-4654-a874-0e685fc0d1fd&ck=eyIwMDIyNjlmY2RlYTE4Y2Q5ODZiYjUxNzg2NDk4MTI4MiI6IjMwMGYzMWFhYTMzOWQ0OWQ0ZmU1NzczMzgyZmVmYzVmIn0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
