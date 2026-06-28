@@ -1134,7 +1134,11 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "Arabic SD",
+            "Arabic HD",
+            "Arabic AQ",
+            "Bein Sports 2 Arabic"
         ],
         "formatsNew": [
             {
@@ -1151,7 +1155,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ISCREEN BD FHD",
-                "logo": ""
+                "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
             },
             {
                 "title": "TIPIK FR FHD",
@@ -1163,7 +1167,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX SPORTS 4K",
-                "logo": ""
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "WC TV FHD",
@@ -1360,6 +1364,22 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "ESPANOL SD",
                 "logo": ""
+            },
+            {
+                "title": "Arabic SD",
+                "logo": ""
+            },
+            {
+                "title": "Arabic HD",
+                "logo": ""
+            },
+            {
+                "title": "Arabic AQ",
+                "logo": ""
+            },
+            {
+                "title": "Bein Sports 2 Arabic",
+                "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
             }
         ]
     },
@@ -4160,7 +4180,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     {
         "api": "",
         "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
-        "logo": "",
+        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
         "title": "ISCREEN BD FHD",
         "type": "0"
     },
@@ -4181,7 +4201,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
         "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS 4K",
         "type": "1"
     },
@@ -4526,6 +4546,34 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "http://193.47.62.47/hls/skkkkqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://ex.moorarts.xyz/diluoe1_480/index.m3u8",
+        "logo": "",
+        "title": "Arabic SD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://ex.moorarts.xyz/diluoe1_720/index.m3u8",
+        "logo": "",
+        "title": "Arabic HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://ex.moorarts.xyz/diluoe1.m3u8",
+        "logo": "",
+        "title": "Arabic AQ",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "title": "Bein Sports 2 Arabic",
         "type": "0"
     }
 ]
