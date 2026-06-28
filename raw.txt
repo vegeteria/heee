@@ -777,7 +777,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4752/image",
             "eventName": "South Africa vs Canada",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/28 19:00:00 +0000",
             "endTime": "2026/06/28 21:15:00 +0000"
         },
