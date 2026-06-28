@@ -1117,15 +1117,16 @@ URL: https://spxhomelive.lol/events.json
             "FOX 4K LIVE",
             "TELEMUNDO FHD",
             "TSN SPORTS 4K",
+            "ARABIC LIVE FHD",
             "FUSSBALL 4K LIVE",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "SporTV BR [ALT]",
             "IRIB 4K",
-            "ARABIC LIVE HD",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "SportzX Live",
+            "TYC SPORTS HD",
             "HD SERVER ENG",
             "HD SERVER AR",
             "DAZN SPANISH",
@@ -1263,6 +1264,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
+                "title": "ARABIC LIVE FHD",
+                "logo": ""
+            },
+            {
                 "title": "FUSSBALL 4K LIVE",
                 "logo": ""
             },
@@ -1283,10 +1288,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "ARABIC LIVE HD",
-                "logo": ""
-            },
-            {
                 "title": "FOX SPORTS HD",
                 "logo": ""
             },
@@ -1296,6 +1297,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "TYC SPORTS HD",
                 "logo": ""
             },
             {
@@ -5146,6 +5151,13 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
+        "link": "https://lb.xyzcloud3.xyz/bein/index.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "ARABIC LIVE FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "ok",
         "logo": "",
         "title": "FUSSBALL 4K LIVE",
@@ -5181,13 +5193,6 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/",
-        "logo": "",
-        "title": "ARABIC LIVE HD",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52551/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "FOX SPORTS HD",
@@ -5202,9 +5207,16 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
+        "logo": "",
+        "title": "TYC SPORTS HD",
         "type": "0"
     },
     {
@@ -8015,7 +8027,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
