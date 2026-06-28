@@ -338,8 +338,8 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "TAPMAD FHD",
+            "FANCODE - IN",
             "FANCODE FHD",
-            "TNT SPORTS FHD",
             "FOX CRICKET HD",
             "FANCODE - SD"
         ],
@@ -349,12 +349,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FANCODE FHD",
+                "title": "FANCODE - IN",
                 "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
             },
             {
-                "title": "TNT SPORTS FHD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+                "title": "FANCODE FHD",
+                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
             },
             {
                 "title": "FOX CRICKET HD",
@@ -2153,17 +2153,17 @@ URL: https://spxhomelive.lol/channels/50007.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE - IN",
+        "type": "0"
+    },
+    {
         "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE FHD",
-        "type": "1"
-    },
-    {
-        "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT SPORTS FHD",
         "type": "1"
     },
     {
