@@ -940,6 +940,7 @@ URL: https://spxhomelive.lol/events.json
             "TOFFEE BDIX (BD)",
             "TSN SPORTS FHD",
             "CTV SPORTS FHD",
+            "FOX SPORTS 4K",
             "WC TV FHD",
             "ITV SPORTS HD",
             "TIPIK FR FHD",
@@ -960,6 +961,7 @@ URL: https://spxhomelive.lol/events.json
             "ITV 1 FHD [ALT]",
             "TSN SPORTS [ALT]",
             "FOX ONE [ALT]",
+            "FOX 4K [ALT]",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
             "beIN SPORTS FHD",
@@ -1021,6 +1023,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CTV SPORTS FHD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png"
+            },
+            {
+                "title": "FOX SPORTS 4K",
+                "logo": ""
             },
             {
                 "title": "WC TV FHD",
@@ -1100,6 +1106,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX ONE [ALT]",
+                "logo": ""
+            },
+            {
+                "title": "FOX 4K [ALT]",
                 "logo": ""
             },
             {
@@ -4213,6 +4223,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "type": "1"
     },
     {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "logo": "",
+        "title": "FOX SPORTS 4K",
+        "type": "1"
+    },
+    {
         "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "logo": "",
@@ -4350,6 +4367,13 @@ URL: https://spxhomelive.lol/channels/50065.json
         "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "",
         "title": "FOX ONE [ALT]",
+        "type": "1"
+    },
+    {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "logo": "",
+        "title": "FOX 4K [ALT]",
         "type": "1"
     },
     {
