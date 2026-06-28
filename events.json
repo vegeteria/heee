@@ -859,7 +859,7 @@
         "cookie": ""
     },
     {
-        "name": "South Africa vs Canada (FOX SPORTS - AQ)",
+        "name": "South Africa vs Canada (FOX ONE - AQ)",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/hgpxfatexm/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
@@ -879,6 +879,15 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+    },
+    {
+        "name": "South Africa vs Canada (TOFFEE BDIX (BD))",
+        "link": "ok",
+        "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "South Africa vs Canada (TSN SPORTS FHD)",
@@ -946,7 +955,7 @@
     },
     {
         "name": "South Africa vs Canada (CANAL5 FHD)",
-        "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "link": "https://otte-azion.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
         "origin": "",
         "referrer": "",
@@ -957,7 +966,7 @@
     },
     {
         "name": "South Africa vs Canada (TVE La 1 FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -968,18 +977,18 @@
     },
     {
         "name": "South Africa vs Canada (D Sports FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
+        "drmLicense": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
     },
     {
         "name": "South Africa vs Canada (CAZE TV FHD)",
-        "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "origin": "",
         "referrer": "",
@@ -1000,24 +1009,13 @@
         "drmLicense": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
     },
     {
-        "name": "South Africa vs Canada (TOFFEE BDIX (BD))",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782603609~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdBG0UYnEjtJid75bCFF_VHL5o42lg4cexeVJvPMaoidh-tPqSinqc3flrJjOJzikyYfStWCuB69DVkZLlGS_IF",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "name": "South Africa vs Canada (QAZ SPORTS FHD)",
+        "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "South Africa vs Canada (CT SPORTS CZ)",
-        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
     },
     {
         "name": "South Africa vs Canada (TVP SPORTS HD)",
