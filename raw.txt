@@ -337,6 +337,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "Tapmad HD",
             "TAPMAD FHD",
             "FANCODE (BD)",
             "FANCODE - IN",
@@ -344,12 +345,16 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
+                "title": "Tapmad HD",
+                "logo": ""
+            },
+            {
                 "title": "TAPMAD FHD",
                 "logo": ""
             },
             {
                 "title": "FANCODE (BD)",
-                "logo": ""
+                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
             },
             {
                 "title": "FANCODE - IN",
@@ -2005,7 +2010,14 @@ URL: https://spxhomelive.lol/channels/50007.json
 [
     {
         "api": "",
-        "link": "https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|User-Agent=Mozila",
+        "logo": "",
+        "title": "Tapmad HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pastebin.com/raw/U2LaqQne?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
         "logo": "",
         "title": "TAPMAD FHD",
         "type": "0"
@@ -2013,7 +2025,7 @@ URL: https://spxhomelive.lol/channels/50007.json
     {
         "api": "",
         "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8",
-        "logo": "",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE (BD)",
         "type": "0"
     },

@@ -196,18 +196,27 @@
         "cookie": ""
     },
     {
-        "name": "Zimbabwe vs Bangladesh (TAPMAD FHD)",
-        "link": "https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8",
+        "name": "Zimbabwe vs Bangladesh (Tapmad HD)",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+        "userAgent": "Mozila",
+        "cookie": ""
+    },
+    {
+        "name": "Zimbabwe vs Bangladesh (TAPMAD FHD)",
+        "link": "https://pastebin.com/raw/U2LaqQne?&.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://www.tapmad.com",
+        "referrer": "https://www.tapmad.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "cookie": ""
     },
     {
         "name": "Zimbabwe vs Bangladesh (FANCODE (BD))",
         "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",

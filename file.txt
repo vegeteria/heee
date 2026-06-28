@@ -57,9 +57,9 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
 #EXTINF:-1 tvg-id="zimbabwevsbangladesh0830tapmadfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (TAPMAD FHD)
-https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8
+https://pastebin.com/raw/U2LaqQne?&.m3u8
 
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FANCODE (BD))
+#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FANCODE (BD))
 https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
 
 #EXTINF:-1 tvg-id="zimbabwevsbangladesh0830fancodein" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FANCODE - IN)
