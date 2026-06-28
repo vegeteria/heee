@@ -337,7 +337,7 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "Tapmad HD",
+            "Tapmad HD+",
             "TAPMAD FHD",
             "FANCODE (BD)",
             "FANCODE - IN",
@@ -345,7 +345,7 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "Tapmad HD",
+                "title": "Tapmad HD+",
                 "logo": ""
             },
             {
@@ -2010,9 +2010,9 @@ URL: https://spxhomelive.lol/channels/50007.json
 [
     {
         "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|User-Agent=Mozila",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|Referer=tapmad.com",
         "logo": "",
-        "title": "Tapmad HD",
+        "title": "Tapmad HD+",
         "type": "0"
     },
     {
