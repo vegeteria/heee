@@ -1081,9 +1081,9 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "FOX ONE - AQ",
             "CTV SPORTS FHD",
+            "TOFFE BDIX (BD)",
             "TIPIK FR FHD",
             "TSN SPORTS FHD",
-            "TOFFE BDIX (BD)",
             "ISCREEN BD FHD",
             "WC TV FHD",
             "DSports FHD",
@@ -1144,16 +1144,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png"
             },
             {
+                "title": "TOFFE BDIX (BD)",
+                "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg"
+            },
+            {
                 "title": "TIPIK FR FHD",
                 "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
             },
             {
                 "title": "TSN SPORTS FHD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
-                "title": "TOFFE BDIX (BD)",
-                "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg"
             },
             {
                 "title": "ISCREEN BD FHD",
@@ -1189,7 +1189,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TSN SPORTS HD",
-                "logo": ""
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "FOX ONE HD",
@@ -1281,11 +1281,11 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX SPORTS HD",
-                "logo": ""
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "TSN SPORTS HD",
-                "logo": ""
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "SportzX Live",
@@ -4402,6 +4402,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782695798~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfe3Gys82oMUA6Y9J2yeQeSfTkWmfN71JkKnWuGOexSIQgbejHe5FtfSzONp9XEpVfbIbJknk7OyRDGxNBTX1YM",
+        "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg",
+        "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
         "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
         "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
@@ -4414,13 +4421,6 @@ URL: https://spxhomelive.lol/channels/50063.json
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782695798~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfe3Gys82oMUA6Y9J2yeQeSfTkWmfN71JkKnWuGOexSIQgbejHe5FtfSzONp9XEpVfbIbJknk7OyRDGxNBTX1YM",
-        "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg",
-        "title": "TOFFE BDIX (BD)",
-        "type": "0"
     },
     {
         "api": "",
@@ -4481,13 +4481,13 @@ URL: https://spxhomelive.lol/channels/50063.json
     {
         "api": "",
         "link": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?|referer=https://xyzstreams.st/",
-        "logo": "",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782618894/d50430a7349a4023b50c5e437fe955c8/X0Y8SrEWhoIXeqXkE-WBwvWLY5vLC8X1fy91RM8ODVg/fox-usa.m3u8",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
@@ -4578,7 +4578,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782618912/d94a6895aa8c47e7971de7e3f7fc27fe/H5grzZv6yiwf_5_E6agEq7_SV0cczKjyaH8FcVsSzec/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
@@ -4642,14 +4642,14 @@ URL: https://spxhomelive.lol/channels/50063.json
     {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52551/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52548/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
