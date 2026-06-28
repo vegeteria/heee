@@ -946,14 +946,14 @@
     },
     {
         "name": "Jordan vs Argentina (CAZE TV FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2"
+        "drmLicense": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6"
     },
     {
         "name": "Jordan vs Argentina (FOX ONE HD)",
@@ -1108,12 +1108,14 @@
     },
     {
         "name": "Jordan vs Argentina (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021358-723216-491204d9090)/master_2hr.mpd?c3.ri=6a40797b_Q1ZYMDc_0_RkFTVExZ_96fcdd8bb3f4%3A0&aws.sessionId=375a0c64-5670-43a8-9498-1c5671f73152&ck=eyIwMDIyYWQxODUyYzQ5MTQwMmFkODJkZTdjNmRhMDhlNiI6IjZhODEzYTIxYWE3NGM1Y2JlYzhhY2ZmMDU3YzJjODI4In0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022ad1852c491402ad82de7c6da08e6:6a813a21aa74c5cbec8acff057c2c828"
     },
     {
         "name": "Jordan vs Argentina (TELEMUNDO [USA])",
@@ -1569,12 +1571,14 @@
     },
     {
         "name": "Algeria vs Austria (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021361-723219-491207b5753)/master_2hr.mpd?c3.ri=6a407a13_Q1ZYMDc_0_Q0xPVURGUk9OVA_5945749592cd%3A0&aws.sessionId=1c8ea06d-3ae0-4678-a347-4fa3265218ad&ck=eyIwMDIyMzcyZjVlYmVlNzIzZjdmOTI2NWFlM2JhM2UyZCI6IjEwMDI3MzcwMjY0ZTMwNDM4YzcxZTk3NTc5MGQ4ZWEwIn0%3D",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022372f5ebee723f7f9265ae3ba3e2d:10027370264e30438c71e975790d8ea0"
     },
     {
         "name": "Algeria vs Austria (NBC UNIVERSO [USA])",
