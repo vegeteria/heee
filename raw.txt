@@ -1819,6 +1819,7 @@ URL: https://spxhomelive.lol/events.json
             "WILLOW FHD",
             "WILLOW ALT",
             "SKY SPORT NZ",
+            "SKY SPORTS PLUS",
             "WILLOW HD"
         ],
         "formatsNew": [
@@ -1835,51 +1836,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
             },
             {
+                "title": "SKY SPORTS PLUS",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+            },
+            {
                 "title": "WILLOW HD",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            }
-        ]
-    },
-    {
-        "id": 50074,
-        "title": "West Indies W vs Ireland W",
-        "image": "o",
-        "cat": "Cricket",
-        "eventInfo": {
-            "teamA": "WI-W",
-            "teamB": "IRE-W",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image",
-            "eventName": "West Indies W vs Ireland W",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/27 13:30:00 +0000",
-            "endTime": "2026/06/27 17:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "WILLOW - AQ",
-            "WILLOW ALT",
-            "SKY CRICKET - AQ",
-            "SKY SPORT NZ"
-        ],
-        "formatsNew": [
-            {
-                "title": "WILLOW - AQ",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "WILLOW ALT",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "SKY CRICKET - AQ",
-                "logo": ""
-            },
-            {
-                "title": "SKY SPORT NZ",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
             }
         ]
     }
@@ -3794,66 +3756,39 @@ URL: https://spxhomelive.lol/channels/50073.json
 ============================================================
 [
     {
-        "api": "15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd",
+        "api": "321beaffa646cda1512b2e09eb51d670:da91d675986084c80c0e2013d1efb085",
+        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qen7i3mgzj/out/v1/d8b801ea1477401b9759bd7aa9fccd86/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
     },
     {
-        "api": "15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd",
+        "api": "b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW ALT",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://tmaxapp.site/skynz2.m3u8",
+        "link": "https://tmaxapp.site/skynz4.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORT NZ",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/skyplussd.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORTS PLUS",
         "type": "0"
     },
     {
         "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW HD",
         "type": "1"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50074.json
-============================================================
-[
-    {
-        "api": "ba814c82a2b000ea5fb210d2d6258942:3fc1f6f9c9135906d176b2b6e49590a9",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nsy1o0arb3/out/v1/c75901ad633e4c4b97712bfdd4251c9a/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - AQ",
-        "type": "1"
-    },
-    {
-        "api": "84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW ALT",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
-        "logo": "",
-        "title": "SKY CRICKET - AQ",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://tmaxapp.site/skynz2.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORT NZ",
-        "type": "0"
     }
 ]
 ============================================================
