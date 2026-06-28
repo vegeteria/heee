@@ -24,6 +24,8 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "APPLE TV+ FHD",
+            "SKY SPORTS FEED",
             "FANCODE FHD",
             "SportzX F1 HD",
             "SKY F1 FHD",
@@ -45,6 +47,14 @@ URL: https://spxhomelive.lol/events.json
             "Fox Sports - AQ"
         ],
         "formatsNew": [
+            {
+                "title": "APPLE TV+ FHD",
+                "logo": ""
+            },
+            {
+                "title": "SKY SPORTS FEED",
+                "logo": ""
+            },
             {
                 "title": "FANCODE FHD",
                 "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
@@ -3504,6 +3514,20 @@ URL: https://spxhomelive.lol/events.json
 URL: https://spxhomelive.lol/channels/50002.json
 ============================================================
 [
+    {
+        "api": "1fa42226476f1e88ee7a3430684e3ee4:95d04e9596bb63db9ee5ad6b25035786",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uivuundx0o/out/v1/847ce646e6b5442491682bbb6602be11/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "APPLE TV+ FHD",
+        "type": "1"
+    },
+    {
+        "api": "e7a2aaef0a290e8c7c6b60465e4c4ccf:19c6e9904c23e34d62d92d871d6b96b6",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3mfnptraqh/out/v1/05b575b744274766a37f6a6241aa0309/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "SKY SPORTS FEED",
+        "type": "1"
+    },
     {
         "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
