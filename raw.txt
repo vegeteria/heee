@@ -4229,7 +4229,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://cdn2.xyzstreams.st/bein/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax1-2/index.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"

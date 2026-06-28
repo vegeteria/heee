@@ -999,10 +999,10 @@
     },
     {
         "name": "Jordan vs Argentina (beIN MAX FHD)",
-        "link": "https://cdn2.xyzstreams.st/bein/index.m3u8?",
+        "link": "https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax1-2/index.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://xyzstreams.st/",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
