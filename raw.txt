@@ -25,6 +25,7 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "APPLE TV+ FHD",
+            "TSN SPORTS FHD",
             "SKY SPORTS FEED",
             "FANCODE FHD",
             "SportzX F1 HD",
@@ -49,6 +50,10 @@ URL: https://spxhomelive.lol/events.json
         "formatsNew": [
             {
                 "title": "APPLE TV+ FHD",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS FHD",
                 "logo": ""
             },
             {
@@ -3519,6 +3524,13 @@ URL: https://spxhomelive.lol/channels/50002.json
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uivuundx0o/out/v1/847ce646e6b5442491682bbb6602be11/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "APPLE TV+ FHD",
+        "type": "1"
+    },
+    {
+        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TSN SPORTS FHD",
         "type": "1"
     },
     {
