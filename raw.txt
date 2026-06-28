@@ -27,6 +27,8 @@ URL: https://spxhomelive.lol/events.json
             "FANCODE FHD",
             "SportzX F1 HD",
             "SKY F1 FHD",
+            "SKY F1 4K",
+            "APPLE TV HD",
             "APPLE TV FHD",
             "DAZN ESPANOL",
             "SKY ITALY FHD",
@@ -54,6 +56,14 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "SKY F1 FHD",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+            },
+            {
+                "title": "SKY F1 4K",
+                "logo": ""
+            },
+            {
+                "title": "APPLE TV HD",
+                "logo": ""
             },
             {
                 "title": "APPLE TV FHD",
@@ -3513,6 +3523,20 @@ URL: https://spxhomelive.lol/channels/50002.json
         "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/dd1edec200ffc32f52a13bf21908ee2c/index.m3u8?|referer=https://pushembdz.store/",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY F1 FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/sky-sports-f1-uhd.m3u8",
+        "logo": "",
+        "title": "SKY F1 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/f1-on-apple.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=https://vileembeds.pages.dev/",
+        "logo": "",
+        "title": "APPLE TV HD",
         "type": "0"
     },
     {
