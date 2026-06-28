@@ -992,6 +992,9 @@ URL: https://spxhomelive.lol/events.json
             "FUSSBALL TV FHD",
             "FUSSBALL2 TV FHD",
             "TELEMUNDO [USA]",
+            "TSports HD",
+            "BTV BDIX HD",
+            "SOMOY TV HD",
             "SD SERVER [ENG]",
             "ENG SD SERVER",
             "SD SERVER [SWE]",
@@ -1226,6 +1229,18 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TELEMUNDO [USA]",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+            },
+            {
+                "title": "TSports HD",
+                "logo": ""
+            },
+            {
+                "title": "BTV BDIX HD",
+                "logo": ""
+            },
+            {
+                "title": "SOMOY TV HD",
+                "logo": ""
             },
             {
                 "title": "SD SERVER [ENG]",
@@ -4560,6 +4575,27 @@ URL: https://spxhomelive.lol/channels/50065.json
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO [USA]",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+        "logo": "",
+        "title": "TSports HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
+        "logo": "",
+        "title": "BTV BDIX HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
+        "logo": "",
+        "title": "SOMOY TV HD",
+        "type": "0"
     },
     {
         "api": "",
