@@ -411,11 +411,11 @@ URL: https://spxhomelive.lol/events.json
             "WILLOW ALT",
             "TNT SPORTS HD",
             "WILLOW HD",
-            "SonyLiv - ENG",
-            "SonyLiv - HIN",
-            "SonyLiv - TAM",
-            "SonyLiv - TEL",
-            "SonyLiv - KAN",
+            "Sony Liv [ENG]",
+            "Sony Liv [HIN]",
+            "Sony Liv [TAM]",
+            "Sony Liv [TEL]",
+            "Sony Liv [KAN]",
             "LOW SERVER"
         ],
         "formatsNew": [
@@ -440,23 +440,23 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
             },
             {
-                "title": "SonyLiv - ENG",
+                "title": "Sony Liv [ENG]",
                 "logo": ""
             },
             {
-                "title": "SonyLiv - HIN",
+                "title": "Sony Liv [HIN]",
                 "logo": ""
             },
             {
-                "title": "SonyLiv - TAM",
+                "title": "Sony Liv [TAM]",
                 "logo": ""
             },
             {
-                "title": "SonyLiv - TEL",
+                "title": "Sony Liv [TEL]",
                 "logo": ""
             },
             {
-                "title": "SonyLiv - KAN",
+                "title": "Sony Liv [KAN]",
                 "logo": ""
             },
             {
@@ -3724,7 +3724,7 @@ URL: https://spxhomelive.lol/channels/50008.json
     },
     {
         "api": "",
-        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "title": "TNT SPORTS HD",
         "type": "0"
@@ -3738,37 +3738,37 @@ URL: https://spxhomelive.lol/channels/50008.json
     },
     {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2606/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2806/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
         "logo": "",
-        "title": "SonyLiv - ENG",
+        "title": "Sony Liv [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2606/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2806/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
         "logo": "",
-        "title": "SonyLiv - HIN",
+        "title": "Sony Liv [HIN]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2606/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2806/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
         "logo": "",
-        "title": "SonyLiv - TAM",
+        "title": "Sony Liv [TAM]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2606/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2806/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
         "logo": "",
-        "title": "SonyLiv - TEL",
+        "title": "Sony Liv [TEL]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2606/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2806/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
         "logo": "",
-        "title": "SonyLiv - KAN",
+        "title": "Sony Liv [KAN]",
         "type": "0"
     },
     {
