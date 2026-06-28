@@ -666,82 +666,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50034,
-        "title": "San Diego Padres",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Padres",
-            "teamB": "Dodgers",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-            "eventName": "San Diego Padres vs Los Angeles Dodgers",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 00:40:00 +0000",
-            "endTime": "2026/06/28 03:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50052,
-        "title": "Atlanta Braves",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Giants",
-            "teamB": "Braves",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-            "eventName": "Giants vs Atlanta Braves",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 01:05:00 +0000",
-            "endTime": "2026/06/28 04:05:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50053,
         "title": "Athletics",
         "image": "o",
@@ -775,39 +699,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50057,
-        "title": "Seattle Storm vs Atlanta Dream",
-        "image": "o",
-        "cat": "WNBA",
-        "eventInfo": {
-            "teamA": "Storm",
-            "teamB": "Dream",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-            "eventName": "Seattle Storm vs Atlanta Dream",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 01:00:00 +0000",
-            "endTime": "2026/06/28 03:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX WNBA",
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX WNBA",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
                 "logo": ""
             }
         ]
@@ -3211,60 +3102,6 @@ URL: https://spxhomelive.lol/channels/50011.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50034.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52643/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB13/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50052.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52646/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB14/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50053.json
 ============================================================
 [
@@ -3287,26 +3124,6 @@ URL: https://spxhomelive.lol/channels/50053.json
         "link": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50057.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52645/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX WNBA",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
         "type": "0"
     }
 ]
