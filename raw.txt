@@ -411,85 +411,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50008,
-        "title": "Ireland vs India",
-        "image": "o",
-        "cat": "Cricket",
-        "eventInfo": {
-            "teamA": "IRE",
-            "teamB": "IND",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-            "eventName": "Ireland vs India",
-            "eventType": "null",
-            "eventBanner": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 12:30:00 +0000",
-            "endTime": "2026/06/28 16:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "WILLOW FHD",
-            "TNT Sports FHD",
-            "WILLOW ALT",
-            "TNT SPORTS HD",
-            "WILLOW HD",
-            "Sony Liv [ENG]",
-            "Sony Liv [HIN]",
-            "Sony Liv [TAM]",
-            "Sony Liv [TEL]",
-            "Sony Liv [KAN]",
-            "LOW SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "WILLOW FHD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "TNT Sports FHD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-            },
-            {
-                "title": "WILLOW ALT",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "TNT SPORTS HD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-            },
-            {
-                "title": "WILLOW HD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "Sony Liv [ENG]",
-                "logo": ""
-            },
-            {
-                "title": "Sony Liv [HIN]",
-                "logo": ""
-            },
-            {
-                "title": "Sony Liv [TAM]",
-                "logo": ""
-            },
-            {
-                "title": "Sony Liv [TEL]",
-                "logo": ""
-            },
-            {
-                "title": "Sony Liv [KAN]",
-                "logo": ""
-            },
-            {
-                "title": "LOW SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50009,
         "title": "ONE Friday Fights",
         "image": "o",
@@ -802,112 +723,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "HD SERVER",
                 "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50059,
-        "title": "Australia W vs India W",
-        "image": "o",
-        "cat": "Cricket",
-        "eventInfo": {
-            "teamA": "AUS-W",
-            "teamB": "IND-W",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-            "eventName": "Australia W vs India W",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 13:30:00 +0000",
-            "endTime": "2026/06/28 17:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "WILLOW FHD",
-            "WILLOW ALT",
-            "SKY SPORT NZ",
-            "WILLOW HD",
-            "SKY SPORTS PLUS"
-        ],
-        "formatsNew": [
-            {
-                "title": "WILLOW FHD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "WILLOW ALT",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "SKY SPORT NZ",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            },
-            {
-                "title": "WILLOW HD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "SKY SPORTS PLUS",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            }
-        ]
-    },
-    {
-        "id": 50060,
-        "title": "West Indies vs Sri Lanka",
-        "image": "o",
-        "cat": "Cricket",
-        "eventInfo": {
-            "teamA": "WI",
-            "teamB": "SL",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-            "eventName": "West Indies vs Sri Lanka",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 14:00:00 +0000",
-            "endTime": "2026/06/28 22:00:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "CRICBUZZ - AQ",
-            "TNT Sports FHD",
-            "WILLOW FHD",
-            "WILLOW ALT",
-            "TNT SPORTS HD",
-            "CRICBUZZ HD",
-            "FANCODE - IN"
-        ],
-        "formatsNew": [
-            {
-                "title": "CRICBUZZ - AQ",
-                "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg"
-            },
-            {
-                "title": "TNT Sports FHD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-            },
-            {
-                "title": "WILLOW FHD",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "WILLOW ALT",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-            },
-            {
-                "title": "TNT SPORTS HD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-            },
-            {
-                "title": "CRICBUZZ HD",
-                "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg"
-            },
-            {
-                "title": "FANCODE - IN",
-                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
             }
         ]
     },
@@ -3817,89 +3632,6 @@ URL: https://spxhomelive.lol/channels/50007.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50008.json
-============================================================
-[
-    {
-        "api": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
-        "type": "1"
-    },
-    {
-        "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT Sports FHD",
-        "type": "1"
-    },
-    {
-        "api": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9",
-        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW ALT",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://tmaxapp.site/willoweng.m3u8",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2806/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
-        "logo": "",
-        "title": "Sony Liv [ENG]",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2806/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
-        "logo": "",
-        "title": "Sony Liv [HIN]",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2806/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
-        "logo": "",
-        "title": "Sony Liv [TAM]",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2806/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
-        "logo": "",
-        "title": "Sony Liv [TEL]",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2806/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
-        "logo": "",
-        "title": "Sony Liv [KAN]",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "http://193.47.62.42/hls/FIIIQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50009.json
 ============================================================
 [
@@ -4130,102 +3862,6 @@ URL: https://spxhomelive.lol/channels/50053.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50059.json
-============================================================
-[
-    {
-        "api": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
-        "type": "1"
-    },
-    {
-        "api": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW ALT",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://tmaxapp.site/skynz4.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORT NZ",
-        "type": "0"
-    },
-    {
-        "api": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW HD",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://tmaxapp.site/skyplussd.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS PLUS",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50060.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://wcupzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8|Referer=https://livecricketsl.cc.nf/",
-        "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg",
-        "title": "CRICBUZZ - AQ",
-        "type": "0"
-    },
-    {
-        "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT Sports FHD",
-        "type": "1"
-    },
-    {
-        "api": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
-        "type": "1"
-    },
-    {
-        "api": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW ALT",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://sgzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8|Referer=https://livecricketsl.cc.nf/",
-        "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg",
-        "title": "CRICBUZZ HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/index.m3u8",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - IN",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50061.json
 ============================================================
 [
@@ -4307,7 +3943,7 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782756007~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdiO_355ambhFoF69B98wPT8vxFXjx5FXCMo_xEvHvbQitDBWzQJBqXaaacpD8d8eDXKQpq9DpRVTgrR3FUjPwE",
         "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg",
         "title": "TOFFEE BDIX (BD)",
         "type": "0"
@@ -4335,7 +3971,7 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52574/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52669/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "title": "ITV SPORTS HD",
         "type": "0"
@@ -4545,14 +4181,14 @@ URL: https://spxhomelive.lol/channels/50065.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52586/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52655/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52580/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52670/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"

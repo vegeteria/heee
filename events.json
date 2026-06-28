@@ -314,111 +314,6 @@
         "drmLicense": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e"
     },
     {
-        "name": "Ireland vs India (WILLOW FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9"
-    },
-    {
-        "name": "Ireland vs India (TNT Sports FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
-    },
-    {
-        "name": "Ireland vs India (WILLOW ALT)",
-        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9"
-    },
-    {
-        "name": "Ireland vs India (TNT SPORTS HD)",
-        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ireland vs India (WILLOW HD)",
-        "link": "https://tmaxapp.site/willoweng.m3u8",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Ireland vs India (Sony Liv [ENG])",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2806/ENG/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://www.sonyliv.com",
-        "referrer": "https://www.sonyliv.com/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-        "cookie": ""
-    },
-    {
-        "name": "Ireland vs India (Sony Liv [HIN])",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2806/HIN/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://www.sonyliv.com",
-        "referrer": "https://www.sonyliv.com/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-        "cookie": ""
-    },
-    {
-        "name": "Ireland vs India (Sony Liv [TAM])",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2806/TAM/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://www.sonyliv.com",
-        "referrer": "https://www.sonyliv.com/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-        "cookie": ""
-    },
-    {
-        "name": "Ireland vs India (Sony Liv [TEL])",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2806/TEL/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://www.sonyliv.com",
-        "referrer": "https://www.sonyliv.com/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-        "cookie": ""
-    },
-    {
-        "name": "Ireland vs India (Sony Liv [KAN])",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2806/KAN/master.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://www.sonyliv.com",
-        "referrer": "https://www.sonyliv.com/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-        "cookie": ""
-    },
-    {
-        "name": "Ireland vs India (LOW SERVER)",
-        "link": "http://193.47.62.42/hls/FIIIQQQQQQ.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "http://www.fawanews.sc/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "ONE Friday Fights (One Fight FHD)",
         "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -663,126 +558,6 @@
         "cookie": ""
     },
     {
-        "name": "Australia W vs India W (WILLOW FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
-    },
-    {
-        "name": "Australia W vs India W (WILLOW ALT)",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
-    },
-    {
-        "name": "Australia W vs India W (SKY SPORT NZ)",
-        "link": "https://tmaxapp.site/skynz4.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Australia W vs India W (WILLOW HD)",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415"
-    },
-    {
-        "name": "Australia W vs India W (SKY SPORTS PLUS)",
-        "link": "https://tmaxapp.site/skyplussd.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "West Indies vs Sri Lanka (CRICBUZZ - AQ)",
-        "link": "https://wcupzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8",
-        "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg",
-        "origin": "",
-        "referrer": "https://livecricketsl.cc.nf/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "West Indies vs Sri Lanka (TNT Sports FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
-    },
-    {
-        "name": "West Indies vs Sri Lanka (WILLOW FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336"
-    },
-    {
-        "name": "West Indies vs Sri Lanka (WILLOW ALT)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336"
-    },
-    {
-        "name": "West Indies vs Sri Lanka (TNT SPORTS HD)",
-        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "West Indies vs Sri Lanka (CRICBUZZ HD)",
-        "link": "https://sgzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8",
-        "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg",
-        "origin": "",
-        "referrer": "https://livecricketsl.cc.nf/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "West Indies vs Sri Lanka (FANCODE - IN)",
-        "link": "https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/index.m3u8",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "England vs New Zealand (WILLOW FHD)",
         "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
@@ -882,7 +657,7 @@
     },
     {
         "name": "South Africa vs Canada (TOFFEE BDIX (BD))",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782756007~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdiO_355ambhFoF69B98wPT8vxFXjx5FXCMo_xEvHvbQitDBWzQJBqXaaacpD8d8eDXKQpq9DpRVTgrR3FUjPwE",
         "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg",
         "origin": "",
         "referrer": "",
@@ -924,7 +699,7 @@
     },
     {
         "name": "South Africa vs Canada (ITV SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52574/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52669/load-playlist?",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -1226,7 +1001,7 @@
     },
     {
         "name": "South Africa vs Canada (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52586/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52655/load-playlist?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -1235,7 +1010,7 @@
     },
     {
         "name": "South Africa vs Canada (TSN SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52580/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52670/load-playlist?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
