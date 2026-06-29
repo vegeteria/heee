@@ -669,8 +669,8 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SKY CRICKET FHD",
             "WILLOW FHD",
+            "SKY CRICKET FHD",
             "WILLOW ALT",
             "SKY MAIN EVENT",
             "LOW SERVER",
@@ -680,12 +680,12 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "SKY CRICKET FHD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            },
-            {
                 "title": "WILLOW FHD",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SKY CRICKET FHD",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
             },
             {
                 "title": "WILLOW ALT",
@@ -732,11 +732,10 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "FOX ONE - AQ",
+            "TSN SPORTS FHD",
             "ITV SPORTS FHD",
             "TOFFE BDIX (BD)",
             "iScreen BDIX (BD)",
-            "TSN SPORTS FHD",
             "CAZE TV FHD",
             "SporTV BR FHD",
             "WC TV FHD",
@@ -785,12 +784,13 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "FOX ONE - AQ"
         ],
         "formatsNew": [
             {
-                "title": "FOX ONE - AQ",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+                "title": "TSN SPORTS FHD",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "ITV SPORTS FHD",
@@ -803,10 +803,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "iScreen BDIX (BD)",
                 "logo": ""
-            },
-            {
-                "title": "TSN SPORTS FHD",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "CAZE TV FHD",
@@ -1003,6 +999,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "ESPANOL SD",
                 "logo": ""
+            },
+            {
+                "title": "FOX ONE - AQ",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             }
         ]
     },
@@ -3263,6 +3263,13 @@ URL: https://spxhomelive.lol/channels/50061.json
 ============================================================
 [
     {
+        "api": "0bfd72dcc317a46b442c5eb3f293aac6:1aca7da5cd5e6246829716334feec5c7",
+        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hv0umqrko2/out/v1/9ccf0d5b729a4c88a42de20bbfa0d875/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -3270,15 +3277,8 @@ URL: https://spxhomelive.lol/channels/50061.json
         "type": "0"
     },
     {
-        "api": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa",
-        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
-        "type": "1"
-    },
-    {
-        "api": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
+        "api": "0bfd72dcc317a46b442c5eb3f293aac6:1aca7da5cd5e6246829716334feec5c7",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hv0umqrko2/out/v1/9ccf0d5b729a4c88a42de20bbfa0d875/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW ALT",
         "type": "1"
@@ -3325,10 +3325,10 @@ URL: https://spxhomelive.lol/channels/50066.json
 ============================================================
 [
     {
-        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/hgpxfatexm/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX ONE - AQ",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
         "type": "1"
     },
     {
@@ -3351,13 +3351,6 @@ URL: https://spxhomelive.lol/channels/50066.json
         "logo": "",
         "title": "iScreen BDIX (BD)",
         "type": "0"
-    },
-    {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
     },
     {
         "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
@@ -3701,6 +3694,13 @@ URL: https://spxhomelive.lol/channels/50066.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
+    },
+    {
+        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/hgpxfatexm/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX ONE - AQ",
+        "type": "1"
     }
 ]
 ============================================================
