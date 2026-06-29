@@ -831,6 +831,15 @@
         "drmLicense": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933"
     },
     {
+        "name": "Brazil vs Japan (beIN MAX FHD)",
+        "link": "https://cdn011.viaplus.site/beinsportsmax-sa.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Brazil vs Japan (QAZ SPORTS FHD)",
         "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg",
@@ -851,6 +860,24 @@
         "drmLicense": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec"
     },
     {
+        "name": "Brazil vs Japan (NHK BS JAPAN)",
+        "link": "https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Brazil vs Japan (FUJI TV JAPAN)",
+        "link": "https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Brazil vs Japan (FOX SPORTS HD)",
         "link": "https://cdn011.viaplus.site/fox-usa.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
@@ -865,15 +892,6 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "https://xyzstreams.st/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Brazil vs Japan (beIN MAX FHD)",
-        "link": "https://cdn011.viaplus.site/beinsportsmax-sa.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },

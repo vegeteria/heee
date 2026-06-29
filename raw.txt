@@ -943,11 +943,13 @@ URL: https://spxhomelive.lol/events.json
             "TVE La 1 FHD",
             "D Sports FHD",
             "FOX SPORTS HD",
+            "beIN MAX FHD",
             "QAZ SPORTS FHD",
             "M6 FRANCE (USA)",
+            "NHK BS JAPAN",
+            "FUJI TV JAPAN",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
-            "beIN MAX FHD",
             "FAST SERVER",
             "TELEMUNDO HD",
             "FOX ONE FHD",
@@ -1041,11 +1043,23 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
+                "title": "beIN MAX FHD",
+                "logo": ""
+            },
+            {
                 "title": "QAZ SPORTS FHD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg"
             },
             {
                 "title": "M6 FRANCE (USA)",
+                "logo": ""
+            },
+            {
+                "title": "NHK BS JAPAN",
+                "logo": ""
+            },
+            {
+                "title": "FUJI TV JAPAN",
                 "logo": ""
             },
             {
@@ -1055,10 +1069,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TSN SPORTS HD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-            },
-            {
-                "title": "beIN MAX FHD",
-                "logo": ""
             },
             {
                 "title": "FAST SERVER",
@@ -3798,6 +3808,13 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
+        "link": "https://cdn011.viaplus.site/beinsportsmax-sa.m3u8",
+        "logo": "",
+        "title": "beIN MAX FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg",
         "title": "QAZ SPORTS FHD",
@@ -3812,6 +3829,20 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
+        "link": "https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls",
+        "logo": "",
+        "title": "NHK BS JAPAN",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls",
+        "logo": "",
+        "title": "FUJI TV JAPAN",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://cdn011.viaplus.site/fox-usa.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
@@ -3822,13 +3853,6 @@ URL: https://spxhomelive.lol/channels/50066.json
         "link": "https://cdn011.viaplus.site/tsn1-xyz.m3u8?|Referer=https://xyzstreams.st/",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://cdn011.viaplus.site/beinsportsmax-sa.m3u8",
-        "logo": "",
-        "title": "beIN MAX FHD",
         "type": "0"
     },
     {
