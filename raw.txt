@@ -729,14 +729,17 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "FOX ONE - AQ",
             "ITV SPORTS FHD",
+            "TOFFE BDIX (BD)",
+            "iScreen BDIX (BD)",
             "TSN SPORTS FHD",
-            "FOX SPORT HD",
+            "CAZE TV FHD",
+            "WC TV FHD",
+            "ITV SPORTS HD",
+            "TVE La 1 FHD",
             "FOX SPORTS HD",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "D Sports FHD",
-            "CAZE TV FHD",
-            "TOFFE BDIX (BD)",
             "TVP SPORTS FHD",
             "beIN MAX FHD",
             "FAST SERVER",
@@ -763,7 +766,6 @@ URL: https://spxhomelive.lol/events.json
             "HD SERVER AR",
             "DAZN SPANISH",
             "Match Football FHD",
-            "ISCREEN BD FHD",
             "FUSSBALL 4K [GER]",
             "FUSSBALL2 4K [GER]",
             "FUSSBALL TV FHD",
@@ -784,12 +786,32 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
             },
             {
+                "title": "TOFFE BDIX (BD)",
+                "logo": ""
+            },
+            {
+                "title": "iScreen BDIX (BD)",
+                "logo": ""
+            },
+            {
                 "title": "TSN SPORTS FHD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "FOX SPORT HD",
+                "title": "CAZE TV FHD",
+                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+            },
+            {
+                "title": "WC TV FHD",
+                "logo": ""
+            },
+            {
+                "title": "ITV SPORTS HD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+            },
+            {
+                "title": "TVE La 1 FHD",
+                "logo": ""
             },
             {
                 "title": "FOX SPORTS HD",
@@ -805,14 +827,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "D Sports FHD",
-                "logo": ""
-            },
-            {
-                "title": "CAZE TV FHD",
-                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-            },
-            {
-                "title": "TOFFE BDIX (BD)",
                 "logo": ""
             },
             {
@@ -917,10 +931,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "Match Football FHD",
-                "logo": ""
-            },
-            {
-                "title": "ISCREEN BD FHD",
                 "logo": ""
             },
             {
@@ -3287,18 +3297,53 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "1"
     },
     {
-        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "iScreen BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS FHD",
         "type": "1"
     },
     {
+        "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
+        "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
+        "title": "CAZE TV FHD",
+        "type": "1"
+    },
+    {
+        "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "logo": "",
+        "title": "WC TV FHD",
+        "type": "1"
+    },
+    {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52579/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52669/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "title": "FOX SPORT HD",
+        "title": "ITV SPORTS HD",
         "type": "0"
+    },
+    {
+        "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "logo": "",
+        "title": "TVE La 1 FHD",
+        "type": "1"
     },
     {
         "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
@@ -3327,20 +3372,6 @@ URL: https://spxhomelive.lol/channels/50066.json
         "logo": "",
         "title": "D Sports FHD",
         "type": "1"
-    },
-    {
-        "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
-        "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-        "title": "CAZE TV FHD",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782603612~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcFXOoNpmPXD0VDUfM0Fg1R5ouWiNIaTQCe6N9Ijvjp3HtVKwPjUEuITFkhkA1vPhvFVD9nydqDCMeJx8bD8cYE",
-        "logo": "",
-        "title": "TOFFE BDIX (BD)",
-        "type": "0"
     },
     {
         "api": "0:0",
@@ -3523,13 +3554,6 @@ URL: https://spxhomelive.lol/channels/50066.json
         "logo": "",
         "title": "Match Football FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
-        "logo": "",
-        "title": "ISCREEN BD FHD",
-        "type": "0"
     },
     {
         "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
