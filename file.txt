@@ -1082,24 +1082,3 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 
 #EXTINF:-1 tvg-id="englandvsdrcongo1700sdservercn" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (SD SERVER  CN )
 https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8
-
-#EXTINF:-1 tvg-id="southafricawvsbangladeshw1030willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",South Africa W vs Bangladesh W 10:30 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=321beaffa646cda1512b2e09eb51d670:da91d675986084c80c0e2013d1efb085
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qen7i3mgzj/out/v1/d8b801ea1477401b9759bd7aa9fccd86/cenc.mpd
-
-#EXTINF:-1 tvg-id="southafricawvsbangladeshw1030willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",South Africa W vs Bangladesh W 10:30 (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd
-
-#EXTINF:-1 tvg-id="southafricawvsbangladeshw1030skysportnz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Cricket",South Africa W vs Bangladesh W 10:30 (SKY SPORT NZ)
-https://tmaxapp.site/skynz4.m3u8
-
-#EXTINF:-1 tvg-id="southafricawvsbangladeshw1030skysportsplus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Cricket",South Africa W vs Bangladesh W 10:30 (SKY SPORTS PLUS)
-https://tmaxapp.site/skyplussd.m3u8
-
-#EXTINF:-1 tvg-id="southafricawvsbangladeshw1030willowhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",South Africa W vs Bangladesh W 10:30 (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd

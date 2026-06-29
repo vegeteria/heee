@@ -1188,33 +1188,5 @@
                 "channel_title": "TELEMUNDO [USA]"
             }
         ]
-    },
-    {
-        "event_name": "South Africa W vs Bangladesh W",
-        "team_a_flag": "https://img.sofascore.com/api/v1/team/213118/image",
-        "team_b_flag": "https://img.sofascore.com/api/v1/team/187809/image",
-        "start_time_gmt": "2026-06-28 09:30:00 +0000",
-        "end_time_gmt": "2026-06-28 13:15:00 +0000",
-        "group-title": "Cricket",
-        "streams": [
-            {
-                "web_view_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qen7i3mgzj/out/v1/d8b801ea1477401b9759bd7aa9fccd86/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "321beaffa646cda1512b2e09eb51d670:da91d675986084c80c0e2013d1efb085",
-                "channel_title": "WILLOW FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa",
-                "channel_title": "WILLOW ALT"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "channel_title": "WILLOW HD"
-            }
-        ]
     }
 ]
