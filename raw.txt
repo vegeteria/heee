@@ -5,140 +5,6 @@ URL: https://spxhomelive.lol/events.json
 ============================================================
 [
     {
-        "id": 50002,
-        "title": "Formula 1",
-        "image": "o",
-        "cat": "F1",
-        "eventInfo": {
-            "teamA": "Formula 1",
-            "teamB": "Formula 1",
-            "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-            "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-            "eventName": "Formula 1 - Austria GP",
-            "eventType": "null",
-            "eventBanner": "https://iili.io/CumYfYQ.png",
-            "isHot": "0",
-            "startTime": "2026/06/28 13:00:00 +0000",
-            "endTime": "2026/06/28 15:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "APPLE TV+ FHD",
-            "TSN SPORTS FHD",
-            "SKY SPORTS FEED",
-            "FANCODE FHD",
-            "SportzX F1 HD",
-            "SKY F1 FHD",
-            "SKY F1 4K",
-            "APPLE TV HD",
-            "APPLE TV FHD",
-            "DAZN ESPANOL",
-            "SKY ITALY FHD",
-            "LOW RES",
-            "SKY SPORTS F1",
-            "F1 GERMANY [USA]",
-            "SKY F1 ITALY [USA]",
-            "Tipik FRANCE FHD",
-            "SKY SPORTS HD",
-            "SKY SPORTS F1 UHD",
-            "ELEVEN SPORTS",
-            "Sky F1 DE",
-            "F1 TV FHD",
-            "Fox Sports - AQ"
-        ],
-        "formatsNew": [
-            {
-                "title": "APPLE TV+ FHD",
-                "logo": ""
-            },
-            {
-                "title": "TSN SPORTS FHD",
-                "logo": ""
-            },
-            {
-                "title": "SKY SPORTS FEED",
-                "logo": ""
-            },
-            {
-                "title": "FANCODE FHD",
-                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-            },
-            {
-                "title": "SportzX F1 HD",
-                "logo": ""
-            },
-            {
-                "title": "SKY F1 FHD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            },
-            {
-                "title": "SKY F1 4K",
-                "logo": ""
-            },
-            {
-                "title": "APPLE TV HD",
-                "logo": ""
-            },
-            {
-                "title": "APPLE TV FHD",
-                "logo": ""
-            },
-            {
-                "title": "DAZN ESPANOL",
-                "logo": ""
-            },
-            {
-                "title": "SKY ITALY FHD",
-                "logo": ""
-            },
-            {
-                "title": "LOW RES",
-                "logo": ""
-            },
-            {
-                "title": "SKY SPORTS F1",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            },
-            {
-                "title": "F1 GERMANY [USA]",
-                "logo": ""
-            },
-            {
-                "title": "SKY F1 ITALY [USA]",
-                "logo": ""
-            },
-            {
-                "title": "Tipik FRANCE FHD",
-                "logo": ""
-            },
-            {
-                "title": "SKY SPORTS HD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            },
-            {
-                "title": "SKY SPORTS F1 UHD",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-            },
-            {
-                "title": "ELEVEN SPORTS",
-                "logo": ""
-            },
-            {
-                "title": "Sky F1 DE",
-                "logo": ""
-            },
-            {
-                "title": "F1 TV FHD",
-                "logo": ""
-            },
-            {
-                "title": "Fox Sports - AQ",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            }
-        ]
-    },
-    {
         "id": 50003,
         "title": "MotoGP",
         "image": "o",
@@ -562,143 +428,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50032,
-        "title": "Miami Marlins",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Cardinals",
-            "teamB": "Marlins",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-            "eventName": "Cardinals vs Miami Marlins",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 18:15:00 +0000",
-            "endTime": "2026/06/28 21:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX LIVE",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX LIVE",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50033,
-        "title": "Athletics",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Angels",
-            "teamB": "Athletics",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-            "eventName": "Angels vs Athletics",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 19:15:00 +0000",
-            "endTime": "2026/06/28 22:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50034,
-        "title": "Atlanta Braves",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Giants",
-            "teamB": "Braves",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-            "eventName": "Giants vs Atlanta Braves",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 20:05:00 +0000",
-            "endTime": "2026/06/28 23:05:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50052,
-        "title": "San Diego Padres",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Padres",
-            "teamB": "Dodgers",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-            "eventName": "San Diego Padres vs Dodgers",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 20:10:00 +0000",
-            "endTime": "2026/06/28 23:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50053,
         "title": "Boston Red Sox",
         "image": "o",
@@ -732,100 +461,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50055,
-        "title": "Dallas Wings vs Minnesota Lynx",
-        "image": "o",
-        "cat": "WNBA",
-        "eventInfo": {
-            "teamA": "Wings",
-            "teamB": "Lynx",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image",
-            "eventName": "Dallas Wings vs Minnesota Lynx",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 18:00:00 +0000",
-            "endTime": "2026/06/28 20:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX WNBA",
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX WNBA",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50056,
-        "title": "Washington Mystics vs Portland Fire",
-        "image": "o",
-        "cat": "WNBA",
-        "eventInfo": {
-            "teamA": "Mystics",
-            "teamB": "Fire",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-            "eventName": "Washington Mystics vs Portland Fire",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 19:00:00 +0000",
-            "endTime": "2026/06/28 21:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX WNBA",
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX WNBA",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50057,
-        "title": "Chicago Sky vs Las Vegas Aces",
-        "image": "o",
-        "cat": "WNBA",
-        "eventInfo": {
-            "teamA": "Sky",
-            "teamB": "Aces",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-            "eventName": "Chicago Sky vs Las Vegas Aces",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 20:00:00 +0000",
-            "endTime": "2026/06/28 22:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50058,
         "title": "Valkyries vs Liberty",
         "image": "o",
@@ -854,6 +489,54 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50059,
+        "title": "Australia W vs West Indies W",
+        "image": "o",
+        "cat": "Cricket",
+        "eventInfo": {
+            "teamA": "AUS-W",
+            "teamB": "WI-W",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+            "eventName": "Australia W vs West Indies W",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/06/30 13:30:00 +0000",
+            "endTime": "2026/06/30 17:15:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "WILLOW FHD",
+            "WILLOW ALT",
+            "SKY SPORT NZ",
+            "WILLOW HD",
+            "SKY SPORTS PLUS"
+        ],
+        "formatsNew": [
+            {
+                "title": "WILLOW FHD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "WILLOW ALT",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SKY SPORT NZ",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+            },
+            {
+                "title": "WILLOW HD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SKY SPORTS PLUS",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+            }
+        ]
+    },
+    {
         "id": 50061,
         "title": "England vs New Zealand",
         "image": "o",
@@ -866,8 +549,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "England vs New Zealand",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/28 10:00:00 +0000",
-            "endTime": "2026/06/28 18:00:00 +0000"
+            "startTime": "2026/06/29 10:00:00 +0000",
+            "endTime": "2026/06/29 18:00:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -3063,318 +2746,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             }
         ]
-    },
-    {
-        "id": 50080,
-        "title": "Tampa Bay Rays vs Diamondbacks",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Rays",
-            "teamB": "Diamondbacks",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-            "eventName": "Tampa Bay Rays vs Diamondbacks",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 17:40:00 +0000",
-            "endTime": "2026/06/28 20:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50081,
-        "title": "White Sox vs Royals",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "White Sox",
-            "teamB": "Royals",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-            "eventName": "Chicago White Sox vs Royals",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 18:10:00 +0000",
-            "endTime": "2026/06/28 21:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50082,
-        "title": "Milwaukee Brewers vs Chicago Cubs",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Brewers",
-            "teamB": "Cubs",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-            "eventName": "Milwaukee Brewers vs Chicago Cubs",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 18:10:00 +0000",
-            "endTime": "2026/06/28 21:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50083,
-        "title": "Minnesota Twins vs Rockies",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Twins",
-            "teamB": "Rockies",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-            "eventName": "Minnesota Twins vs Colorado Rockies",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 18:10:00 +0000",
-            "endTime": "2026/06/28 21:10:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50002.json
-============================================================
-[
-    {
-        "api": "1fa42226476f1e88ee7a3430684e3ee4:95d04e9596bb63db9ee5ad6b25035786",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uivuundx0o/out/v1/847ce646e6b5442491682bbb6602be11/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "APPLE TV+ FHD",
-        "type": "1"
-    },
-    {
-        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "e7a2aaef0a290e8c7c6b60465e4c4ccf:19c6e9904c23e34d62d92d871d6b96b6",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3mfnptraqh/out/v1/05b575b744274766a37f6a6241aa0309/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SKY SPORTS FEED",
-        "type": "1"
-    },
-    {
-        "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE FHD",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX F1 HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/dd1edec200ffc32f52a13bf21908ee2c/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY F1 FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://inproviszon.st/sky-sports-f1-uhd.m3u8",
-        "logo": "",
-        "title": "SKY F1 4K",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://inproviszon.st/f1-on-apple.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=https://vileembeds.pages.dev/",
-        "logo": "",
-        "title": "APPLE TV HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/d133aa244a9421ae99a205193c5bab1a/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "APPLE TV FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/40751a54996f0f170e5ea7e9d3f45447/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "DAZN ESPANOL",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/e59af8524947f13a9dc820e272115f32/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "SKY ITALY FHD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/a6f9534520d15ab4a293b2e337949789/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "LOW RES",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS F1",
-        "type": "0"
-    },
-    {
-        "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
-        "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
-        "logo": "",
-        "title": "F1 GERMANY [USA]",
-        "type": "1"
-    },
-    {
-        "api": "1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a",
-        "link": "https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1782695315_f~0_g~1_s~328b056e-ac72-4a70-8bc3-6a6660c72113_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~c8385565e022b5f247306341c8130fdf/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd",
-        "logo": "",
-        "title": "SKY F1 ITALY [USA]",
-        "type": "1"
-    },
-    {
-        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "",
-        "title": "Tipik FRANCE FHD",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS F1 UHD",
-        "type": "0"
-    },
-    {
-        "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
-        "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-        "logo": "",
-        "title": "ELEVEN SPORTS",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "Sky F1 DE",
-        "type": "0"
-    },
-    {
-        "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-        "logo": "",
-        "title": "F1 TV FHD",
-        "type": "1"
-    },
-    {
-        "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
-        "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "Fox Sports - AQ",
-        "type": "1"
     }
 ]
 ============================================================
@@ -3591,93 +2962,6 @@ URL: https://spxhomelive.lol/channels/50011.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50032.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52680/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX LIVE",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50033.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB12/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50034.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB13/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50052.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB14/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50053.json
 ============================================================
 [
@@ -3698,59 +2982,6 @@ URL: https://spxhomelive.lol/channels/50053.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50055.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52671/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX WNBA",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50056.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52681/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX WNBA",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50057.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50058.json
 ============================================================
 [
@@ -3759,6 +2990,47 @@ URL: https://spxhomelive.lol/channels/50058.json
         "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50059.json
+============================================================
+[
+    {
+        "api": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW FHD",
+        "type": "1"
+    },
+    {
+        "api": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW ALT",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/skynz4.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT NZ",
+        "type": "0"
+    },
+    {
+        "api": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW HD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/skyplussd.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORTS PLUS",
         "type": "0"
     }
 ]
@@ -6458,114 +5730,6 @@ URL: https://spxhomelive.lol/channels/50079.json
     {
         "api": "",
         "link": "https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50080.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52665/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50081.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52673/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50082.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52677/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50083.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52675/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "HD SERVER",
         "type": "0"
