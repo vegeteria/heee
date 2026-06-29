@@ -1293,6 +1293,8 @@ URL: https://spxhomelive.lol/events.json
             "D Sports FHD",
             "CAZE TV FHD",
             "SporTV BR FHD",
+            "FOX SPORTS HD",
+            "TELEMUNDO HD",
             "RTE SPORTS FHD",
             "NPO1 DUTCH FHD",
             "QAZ SPORTS FHD",
@@ -1301,7 +1303,6 @@ URL: https://spxhomelive.lol/events.json
             "ARABIC LIVE FHD",
             "GOLTV VIVO",
             "BBC SPORTS HD",
-            "FOX SPORTS HD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
             "beIN MAX FHD",
@@ -1387,6 +1388,14 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://iili.io/CFFRvqJ.png"
             },
             {
+                "title": "FOX SPORTS HD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "TELEMUNDO HD",
+                "logo": ""
+            },
+            {
                 "title": "RTE SPORTS FHD",
                 "logo": ""
             },
@@ -1417,10 +1426,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "BBC SPORTS HD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
-            },
-            {
-                "title": "FOX SPORTS HD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "TSN SPORTS HD",
@@ -4339,6 +4344,20 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "1"
     },
     {
+        "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS HD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52704/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TELEMUNDO HD",
+        "type": "0"
+    },
+    {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
         "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd",
         "logo": "",
@@ -4375,7 +4394,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/beinsportsmax2-sa.m3u8",
+        "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
@@ -4389,17 +4408,10 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52695/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52703/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
         "title": "BBC SPORTS HD",
         "type": "0"
-    },
-    {
-        "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS HD",
-        "type": "1"
     },
     {
         "api": "",
@@ -4417,7 +4429,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
+        "link": "https://cdn011.viaplus.site/beinsportsmax2-sa.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
@@ -4550,7 +4562,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52701/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52702/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
