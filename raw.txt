@@ -933,6 +933,8 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE - AQ",
             "TSN SPORTS FHD",
             "TOFFE BDIX (BD)",
+            "Binge BD FHD",
+            "FOX ONE 4K",
             "ITV SPORTS FHD",
             "TOFFEE AQ (BDIX)",
             "iScreen BDIX (BD)",
@@ -949,7 +951,6 @@ URL: https://spxhomelive.lol/events.json
             "M6 FRANCE (USA)",
             "NHK BS JAPAN",
             "FUJI TV JAPAN",
-            "Binge BD FHD",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "FAST SERVER",
@@ -990,7 +991,7 @@ URL: https://spxhomelive.lol/events.json
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD",
-            "FOX ONE 4K"
+            "FOX 4K [ALT]"
         ],
         "formatsNew": [
             {
@@ -1004,6 +1005,14 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TOFFE BDIX (BD)",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png"
+            },
+            {
+                "title": "Binge BD FHD",
+                "logo": ""
+            },
+            {
+                "title": "FOX ONE 4K",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "ITV SPORTS FHD",
@@ -1067,10 +1076,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FUJI TV JAPAN",
-                "logo": ""
-            },
-            {
-                "title": "Binge BD FHD",
                 "logo": ""
             },
             {
@@ -1234,7 +1239,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX ONE 4K",
+                "title": "FOX 4K [ALT]",
                 "logo": ""
             }
         ]
@@ -3752,6 +3757,20 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
+        "logo": "",
+        "title": "Binge BD FHD",
+        "type": "0"
+    },
+    {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX ONE 4K",
+        "type": "1"
+    },
+    {
         "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
@@ -3861,13 +3880,6 @@ URL: https://spxhomelive.lol/channels/50066.json
         "link": "https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls",
         "logo": "",
         "title": "FUJI TV JAPAN",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
-        "logo": "",
-        "title": "Binge BD FHD",
         "type": "0"
     },
     {
@@ -4152,10 +4164,10 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
         "logo": "",
-        "title": "FOX ONE 4K",
-        "type": "1"
+        "title": "FOX 4K [ALT]",
+        "type": "0"
     }
 ]
 ============================================================

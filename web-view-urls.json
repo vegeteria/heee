@@ -238,6 +238,12 @@
                 "channel_title": "TSN SPORTS FHD"
             },
             {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+                "clearkey": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX ONE 4K"
+            },
+            {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
                 "clearkey": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
@@ -370,10 +376,10 @@
                 "channel_title": "FUSSBALL2 TV FHD"
             },
             {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+                "web_view_url": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                "channel_title": "FOX ONE 4K"
+                "channel_title": "FOX 4K [ALT]"
             }
         ]
     },
