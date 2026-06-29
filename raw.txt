@@ -958,7 +958,7 @@ URL: https://spxhomelive.lol/events.json
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
             "FOX ONE 4K",
-            "FS1 4K LIVE",
+            "FOX 4K LIVE",
             "TSN SPORTS 4K",
             "DAZN MUNDIAL",
             "TELEMUNDO FHD",
@@ -1101,7 +1101,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "FS1 4K LIVE",
+                "title": "FOX 4K LIVE",
                 "logo": ""
             },
             {
@@ -3826,7 +3826,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/beinsportsmax2-sa.m3u8",
+        "link": "https://cdn011.viaplus.site/beinsportsmax-sa.m3u8",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
@@ -3905,7 +3905,7 @@ URL: https://spxhomelive.lol/channels/50066.json
         "api": "",
         "link": "https://cdn011.viaplus.site/fox4k-xyz.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
-        "title": "FS1 4K LIVE",
+        "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
@@ -3924,7 +3924,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/telemundo-xyz.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://cdn011.viaplus.site/telemundo-usa.m3u8",
         "logo": "",
         "title": "TELEMUNDO FHD",
         "type": "0"

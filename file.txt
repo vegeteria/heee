@@ -256,7 +256,7 @@ https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-
 https://cdn011.viaplus.site/fox-usa.m3u8
 
 #EXTINF:-1 tvg-id="brazilvsjapan1800beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (beIN MAX FHD)
-https://cdn011.viaplus.site/beinsportsmax2-sa.m3u8
+https://cdn011.viaplus.site/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 tvg-id="brazilvsjapan1800foxonefhd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (FOX ONE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -293,6 +293,9 @@ https://cdn011.viaplus.site/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="brazilvsjapan1800daznmundial" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (DAZN MUNDIAL)
 https://cdn011.viaplus.site/daznmundial-es.m3u8
+
+#EXTINF:-1 tvg-id="brazilvsjapan1800telemundofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (TELEMUNDO FHD)
+https://cdn011.viaplus.site/telemundo-usa.m3u8
 
 #EXTINF:-1 tvg-id="brazilvsjapan1800fussballtvuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (FUSSBALL TV UHD)
 https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8

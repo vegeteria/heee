@@ -870,7 +870,7 @@
     },
     {
         "name": "Brazil vs Japan (beIN MAX FHD)",
-        "link": "https://cdn011.viaplus.site/beinsportsmax2-sa.m3u8",
+        "link": "https://cdn011.viaplus.site/beinsportsmax-sa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -980,7 +980,7 @@
         "cookie": ""
     },
     {
-        "name": "Brazil vs Japan (FS1 4K LIVE)",
+        "name": "Brazil vs Japan (FOX 4K LIVE)",
         "link": "https://cdn011.viaplus.site/fox4k-xyz.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
@@ -1008,10 +1008,10 @@
     },
     {
         "name": "Brazil vs Japan (TELEMUNDO FHD)",
-        "link": "https://cdn011.viaplus.site/telemundo-xyz.m3u8?",
+        "link": "https://cdn011.viaplus.site/telemundo-usa.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://xyzstreams.st/",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
