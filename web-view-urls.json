@@ -494,6 +494,12 @@
                 "channel_title": "FOX ONE [ALT]"
             },
             {
+                "web_view_url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021696-723554-49134730a62)/master_2hr.mpd?c3.ri=6a42c4d5_Q1ZYMDc_0_Q0xPVURGUk9OVA_dab2249aa7dc%3A0&aws.sessionId=1fac57cb-f503-4c7a-8e3f-63a3432484be&ck=eyIwMDIyYzIxNjE2NDU1ZTZhYmZhY2ZhODFlMDZkYTQzNSI6IjdiNmE2OTRhZmZkNzRjY2ZlOGFkMWVkZGY0OTg4ZGQyIn0%3D",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "0022c21616455e6abfacfa81e06da435:7b6a694affd74ccfe8ad1eddf4988dd2",
+                "channel_title": "PEACOCK FHD [ALT]"
+            },
+            {
                 "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
                 "clearkey": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
