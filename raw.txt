@@ -1237,9 +1237,10 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "TIPIK FR FHD",
             "TOFFEE BD FHD",
+            "WC TV FHD",
+            "D Sports FHD",
             "BBC SPORTS HD",
             "FOX SPORTS HD",
-            "D Sports FHD",
             "CAZE TV FHD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
@@ -1280,8 +1281,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SERVER SD",
             "SD SERVER  [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "WC TV FHD"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -1301,16 +1301,20 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "WC TV FHD",
+                "logo": ""
+            },
+            {
+                "title": "D Sports FHD",
+                "logo": ""
+            },
+            {
                 "title": "BBC SPORTS HD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
             },
             {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "D Sports FHD",
-                "logo": ""
             },
             {
                 "title": "CAZE TV FHD",
@@ -1474,10 +1478,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "WC TV FHD",
                 "logo": ""
             }
         ]
@@ -4117,6 +4117,20 @@ URL: https://spxhomelive.lol/channels/50067.json
         "type": "0"
     },
     {
+        "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "logo": "",
+        "title": "WC TV FHD",
+        "type": "1"
+    },
+    {
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "D Sports FHD",
+        "type": "1"
+    },
+    {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52599/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
@@ -4128,13 +4142,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
-        "type": "1"
-    },
-    {
-        "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D Sports FHD",
         "type": "1"
     },
     {
@@ -4423,13 +4430,6 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
-    },
-    {
-        "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
-        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-        "logo": "",
-        "title": "WC TV FHD",
-        "type": "1"
     }
 ]
 ============================================================
