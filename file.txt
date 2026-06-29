@@ -149,6 +149,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
 https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
 
+#EXTINF:-1 tvg-id="brazilvsjapan1800sportvbrfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (SporTV BR FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
 #EXTINF:-1 tvg-id="brazilvsjapan1800wctvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (WC TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
@@ -164,16 +169,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-id="brazilvsjapan1800qazsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg" group-title="Fifa world cup",Brazil vs Japan 18:00 (QAZ SPORTS FHD)
-https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
-
 #EXTINF:-1 tvg-id="brazilvsjapan1800foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (FOX SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
 
+#EXTINF:-1 tvg-id="brazilvsjapan1800qazsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg" group-title="Fifa world cup",Brazil vs Japan 18:00 (QAZ SPORTS FHD)
+https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+
 #EXTINF:-1 tvg-id="brazilvsjapan1800foxsportshd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (FOX SPORTS HD)
-https://nhjjhhjhjjhfjj.pages.dev/1782531233/1633c7f38fe041e1ab509ff481048302/MeDXHT0V0EASrsGdY8utPXlgB3Z84KThGzIgygb9hIU/fox-sports-1.m3u8
+https://cdn011.viaplus.site/fox-usa.m3u8
 
 #EXTINF:-1 tvg-id="brazilvsjapan1800tvpsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-sport.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (TVP SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
