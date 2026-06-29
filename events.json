@@ -409,6 +409,15 @@
         "cookie": ""
     },
     {
+        "name": "England vs New Zealand (SKY CRICKET FHD)",
+        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": ""
+    },
+    {
         "name": "England vs New Zealand (WILLOW FHD)",
         "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
@@ -418,15 +427,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa"
-    },
-    {
-        "name": "England vs New Zealand (SKY CRICKET FHD)",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla",
-        "cookie": ""
     },
     {
         "name": "England vs New Zealand (WILLOW ALT)",
@@ -468,7 +468,7 @@
     },
     {
         "name": "England vs New Zealand (Sony Liv [Asia])",
-        "link": "https://sonydaimenew.akamaized.net/hls/live/20000295/Englandv2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683707~acl=/*~id=90059764072974571438912851560412~hmac=d028531eb8e50ebd1ff5f2fc2945f1361956dff837764fd012bb23cc540a1b9d",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/England_2906/ENG/master.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://www.sonyliv.com",
         "referrer": "https://www.sonyliv.com/",
