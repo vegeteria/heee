@@ -375,8 +375,8 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "Zimbabwe vs Bangladesh",
             "eventType": "null",
             "isHot": "0",
-            "startTime": "2026/06/29 07:30:00 +0000",
-            "endTime": "2026/06/29 15:15:00 +0000"
+            "startTime": "2026/06/30 07:30:00 +0000",
+            "endTime": "2026/06/30 15:15:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -580,8 +580,8 @@ URL: https://spxhomelive.lol/events.json
             "eventType": "null",
             "eventBanner": "https://iili.io/C5FwXja.png",
             "isHot": "0",
-            "startTime": "2026/06/29 10:00:00 +0000",
-            "endTime": "2026/06/29 16:30:00 +0000"
+            "startTime": "2026/06/30 10:00:00 +0000",
+            "endTime": "2026/06/30 16:30:00 +0000"
         },
         "adsLimit": "10",
         "publish": "1",
@@ -860,7 +860,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
             "eventName": "Germany vs Paraguay",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/29 20:30:00 +0000",
             "endTime": "2026/06/29 22:45:00 +0000"
         },
