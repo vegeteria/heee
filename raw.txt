@@ -755,7 +755,9 @@ URL: https://spxhomelive.lol/events.json
             "FOX ONE 4K",
             "FS1 4K LIVE",
             "TSN SPORTS 4K",
-            "NBC UNIVERSO FHD",
+            "DAZN MUNDIAL",
+            "TELEMUNDO FHD",
+            "FUSSBALL TV UHD",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -891,7 +893,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "NBC UNIVERSO FHD",
+                "title": "DAZN MUNDIAL",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL TV UHD",
                 "logo": ""
             },
             {
@@ -3485,9 +3495,23 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
         "logo": "",
-        "title": "NBC UNIVERSO FHD",
+        "title": "DAZN MUNDIAL",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://cdn011.viaplus.site/telemundo-xyz.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+        "logo": "",
+        "title": "FUSSBALL TV UHD",
         "type": "0"
     },
     {
