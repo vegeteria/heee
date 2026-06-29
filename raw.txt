@@ -960,11 +960,13 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS [ALT]",
             "TSN SPORTS [ALT]",
             "ITV SPORTS [ALT]",
+            "FOX 4K [ALT]",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
             "FOX ONE 4K",
             "FOX 4K LIVE",
             "TSN SPORTS 4K",
+            "NOW TV 4K",
             "DAZN MUNDIAL",
             "TELEMUNDO FHD",
             "FUSSBALL TV UHD",
@@ -990,8 +992,7 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD",
-            "FOX 4K [ALT]"
+            "ESPANOL SD"
         ],
         "formatsNew": [
             {
@@ -1008,7 +1009,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "Binge BD FHD",
-                "logo": ""
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png"
             },
             {
                 "title": "FOX ONE 4K",
@@ -1115,6 +1116,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "FOX 4K [ALT]",
+                "logo": ""
+            },
+            {
                 "title": "PEACOCK FHD [ALT]",
                 "logo": ""
             },
@@ -1133,6 +1138,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TSN SPORTS 4K",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+            },
+            {
+                "title": "NOW TV 4K",
+                "logo": ""
             },
             {
                 "title": "DAZN MUNDIAL",
@@ -1236,10 +1245,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
-                "logo": ""
-            },
-            {
-                "title": "FOX 4K [ALT]",
                 "logo": ""
             }
         ]
@@ -3759,7 +3764,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     {
         "api": "",
         "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
-        "logo": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png",
         "title": "Binge BD FHD",
         "type": "0"
     },
@@ -3946,6 +3951,13 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "1"
     },
     {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "logo": "",
+        "title": "FOX 4K [ALT]",
+        "type": "0"
+    },
+    {
         "api": "",
         "link": "ok",
         "logo": "",
@@ -3978,6 +3990,13 @@ URL: https://spxhomelive.lol/channels/50066.json
         "link": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?|referer=https://xyzstreams.st/",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
+        "logo": "",
+        "title": "NOW TV 4K",
         "type": "0"
     },
     {
@@ -4160,13 +4179,6 @@ URL: https://spxhomelive.lol/channels/50066.json
         "link": "http://193.47.62.47/hls/Zckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
-        "type": "0"
-    },
-    {
-        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-        "logo": "",
-        "title": "FOX 4K [ALT]",
         "type": "0"
     }
 ]
