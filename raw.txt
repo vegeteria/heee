@@ -461,34 +461,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50058,
-        "title": "Valkyries vs Liberty",
-        "image": "o",
-        "cat": "WNBA",
-        "eventInfo": {
-            "teamA": "Valkyries",
-            "teamB": "Liberty",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-            "eventName": "Valkyries vs Liberty",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 23:00:00 +0000",
-            "endTime": "2026/06/29 01:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50059,
         "title": "Australia W vs West Indies W",
         "image": "o",
@@ -2701,19 +2673,6 @@ URL: https://spxhomelive.lol/channels/50053.json
         "link": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50058.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
         "type": "0"
     }
 ]
