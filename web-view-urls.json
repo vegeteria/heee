@@ -422,18 +422,6 @@
                 "channel_title": "SporTV BR FHD"
             },
             {
-                "web_view_url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "channel_title": "CT SPORTS CZ"
-            },
-            {
-                "web_view_url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec",
-                "channel_title": "M6 FRANCE (USA)"
-            },
-            {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
                 "clearkey": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
@@ -444,6 +432,12 @@
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                 "channel_title": "CT SPORTS CZ"
+            },
+            {
+                "web_view_url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec",
+                "channel_title": "M6 FRANCE (USA)"
             },
             {
                 "web_view_url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
