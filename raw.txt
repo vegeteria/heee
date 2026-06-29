@@ -4301,7 +4301,7 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52599/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52695/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
         "title": "BBC SPORTS HD",
         "type": "0"
