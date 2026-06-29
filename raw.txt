@@ -745,6 +745,7 @@ URL: https://spxhomelive.lol/events.json
             "D Sports FHD",
             "FOX SPORTS HD",
             "QAZ SPORTS FHD",
+            "M6 FRANCE (USA)",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "beIN MAX FHD",
@@ -839,6 +840,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "QAZ SPORTS FHD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg"
+            },
+            {
+                "title": "M6 FRANCE (USA)",
+                "logo": ""
             },
             {
                 "title": "FOX SPORTS HD",
@@ -3361,7 +3366,7 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
-        "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "CAZE TV FHD",
         "type": "1"
@@ -3414,6 +3419,13 @@ URL: https://spxhomelive.lol/channels/50066.json
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg",
         "title": "QAZ SPORTS FHD",
         "type": "0"
+    },
+    {
+        "api": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec",
+        "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "logo": "",
+        "title": "M6 FRANCE (USA)",
+        "type": "1"
     },
     {
         "api": "",
