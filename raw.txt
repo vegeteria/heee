@@ -428,39 +428,6 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
-        "id": 50053,
-        "title": "Boston Red Sox",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Red Sox",
-            "teamB": "Yankees",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-            "eventName": "Red Sox vs Yankees",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/06/28 23:20:00 +0000",
-            "endTime": "2026/06/29 02:20:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
         "id": 50059,
         "title": "Australia W vs West Indies W",
         "image": "o",
@@ -2654,26 +2621,6 @@ URL: https://spxhomelive.lol/channels/50011.json
         "logo": "",
         "title": "USA TV",
         "type": "1"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50053.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
     }
 ]
 ============================================================
