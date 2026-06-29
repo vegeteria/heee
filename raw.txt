@@ -923,7 +923,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4770/image",
             "eventName": "Brazil vs Japan",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/29 17:00:00 +0000",
             "endTime": "2026/06/29 19:15:00 +0000"
         },
