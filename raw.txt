@@ -593,7 +593,8 @@ URL: https://spxhomelive.lol/events.json
             "EUROSPORT FHD",
             "EUROSPORT2 FHD",
             "STAN SPORTS",
-            "TSN2 SPORTS SD"
+            "TSN2 SPORTS SD",
+            "TSN5 SPORTS SD"
         ],
         "formatsNew": [
             {
@@ -626,6 +627,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TSN2 SPORTS SD",
+                "logo": ""
+            },
+            {
+                "title": "TSN5 SPORTS SD",
                 "logo": ""
             }
         ]
