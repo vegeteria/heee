@@ -196,200 +196,6 @@
         ]
     },
     {
-        "event_name": "England vs New Zealand",
-        "team_a_flag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "team_b_flag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "start_time_gmt": "2026-06-29 10:00:00 +0000",
-        "end_time_gmt": "2026-06-29 14:00:00 +0000",
-        "group-title": "Cricket",
-        "streams": [
-            {
-                "web_view_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hv0umqrko2/out/v1/9ccf0d5b729a4c88a42de20bbfa0d875/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "0bfd72dcc317a46b442c5eb3f293aac6:1aca7da5cd5e6246829716334feec5c7",
-                "channel_title": "WILLOW FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hv0umqrko2/out/v1/9ccf0d5b729a4c88a42de20bbfa0d875/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "0bfd72dcc317a46b442c5eb3f293aac6:1aca7da5cd5e6246829716334feec5c7",
-                "channel_title": "WILLOW ALT"
-            }
-        ]
-    },
-    {
-        "event_name": "Brazil vs Japan",
-        "team_a_flag": "https://img.sofascore.com/api/v1/team/4748/image",
-        "team_b_flag": "https://img.sofascore.com/api/v1/team/4770/image",
-        "start_time_gmt": "2026-06-29 17:00:00 +0000",
-        "end_time_gmt": "2026-06-29 19:15:00 +0000",
-        "group-title": "Fifa world cup",
-        "streams": [
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                "channel_title": "FOX ONE - AQ"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-                "clearkey": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "channel_title": "TSN SPORTS FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                "channel_title": "FOX ONE 4K"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-                "clearkey": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-                "channel_title": "ITV SPORTS FHD"
-            },
-            {
-                "web_view_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
-                "channel_title": "WC TV FHD"
-            },
-            {
-                "web_view_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-                "channel_title": "TIPIK FR FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-                "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-                "clearkey": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-                "channel_title": "CAZE TV FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-                "logo": "https://iili.io/CFFRvqJ.png",
-                "clearkey": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "channel_title": "SporTV BR FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-                "channel_title": "TVE La 1 FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-                "channel_title": "D Sports FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
-                "channel_title": "FOX SPORTS HD"
-            },
-            {
-                "web_view_url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec",
-                "channel_title": "M6 FRANCE (USA)"
-            },
-            {
-                "web_view_url": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                "channel_title": "FOX ONE FHD"
-            },
-            {
-                "web_view_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-                "clearkey": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "channel_title": "TSN Sports FHD"
-            },
-            {
-                "web_view_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                "channel_title": "FOX SPORTS [ALT]"
-            },
-            {
-                "web_view_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-                "clearkey": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-                "channel_title": "TSN SPORTS [ALT]"
-            },
-            {
-                "web_view_url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-                "channel_title": "ITV SPORTS [ALT]"
-            },
-            {
-                "web_view_url": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                "channel_title": "FOX 4K [ALT]"
-            },
-            {
-                "web_view_url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/v~1-0-0_e~1782842272_f~0_g~1_s~a87f42cf-94c4-4806-a718-839aef4daf51_u~8be5aa8584ac23a75752e35a112a8c8204e4e34fa76d5e654c188ed25ce40a0a39fb54c16dbdf850c5901a677ae925f6_k~A_l~78_x~25963184e80d3be8fbf64830e5bf7ca5/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021695-723553-4913463c821)/master_2hr.mpd?t=v1&c3.ri=6a42a410_Q1ZYMDc_0_Q0xPVURGUk9OVA_426e87e3272a:0",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "002222dacb9f90e2f8c7244a337de62c:2e50a4d47e253e351dbe7437e06e2cd2",
-                "channel_title": "PEACOCK FHD [ALT]"
-            },
-            {
-                "web_view_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-                "clearkey": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-                "channel_title": "TELEMUNDO [USA]"
-            },
-            {
-                "web_view_url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
-                "channel_title": "FUSSBALL TV 4K"
-            },
-            {
-                "web_view_url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
-                "channel_title": "FUSSBALL TV2 4K"
-            },
-            {
-                "web_view_url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-                "channel_title": "Match Football FHD"
-            },
-            {
-                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-                "channel_title": "FUSSBALL 4K [GER]"
-            },
-            {
-                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
-                "channel_title": "FUSSBALL2 4K [GER]"
-            },
-            {
-                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-                "channel_title": "FUSSBALL TV FHD"
-            },
-            {
-                "web_view_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
-                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-                "clearkey": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
-                "channel_title": "FUSSBALL2 TV FHD"
-            }
-        ]
-    },
-    {
         "event_name": "Germany vs Paraguay",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/4711/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4789/image",
@@ -420,12 +226,6 @@
                 "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
                 "clearkey": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
                 "channel_title": "WC TV FHD"
-            },
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-                "clearkey": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                "channel_title": "FOX ONE 4K"
             },
             {
                 "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
@@ -510,6 +310,12 @@
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
                 "clearkey": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
                 "channel_title": "FOX ONE [ALT]"
+            },
+            {
+                "web_view_url": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+                "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+                "clearkey": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+                "channel_title": "FOX 4K [ALT]"
             },
             {
                 "web_view_url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021696-723554-49134730a62)/master_2hr.mpd?c3.ri=6a42c4d5_Q1ZYMDc_0_Q0xPVURGUk9OVA_dab2249aa7dc%3A0&aws.sessionId=1fac57cb-f503-4c7a-8e3f-63a3432484be&ck=eyIwMDIyYzIxNjE2NDU1ZTZhYmZhY2ZhODFlMDZkYTQzNSI6IjdiNmE2OTRhZmZkNzRjY2ZlOGFkMWVkZGY0OTg4ZGQyIn0%3D",
