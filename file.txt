@@ -204,6 +204,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #EXTINF:-1 tvg-id="brazilvsjapan1800bingebdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (Binge BD FHD)
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
+#EXTINF:-1 tvg-id="brazilvsjapan1800beinmaxhd2" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (beIN MAX HD2)
+https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax1-2/index.m3u8
+
+#EXTINF:-1 tvg-id="brazilvsjapan1800beinmaxhd3" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (beIN MAX HD3)
+https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax3-1/index.m3u8
+
 #EXTINF:-1 tvg-id="brazilvsjapan1800foxone4k" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (FOX ONE 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
@@ -365,6 +371,9 @@ http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="brazilvsjapan1800somoytvhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (SOMOY TV HD)
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="brazilvsjapan1800beinmaxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Brazil vs Japan 18:00 (beIN MAX HD)
+https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax1-4/index.m3u8
 
 #EXTINF:-1 tvg-id="germanyvsparaguay2130foxoneaq" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Germany vs Paraguay 21:30 (FOX ONE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
