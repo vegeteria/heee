@@ -884,6 +884,7 @@ URL: https://spxhomelive.lol/events.json
             "QAZ SPORTS FHD",
             "CT SPORTS CZ",
             "M6 FRANCE (USA)",
+            "beIN MAX - AQ",
             "ARABIC LIVE FHD",
             "GOLTV VIVO",
             "BBC SPORTS HD",
@@ -998,6 +999,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "M6 FRANCE (USA)",
+                "logo": ""
+            },
+            {
+                "title": "beIN MAX - AQ",
                 "logo": ""
             },
             {
@@ -3450,6 +3455,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "M6 FRANCE (USA)",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uDigLUzkGHiPjUq7w_7q8GAzAcVEbScwtzz3ZlTEtye8rQwxp0ocyduyK-NNXYwNcCcCnHWJF5AxqCGoHtjo8A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "logo": "",
+        "title": "beIN MAX - AQ",
+        "type": "0"
     },
     {
         "api": "",
