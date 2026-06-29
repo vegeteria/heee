@@ -1299,6 +1299,7 @@ URL: https://spxhomelive.lol/events.json
             "CT SPORTS CZ",
             "M6 FRANCE (USA)",
             "ARABIC LIVE FHD",
+            "GOLTV VIVO",
             "BBC SPORTS HD",
             "FOX SPORTS HD",
             "TSN SPORTS HD",
@@ -1407,6 +1408,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ARABIC LIVE FHD",
+                "logo": ""
+            },
+            {
+                "title": "GOLTV VIVO",
                 "logo": ""
             },
             {
@@ -4374,6 +4379,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
+    },
+    {
+        "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
+        "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+        "logo": "",
+        "title": "GOLTV VIVO",
+        "type": "1"
     },
     {
         "api": "",
