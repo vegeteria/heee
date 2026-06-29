@@ -1276,7 +1276,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
             "eventName": "Germany vs Paraguay",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/29 20:30:00 +0000",
             "endTime": "2026/06/29 22:45:00 +0000"
         },
@@ -1322,10 +1322,12 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS HD",
             "ISCREEN BD (BDIX)",
             "SportzX Live",
+            "GERMAN HD",
             "TYC SPORTS HD",
             "DAZN SPANISH",
             "HD SERVER EN",
             "HD SERVER AR",
+            "HD SERVER ES",
             "MATCH TV RU",
             "FUSSBALL 4K [GER]",
             "FUSSBALL2 4K [GER]",
@@ -1496,6 +1498,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "GERMAN HD",
+                "logo": ""
+            },
+            {
                 "title": "TYC SPORTS HD",
                 "logo": ""
             },
@@ -1509,6 +1515,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "HD SERVER AR",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER ES",
                 "logo": ""
             },
             {
@@ -1569,7 +1579,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
             "eventName": "Netherlands vs Morocco",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/06/30 01:00:00 +0000",
             "endTime": "2026/06/30 03:15:00 +0000"
         },
@@ -4508,6 +4518,13 @@ URL: https://spxhomelive.lol/channels/50067.json
     },
     {
         "api": "",
+        "link": "https://instreams.pro/US/NFLHD5/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "GERMAN HD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
         "logo": "",
         "title": "TYC SPORTS HD",
@@ -4532,6 +4549,13 @@ URL: https://spxhomelive.lol/channels/50067.json
         "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER AR",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER ES",
         "type": "0"
     },
     {
