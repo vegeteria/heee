@@ -3958,11 +3958,11 @@ URL: https://spxhomelive.lol/channels/50066.json
         "type": "0"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "002222dacb9f90e2f8c7244a337de62c:2e50a4d47e253e351dbe7437e06e2cd2",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/v~1-0-0_e~1782842272_f~0_g~1_s~a87f42cf-94c4-4806-a718-839aef4daf51_u~8be5aa8584ac23a75752e35a112a8c8204e4e34fa76d5e654c188ed25ce40a0a39fb54c16dbdf850c5901a677ae925f6_k~A_l~78_x~25963184e80d3be8fbf64830e5bf7ca5/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021695-723553-4913463c821)/master_2hr.mpd?t=v1&c3.ri=6a42a410_Q1ZYMDc_0_Q0xPVURGUk9OVA_426e87e3272a:0",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
