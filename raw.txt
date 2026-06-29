@@ -934,6 +934,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "ITV SPORTS FHD",
             "TOFFE BDIX (BD)",
+            "TOFFEE AQ (BDIX)",
             "iScreen BDIX (BD)",
             "TIPIK FR FHD",
             "CAZE TV FHD",
@@ -987,7 +988,8 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "Binge BD FHD"
         ],
         "formatsNew": [
             {
@@ -1004,6 +1006,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TOFFE BDIX (BD)",
+                "logo": ""
+            },
+            {
+                "title": "TOFFEE AQ (BDIX)",
                 "logo": ""
             },
             {
@@ -1220,6 +1226,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
+                "logo": ""
+            },
+            {
+                "title": "Binge BD FHD",
                 "logo": ""
             }
         ]
@@ -3745,6 +3755,13 @@ URL: https://spxhomelive.lol/channels/50066.json
     },
     {
         "api": "",
+        "link": "https://pastebin.com/raw/nJ3WYKnG?e=.m3u8",
+        "logo": "",
+        "title": "TOFFEE AQ (BDIX)",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
         "logo": "",
         "title": "iScreen BDIX (BD)",
@@ -4119,6 +4136,13 @@ URL: https://spxhomelive.lol/channels/50066.json
         "link": "http://193.47.62.47/hls/Zckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
+        "logo": "",
+        "title": "Binge BD FHD",
         "type": "0"
     }
 ]
