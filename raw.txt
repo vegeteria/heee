@@ -2535,8 +2535,8 @@ URL: https://spxhomelive.lol/events.json
             "SporTV BR FHD",
             "FOX ONE HD",
             "QAZ SPORTS FHD",
-            "BBC SPORTS HD",
-            "TVP SPORTS HD",
+            "ITV SPORTS HD",
+            "GOLTV VIVO",
             "TSN SPORTS HD",
             "FOX ONE HD",
             "beIN MAX FHD",
@@ -2644,11 +2644,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "BBC SPORTS HD",
+                "title": "ITV SPORTS HD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
             },
             {
-                "title": "TVP SPORTS HD",
+                "title": "GOLTV VIVO",
                 "logo": ""
             },
             {
@@ -6182,14 +6182,14 @@ URL: https://spxhomelive.lol/channels/50071.json
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52626/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
-        "title": "BBC SPORTS HD",
+        "title": "ITV SPORTS HD",
         "type": "0"
     },
     {
-        "api": "0:0",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
+        "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
+        "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
         "logo": "",
-        "title": "TVP SPORTS HD",
+        "title": "GOLTV VIVO",
         "type": "1"
     },
     {
