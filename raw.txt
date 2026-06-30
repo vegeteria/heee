@@ -2513,16 +2513,20 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "FOX SPORTS - AQ",
-            "FOX SPORTS 4K",
+            "FOX ONE - AQ",
             "ITV SPORTS FHD",
             "TSN SPORTS FHD",
+            "TOFFE BDIX (BD)",
+            "Binge BDIX (BD)",
+            "WC TV FHD",
+            "TIPIK FR FHD",
+            "RTE SPORTS FHD",
+            "NPO1 DUTCH FHD",
             "ITV SPORTS HD",
             "FOX SPORTS HD",
             "QAZ SPORTS FHD",
             "D Sports FHD",
             "CAZE TV FHD",
-            "TOFFE BDIX (BD)",
             "CT SPORTS CZ",
             "TVP SPORTS FHD",
             "beIN MAX FHD",
@@ -2565,11 +2569,7 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "FOX SPORTS - AQ",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "FOX SPORTS 4K",
+                "title": "FOX ONE - AQ",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
@@ -2579,6 +2579,30 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "TSN SPORTS FHD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+            },
+            {
+                "title": "TOFFE BDIX (BD)",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png"
+            },
+            {
+                "title": "Binge BDIX (BD)",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png"
+            },
+            {
+                "title": "WC TV FHD",
+                "logo": ""
+            },
+            {
+                "title": "TIPIK FR FHD",
+                "logo": ""
+            },
+            {
+                "title": "RTE SPORTS FHD",
+                "logo": ""
+            },
+            {
+                "title": "NPO1 DUTCH FHD",
+                "logo": ""
             },
             {
                 "title": "ITV SPORTS HD",
@@ -2599,10 +2623,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "CAZE TV FHD",
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-            },
-            {
-                "title": "TOFFE BDIX (BD)",
-                "logo": ""
             },
             {
                 "title": "CT SPORTS CZ",
@@ -6308,31 +6328,66 @@ URL: https://spxhomelive.lol/channels/50070.json
 ============================================================
 [
     {
-        "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/3eckcsaoqz/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
+        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS - AQ",
+        "title": "FOX ONE - AQ",
         "type": "1"
     },
     {
-        "api": "a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ucyzt0tvgp/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS 4K",
-        "type": "1"
-    },
-    {
-        "api": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "title": "ITV SPORTS FHD",
         "type": "1"
     },
     {
-        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1782932410~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclB7O56Lj4id1auYxZQb85mjBf-UB6qxoJstuRx01vriWBC4aZR9O6RLCa-20gv2OsZuXsv06eoiJf8fuWn-KBwJ",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png",
+        "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png",
+        "title": "Binge BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "logo": "",
+        "title": "WC TV FHD",
+        "type": "1"
+    },
+    {
+        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "",
+        "title": "TIPIK FR FHD",
+        "type": "1"
+    },
+    {
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/e101edda-ef7f-4ff8-b6a5-4453db98fb2e:GRQ/manifest.mpd",
+        "logo": "",
+        "title": "RTE SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
+        "link": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+        "logo": "",
+        "title": "NPO1 DUTCH FHD",
         "type": "1"
     },
     {
@@ -6369,13 +6424,6 @@ URL: https://spxhomelive.lol/channels/50070.json
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "CAZE TV FHD",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782678009~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdK-gniQODEhQ4zvjaDvsWHvk58YEf1Z3Ug2I5cK6hq-bbG5LcJqGla1xd4LacJ6lDfzb2zzxtXTwZVTS362r4D",
-        "logo": "",
-        "title": "TOFFE BDIX (BD)",
-        "type": "0"
     },
     {
         "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
