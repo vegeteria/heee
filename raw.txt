@@ -416,6 +416,85 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50008,
+        "title": "England vs India",
+        "image": "o",
+        "cat": "Cricket",
+        "eventInfo": {
+            "teamA": "ENG",
+            "teamB": "IND",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+            "eventName": "England vs India",
+            "eventType": "null",
+            "eventBanner": "null",
+            "isHot": "0",
+            "startTime": "2026/07/01 16:30:00 +0000",
+            "endTime": "2026/07/01 20:15:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "WILLOW FHD",
+            "TNT Sports FHD",
+            "WILLOW ALT",
+            "TNT SPORTS HD",
+            "WILLOW HD",
+            "Sony Liv [ENG]",
+            "Sony Liv [HIN]",
+            "Sony Liv [TAM]",
+            "Sony Liv [TEL]",
+            "Sony Liv [KAN]",
+            "LOW SERVER"
+        ],
+        "formatsNew": [
+            {
+                "title": "WILLOW FHD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "TNT Sports FHD",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+            },
+            {
+                "title": "WILLOW ALT",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "TNT SPORTS HD",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+            },
+            {
+                "title": "WILLOW HD",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "Sony Liv [ENG]",
+                "logo": ""
+            },
+            {
+                "title": "Sony Liv [HIN]",
+                "logo": ""
+            },
+            {
+                "title": "Sony Liv [TAM]",
+                "logo": ""
+            },
+            {
+                "title": "Sony Liv [TEL]",
+                "logo": ""
+            },
+            {
+                "title": "Sony Liv [KAN]",
+                "logo": ""
+            },
+            {
+                "title": "LOW SERVER",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50009,
         "title": "ONE Friday Fights",
         "image": "o",
@@ -3715,6 +3794,89 @@ URL: https://spxhomelive.lol/channels/50007.json
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - SD",
         "type": "1"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50008.json
+============================================================
+[
+    {
+        "api": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW FHD",
+        "type": "1"
+    },
+    {
+        "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT Sports FHD",
+        "type": "1"
+    },
+    {
+        "api": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9",
+        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW ALT",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/willoweng.m3u8",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2806/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "logo": "",
+        "title": "Sony Liv [ENG]",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2806/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "logo": "",
+        "title": "Sony Liv [HIN]",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2806/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "logo": "",
+        "title": "Sony Liv [TAM]",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2806/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "logo": "",
+        "title": "Sony Liv [TEL]",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2806/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122",
+        "logo": "",
+        "title": "Sony Liv [KAN]",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "http://193.47.62.42/hls/FIIIQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
     }
 ]
 ============================================================
