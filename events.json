@@ -1421,7 +1421,7 @@
     },
     {
         "name": "Netherlands vs Morocco (FOX SPORTS HD)",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782542312/a1846957079e41799485afa0d1ef4e63/uXOHsxclZ2EerKm2N13bKyI8_4bf614MUB4E8sCDry0/fox-usa.m3u8",
+        "link": "https://cdn011.viaplus.site/fox-xyz.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
@@ -1429,8 +1429,8 @@
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Morocco (FAST SERVER)",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJQmD9yED1G.m3u8?txSecret=be0962eb776e2c61eda8cb6d6b26fa2b&txTime=6A3F6230",
+        "name": "Netherlands vs Morocco (beIN MAX FHD)",
+        "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1438,8 +1438,8 @@
         "cookie": ""
     },
     {
-        "name": "Netherlands vs Morocco (beIN MAX FHD)",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782542366/ac435e7650914311849509163936e75d/WAZAkRNQaAPQxxfAvT1my2j200RxBZBxqk1_7dAmJno/beinsportsmax2-sa.m3u8",
+        "name": "Netherlands vs Morocco (FAST SERVER)",
+        "link": "ok",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1448,7 +1448,7 @@
     },
     {
         "name": "Netherlands vs Morocco (TELEMUNDO HD)",
-        "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
+        "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "https://instream.click",
         "referrer": "https://instream.click/",
@@ -1456,8 +1456,17 @@
         "cookie": ""
     },
     {
+        "name": "Netherlands vs Morocco (DUTCH HD)",
+        "link": "https://instreams.pro/US/NFLHD7/tracks-v1a1/mono.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://instream.click",
+        "referrer": "https://instream.click/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Netherlands vs Morocco (TSN Sports FHD)",
-        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
@@ -1468,14 +1477,25 @@
     },
     {
         "name": "Netherlands vs Morocco (FOX ONE FHD)",
-        "link": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+    },
+    {
+        "name": "Netherlands vs Morocco (FOX 4K [ALT])",
+        "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
     },
     {
         "name": "Netherlands vs Morocco (FOX ONE [ALT])",
@@ -1500,15 +1520,24 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "Netherlands vs Morocco (PEACOCK FHD [ALT])",
-        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021349-723207-4911fc43c47)/master_2hr.mpd?c3.ri=6a3f30d9_Q1ZYMDc_0_RkFTVExZ_a4d905bcd176%3A0&aws.sessionId=330533df-0dc0-4689-9374-7ae0e0fa7bdd&ck=eyIwMDIyN2YyZTBlNTU3ZjYwY2M4MTk2ODc2NzRmNmZkNSI6IjY3MGE5YmZiOTRiNzNkMWRkMzFjNWE4YTRjYjAwMTg0In0%3D",
+        "name": "Netherlands vs Morocco (ITV SPORTS [ALT])",
+        "link": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "00227f2e0e557f60cc819687674f6fd5:670a9bfb94b73d1dd31c5a8a4cb00184"
+        "drmLicense": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+    },
+    {
+        "name": "Netherlands vs Morocco (PEACOCK FHD [ALT])",
+        "link": "ok",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "Netherlands vs Morocco (TELEMUNDO [USA])",
