@@ -6129,21 +6129,21 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/fox-xyz.m3u8",
+        "link": "https://inproviszon.st/fox-usa.m3u8",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/tsn1-xyz.m3u8",
+        "link": "https://inproviszon.st/tsn1-xyz.m3u8",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
+        "link": "https://inproviszon.st/bein-xyz.m3u8",
         "logo": "",
         "title": "beIN MAX HD",
         "type": "0"
@@ -6220,42 +6220,42 @@ URL: https://spxhomelive.lol/channels/50069.json
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX ONE 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/telemundo-usa.m3u8",
+        "link": "https://inproviszon.st/telemundo-usa.m3u8",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
+        "link": "https://inproviszon.st/daznmundial-es.m3u8",
         "logo": "",
         "title": "DAZN MUNDIAL",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+        "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL TV UHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://inproviszon.st/bein4k-xyz.m3u8",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
