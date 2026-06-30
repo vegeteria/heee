@@ -1219,11 +1219,12 @@ URL: https://spxhomelive.lol/events.json
             "DSports FHD",
             "CAZE TV FHD",
             "FOX ONE HD",
+            "TELEMUNDO HD",
             "RTE SPORTS FHD",
             "NPO1 DUTCH FHD",
             "QAZ SPORTS FHD",
             "CT SPORTS CZ",
-            "BBC SPORTS HD",
+            "ITV SPORTS HD",
             "GOLTV VIVO",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
@@ -1309,6 +1310,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TELEMUNDO HD",
+                "logo": ""
+            },
+            {
                 "title": "RTE SPORTS FHD",
                 "logo": ""
             },
@@ -1325,7 +1330,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "BBC SPORTS HD",
+                "title": "ITV SPORTS HD",
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
             },
             {
@@ -3925,6 +3930,13 @@ URL: https://spxhomelive.lol/channels/50068.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52729/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TELEMUNDO HD",
+        "type": "0"
+    },
+    {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
         "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd",
         "logo": "",
@@ -3954,9 +3966,9 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52600/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52726/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
-        "title": "BBC SPORTS HD",
+        "title": "ITV SPORTS HD",
         "type": "0"
     },
     {
@@ -3989,7 +4001,7 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSY7KZ7DbeQYW.m3u8?txSecret=941d9b61f9a9d2696228ff5ae641fe37&txTime=6A4335E0",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -4150,14 +4162,14 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52602/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52727/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52598/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52725/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
