@@ -673,7 +673,10 @@ URL: https://spxhomelive.lol/events.json
             "EUROSPORT2 FHD",
             "TSN2 SPORTS SD",
             "TSN5 SPORTS SD",
-            "SKY Wimbledon 1 [Italy]"
+            "SKY Wimbledon 1 [Italy]",
+            "SKY Wimbledon 3 [Italy]",
+            "SKY Wimbledon 4 [Italy]",
+            "SKY Wimbledon 5 [Italy]"
         ],
         "formatsNew": [
             {
@@ -710,6 +713,18 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SKY Wimbledon 1 [Italy]",
+                "logo": ""
+            },
+            {
+                "title": "SKY Wimbledon 3 [Italy]",
+                "logo": ""
+            },
+            {
+                "title": "SKY Wimbledon 4 [Italy]",
+                "logo": ""
+            },
+            {
+                "title": "SKY Wimbledon 5 [Italy]",
                 "logo": ""
             }
         ]
