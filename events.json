@@ -3599,7 +3599,7 @@
     },
     {
         "name": "Mexico vs Ecuador (FOX ONE - AQ)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ng45k16ryt/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
@@ -3609,15 +3609,55 @@
         "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
-        "name": "Mexico vs Ecuador (CTV SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sh9xmjbhhr/out/v1/6b4982b95f7843659ead6393341dd532/cenc.mpd",
+        "name": "Mexico vs Ecuador (ITV SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+    },
+    {
+        "name": "Mexico vs Ecuador (TSN SPORTS FHD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "Mexico vs Ecuador (TOFFE BDIX (BD))",
+        "link": "ok",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Mexico vs Ecuador (Binge BDIX (BD))",
+        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png",
+        "origin": "",
+        "referrer": "https://iscreen.com.bd/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Mexico vs Ecuador (WC TV FHD)",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "ac59787c884c9b19e3a6219c974c2fd2:443fd36e2a294f3ce69fdb7488fdd65a"
+        "drmLicense": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb"
     },
     {
         "name": "Mexico vs Ecuador (TIPIK FR FHD)",
@@ -3640,46 +3680,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
-    },
-    {
-        "name": "Mexico vs Ecuador (TSN SPORTS FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-    },
-    {
-        "name": "Mexico vs Ecuador (TOFFE BDIX (BD))",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782676370~Starts=1782589970~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=j4LnAGENv7cWWpjaIbQXMILXDprBCQ7FvZ6pq2xfEC2Mg0O9gICITBWDz5piwUOu-RD97dggOvV4B1T574RdCg",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Mexico vs Ecuador (iScreen BD (BDIX))",
-        "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "https://iscreen.com.bd/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "Mexico vs Ecuador (WC TV FHD)",
-        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb"
     },
     {
         "name": "Mexico vs Ecuador (CANAL5 FHD)",
