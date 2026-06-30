@@ -1092,16 +1092,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1
 #EXTINF:-1 tvg-id="mexicovsecuador0200qazsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (QAZ SPORTS FHD)
 https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 
+#EXTINF:-1 tvg-id="mexicovsecuador0200tsnsportshd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (TSN SPORTS HD)
+https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
+
 #EXTINF:-1 tvg-id="mexicovsecuador0200foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (FOX ONE HD)
-https://nhjjhhjhjjhfjj.pages.dev/1782615673/f1c0a6e9d1104662bd7b3ca7b047ea46/9IxmOBz_K5KJA6tNVwIRlQcs5AbR3RnYdyQEObjpksU/fox-usa.m3u8
+https://inproviszon.st/foxfhd-usa.m3u8
 
 #EXTINF:-1 tvg-id="mexicovsecuador0200beinmaxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (beIN MAX FHD)
-https://nhjjhhjhjjhfjj.pages.dev/1782615693/16c4397c94cf43eeab6cf25383e0c95f/wRNHF4NRUEBIj00Y3FXksTLGBqKTyIOAIq4dfUpUCP4/beinsportsmax3-sa.m3u8
+https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 tvg-id="mexicovsecuador0200tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-id="mexicovsecuador0200foxonefhd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (FOX ONE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1111,7 +1114,7 @@ https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #EXTINF:-1 tvg-id="mexicovsecuador0200fox4kalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (FOX 4K  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 tvg-id="mexicovsecuador0200tsnsportsalt" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (TSN SPORTS  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1123,16 +1126,36 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+#EXTINF:-1 tvg-id="mexicovsecuador0200itvsportsalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (ITV SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
 #EXTINF:-1 tvg-id="mexicovsecuador0200telemundousa" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (TELEMUNDO  USA )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
+#EXTINF:-1 tvg-id="mexicovsecuador0200foxone4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (FOX ONE 4K)
+https://inproviszon.st/fox4k-usa.m3u8
+
 #EXTINF:-1 tvg-id="mexicovsecuador0200fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (FOX 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782615719/3042d307c04a4e44bdb3ab8999929e43/HsGGS83WG7ArEKLUyEMQ8HQWSZK6hJuksjUHH1BT0LI/fox4k-usa.m3u8
+https://inproviszon.st/fox4k-usa.m3u8
+
+#EXTINF:-1 tvg-id="mexicovsecuador0200tsnsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (TSN SPORTS 4K)
+https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 tvg-id="mexicovsecuador0200telemundofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (TELEMUNDO FHD)
+https://inproviszon.st/telemundo-usa.m3u8
 
 #EXTINF:-1 tvg-id="mexicovsecuador0200fussballtvuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (FUSSBALL TV UHD)
-https://nhjjhhjhjjhfjj.pages.dev/1782615736/7fde7c1f31354697a1b833d59e960fc6/gKYNPGggph0n7qBwb-8AZJC-8UaeLxuyh1WOqkSw534/fusballtv1uhd-de.m3u8
+https://inproviszon.st/fussballtv1uhd-de.m3u8
+
+#EXTINF:-1 tvg-id="mexicovsecuador0200beinsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (beIN SPORTS 4K)
+https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 tvg-id="mexicovsecuador0200arabiclivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (ARABIC LIVE FHD)
+https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 tvg-id="mexicovsecuador0200fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Mexico vs Ecuador 02:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
