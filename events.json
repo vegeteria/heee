@@ -673,29 +673,47 @@
     },
     {
         "name": "Australia W vs West Indies W (WILLOW FHD)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
+        "drmLicense": "3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a"
+    },
+    {
+        "name": "Australia W vs West Indies W (SKY CRICKET FHD)",
+        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": ""
     },
     {
         "name": "Australia W vs West Indies W (WILLOW ALT)",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
+        "drmLicense": "3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a"
+    },
+    {
+        "name": "Australia W vs West Indies W (SKY MAIN EVENT)",
+        "link": "https://tmaxapp.site/skymainevent.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "Australia W vs West Indies W (SKY SPORT NZ)",
-        "link": "https://tmaxapp.site/skynz4.m3u8",
+        "link": "https://tmaxapp.site/skynz1.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "origin": "",
         "referrer": "",
@@ -712,6 +730,15 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415"
+    },
+    {
+        "name": "Australia W vs West Indies W (SKY SPORTS MIX)",
+        "link": "https://tmaxapp.site/skymix.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "Australia W vs West Indies W (SKY SPORTS PLUS)",

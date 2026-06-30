@@ -899,9 +899,12 @@ URL: https://spxhomelive.lol/events.json
         "publish": "1",
         "formats": [
             "WILLOW FHD",
+            "SKY CRICKET FHD",
             "WILLOW ALT",
+            "SKY MAIN EVENT",
             "SKY SPORT NZ",
             "WILLOW HD",
+            "SKY SPORTS MIX",
             "SKY SPORTS PLUS"
         ],
         "formatsNew": [
@@ -910,8 +913,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
             },
             {
+                "title": "SKY CRICKET FHD",
+                "logo": ""
+            },
+            {
                 "title": "WILLOW ALT",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SKY MAIN EVENT",
+                "logo": ""
             },
             {
                 "title": "SKY SPORT NZ",
@@ -920,6 +931,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "WILLOW HD",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+            },
+            {
+                "title": "SKY SPORTS MIX",
+                "logo": ""
             },
             {
                 "title": "SKY SPORTS PLUS",
@@ -4206,22 +4221,36 @@ URL: https://spxhomelive.lol/channels/50059.json
 ============================================================
 [
     {
-        "api": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "api": "3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
     },
     {
-        "api": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "api": "",
+        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+        "logo": "",
+        "title": "SKY CRICKET FHD",
+        "type": "0"
+    },
+    {
+        "api": "3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW ALT",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://tmaxapp.site/skynz4.m3u8",
+        "link": "https://tmaxapp.site/skymainevent.m3u8",
+        "logo": "",
+        "title": "SKY MAIN EVENT",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/skynz1.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORT NZ",
         "type": "0"
@@ -4232,6 +4261,13 @@ URL: https://spxhomelive.lol/channels/50059.json
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW HD",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://tmaxapp.site/skymix.m3u8",
+        "logo": "",
+        "title": "SKY SPORTS MIX",
+        "type": "0"
     },
     {
         "api": "",
