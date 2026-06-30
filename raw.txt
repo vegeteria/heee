@@ -2528,7 +2528,8 @@ URL: https://spxhomelive.lol/events.json
             "TIPIK FR FHD",
             "FOX SPORTS 4K",
             "CANAL5 FHD",
-            "TVE La 1 FHD",
+            "RTE SPORTS FHD",
+            "NPO1 DUTCH FHD",
             "BBC SPORTS HD",
             "FOX ONE HD",
             "DSports FHD",
@@ -2613,7 +2614,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png"
             },
             {
-                "title": "TVE La 1 FHD",
+                "title": "RTE SPORTS FHD",
+                "logo": ""
+            },
+            {
+                "title": "NPO1 DUTCH FHD",
                 "logo": ""
             },
             {
@@ -5774,7 +5779,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcj9zbtjZaE.m3u8?txSecret=c64c9cc0217179757ba14087bb50b5c1&txTime=6A446F00",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -5829,11 +5834,11 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "0022d087650db9c409123904e4d62d63:485d578678c4b6507e576179dbb99209",
+        "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021703-723561-49134ddda29)/master_2hr.mpd?c3.ri=6a4443ff_Q1ZYMDc_0_RkFTVExZ_fbb280135986%3A0&aws.sessionId=9b85d7ee-2f1d-4737-87ed-e617c5473ce3",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
@@ -6102,7 +6107,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS 4K",
         "type": "1"
@@ -6115,10 +6120,17 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/e101edda-ef7f-4ff8-b6a5-4453db98fb2e:GRQ/manifest.mpd",
         "logo": "",
-        "title": "TVE La 1 FHD",
+        "title": "RTE SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
+        "link": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+        "logo": "",
+        "title": "NPO1 DUTCH FHD",
         "type": "1"
     },
     {
