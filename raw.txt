@@ -1289,7 +1289,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TOFFE BDIX (BD)",
-                "logo": ""
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png"
             },
             {
                 "title": "Binge BDIX (BD)",
@@ -3900,7 +3900,7 @@ URL: https://spxhomelive.lol/channels/50068.json
     {
         "api": "",
         "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_1750.m3u8?hdntl=Expires=1782865211~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclCRqSDmo5yraADz85xSC_352W-9nvSw3QsjKSHTIJInL06ZwPOiOGTY6_yPu4uOrfMnjLvmX5l3U5auwKqAxy8C",
-        "logo": "",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
     },
@@ -3941,7 +3941,7 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "title": "CAZE TV FHD",
         "type": "1"
@@ -4087,11 +4087,11 @@ URL: https://spxhomelive.lol/channels/50068.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "0022219f9770a9f01c06a1346d1f0369:e95f5ce41e3d3d2d1fa361aac07c6d6f",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021699-723557-49134a0d125)/master_2hr.mpd?c3.ri=6a431138_Q1ZYMDc_0_Q0xPVURGUk9OVA_d191320d3c4f%3A0&aws.sessionId=3128f10b-287f-496b-be76-92406b51d120",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
