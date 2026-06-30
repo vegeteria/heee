@@ -196,34 +196,6 @@
         ]
     },
     {
-        "event_name": "Australia W vs West Indies W",
-        "team_a_flag": "https://img.sofascore.com/api/v1/team/213117/image",
-        "team_b_flag": "https://img.sofascore.com/api/v1/team/213120/image",
-        "start_time_gmt": "2026-06-30 13:30:00 +0000",
-        "end_time_gmt": "2026-06-30 17:15:00 +0000",
-        "group-title": "Cricket",
-        "streams": [
-            {
-                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a",
-                "channel_title": "WILLOW FHD"
-            },
-            {
-                "web_view_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a",
-                "channel_title": "WILLOW ALT"
-            },
-            {
-                "web_view_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
-                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-                "clearkey": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415",
-                "channel_title": "WILLOW HD"
-            }
-        ]
-    },
-    {
         "event_name": "Belgium vs Senegal",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/4717/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4739/image",
