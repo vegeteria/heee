@@ -715,6 +715,171 @@ URL: https://spxhomelive.lol/events.json
         ]
     },
     {
+        "id": 50032,
+        "title": "Minnesota Twins",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Astros",
+            "teamB": "Twins",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+            "eventName": "Houston Astros vs Minnesota Twins",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/07/01 00:10:00 +0000",
+            "endTime": "2026/07/01 03:10:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX LIVE",
+            "HD SERVER"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX LIVE",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50033,
+        "title": "Colorado Rockies",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Rockies",
+            "teamB": "Marlins",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+            "eventName": "Colorado Rockies vs Miami Marlins",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/07/01 00:40:00 +0000",
+            "endTime": "2026/07/01 03:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live",
+            "HD SERVER"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50034,
+        "title": "Arizona Diamondbacks",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Diamondbacks",
+            "teamB": "Giants",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+            "eventName": "Diamondbacks vs San Francisco Giants",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/07/01 01:40:00 +0000",
+            "endTime": "2026/07/01 04:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live",
+            "HD SERVER"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50052,
+        "title": "Athletics",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Athletics",
+            "teamB": "Dodgers",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+            "eventName": "Athletics vs Los Angeles Dodgers",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/07/01 01:40:00 +0000",
+            "endTime": "2026/07/01 04:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live",
+            "HD SERVER"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "id": 50053,
+        "title": "Seattle Mariners",
+        "image": "o",
+        "cat": "MLB",
+        "eventInfo": {
+            "teamA": "Mariners",
+            "teamB": "Angels",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+            "eventName": "Seattle Mariners vs Los Angeles Angels",
+            "eventType": "null",
+            "isHot": "0",
+            "startTime": "2026/07/01 01:40:00 +0000",
+            "endTime": "2026/07/01 04:40:00 +0000"
+        },
+        "adsLimit": "0",
+        "publish": "1",
+        "formats": [
+            "SportzX Live",
+            "HD SERVER"
+        ],
+        "formatsNew": [
+            {
+                "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "HD SERVER",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "id": 50059,
         "title": "Australia W vs West Indies W",
         "image": "o",
@@ -3933,6 +4098,106 @@ URL: https://spxhomelive.lol/channels/50011.json
         "logo": "",
         "title": "USA TV",
         "type": "1"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50032.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX LIVE",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50033.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50034.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB13/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50052.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB12/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50053.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
     }
 ]
 ============================================================
