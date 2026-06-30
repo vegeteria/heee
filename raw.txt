@@ -1214,6 +1214,7 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS FHD",
             "TSN SPORTS FHD",
             "TOFFE BDIX (BD)",
+            "Binge BDIX (BD)",
             "TIPIK FR FHD",
             "WC TV FHD",
             "DSports FHD",
@@ -1287,6 +1288,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TOFFE BDIX (BD)",
+                "logo": ""
+            },
+            {
+                "title": "Binge BDIX (BD)",
                 "logo": ""
             },
             {
@@ -3892,6 +3897,13 @@ URL: https://spxhomelive.lol/channels/50068.json
         "link": "ok",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "",
+        "title": "Binge BDIX (BD)",
         "type": "0"
     },
     {
