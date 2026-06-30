@@ -2193,7 +2193,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
             "eventName": "France vs Sweden",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/06/30 21:00:00 +0000",
             "endTime": "2026/07/01 00:00:00 +0000"
         },
@@ -2579,7 +2579,8 @@ URL: https://spxhomelive.lol/events.json
             "ENG SD SERVER",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
-            "ESPANOL SD"
+            "ESPANOL SD",
+            "TOFFEE - AQ (BDIX)"
         ],
         "formatsNew": [
             {
@@ -2824,6 +2825,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ESPANOL SD",
+                "logo": ""
+            },
+            {
+                "title": "TOFFEE - AQ (BDIX)",
                 "logo": ""
             }
         ]
@@ -6149,7 +6154,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/0/master_1500.m3u8?hdntl=Expires=1782946812~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclCOv2Z_yETZH-kX0wFe3dZzYcC3D9cgdqbNc5nzdA8NnzteW16KsszBhMwD5Hm2of1hjr80fPkuOkiYaADLpZoB",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
@@ -6184,7 +6189,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "link": "https://otte-azion.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
         "title": "CANAL5 FHD",
         "type": "1"
@@ -6551,6 +6556,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://pastebin.com/raw/nJ3WYKnG?e=.m3u8",
+        "logo": "",
+        "title": "TOFFEE - AQ (BDIX)",
         "type": "0"
     }
 ]

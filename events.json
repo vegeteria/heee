@@ -3634,7 +3634,7 @@
     },
     {
         "name": "Mexico vs Ecuador (TOFFE BDIX (BD))",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/0/master_1500.m3u8?hdntl=Expires=1782946812~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclCOv2Z_yETZH-kX0wFe3dZzYcC3D9cgdqbNc5nzdA8NnzteW16KsszBhMwD5Hm2of1hjr80fPkuOkiYaADLpZoB",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png",
         "origin": "",
         "referrer": "",
@@ -3685,7 +3685,7 @@
     },
     {
         "name": "Mexico vs Ecuador (CANAL5 FHD)",
-        "link": "https://otte-azion.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
         "origin": "",
         "referrer": "",
@@ -4203,6 +4203,15 @@
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Mexico vs Ecuador (TOFFEE - AQ (BDIX))",
+        "link": "https://pastebin.com/raw/nJ3WYKnG?e=.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
