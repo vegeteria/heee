@@ -356,20 +356,20 @@
         "drmLicense": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0"
     },
     {
+        "name": "WWE Raw (SportzX RAW LIVE)",
+        "link": "https://resilience.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "WWE Raw (SportzX WWE)",
         "link": "https://chatgpt.hereisman.net/playlist/52071/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "WWE Raw (SportzX RAW LIVE)",
-        "link": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1681,8 +1681,17 @@
         "cookie": ""
     },
     {
+        "name": "Netherlands vs Morocco (DAZN SPANISH)",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "Netherlands vs Morocco (SportzX Live)",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?",
+        "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://instream.click",
         "referrer": "https://instream.click/",
@@ -1691,7 +1700,7 @@
     },
     {
         "name": "Netherlands vs Morocco (HD SERVER ENG)",
-        "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?",
+        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -1700,7 +1709,16 @@
     },
     {
         "name": "Netherlands vs Morocco (HD SERVER AR)",
-        "link": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?",
+        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "https://streamscenter.online",
+        "referrer": "https://streamscenter.online/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Morocco (HD SERVER ES)",
+        "link": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "https://streamscenter.online",
         "referrer": "https://streamscenter.online/",
@@ -1717,15 +1735,6 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
-    },
-    {
-        "name": "Netherlands vs Morocco (DAZN SPANISH)",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
     },
     {
         "name": "Netherlands vs Morocco (FUSSBALL 4K [GER])",
@@ -1784,7 +1793,7 @@
     },
     {
         "name": "Netherlands vs Morocco (SD SERVER [ENG])",
-        "link": "http://193.47.62.47/hls/GOOO.m3u8?",
+        "link": "http://193.47.62.59/hls/CZzsss.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1793,7 +1802,16 @@
     },
     {
         "name": "Netherlands vs Morocco (ENG SERVER SD)",
-        "link": "http://193.47.62.42/hls/UIIII.m3u8?",
+        "link": "http://193.47.62.59/hls/CZzsssQ.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "http://www.fawanews.sc/",
+        "referrer": "http://www.fawanews.sc/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "Netherlands vs Morocco (SD SERVER AR)",
+        "link": "http://193.47.62.51/hls/CZckkkqr.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1802,7 +1820,7 @@
     },
     {
         "name": "Netherlands vs Morocco (SD SERVER [SWE])",
-        "link": "http://193.47.62.51/hls/RFRFRF.m3u8?",
+        "link": "http://193.47.62.51/hls/CZckkkqq.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1811,7 +1829,7 @@
     },
     {
         "name": "Netherlands vs Morocco (beiN SPORTS FR)",
-        "link": "http://193.47.62.59/hls/RFRFRFQQ.m3u8?",
+        "link": "http://193.47.62.55/hls/CZckkkq.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1820,7 +1838,7 @@
     },
     {
         "name": "Netherlands vs Morocco (ESPANOL SD)",
-        "link": "http://193.47.62.51/hls/RFRFRFQQX.m3u8?",
+        "link": "http://193.47.62.55/hls/CZckkkq.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",

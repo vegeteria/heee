@@ -473,8 +473,8 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX WWE",
             "SportzX RAW LIVE",
+            "SportzX WWE",
             "HD SERVER",
             "SportzX HD",
             "Backup SD",
@@ -482,11 +482,11 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "SportzX WWE",
+                "title": "SportzX RAW LIVE",
                 "logo": ""
             },
             {
-                "title": "SportzX RAW LIVE",
+                "title": "SportzX WWE",
                 "logo": ""
             },
             {
@@ -1253,11 +1253,12 @@ URL: https://spxhomelive.lol/events.json
             "IRIB 4K",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
+            "DAZN SPANISH",
             "SportzX Live",
             "HD SERVER ENG",
             "HD SERVER AR",
+            "HD SERVER ES",
             "MATCH TV RU",
-            "DAZN SPANISH",
             "FUSSBALL 4K [GER]",
             "FUSSBALL2 4K [GER]",
             "FUSSBALL TV FHD",
@@ -1265,6 +1266,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO [USA]",
             "SD SERVER [ENG]",
             "ENG SERVER SD",
+            "SD SERVER AR",
             "SD SERVER [SWE]",
             "beiN SPORTS FR",
             "ESPANOL SD"
@@ -1443,6 +1445,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
+                "title": "DAZN SPANISH",
+                "logo": ""
+            },
+            {
                 "title": "SportzX Live",
                 "logo": ""
             },
@@ -1455,11 +1461,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "MATCH TV RU",
+                "title": "HD SERVER ES",
                 "logo": ""
             },
             {
-                "title": "DAZN SPANISH",
+                "title": "MATCH TV RU",
                 "logo": ""
             },
             {
@@ -1488,6 +1494,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "ENG SERVER SD",
+                "logo": ""
+            },
+            {
+                "title": "SD SERVER AR",
                 "logo": ""
             },
             {
@@ -3155,16 +3165,16 @@ URL: https://spxhomelive.lol/channels/50010.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52071/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://resilience.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
         "logo": "",
-        "title": "SportzX WWE",
+        "title": "SportzX RAW LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+        "link": "https://chatgpt.hereisman.net/playlist/52071/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "SportzX RAW LIVE",
+        "title": "SportzX WWE",
         "type": "0"
     },
     {
@@ -4154,23 +4164,37 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "logo": "",
+        "title": "DAZN SPANISH",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER ENG",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER AR",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER ES",
         "type": "0"
     },
     {
@@ -4179,13 +4203,6 @@ URL: https://spxhomelive.lol/channels/50068.json
         "logo": "",
         "title": "MATCH TV RU",
         "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "logo": "",
-        "title": "DAZN SPANISH",
-        "type": "0"
     },
     {
         "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
@@ -4224,35 +4241,42 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/GOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/CZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.42/hls/UIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/CZzsssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/RFRFRF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/CZckkkqr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER AR",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "http://193.47.62.51/hls/CZckkkqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.59/hls/RFRFRFQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/CZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.51/hls/RFRFRFQQX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/CZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
