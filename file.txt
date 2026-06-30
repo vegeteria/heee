@@ -381,8 +381,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 
 #EXTINF:-1 tvg-id="netherlandsvsmorocco0200cazetvfhd" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="Fifa world cup",Netherlands vs Morocco 02:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
 #EXTINF:-1 tvg-id="netherlandsvsmorocco0200foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Netherlands vs Morocco 02:00 (FOX ONE HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
