@@ -2240,16 +2240,16 @@ URL: https://spxhomelive.lol/events.json
         "formats": [
             "FOX ONE - AQ",
             "TSN SPORTS FHD",
-            "FOX SPORTS 4K",
-            "ITV SPORTS FHD",
-            "CTV SPORTS FHD",
-            "TIPIK FR FHD",
+            "TOFFE BDIX (BD)",
+            "Binge BDIX (BD)",
             "WC TV FHD",
-            "FOX ONE HD",
-            "ITV SPORTS HD",
+            "TIPIK FR FHD",
+            "RTE SPORTS FHD",
             "DSports FHD",
             "CAZE TV FHD",
-            "TOFFE BDIX (BD)",
+            "SporTV BR FHD",
+            "FOX ONE HD",
+            "ITV SPORTS HD",
             "TVP SPORTS HD",
             "FOX ONE HD",
             "TSN SPORTS HD",
@@ -2301,32 +2301,24 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "FOX SPORTS 4K",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+                "title": "TOFFE BDIX (BD)",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png"
             },
             {
-                "title": "ITV SPORTS FHD",
-                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
-            },
-            {
-                "title": "CTV SPORTS FHD",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png"
-            },
-            {
-                "title": "TIPIK FR FHD",
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
+                "title": "Binge BDIX (BD)",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png"
             },
             {
                 "title": "WC TV FHD",
                 "logo": ""
             },
             {
-                "title": "FOX ONE HD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+                "title": "TIPIK FR FHD",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png"
             },
             {
-                "title": "ITV SPORTS HD",
-                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
+                "title": "RTE SPORTS FHD",
+                "logo": ""
             },
             {
                 "title": "DSports FHD",
@@ -2337,8 +2329,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
-                "title": "TOFFE BDIX (BD)",
+                "title": "SporTV BR FHD",
                 "logo": ""
+            },
+            {
+                "title": "FOX ONE HD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
+                "title": "ITV SPORTS HD",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png"
             },
             {
                 "title": "TVP SPORTS HD",
@@ -5980,31 +5980,17 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "ok",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/toffee-live.png",
+        "title": "TOFFE BDIX (BD)",
+        "type": "0"
+    },
+    {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS 4K",
-        "type": "1"
-    },
-    {
-        "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "title": "ITV SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "ac59787c884c9b19e3a6219c974c2fd2:443fd36e2a294f3ce69fdb7488fdd65a",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sh9xmjbhhr/out/v1/6b4982b95f7843659ead6393341dd532/cenc.mpd",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
-        "title": "CTV SPORTS FHD",
-        "type": "1"
-    },
-    {
-        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
-        "title": "TIPIK FR FHD",
+        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png",
+        "title": "Binge BDIX (BD)",
         "type": "1"
     },
     {
@@ -6015,18 +6001,18 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
-        "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX ONE HD",
+        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
+        "title": "TIPIK FR FHD",
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52621/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
-        "title": "ITV SPORTS HD",
-        "type": "0"
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd",
+        "logo": "",
+        "title": "RTE SPORTS FHD",
+        "type": "1"
     },
     {
         "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
@@ -6043,10 +6029,24 @@ URL: https://spxhomelive.lol/channels/50069.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782676370~Starts=1782589970~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=j4LnAGENv7cWWpjaIbQXMILXDprBCQ7FvZ6pq2xfEC2Mg0O9gICITBWDz5piwUOu-RD97dggOvV4B1T574RdCg",
+        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "TOFFE BDIX (BD)",
+        "title": "SporTV BR FHD",
+        "type": "1"
+    },
+    {
+        "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX ONE HD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52621/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ekabsp1680291523.png",
+        "title": "ITV SPORTS HD",
         "type": "0"
     },
     {
