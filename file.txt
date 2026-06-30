@@ -377,6 +377,9 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.m
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
+#EXTINF:-1 tvg-id="netherlandsvsmorocco0200toffeeaqbdix" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Netherlands vs Morocco 02:00 (TOFFEE AQ (BDIX))
+https://pastebin.com/raw/nJ3WYKnG?e=.m3u8
+
 #EXTINF:-1 tvg-id="netherlandsvsmorocco0200dsportsfhd" tvg-logo="https://www.directvsports.com/__export/1674066777645/sites/dsports/arte/apps/facebook_1200x630.png" group-title="Fifa world cup",Netherlands vs Morocco 02:00 (DSports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
