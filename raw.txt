@@ -671,9 +671,9 @@ URL: https://spxhomelive.lol/events.json
             "SP0TV2 HD",
             "EUROSPORT FHD",
             "EUROSPORT2 FHD",
-            "STAN SPORTS",
             "TSN2 SPORTS SD",
-            "TSN5 SPORTS SD"
+            "TSN5 SPORTS SD",
+            "SKY Wimbledon 1 [Italy]"
         ],
         "formatsNew": [
             {
@@ -701,15 +701,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "STAN SPORTS",
-                "logo": ""
-            },
-            {
                 "title": "TSN2 SPORTS SD",
                 "logo": ""
             },
             {
                 "title": "TSN5 SPORTS SD",
+                "logo": ""
+            },
+            {
+                "title": "SKY Wimbledon 1 [Italy]",
                 "logo": ""
             }
         ]
