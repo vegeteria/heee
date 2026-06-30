@@ -1239,11 +1239,15 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS [ALT]",
             "PEACOCK FHD [ALT]",
             "TELEMUNDO [USA]",
+            "TSN SPORTS 4K",
             "FOX ONE 4K",
             "FOX 4K LIVE",
-            "TSN SPORTS 4K",
+            "beIN MAX 4K",
+            "TELEMUNDO FHD",
+            "DAZN MUNDIAL",
             "FUSSBALL TV 4K",
             "TELEMUNDO FHD",
+            "ARABIC LIVE FHD",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
             "IRIB 4K",
@@ -1383,6 +1387,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
+                "title": "TSN SPORTS 4K",
+                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+            },
+            {
                 "title": "FOX ONE 4K",
                 "logo": ""
             },
@@ -1391,8 +1399,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "TSN SPORTS 4K",
-                "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+                "title": "beIN MAX 4K",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
+                "title": "DAZN MUNDIAL",
+                "logo": ""
             },
             {
                 "title": "FUSSBALL TV 4K",
@@ -1400,6 +1416,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TELEMUNDO FHD",
+                "logo": ""
+            },
+            {
+                "title": "ARABIC LIVE FHD",
                 "logo": ""
             },
             {
@@ -4036,37 +4056,65 @@ URL: https://spxhomelive.lol/channels/50068.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8?|referer=https://xyzstreams.st/",
-        "logo": "",
-        "title": "FOX ONE 4K",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782542410/81e3f7a45769483f9722659c217c932a/kXFAAoD1JjNPI5eOLIqODUK1yERYQ9Ry6_jFyZcxrTQ/fox4k-usa.m3u8",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX 4K LIVE",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?|referer=https://xyzstreams.st/",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782542388/5b30401fff074b68bb75781ec61bfb56/fPgwkb40g5rW3MEl4Ai_ZEsm6th_k4QU6SeQoEFmsng/fusballtv1uhd-de.m3u8",
+        "link": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "logo": "",
+        "title": "FOX ONE 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX 4K LIVE",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://cdn011.viaplus.site/bein4k-xyz.m3u8",
+        "logo": "",
+        "title": "beIN MAX 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://cdn011.viaplus.site/telemundo-usa.m3u8",
+        "logo": "",
+        "title": "TELEMUNDO FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
+        "logo": "",
+        "title": "DAZN MUNDIAL",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
         "logo": "",
         "title": "FUSSBALL TV 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536820/f09f9287b56847f193dabb4602442bf8/0yeIxjz4Tuh59m4PC1mCb6M5eYF6ep56hkuwvvRiU0I/telemundo-usa.m3u8",
+        "link": "https://cdn011.viaplus.site/telemundo-xyz.m3u8",
         "logo": "",
         "title": "TELEMUNDO FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
+        "logo": "",
+        "title": "ARABIC LIVE FHD",
         "type": "0"
     },
     {
