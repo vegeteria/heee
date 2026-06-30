@@ -2279,6 +2279,7 @@ URL: https://spxhomelive.lol/events.json
             "QAZ SPORTS FHD",
             "BBC SPORTS HD",
             "GOLTV VIVO",
+            "UNITE8 HINDI HD",
             "FOX ONE HD",
             "TSN SPORTS HD",
             "beIN MAX HD",
@@ -2384,6 +2385,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "GOLTV VIVO",
+                "logo": ""
+            },
+            {
+                "title": "UNITE8 HINDI HD",
                 "logo": ""
             },
             {
@@ -6126,6 +6131,13 @@ URL: https://spxhomelive.lol/channels/50069.json
         "logo": "",
         "title": "GOLTV VIVO",
         "type": "1"
+    },
+    {
+        "api": "",
+        "link": "http://fastshare1.com/live/112233/445566/741567.ts",
+        "logo": "",
+        "title": "UNITE8 HINDI HD",
+        "type": "0"
     },
     {
         "api": "",
