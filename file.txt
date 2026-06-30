@@ -1111,17 +1111,29 @@ https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/d
 
 #EXTINF:-1 tvg-id="francevssweden2200universeousa" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (UNIVERSEO  USA )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="francevssweden2200tsnsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (TSN SPORTS 4K)
+https://cdn011.viaplus.site/tsn4k-xyz.m3u8
+
+#EXTINF:-1 tvg-id="francevssweden2200foxone4k" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",France vs Sweden 22:00 (FOX ONE 4K)
+https://inproviszon.st/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="francevssweden2200fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (FOX 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782609979/a0fd3eaf7d474debb5c67e6153512f6a/OpZVlF7amSrM8YViIlYgv3bMgpBXOmdDyXdQvecmEdk/fox-sports-1-4k.m3u8
+https://inproviszon.st/fox4k-usa.m3u8
 
-#EXTINF:-1 tvg-id="francevssweden2200universofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (UNIVERSO FHD)
-https://nhjjhhjhjjhfjj.pages.dev/1782609989/275f3fa8832a46fd856aa0b5d396256e/4glE9EGDIrmY6aw1ojxZkTUsQC7hDt7PUkrXhheyRV4/universo-usa.m3u8
+#EXTINF:-1 tvg-id="francevssweden2200telemundofhd" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Fifa world cup",France vs Sweden 22:00 (TELEMUNDO FHD)
+https://inproviszon.st/telemundo-usa.m3u8
 
-#EXTINF:-1 tvg-id="francevssweden2200fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (FUSSBALL TV 4K)
-https://nhjjhhjhjjhfjj.pages.dev/1782610003/451ddbf797094c3dbf06c23b2b89869a/juXVIHUipS7ud1uL-ux1WAQ9sqEhl5zy3BjpphlzU2A/fusballtv2uhd-de.m3u8
+#EXTINF:-1 tvg-id="francevssweden2200daznmundial" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (DAZN MUNDIAL)
+https://inproviszon.st/daznmundial-es.m3u8
+
+#EXTINF:-1 tvg-id="francevssweden2200fussballtvuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (FUSSBALL TV UHD)
+https://inproviszon.st/fussballtv1uhd-de.m3u8
+
+#EXTINF:-1 tvg-id="francevssweden2200arabiclivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (ARABIC LIVE FHD)
+https://inproviszon.st/bein4k-xyz.m3u8
 
 #EXTINF:-1 tvg-id="francevssweden2200fussballtv14k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",France vs Sweden 22:00 (FUSSBALL TV1 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

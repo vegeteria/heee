@@ -2543,10 +2543,12 @@ URL: https://spxhomelive.lol/events.json
             "ITV SPORTS [ALT]",
             "PEACOCK FHD [ALT]",
             "UNIVERSEO [USA]",
-            "FOX SPORTS 4K",
+            "TSN SPORTS 4K",
+            "FOX ONE 4K",
             "FOX 4K LIVE",
-            "UNIVERSO FHD",
-            "FUSSBALL TV 4K",
+            "TELEMUNDO FHD",
+            "DAZN MUNDIAL",
+            "FUSSBALL TV UHD",
             "ARABIC LIVE FHD",
             "FUSSBALL TV1 4K",
             "FUSSBALL TV2 4K",
@@ -2692,7 +2694,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "FOX SPORTS 4K",
+                "title": "TSN SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "FOX ONE 4K",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
@@ -2700,11 +2706,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "UNIVERSO FHD",
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
-                "title": "FUSSBALL TV 4K",
+                "title": "DAZN MUNDIAL",
+                "logo": ""
+            },
+            {
+                "title": "FUSSBALL TV UHD",
                 "logo": ""
             },
             {
@@ -6546,43 +6556,57 @@ URL: https://spxhomelive.lol/channels/50070.json
         "type": "0"
     },
     {
-        "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+        "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "logo": "",
         "title": "UNIVERSEO [USA]",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?|referer=https://xyzstreams.st/",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS 4K",
+        "link": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609979/a0fd3eaf7d474debb5c67e6153512f6a/OpZVlF7amSrM8YViIlYgv3bMgpBXOmdDyXdQvecmEdk/fox-sports-1-4k.m3u8",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX ONE 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782609989/275f3fa8832a46fd856aa0b5d396256e/4glE9EGDIrmY6aw1ojxZkTUsQC7hDt7PUkrXhheyRV4/universo-usa.m3u8",
+        "link": "https://inproviszon.st/telemundo-usa.m3u8",
         "logo": "",
-        "title": "UNIVERSO FHD",
+        "title": "TELEMUNDO FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782610003/451ddbf797094c3dbf06c23b2b89869a/juXVIHUipS7ud1uL-ux1WAQ9sqEhl5zy3BjpphlzU2A/fusballtv2uhd-de.m3u8",
+        "link": "https://inproviszon.st/daznmundial-es.m3u8",
         "logo": "",
-        "title": "FUSSBALL TV 4K",
+        "title": "DAZN MUNDIAL",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8",
+        "logo": "",
+        "title": "FUSSBALL TV UHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/bein4k-xyz.m3u8",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
@@ -6624,7 +6648,7 @@ URL: https://spxhomelive.lol/channels/50070.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
