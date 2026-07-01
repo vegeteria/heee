@@ -873,7 +873,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4739/image",
             "eventName": "Belgium vs Senegal",
             "eventType": "null",
-            "isHot": "0",
+            "isHot": "1",
             "startTime": "2026/07/01 20:00:00 +0000",
             "endTime": "2026/07/01 22:15:00 +0000"
         },
@@ -891,11 +891,12 @@ URL: https://spxhomelive.lol/events.json
             "DSports FHD",
             "CAZE TV FHD",
             "SporTV BR FHD",
+            "GOLTV VIVO",
             "NPO1 DUTCH FHD",
+            "M6 FRANCE (USA)",
             "FOX ONE HD",
-            "BBC SPORTS HD",
-            "CT SPORTS CZ",
-            "beIN MAX FHD",
+            "ITV SPORTS HD",
+            "beIN MAX HD",
             "TSN SPORTS HD",
             "FOX ONE HD",
             "FOX ONE HD",
@@ -989,7 +990,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "GOLTV VIVO",
+                "logo": ""
+            },
+            {
                 "title": "NPO1 DUTCH FHD",
+                "logo": ""
+            },
+            {
+                "title": "M6 FRANCE (USA)",
                 "logo": ""
             },
             {
@@ -997,15 +1006,11 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "BBC SPORTS HD",
+                "title": "ITV SPORTS HD",
                 "logo": ""
             },
             {
-                "title": "CT SPORTS CZ",
-                "logo": ""
-            },
-            {
-                "title": "beIN MAX FHD",
+                "title": "beIN MAX HD",
                 "logo": ""
             },
             {
@@ -3159,7 +3164,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
             "eventName": "England vs DR Congo",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/07/01 16:00:00 +0000",
             "endTime": "2026/07/01 18:15:00 +0000"
         },
@@ -4394,6 +4399,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
+        "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
+        "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+        "logo": "",
+        "title": "GOLTV VIVO",
+        "type": "1"
+    },
+    {
         "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
         "link": "https://npo-nl-ams-p18-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwMDczODEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZTZhYzlkMCJ9.eCeoWGmdlBcqqnwJoe6dxR5OtY9MLePq0gnnKLKgCj0/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
         "logo": "",
@@ -4401,8 +4413,15 @@ URL: https://spxhomelive.lol/channels/50063.json
         "type": "1"
     },
     {
-        "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec",
+        "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "logo": "",
+        "title": "M6 FRANCE (USA)",
+        "type": "1"
+    },
+    {
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX ONE HD",
         "type": "1"
@@ -4411,21 +4430,14 @@ URL: https://spxhomelive.lol/channels/50063.json
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52651/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "BBC SPORTS HD",
+        "title": "ITV SPORTS HD",
         "type": "0"
     },
     {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "logo": "",
-        "title": "CT SPORTS CZ",
-        "type": "1"
-    },
-    {
         "api": "",
-        "link": "https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax1-2/index.m3u8",
+        "link": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
-        "title": "beIN MAX FHD",
+        "title": "beIN MAX HD",
         "type": "0"
     },
     {
