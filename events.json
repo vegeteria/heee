@@ -4875,6 +4875,15 @@
         "cookie": ""
     },
     {
+        "name": "England vs DR Congo (BBC 4K)",
+        "link": "https://inproviszon.st/bbc-4k.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://vileembeds.pages.dev/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "England vs DR Congo (WC TV FHD)",
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -5080,36 +5089,47 @@
     },
     {
         "name": "England vs DR Congo (TSN Sports FHD)",
-        "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "link": "https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
+        "name": "England vs DR Congo (FOX 4K [ALT])",
+        "link": "https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
     },
     {
         "name": "England vs DR Congo (FOX ONE [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        "drmLicense": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
     },
     {
         "name": "England vs DR Congo (TSN SPORTS [ALT])",
-        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
         "name": "England vs DR Congo (PEACOCK FHD [ALT])",
@@ -5122,18 +5142,27 @@
     },
     {
         "name": "England vs DR Congo (UNIVERSEO [USA])",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
+        "drmLicense": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
     },
     {
         "name": "England vs DR Congo (FOX SPORTS 4K)",
-        "link": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://vileembeds.pages.dev/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "England vs DR Congo (FOX 4K LIVE)",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://xyzstreams.st/",
@@ -5141,20 +5170,11 @@
         "cookie": ""
     },
     {
-        "name": "England vs DR Congo (FOX 4K LIVE)",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782615793/63d9482ab223427ebcde310232efb7f8/3Y4VXypmgkMhqlg7ZuzR2-qTDc9lnjTjh7xCn1RMXug/fox-sports-1-4k.m3u8",
+        "name": "England vs DR Congo (TELEMUNDO FHD)",
+        "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
-        "name": "England vs DR Congo (UNIVERSO FHD)",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782615801/7025b13be35a4cc78bfaaab27f4a002a/2XNz8ewpM4NG23idQtc71dRtRrH9kmk1Z6FayCPPTZc/universo-usa.m3u8",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
+        "referrer": "https://xyzstreams.st/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -5380,17 +5400,6 @@
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
-    },
-    {
-        "name": "England vs DR Congo (FOX 4K [ALT])",
-        "link": "https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
     },
     {
         "name": "Baltimore Orioles vs White Sox (SportzX Live)",
