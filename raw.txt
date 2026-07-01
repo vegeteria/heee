@@ -3178,8 +3178,9 @@ URL: https://spxhomelive.lol/events.json
             "UNITE8 HINDI HD",
             "FOX ONE FHD",
             "TSN SPORTS HD",
+            "beIN MAX FHD",
             "FAST SERVER",
-            "UNIVERSEO HD",
+            "TELEMUNDO HD",
             "FOX SPORTS HD",
             "TSN Sports FHD",
             "FOX ONE [ALT]",
@@ -3303,11 +3304,15 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "beIN MAX FHD",
+                "logo": ""
+            },
+            {
                 "title": "FAST SERVER",
                 "logo": ""
             },
             {
-                "title": "UNIVERSEO HD",
+                "title": "TELEMUNDO HD",
                 "logo": ""
             },
             {
@@ -7430,16 +7435,23 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTwbczMb5pa.m3u8?txSecret=f2a7226a48c8bf4f97998a94665e4f6c&txTime=6A4082F0",
+        "link": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "beIN MAX FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "ok",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://inproviszon.st/telemundo-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
-        "title": "UNIVERSEO HD",
+        "title": "TELEMUNDO HD",
         "type": "0"
     },
     {
