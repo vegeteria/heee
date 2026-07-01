@@ -2534,6 +2534,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "TOFFE BDIX (BD)",
             "Binge BDIX (BD)",
+            "TUDN MEXICO",
             "WC TV FHD",
             "TIPIK FR FHD",
             "FOX SPORTS 4K",
@@ -2612,6 +2613,10 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "Binge BDIX (BD)",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png"
+            },
+            {
+                "title": "TUDN MEXICO",
+                "logo": ""
             },
             {
                 "title": "WC TV FHD",
@@ -6191,6 +6196,13 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "0"
     },
     {
+        "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+        "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TUDN MEXICO",
+        "type": "1"
+    },
+    {
         "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "logo": "",
@@ -6220,7 +6232,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/e101edda-ef7f-4ff8-b6a5-4453db98fb2e:GRQ/manifest.mpd",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2e20f29a-0431-4a7e-83a3-d50ecfbb5a2a:BRU/manifest.mpd",
         "logo": "",
         "title": "RTE SPORTS FHD",
         "type": "1"
