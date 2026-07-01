@@ -4940,7 +4940,7 @@
     },
     {
         "name": "England vs DR Congo (NPO1 DUTCH FHD)",
-        "link": "https://npo-nl-ams-p14-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwMDYzMzEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiYzM3OGM3MiJ9.yn3YKgU9ihQPo9sheq3QTKh268pShHR84JmKzU8vhYM/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+        "link": "https://npo-nl-ams-p18-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwMDczODEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZTZhYzlkMCJ9.eCeoWGmdlBcqqnwJoe6dxR5OtY9MLePq0gnnKLKgCj0/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -4973,14 +4973,14 @@
     },
     {
         "name": "England vs DR Congo (FOX ONE HD)",
-        "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
+        "drmLicense": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d"
     },
     {
         "name": "England vs DR Congo (QAZ SPORTS FHD)",
@@ -5021,6 +5021,17 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4"
+    },
+    {
+        "name": "England vs DR Congo (M6 FRANCE (USA))",
+        "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec"
     },
     {
         "name": "England vs DR Congo (UNITE8 HINDI HD)",
