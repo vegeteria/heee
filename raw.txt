@@ -784,7 +784,7 @@ URL: https://spxhomelive.lol/events.json
             "teamBFlag": "https://img.sofascore.com/api/v1/team/4739/image",
             "eventName": "Belgium vs Senegal",
             "eventType": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/07/01 20:00:00 +0000",
             "endTime": "2026/07/01 23:05:00 +0000"
         },
@@ -1147,6 +1147,7 @@ URL: https://spxhomelive.lol/events.json
             "FAST SERVER",
             "TELEMUNDO HD",
             "DAZN MUNIDAL",
+            "TYC SPORTS HD",
             "UNITE8 HINDI HD",
             "FOX SPORTS HD",
             "TSN Sports FHD",
@@ -1158,7 +1159,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS 4K",
             "FOX SPORTS 4K",
             "FS1 4K LIVE",
-            "NBC UNIVERSO FHD",
+            "TELEMUNDO FHD",
             "TELEMUNDO 4K",
             "FUSSBALL 4K LIVE",
             "FUSSBALL TV 4K",
@@ -1168,6 +1169,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "SportzX Live",
+            "SportzX Live ES",
             "HD SERVER ENG",
             "HD SERVER AR",
             "DAZN SPANISH",
@@ -1277,6 +1279,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TYC SPORTS HD",
+                "logo": ""
+            },
+            {
                 "title": "UNITE8 HINDI HD",
                 "logo": ""
             },
@@ -1321,7 +1327,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "NBC UNIVERSO FHD",
+                "title": "TELEMUNDO FHD",
                 "logo": ""
             },
             {
@@ -1358,6 +1364,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "SportzX Live ES",
                 "logo": ""
             },
             {
@@ -4818,6 +4828,13 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
+        "logo": "",
+        "title": "TYC SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "http://fastshare1.com/live/112233/445566/741567.ts",
         "logo": "",
         "title": "UNITE8 HINDI HD",
@@ -4897,7 +4914,7 @@ URL: https://spxhomelive.lol/channels/50064.json
         "api": "",
         "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
-        "title": "NBC UNIVERSO FHD",
+        "title": "TELEMUNDO FHD",
         "type": "0"
     },
     {
@@ -4958,9 +4975,16 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "SportzX Live ES",
         "type": "0"
     },
     {
@@ -4972,7 +4996,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER AR",
         "type": "0"
@@ -5028,35 +5052,35 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/HXCZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/HXCZzsssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SERVER SD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/HXCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beIN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://live06.zuqiu106.com/live/79635460.m3u8",
+        "link": "http://193.47.62.47/hls/HXCZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "D SPORTS ES",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.47/hls/HXCZckkkqr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [AR]",
         "type": "0"
