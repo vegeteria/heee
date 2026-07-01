@@ -1183,16 +1183,16 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "FOX SPORTS - AQ",
+            "FOX ONE - AQ",
             "TSN SPORTS FHD",
+            "CTV SPORTS FHD",
+            "TOFFE BDIX (BD)",
             "FOX SPORTS HD",
-            "QAZ SPORTS FHD",
             "FOX SPORTS HD",
             "D Sports FHD",
             "CAZE TV FHD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
-            "TOFFE BDIX (BD)",
             "beIN MAX FHD",
             "FAST SERVER",
             "NBC SPORTS HD",
@@ -1230,7 +1230,7 @@ URL: https://spxhomelive.lol/events.json
         ],
         "formatsNew": [
             {
-                "title": "FOX SPORTS - AQ",
+                "title": "FOX ONE - AQ",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
             },
             {
@@ -1238,12 +1238,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
-                "title": "FOX SPORTS HD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+                "title": "CTV SPORTS FHD",
+                "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png"
             },
             {
-                "title": "QAZ SPORTS FHD",
-                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg"
+                "title": "TOFFE BDIX (BD)",
+                "logo": ""
+            },
+            {
+                "title": "FOX SPORTS HD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "FOX SPORTS HD",
@@ -1264,10 +1268,6 @@ URL: https://spxhomelive.lol/events.json
             {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "TOFFE BDIX (BD)",
-                "logo": ""
             },
             {
                 "title": "beIN MAX FHD",
@@ -4685,31 +4685,38 @@ URL: https://spxhomelive.lol/channels/50064.json
 ============================================================
 [
     {
-        "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/icqfwyvgjv/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "title": "FOX SPORTS - AQ",
+        "title": "FOX ONE - AQ",
         "type": "1"
     },
     {
-        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS FHD",
         "type": "1"
+    },
+    {
+        "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/cwf4wo1665918379.png",
+        "title": "CTV SPORTS FHD",
+        "type": "1"
+    },
+    {
+        "api": "",
+        "link": "ok",
+        "logo": "",
+        "title": "TOFFE BDIX (BD)",
+        "type": "0"
     },
     {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/52650/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg",
-        "title": "QAZ SPORTS FHD",
         "type": "0"
     },
     {
@@ -4745,13 +4752,6 @@ URL: https://spxhomelive.lol/channels/50064.json
         "link": "https://nhjjhhjhjjhfjj.pages.dev/1782620425/1fcab3ef7aa54fcc96295a263a43a5e8/iszYy3vIf-W7MjE0bwjQeg46eYPpOuoJPeNqUMV03SY/fox-sports-1.m3u8",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1782696016~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvctbjBtrz9hhzp3fjJwrbexFTdDoo-c98xt6-9pm4A2-82Z_CPQ4ywvEzX-uc7UcNJ8NmeiGJnR1ld27W8YI_ML",
-        "logo": "",
-        "title": "TOFFE BDIX (BD)",
         "type": "0"
     },
     {
