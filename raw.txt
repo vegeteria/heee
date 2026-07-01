@@ -4800,7 +4800,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8?|referer=https://kora.depoooo.com/",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
