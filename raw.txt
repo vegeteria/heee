@@ -3189,6 +3189,7 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS [ALT]",
             "PEACOCK FHD [ALT]",
             "UNIVERSEO [USA]",
+            "TSN SPORTS 4K",
             "FOX SPORTS 4K",
             "FOX 4K LIVE",
             "TELEMUNDO FHD",
@@ -3347,6 +3348,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "UNIVERSEO [USA]",
+                "logo": ""
+            },
+            {
+                "title": "TSN SPORTS 4K",
                 "logo": ""
             },
             {
@@ -7522,6 +7527,13 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
+        "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FOX SPORTS 4K",
@@ -7543,14 +7555,14 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782615830/1b8c292778c34525917c068d3998e20a/MGbcTinJcW0zZaZE_4iWHSLTLJkc2csWjIu4S78ufGA/fusballtv2uhd-de.m3u8",
+        "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FUSSBALL TV UHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782615811/f00d1743cbb8400aa10615e7adec85e7/Uof9i0fgWhecqgRSN0MWjTjC6uyi8Ja_s5eR2YCfrCI/beinsportsmax4-sa.m3u8",
+        "link": "https://inproviszon.st/beinsportsmax-sa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
