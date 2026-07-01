@@ -4866,6 +4866,15 @@
         "cookie": ""
     },
     {
+        "name": "England vs DR Congo (BBC SPORTS)",
+        "link": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://xyzstreams.st/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "England vs DR Congo (WC TV FHD)",
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
@@ -4965,15 +4974,6 @@
         "drmLicense": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d"
     },
     {
-        "name": "England vs DR Congo (FOX SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52627/load-playlist?",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "origin": "",
-        "referrer": "https://gooz.aapmains.net",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
-    },
-    {
         "name": "England vs DR Congo (QAZ SPORTS FHD)",
         "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg",
@@ -4994,19 +4994,28 @@
         "drmLicense": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
     },
     {
-        "name": "England vs DR Congo (TVP SPORTS HD)",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "name": "England vs DR Congo (BBC SPORTS HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52627/load-playlist?",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "England vs DR Congo (GOLTV VIVO)",
+        "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": "",
         "drmScheme": "clearkey",
-        "drmLicense": "0:0"
+        "drmLicense": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4"
     },
     {
-        "name": "England vs DR Congo (FOX ONE HD)",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782615773/b2c92f709cdd4154b25359aea1cb3f07/kQMjP0r1gnJ94QLlUS8FhHg-EIJnCvJE8MyTMvYu8Ro/fox-sports-1.m3u8",
+        "name": "England vs DR Congo (UNITE8 HINDI HD)",
+        "link": "http://fastshare1.com/live/112233/445566/741567.ts",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -5014,11 +5023,20 @@
         "cookie": ""
     },
     {
+        "name": "England vs DR Congo (FOX ONE FHD)",
+        "link": "https://inproviszon.st/foxfhd-usa.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://vileembeds.pages.dev/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "England vs DR Congo (TSN SPORTS HD)",
-        "link": "https://lb.xyzcloud3.xyz/tsn2/index.m3u8?",
+        "link": "https://inproviszon.st/tsn1-ca.m3u8?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
-        "referrer": "https://xyzstreams.st/",
+        "referrer": "https://vileembeds.pages.dev/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },

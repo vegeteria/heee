@@ -3161,6 +3161,7 @@ URL: https://spxhomelive.lol/events.json
             "CTV SPORTS FHD",
             "TOFFE BDIX (BD)",
             "Binge BDIX (BD)",
+            "BBC SPORTS",
             "WC TV FHD",
             "TIPIK FR FHD",
             "FOX SPORTS 4K",
@@ -3170,11 +3171,12 @@ URL: https://spxhomelive.lol/events.json
             "D Sports FHD",
             "CAZE TV FHD",
             "FOX ONE HD",
-            "FOX SPORTS HD",
             "QAZ SPORTS FHD",
             "CT SPORTS CZ",
-            "TVP SPORTS HD",
-            "FOX ONE HD",
+            "BBC SPORTS HD",
+            "GOLTV VIVO",
+            "UNITE8 HINDI HD",
+            "FOX ONE FHD",
             "TSN SPORTS HD",
             "FAST SERVER",
             "UNIVERSEO HD",
@@ -3233,6 +3235,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png"
             },
             {
+                "title": "BBC SPORTS",
+                "logo": ""
+            },
+            {
                 "title": "WC TV FHD",
                 "logo": ""
             },
@@ -3269,10 +3275,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
-                "title": "FOX SPORTS HD",
-                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
-            },
-            {
                 "title": "QAZ SPORTS FHD",
                 "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg"
             },
@@ -3281,11 +3283,19 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "TVP SPORTS HD",
+                "title": "BBC SPORTS HD",
+                "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+            },
+            {
+                "title": "GOLTV VIVO",
                 "logo": ""
             },
             {
-                "title": "FOX ONE HD",
+                "title": "UNITE8 HINDI HD",
+                "logo": ""
+            },
+            {
+                "title": "FOX ONE FHD",
                 "logo": ""
             },
             {
@@ -7300,6 +7310,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "0"
     },
     {
+        "api": "",
+        "link": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
+        "logo": "",
+        "title": "BBC SPORTS",
+        "type": "0"
+    },
+    {
         "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
         "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "logo": "",
@@ -7364,13 +7381,6 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52627/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "title": "FOX SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg",
         "title": "QAZ SPORTS FHD",
@@ -7384,22 +7394,36 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "1"
     },
     {
-        "api": "0:0",
-        "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52627/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "title": "BBC SPORTS HD",
+        "type": "0"
+    },
+    {
+        "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
+        "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
         "logo": "",
-        "title": "TVP SPORTS HD",
+        "title": "GOLTV VIVO",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782615773/b2c92f709cdd4154b25359aea1cb3f07/kQMjP0r1gnJ94QLlUS8FhHg-EIJnCvJE8MyTMvYu8Ro/fox-sports-1.m3u8",
+        "link": "http://fastshare1.com/live/112233/445566/741567.ts",
         "logo": "",
-        "title": "FOX ONE HD",
+        "title": "UNITE8 HINDI HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/tsn2/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://inproviszon.st/foxfhd-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+        "logo": "",
+        "title": "FOX ONE FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/tsn1-ca.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "TSN SPORTS HD",
         "type": "0"
