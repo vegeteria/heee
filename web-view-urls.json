@@ -92,6 +92,28 @@
         ]
     },
     {
+        "event_name": "England vs India",
+        "team_a_flag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "start_time_gmt": "2026-07-01 16:30:00 +0000",
+        "end_time_gmt": "2026-07-01 20:15:00 +0000",
+        "group-title": "Cricket",
+        "streams": [
+            {
+                "web_view_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02",
+                "channel_title": "WILLOW FHD"
+            },
+            {
+                "web_view_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd",
+                "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+                "clearkey": "2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02",
+                "channel_title": "WILLOW ALT"
+            }
+        ]
+    },
+    {
         "event_name": "ONE Friday Fights",
         "team_a_flag": "https://iili.io/FDjaT1R.md.png",
         "team_b_flag": "https://iili.io/FDjaT1R.md.png",

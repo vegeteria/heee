@@ -79,6 +79,16 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
+#EXTINF:-1 tvg-id="englandvsindia1730willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India 17:30 (WILLOW FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd
+
+#EXTINF:-1 tvg-id="englandvsindia1730willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India 17:30 (WILLOW ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd
+
 #EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 13:30 (One Fight FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
