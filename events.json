@@ -861,10 +861,10 @@
     },
     {
         "name": "Belgium vs Senegal (TELEMUNDO HD)",
-        "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
+        "link": "https://chatgpt.hereisman.net/playlist/52798/load-playlist?",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "origin": "https://instream.click",
-        "referrer": "https://instream.click/",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -900,6 +900,17 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+    },
+    {
+        "name": "Belgium vs Senegal (FOX 4K [ALT])",
+        "link": "https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/qwut4prmhj/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00"
     },
     {
         "name": "Belgium vs Senegal (TSN SPORTS [ALT])",
@@ -1161,7 +1172,7 @@
     },
     {
         "name": "Belgium vs Senegal (SD SERVER [ENG])",
-        "link": "?",
+        "link": "http://193.47.62.51/hls/HXCZzsss.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1170,7 +1181,7 @@
     },
     {
         "name": "Belgium vs Senegal (ENG SD SERVER)",
-        "link": "?",
+        "link": "http://193.47.62.55/hls/HXCZzsssQ.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1178,8 +1189,8 @@
         "cookie": ""
     },
     {
-        "name": "Belgium vs Senegal (SD SERVER [SWE])",
-        "link": "?",
+        "name": "Belgium vs Senegal (SD SERVER [NL BE])",
+        "link": "http://193.47.62.59/hls/HXCZckkkqqqq.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1188,7 +1199,7 @@
     },
     {
         "name": "Belgium vs Senegal (beiN SPORTS FR)",
-        "link": "?",
+        "link": "http://193.47.62.55/hls/HXCZckkkq.m3u8?",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",
@@ -1197,7 +1208,7 @@
     },
     {
         "name": "Belgium vs Senegal (ESPANOL SD)",
-        "link": "?",
+        "link": "http://193.47.62.51/hls/HXCZckkkqqq.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "http://www.fawanews.sc/",
         "referrer": "http://www.fawanews.sc/",

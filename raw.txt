@@ -906,6 +906,7 @@ URL: https://spxhomelive.lol/events.json
             "UNiFy TV (IND)",
             "TSN SPORTS FHD",
             "FOX ONE FHD",
+            "FOX 4K [ALT]",
             "TSN SPORTS [ALT]",
             "FOX ONE [ALT]",
             "PEACOCK FHD [ALT]",
@@ -934,7 +935,7 @@ URL: https://spxhomelive.lol/events.json
             "TELEMUNDO [USA]",
             "SD SERVER [ENG]",
             "ENG SD SERVER",
-            "SD SERVER [SWE]",
+            "SD SERVER [NL BE]",
             "beiN SPORTS FR",
             "ESPANOL SD"
         ],
@@ -1041,6 +1042,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX ONE FHD",
+                "logo": ""
+            },
+            {
+                "title": "FOX 4K [ALT]",
                 "logo": ""
             },
             {
@@ -1156,7 +1161,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "SD SERVER [SWE]",
+                "title": "SD SERVER [NL BE]",
                 "logo": ""
             },
             {
@@ -4487,7 +4492,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://chatgpt.hereisman.net/playlist/52798/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO HD",
         "type": "0"
@@ -4511,6 +4516,13 @@ URL: https://spxhomelive.lol/channels/50063.json
         "link": "https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "logo": "",
         "title": "FOX ONE FHD",
+        "type": "1"
+    },
+    {
+        "api": "a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00",
+        "link": "https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/qwut4prmhj/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd",
+        "logo": "",
+        "title": "FOX 4K [ALT]",
         "type": "1"
     },
     {
@@ -4697,35 +4709,35 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/HXCZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/HXCZzsssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SD SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.59/hls/HXCZckkkqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SD SERVER [SWE]",
+        "title": "SD SERVER [NL BE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/HXCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.51/hls/HXCZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
