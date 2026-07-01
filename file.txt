@@ -89,6 +89,26 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1
 #KODIPROP:inputstream.adaptive.license_key=2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd
 
+#EXTINF:-1 tvg-id="englandvsindia1730tapmadfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (TAPMAD FHD)
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="englandvsindia1730skymainevent" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SKY MAIN EVENT)
+https://tmaxapp.site/skymainevent.m3u8
+
+#EXTINF:-1 tvg-id="englandvsindia1730skysportnz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Cricket",England vs India 17:30 (SKY SPORT NZ)
+https://tmaxapp.site/skynz1.m3u8
+
+#EXTINF:-1 tvg-id="englandvsindia1730willowhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India 17:30 (WILLOW HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="englandvsindia1730foxcrickethd" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="Cricket",England vs India 17:30 (FOX CRICKET HD)
+https://tmaxapp.site/foxcricket.m3u8
+
+#EXTINF:-1 tvg-id="englandvsindia1730sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SportzX Live)
+https://tmaxapp.site/willoweng.m3u8
+
 #EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 13:30 (One Fight FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d

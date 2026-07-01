@@ -272,10 +272,19 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "origin": "",
         "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02"
+    },
+    {
+        "name": "England vs India (SKY CRICKET - AQ)",
+        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla",
+        "cookie": ""
     },
     {
         "name": "England vs India (WILLOW ALT)",
@@ -287,6 +296,62 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02"
+    },
+    {
+        "name": "England vs India (TAPMAD FHD)",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+        "cookie": ""
+    },
+    {
+        "name": "England vs India (SKY MAIN EVENT)",
+        "link": "https://tmaxapp.site/skymainevent.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "England vs India (SKY SPORT NZ)",
+        "link": "https://tmaxapp.site/skynz1.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "England vs India (WILLOW HD)",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+        "name": "England vs India (FOX CRICKET HD)",
+        "link": "https://tmaxapp.site/foxcricket.m3u8",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
+        "name": "England vs India (SportzX Live)",
+        "link": "https://tmaxapp.site/willoweng.m3u8",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
     },
     {
         "name": "ONE Friday Fights (One Fight FHD)",
