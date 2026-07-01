@@ -921,10 +921,10 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS HD",
             "TSN SPORTS HD",
             "SportzX Live",
+            "DAZN SPANISH",
             "TYC SPORTS HD",
             "HD SERVER ENG",
             "HD SERVER AR",
-            "DAZN SPANISH",
             "Match Football FHD",
             "FUSSBALL 4K [GER]",
             "FUSSBALL2 4K [GER]",
@@ -1103,6 +1103,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "DAZN SPANISH",
+                "logo": ""
+            },
+            {
                 "title": "TYC SPORTS HD",
                 "logo": ""
             },
@@ -1112,10 +1116,6 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "HD SERVER AR",
-                "logo": ""
-            },
-            {
-                "title": "DAZN SPANISH",
                 "logo": ""
             },
             {
@@ -4575,6 +4575,13 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "logo": "",
+        "title": "DAZN SPANISH",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
         "logo": "",
         "title": "TYC SPORTS HD",
@@ -4582,23 +4589,16 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER ENG",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER AR",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "logo": "",
-        "title": "DAZN SPANISH",
         "type": "0"
     },
     {
@@ -4645,35 +4645,35 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/fllll.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [ENG]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.42/hls/JCCCC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ENG SD SERVER",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.55/hls/skkkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER [SWE]",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/skkkk.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beiN SPORTS FR",
         "type": "0"
     },
     {
         "api": "",
-        "link": "http://193.47.62.47/hls/skkkkqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "ESPANOL SD",
         "type": "0"
