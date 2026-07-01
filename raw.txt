@@ -3162,7 +3162,7 @@ URL: https://spxhomelive.lol/events.json
             "TOFFE BDIX (BD)",
             "Binge BDIX (BD)",
             "BBC SPORTS",
-            "BBC 4K",
+            "BBC SPORTS 4K",
             "WC TV FHD",
             "TIPIK FR FHD",
             "FOX SPORTS 4K",
@@ -3182,6 +3182,7 @@ URL: https://spxhomelive.lol/events.json
             "beIN MAX FHD",
             "FAST SERVER",
             "TELEMUNDO HD",
+            "BBC SPORTS HD",
             "FOX SPORTS HD",
             "TSN Sports FHD",
             "FOX 4K [ALT]",
@@ -3243,7 +3244,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "BBC 4K",
+                "title": "BBC SPORTS 4K",
                 "logo": ""
             },
             {
@@ -3320,6 +3321,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TELEMUNDO HD",
+                "logo": ""
+            },
+            {
+                "title": "BBC SPORTS HD",
                 "logo": ""
             },
             {
@@ -7340,7 +7345,7 @@ URL: https://spxhomelive.lol/channels/50072.json
         "api": "",
         "link": "https://inproviszon.st/bbc-4k.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
-        "title": "BBC 4K",
+        "title": "BBC SPORTS 4K",
         "type": "0"
     },
     {
@@ -7464,7 +7469,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcv9PxHs9Li.m3u8?txSecret=ce9954789f8d111e49d179eba1d51b25&txTime=6A455AC8",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -7474,6 +7479,13 @@ URL: https://spxhomelive.lol/channels/50072.json
         "link": "https://inproviszon.st/telemundo-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "TELEMUNDO HD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "BBC SPORTS HD",
         "type": "0"
     },
     {
@@ -7604,14 +7616,14 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER ENG",
         "type": "0"
