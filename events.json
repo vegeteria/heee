@@ -1214,7 +1214,7 @@
     },
     {
         "name": "USA vs Bosnia (FOX SPORTS 4K)",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/igx02musdz/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "",
@@ -1225,7 +1225,7 @@
     },
     {
         "name": "USA vs Bosnia (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52650/load-playlist?",
+        "link": "https://chatgpt.hereisman.net/playlist/52803/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "https://gooz.aapmains.net",
@@ -1335,11 +1335,11 @@
         "cookie": ""
     },
     {
-        "name": "USA vs Bosnia (NBC SPORTS HD)",
-        "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
+        "name": "USA vs Bosnia (TELEMUNDO HD)",
+        "link": "https://chatgpt.hereisman.net/playlist/52807/load-playlist?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "https://instream.click",
-        "referrer": "https://instream.click/",
+        "origin": "",
+        "referrer": "https://gooz.aapmains.net",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },

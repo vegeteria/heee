@@ -1144,7 +1144,7 @@ URL: https://spxhomelive.lol/events.json
             "FOX SPORTS HD",
             "beIN MAX FHD",
             "FAST SERVER",
-            "NBC SPORTS HD",
+            "TELEMUNDO HD",
             "FOX SPORTS HD",
             "TSN Sports FHD",
             "FOX SPORTS [ALT]",
@@ -1259,7 +1259,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
-                "title": "NBC SPORTS HD",
+                "title": "TELEMUNDO HD",
                 "logo": ""
             },
             {
@@ -4683,14 +4683,14 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/igx02musdz/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "FOX SPORTS 4K",
         "type": "1"
     },
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52650/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/52803/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "BBC SPORTS HD",
         "type": "0"
@@ -4767,9 +4767,9 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://chatgpt.hereisman.net/playlist/52807/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "NBC SPORTS HD",
+        "title": "TELEMUNDO HD",
         "type": "0"
     },
     {
