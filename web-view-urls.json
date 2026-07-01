@@ -92,22 +92,6 @@
         ]
     },
     {
-        "event_name": "Zimbabwe vs Bangladesh",
-        "team_a_flag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "team_b_flag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "start_time_gmt": "2026-06-30 07:30:00 +0000",
-        "end_time_gmt": "2026-06-30 15:15:00 +0000",
-        "group-title": "Cricket",
-        "streams": [
-            {
-                "web_view_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-                "clearkey": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                "channel_title": "FANCODE - SD"
-            }
-        ]
-    },
-    {
         "event_name": "England vs India",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/187757/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image",
