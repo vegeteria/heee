@@ -901,7 +901,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SporTV BR FHD",
-                "logo": ""
+                "logo": "https://iili.io/CFFRvqJ.png"
             },
             {
                 "title": "GOLTV VIVO",
@@ -941,7 +941,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "FOX SPORTS HD",
-                "logo": ""
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "FAST SERVER",
@@ -1001,7 +1001,7 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TELEMUNDO 4K",
-                "logo": ""
+                "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
             {
                 "title": "TELEMUNDO FHD",
@@ -4250,7 +4250,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     {
         "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
+        "logo": "https://iili.io/CFFRvqJ.png",
         "title": "SporTV BR FHD",
         "type": "1"
     },
@@ -4320,7 +4320,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     {
         "api": "",
         "link": "https://inproviszon.st/fox-sports-1.m3u8?|referer=https://vileembeds.pages.dev/",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
         "type": "0"
     },
@@ -4340,7 +4340,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8",
+        "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "M6 SPORTS HD",
         "type": "0"
@@ -4425,7 +4425,7 @@ URL: https://spxhomelive.lol/channels/50063.json
     {
         "api": "",
         "link": "https://inproviszon.st/telemundo-4k.m3u8?|referer=https://vileembeds.pages.dev/",
-        "logo": "",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO 4K",
         "type": "0"
     },

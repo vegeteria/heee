@@ -630,7 +630,7 @@
     {
         "name": "Belgium vs Senegal (SporTV BR FHD)",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://iili.io/CFFRvqJ.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -756,10 +756,10 @@
     },
     {
         "name": "Belgium vs Senegal (M6 SPORTS HD)",
-        "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8",
+        "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-        "origin": "",
-        "referrer": "",
+        "origin": "https://instream.click",
+        "referrer": "https://instream.click/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -881,7 +881,7 @@
     {
         "name": "Belgium vs Senegal (TELEMUNDO 4K)",
         "link": "https://inproviszon.st/telemundo-4k.m3u8?",
-        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "origin": "",
         "referrer": "https://vileembeds.pages.dev/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
