@@ -1213,6 +1213,15 @@
         "drmLicense": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
     },
     {
+        "name": "USA vs Bosnia (BBC SPORTS HD)",
+        "link": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "https://vileembeds.pages.dev/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cookie": ""
+    },
+    {
         "name": "USA vs Bosnia (FOX SPORTS 4K)",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/igx02musdz/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
@@ -1224,11 +1233,11 @@
         "drmLicense": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
     },
     {
-        "name": "USA vs Bosnia (BBC SPORTS HD)",
-        "link": "https://chatgpt.hereisman.net/playlist/52803/load-playlist?",
+        "name": "USA vs Bosnia (BBC SPORTS 4K)",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8?",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
-        "referrer": "https://gooz.aapmains.net",
+        "referrer": "https://vileembeds.pages.dev/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1300,19 +1309,19 @@
     },
     {
         "name": "USA vs Bosnia (TSN SPORTS HD)",
-        "link": "ok",
+        "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://vileembeds.pages.dev/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
     {
         "name": "USA vs Bosnia (FOX SPORTS HD)",
-        "link": "ok",
+        "link": "https://inproviszon.st/fox-usa.m3u8?",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "origin": "",
-        "referrer": "",
+        "referrer": "https://vileembeds.pages.dev/",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "cookie": ""
     },
@@ -1327,7 +1336,7 @@
     },
     {
         "name": "USA vs Bosnia (FAST SERVER)",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcswv5p3EBp.m3u8?txSecret=013fbb0ed8194c83baacc3b607c23ac9&txTime=6A45CCB0",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -1409,12 +1418,14 @@
     },
     {
         "name": "USA vs Bosnia (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021712-723570-49135672e72)/master_2hr.mpd?c3.ri=6a45a292_Q1ZYMDc_0_Q0xPVURGUk9OVA_d6fcb3357987%3A0&aws.sessionId=e093016c-87ad-4982-9a26-244265f697c8",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022281c7f0e54abe3df4d9706e1ad5e:a6793084f33f4e6101ffd531e03c605f"
     },
     {
         "name": "USA vs Bosnia (NBC UNIVERSO [USA])",
