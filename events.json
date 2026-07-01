@@ -634,6 +634,17 @@
         "cookie": ""
     },
     {
+        "name": "Belgium vs Senegal (FOX SPORTS - AQ)",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/fqlhwefqej/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b"
+    },
+    {
         "name": "Belgium vs Senegal (ITV SPORTS FHD)",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
@@ -667,19 +678,8 @@
         "drmLicense": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
-        "name": "Belgium vs Senegal (FOX SPORTS - AQ)",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/icqfwyvgjv/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "origin": "",
-        "referrer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "cookie": "",
-        "drmScheme": "clearkey",
-        "drmLicense": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b"
-    },
-    {
         "name": "Belgium vs Senegal (TOFFE BDIX (BD))",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1783020010~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclAw5v92wNLqz2t4vCN_g3NmT1dabATRiAf2b4ZX7g8tdWmbb-ACN9VELPCGrYYUyGqLp1wpqGkRfTIkqH3qGdMK",
         "logo": "https://sadatinternet.com/wp-content/uploads/2022/05/123229859_100869635171190_9162097040449781294_n.jpg",
         "origin": "",
         "referrer": "",
@@ -705,6 +705,17 @@
         "cookie": "",
         "drmScheme": "clearkey",
         "drmLicense": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb"
+    },
+    {
+        "name": "Belgium vs Senegal (FS1 SPORTS 4K)",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qwut4prmhj/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd",
+        "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+        "origin": "",
+        "referrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00"
     },
     {
         "name": "Belgium vs Senegal (RTE SPORTS FHD)",

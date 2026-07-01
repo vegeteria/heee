@@ -173,6 +173,11 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
+#EXTINF:-1 tvg-id="belgiumvssenegal2100foxsportsaq" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Belgium vs Senegal 21:00 (FOX SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/fqlhwefqej/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd
+
 #EXTINF:-1 tvg-id="belgiumvssenegal2100itvsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png" group-title="Fifa world cup",Belgium vs Senegal 21:00 (ITV SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
@@ -188,11 +193,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="belgiumvssenegal2100foxsportsaq" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Fifa world cup",Belgium vs Senegal 21:00 (FOX SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/icqfwyvgjv/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd
-
 #EXTINF:-1 tvg-id="belgiumvssenegal2100bingebdixbd" tvg-logo="https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd" group-title="Fifa world cup",Belgium vs Senegal 21:00 (Binge BDIX (BD))
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
@@ -200,6 +200,11 @@ https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+#EXTINF:-1 tvg-id="belgiumvssenegal2100fs1sports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Belgium vs Senegal 21:00 (FS1 SPORTS 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qwut4prmhj/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd
 
 #EXTINF:-1 tvg-id="belgiumvssenegal2100rtesportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Belgium vs Senegal 21:00 (RTE SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
