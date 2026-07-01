@@ -914,7 +914,9 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS 4K",
             "FOX ONE 4K",
             "FOX 4K LIVE",
+            "TELEMUNDO 4K",
             "TELEMUNDO FHD",
+            "DAZN MUNDIAL",
             "ARABIC LIVE FHD",
             "FUSSBALL 4K LIVE",
             "FUSSBALL TV 4K",
@@ -1077,8 +1079,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TELEMUNDO 4K",
+                "logo": ""
+            },
+            {
                 "title": "TELEMUNDO FHD",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+            },
+            {
+                "title": "DAZN MUNDIAL",
+                "logo": ""
             },
             {
                 "title": "ARABIC LIVE FHD",
@@ -4471,14 +4481,14 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/tsn1-ca.m3u8?|referer=https://vileembeds.pages.dev/",
+        "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fs1-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://inproviszon.st/fox-sports-1.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FOX SPORTS HD",
         "type": "0"
@@ -4562,23 +4572,37 @@ URL: https://spxhomelive.lol/channels/50063.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+        "link": "https://inproviszon.st/fox-sports-1-4k.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FOX ONE 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://inproviszon.st/fox-sports-1-4k.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://inproviszon.st/telemundo-4k.m3u8?|referer=https://vileembeds.pages.dev/",
+        "logo": "",
+        "title": "TELEMUNDO 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/telemundo-usa.m3u8?|referer=https://xyzstreams.st/",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/daznmundial-es.m3u8?|referer=https://vileembeds.pages.dev/",
+        "logo": "",
+        "title": "DAZN MUNDIAL",
         "type": "0"
     },
     {
