@@ -1370,6 +1370,24 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 
+#EXTINF:-1 tvg-id="englandvsdrcongo1700bingebdixbd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png" group-title="Fifa world cup",England vs DR Congo 17:00 (Binge BDIX (BD))
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
+
+#EXTINF:-1 tvg-id="englandvsdrcongo1700wctvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (WC TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+#EXTINF:-1 tvg-id="englandvsdrcongo1700tipikfrfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (TIPIK FR FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+
+#EXTINF:-1 tvg-id="englandvsdrcongo1700foxsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (FOX SPORTS 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
 #EXTINF:-1 tvg-id="englandvsdrcongo1700qazsportsfhd" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg" group-title="Fifa world cup",England vs DR Congo 17:00 (QAZ SPORTS FHD)
 https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 

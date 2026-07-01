@@ -3160,6 +3160,11 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS FHD",
             "CTV SPORTS FHD",
             "TOFFE BDIX (BD)",
+            "Binge BDIX (BD)",
+            "WC TV FHD",
+            "TIPIK FR FHD",
+            "FOX SPORTS 4K",
+            "RTE SPORTS FHD",
             "FOX SPORTS HD",
             "QAZ SPORTS FHD",
             "FOX SPORTS HD",
@@ -3219,6 +3224,26 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "TOFFE BDIX (BD)",
+                "logo": ""
+            },
+            {
+                "title": "Binge BDIX (BD)",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png"
+            },
+            {
+                "title": "WC TV FHD",
+                "logo": ""
+            },
+            {
+                "title": "TIPIK FR FHD",
+                "logo": ""
+            },
+            {
+                "title": "FOX SPORTS 4K",
+                "logo": ""
+            },
+            {
+                "title": "RTE SPORTS FHD",
                 "logo": ""
             },
             {
@@ -7256,6 +7281,41 @@ URL: https://spxhomelive.lol/channels/50072.json
         "logo": "",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png",
+        "title": "Binge BDIX (BD)",
+        "type": "0"
+    },
+    {
+        "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "logo": "",
+        "title": "WC TV FHD",
+        "type": "1"
+    },
+    {
+        "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "logo": "",
+        "title": "TIPIK FR FHD",
+        "type": "1"
+    },
+    {
+        "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX SPORTS 4K",
+        "type": "1"
+    },
+    {
+        "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "link": "",
+        "logo": "",
+        "title": "RTE SPORTS FHD",
+        "type": "1"
     },
     {
         "api": "",
