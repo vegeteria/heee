@@ -1192,13 +1192,13 @@ URL: https://spxhomelive.lol/events.json
             "TIPIK FR FHD",
             "TUDN MEXICO",
             "FOX SPORTS 4K",
+            "BBC SPORTS HD",
             "CANAL5 FHD",
             "RTE SPORTS FHD",
             "D Sports FHD",
             "CAZE TV FHD",
+            "FOX SPORTS HD",
             "NPO1 DUTCH FHD",
-            "FOX SPORTS HD",
-            "FOX SPORTS HD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
             "beIN MAX FHD",
@@ -1274,6 +1274,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "BBC SPORTS HD",
+                "logo": ""
+            },
+            {
                 "title": "CANAL5 FHD",
                 "logo": ""
             },
@@ -1290,16 +1294,12 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
             },
             {
+                "title": "FOX SPORTS HD",
+                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+            },
+            {
                 "title": "NPO1 DUTCH FHD",
                 "logo": ""
-            },
-            {
-                "title": "FOX SPORTS HD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "FOX SPORTS HD",
-                "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
             },
             {
                 "title": "TSN SPORTS HD",
@@ -4788,6 +4788,13 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "1"
     },
     {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52650/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "BBC SPORTS HD",
+        "type": "0"
+    },
+    {
         "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
@@ -4816,24 +4823,17 @@ URL: https://spxhomelive.lol/channels/50064.json
         "type": "1"
     },
     {
-        "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
-        "link": "https://npo-nl-ams-p18-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwMDczODEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZTZhYzlkMCJ9.eCeoWGmdlBcqqnwJoe6dxR5OtY9MLePq0gnnKLKgCj0/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
-        "logo": "",
-        "title": "NPO1 DUTCH FHD",
-        "type": "1"
-    },
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52650/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS HD",
-        "type": "0"
-    },
-    {
         "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
+        "type": "1"
+    },
+    {
+        "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
+        "link": "https://npo-nl-ams-p18-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwMDczODEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZTZhYzlkMCJ9.eCeoWGmdlBcqqnwJoe6dxR5OtY9MLePq0gnnKLKgCj0/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+        "logo": "",
+        "title": "NPO1 DUTCH FHD",
         "type": "1"
     },
     {
