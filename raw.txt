@@ -626,10 +626,15 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX LIVE",
             "HD SERVER"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX LIVE",
                 "logo": ""
@@ -659,10 +664,15 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -692,10 +702,15 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -1141,9 +1156,9 @@ URL: https://spxhomelive.lol/events.json
             "CAZE TV FHD",
             "FOX SPORTS HD",
             "NPO1 DUTCH FHD",
+            "beIN MAX FHD",
             "TSN SPORTS HD",
             "FOX SPORTS HD",
-            "beIN MAX FHD",
             "FAST SERVER",
             "TELEMUNDO HD",
             "DAZN MUNIDAL",
@@ -1255,16 +1270,16 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "beIN MAX FHD",
+                "logo": ""
+            },
+            {
                 "title": "TSN SPORTS HD",
                 "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
             },
             {
                 "title": "FOX SPORTS HD",
                 "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-            },
-            {
-                "title": "beIN MAX FHD",
-                "logo": ""
             },
             {
                 "title": "FAST SERVER",
@@ -4127,6 +4142,13 @@ URL: https://spxhomelive.lol/channels/50032.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52813/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX LIVE",
@@ -4147,6 +4169,13 @@ URL: https://spxhomelive.lol/channels/50033.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52810/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
@@ -4165,6 +4194,13 @@ URL: https://spxhomelive.lol/channels/50033.json
 URL: https://spxhomelive.lol/channels/50034.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52815/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -4786,6 +4822,13 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
+        "link": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8?|referer=https://kora.depoooo.com/",
+        "logo": "",
+        "title": "beIN MAX FHD",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
@@ -4796,13 +4839,6 @@ URL: https://spxhomelive.lol/channels/50064.json
         "link": "https://inproviszon.st/fox-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS HD",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8?|referer=https://kora.depoooo.com/",
-        "logo": "",
-        "title": "beIN MAX FHD",
         "type": "0"
     },
     {
