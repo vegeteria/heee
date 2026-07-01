@@ -1041,8 +1041,8 @@
         "event_name": "Mexico vs Ecuador",
         "team_a_flag": "https://img.sofascore.com/api/v1/team/4781/image",
         "team_b_flag": "https://img.sofascore.com/api/v1/team/4757/image",
-        "start_time_gmt": "2026-07-01 01:00:00 +0000",
-        "end_time_gmt": "2026-07-01 03:15:00 +0000",
+        "start_time_gmt": "2026-07-01 02:00:00 +0000",
+        "end_time_gmt": "2026-07-01 04:15:00 +0000",
         "group-title": "Fifa world cup",
         "streams": [
             {

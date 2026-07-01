@@ -2523,8 +2523,8 @@ URL: https://spxhomelive.lol/events.json
             "eventType": "null",
             "eventBanner": "null",
             "isHot": "1",
-            "startTime": "2026/07/01 01:00:00 +0000",
-            "endTime": "2026/07/01 03:15:00 +0000"
+            "startTime": "2026/07/01 02:00:00 +0000",
+            "endTime": "2026/07/01 04:15:00 +0000"
         },
         "adsLimit": "0",
         "publish": "1",
@@ -6302,21 +6302,21 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8",
+        "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "TSN SPORTS HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/foxfhd-usa.m3u8",
+        "link": "https://inproviszon.st/foxfhd-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FOX ONE HD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8",
+        "link": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "beIN MAX FHD",
         "type": "0"
@@ -6393,49 +6393,49 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox4k-usa.m3u8",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FOX ONE 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox4k-usa.m3u8",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FOX 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8",
+        "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "TSN SPORTS 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/telemundo-usa.m3u8",
+        "link": "https://inproviszon.st/telemundo-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "TELEMUNDO FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8",
+        "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FUSSBALL TV UHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8",
+        "link": "https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "beIN SPORTS 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8",
+        "link": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8?|referer=https://xyzstreams.st/",
         "logo": "",
         "title": "ARABIC LIVE FHD",
         "type": "0"
