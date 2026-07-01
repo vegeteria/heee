@@ -2852,7 +2852,7 @@ URL: https://spxhomelive.lol/events.json
             "eventName": "Mexico vs Ecuador",
             "eventType": "null",
             "eventBanner": "null",
-            "isHot": "1",
+            "isHot": "0",
             "startTime": "2026/07/01 02:00:00 +0000",
             "endTime": "2026/07/01 04:15:00 +0000"
         },
