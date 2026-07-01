@@ -7322,7 +7322,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783005606~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBaR2Lua3_AP3NXAKtGJdPfZQQA2JDRk8L0WvrMFV_MkTGZLDIoXZW87ETSbKapF_CT9kttsoGu1bmMNs61DxcH",
         "logo": "",
         "title": "TOFFE BDIX (BD)",
         "type": "0"
@@ -7378,7 +7378,7 @@ URL: https://spxhomelive.lol/channels/50072.json
     },
     {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2e20f29a-0431-4a7e-83a3-d50ecfbb5a2a:BRU/manifest.mpd",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/a15f395f-f7d2-4728-8db4-ee96e5643dcb:GRQ/manifest.mpd",
         "logo": "",
         "title": "RTE SPORTS FHD",
         "type": "1"
@@ -7524,11 +7524,11 @@ URL: https://spxhomelive.lol/channels/50072.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "0022dba626e98553d4208adde92989ab:b2d986cb04f9f3ce8f9e52ab59509188",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021707-723565-491351ae32d)/master_2hr.mpd?c3.ri=6a4531f6_Q1ZYMDc_0_Q0xPVURGUk9OVA_72841de6829a%3A0&aws.sessionId=e7d58815-263e-4733-8577-921134440d1d",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",

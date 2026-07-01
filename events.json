@@ -4849,7 +4849,7 @@
     },
     {
         "name": "England vs DR Congo (TOFFE BDIX (BD))",
-        "link": "ok",
+        "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783005606~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBaR2Lua3_AP3NXAKtGJdPfZQQA2JDRk8L0WvrMFV_MkTGZLDIoXZW87ETSbKapF_CT9kttsoGu1bmMNs61DxcH",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -4929,7 +4929,7 @@
     },
     {
         "name": "England vs DR Congo (RTE SPORTS FHD)",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2e20f29a-0431-4a7e-83a3-d50ecfbb5a2a:BRU/manifest.mpd",
+        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/a15f395f-f7d2-4728-8db4-ee96e5643dcb:GRQ/manifest.mpd",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
@@ -5142,12 +5142,14 @@
     },
     {
         "name": "England vs DR Congo (PEACOCK FHD [ALT])",
-        "link": "ok",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021707-723565-491351ae32d)/master_2hr.mpd?c3.ri=6a4531f6_Q1ZYMDc_0_Q0xPVURGUk9OVA_72841de6829a%3A0&aws.sessionId=e7d58815-263e-4733-8577-921134440d1d",
         "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
         "origin": "",
         "referrer": "",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "cookie": ""
+        "cookie": "",
+        "drmScheme": "clearkey",
+        "drmLicense": "0022dba626e98553d4208adde92989ab:b2d986cb04f9f3ce8f9e52ab59509188"
     },
     {
         "name": "England vs DR Congo (UNIVERSEO [USA])",
