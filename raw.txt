@@ -715,15 +715,10 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX LIVE",
             "HD SERVER"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX LIVE",
                 "logo": ""
@@ -753,15 +748,10 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -4218,13 +4208,6 @@ URL: https://spxhomelive.lol/channels/50032.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52763/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
         "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX LIVE",
@@ -4245,14 +4228,27 @@ URL: https://spxhomelive.lol/channels/50033.json
 [
     {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52765/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
-        "title": "SportzX MLB",
+        "title": "SportzX Live",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+    }
+]
+============================================================
+
+URL: https://spxhomelive.lol/channels/50034.json
+============================================================
+[
+    {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -4267,32 +4263,12 @@ URL: https://spxhomelive.lol/channels/50033.json
 ]
 ============================================================
 
-URL: https://spxhomelive.lol/channels/50034.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
 URL: https://spxhomelive.lol/channels/50052.json
 ============================================================
 [
     {
         "api": "",
-        "link": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -4312,7 +4288,7 @@ URL: https://spxhomelive.lol/channels/50053.json
 [
     {
         "api": "",
-        "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
         "type": "0"
@@ -7902,13 +7878,15 @@ URL: https://spxhomelive.lol/channels/50079.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/US/MLB7/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
         "title": "HD SERVER",
         "type": "0"
     }
@@ -7920,13 +7898,15 @@ URL: https://spxhomelive.lol/channels/50080.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
         "title": "HD SERVER",
         "type": "0"
     }
@@ -7938,13 +7918,15 @@ URL: https://spxhomelive.lol/channels/50081.json
 [
     {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SportzX Live",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "logo": "",
         "title": "HD SERVER",
         "type": "0"
     }
