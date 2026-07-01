@@ -1146,6 +1146,7 @@ URL: https://spxhomelive.lol/events.json
             "beIN MAX FHD",
             "FAST SERVER",
             "TELEMUNDO HD",
+            "DAZN MUNIDAL",
             "UNITE8 HINDI HD",
             "FOX SPORTS HD",
             "TSN Sports FHD",
@@ -1154,9 +1155,11 @@ URL: https://spxhomelive.lol/events.json
             "TSN SPORTS [ALT]",
             "PEACOCK FHD [ALT]",
             "NBC UNIVERSO [USA]",
+            "TSN SPORTS 4K",
             "FOX SPORTS 4K",
             "FS1 4K LIVE",
             "NBC UNIVERSO FHD",
+            "TELEMUNDO 4K",
             "FUSSBALL 4K LIVE",
             "FUSSBALL TV 4K",
             "FUSSBALL TV2 4K",
@@ -1270,6 +1273,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "DAZN MUNIDAL",
+                "logo": ""
+            },
+            {
                 "title": "UNITE8 HINDI HD",
                 "logo": ""
             },
@@ -1302,6 +1309,10 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             },
             {
+                "title": "TSN SPORTS 4K",
+                "logo": ""
+            },
+            {
                 "title": "FOX SPORTS 4K",
                 "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
             },
@@ -1311,6 +1322,10 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "NBC UNIVERSO FHD",
+                "logo": ""
+            },
+            {
+                "title": "TELEMUNDO 4K",
                 "logo": ""
             },
             {
@@ -4712,7 +4727,7 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+        "link": "https://inproviszon.st/bbc-4k.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "BBC SPORTS 4K",
         "type": "0"
@@ -4796,6 +4811,13 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
+        "link": "https://inproviszon.st/daznmundial-es.m3u8?|referer=https://vileembeds.pages.dev/",
+        "logo": "",
+        "title": "DAZN MUNIDAL",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "http://fastshare1.com/live/112233/445566/741567.ts",
         "logo": "",
         "title": "UNITE8 HINDI HD",
@@ -4852,28 +4874,42 @@ URL: https://spxhomelive.lol/channels/50064.json
     },
     {
         "api": "",
-        "link": "https://lb.xyzcloud3.xyz/FS1/index.m3u8?|referer=https://xyzstreams.st/",
+        "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+        "logo": "",
+        "title": "TSN SPORTS 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://xyzstreams.st/",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "FOX SPORTS 4K",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782620441/2b6f350f0f094078ad5d542024c0bbdc/5jGjRunnZertHWhMB4wqeuPH36ggz4BxRzaVpvamOmY/fox-sports-1-4k.m3u8",
+        "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FS1 4K LIVE",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782620480/dfa225afa3424a57b3620e5a37cafa5e/x6IBjLOft38TkP3F6YzzKZJAVyqgaCr8TT431OHAP1A/universo-usa.m3u8",
+        "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "NBC UNIVERSO FHD",
         "type": "0"
     },
     {
         "api": "",
-        "link": "https://nhjjhhjhjjhfjj.pages.dev/1782620487/f6024203081c4ce6ad7067875be65de7/nSZjKjuLEbP85dgtn1N6Igm6CejbiK5jSvJ03l35mn4/fusballtv1uhd-de.m3u8",
+        "link": "https://inproviszon.st/telemundo-4k.m3u8?|referer=https://vileembeds.pages.dev/",
+        "logo": "",
+        "title": "TELEMUNDO 4K",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
         "logo": "",
         "title": "FUSSBALL 4K LIVE",
         "type": "0"
