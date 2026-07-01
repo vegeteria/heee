@@ -382,19 +382,23 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
-            "WILLOW FHD",
-            "SKY CRICKET - AQ",
             "WILLOW ALT",
+            "SKY CRICKET - AQ",
+            "WILLOW FHD",
             "TAPMAD FHD",
             "SKY MAIN EVENT",
             "SKY SPORT NZ",
             "WILLOW HD",
             "FOX CRICKET HD",
-            "SportzX Live"
+            "SportzX Live",
+            "SonyLiv - ENG",
+            "SonyLiv - HIN",
+            "SonyLiv - TAM",
+            "SonyLiv - TEL"
         ],
         "formatsNew": [
             {
-                "title": "WILLOW FHD",
+                "title": "WILLOW ALT",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
             },
             {
@@ -402,7 +406,7 @@ URL: https://spxhomelive.lol/events.json
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
             },
             {
-                "title": "WILLOW ALT",
+                "title": "WILLOW FHD",
                 "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
             },
             {
@@ -427,6 +431,22 @@ URL: https://spxhomelive.lol/events.json
             },
             {
                 "title": "SportzX Live",
+                "logo": ""
+            },
+            {
+                "title": "SonyLiv - ENG",
+                "logo": ""
+            },
+            {
+                "title": "SonyLiv - HIN",
+                "logo": ""
+            },
+            {
+                "title": "SonyLiv - TAM",
+                "logo": ""
+            },
+            {
+                "title": "SonyLiv - TEL",
                 "logo": ""
             }
         ]
@@ -597,7 +617,7 @@ URL: https://spxhomelive.lol/events.json
             "eventBanner": "https://iili.io/C5FwXja.png",
             "isHot": "0",
             "startTime": "2026/07/01 10:00:00 +0000",
-            "endTime": "2026/07/01 16:30:00 +0000"
+            "endTime": "2026/07/01 17:55:00 +0000"
         },
         "adsLimit": "10",
         "publish": "1",
@@ -3971,9 +3991,9 @@ URL: https://spxhomelive.lol/channels/50008.json
 [
     {
         "api": "2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
+        "title": "WILLOW ALT",
         "type": "1"
     },
     {
@@ -3985,9 +4005,9 @@ URL: https://spxhomelive.lol/channels/50008.json
     },
     {
         "api": "2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02",
-        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW ALT",
+        "title": "WILLOW FHD",
         "type": "1"
     },
     {
@@ -4030,6 +4050,34 @@ URL: https://spxhomelive.lol/channels/50008.json
         "link": "https://tmaxapp.site/willoweng.m3u8",
         "logo": "",
         "title": "SportzX Live",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8",
+        "logo": "",
+        "title": "SonyLiv - ENG",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8",
+        "logo": "",
+        "title": "SonyLiv - HIN",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8",
+        "logo": "",
+        "title": "SonyLiv - TAM",
+        "type": "0"
+    },
+    {
+        "api": "",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8",
+        "logo": "",
+        "title": "SonyLiv - TEL",
         "type": "0"
     }
 ]
