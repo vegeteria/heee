@@ -6233,8 +6233,8 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "DSports FHD",
         "type": "1"
@@ -6311,7 +6311,7 @@ URL: https://spxhomelive.lol/channels/50071.json
     },
     {
         "api": "",
-        "link": "ok",
+        "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcoYxLrPPt2.m3u8?txSecret=d3f7681fb93302371c80d9e3d8244b3a&txTime=6A448940",
         "logo": "",
         "title": "FAST SERVER",
         "type": "0"
@@ -6366,11 +6366,11 @@ URL: https://spxhomelive.lol/channels/50071.json
         "type": "1"
     },
     {
-        "api": "",
-        "link": "ok",
+        "api": "00220095b60e39f0f4fb0f205767abec:fde4233038574a75bc7f748416508a78",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021704-723562-49134ed1c6a)/master_2hr.mpd?c3.ri=6a445f9b_Q1ZYMDc_0_Q0xPVURGUk9OVA_9e6d8366a146%3A0&aws.sessionId=93d9ab79-e2fe-4984-bc85-c15c137bccde",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
     },
     {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
