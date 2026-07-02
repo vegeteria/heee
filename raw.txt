@@ -3599,39 +3599,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             }
         ]
-    },
-    {
-        "id": 50076,
-        "title": "Yankees vs Detroit Tigers",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Yankees",
-            "teamB": "Tigers",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-            "eventName": "New York Yankees vs Detroit Tigers",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/07/01 17:35:00 +0000",
-            "endTime": "2026/07/01 19:50:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
     }
 ]
 ============================================================
@@ -7731,26 +7698,6 @@ URL: https://spxhomelive.lol/channels/50075.json
     {
         "api": "",
         "link": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50076.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "HD SERVER",
         "type": "0"
