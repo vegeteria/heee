@@ -740,10 +740,15 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -773,10 +778,15 @@ URL: https://spxhomelive.lol/events.json
         "adsLimit": "0",
         "publish": "1",
         "formats": [
+            "SportzX MLB",
             "SportzX Live",
             "HD SERVER"
         ],
         "formatsNew": [
+            {
+                "title": "SportzX MLB",
+                "logo": ""
+            },
             {
                 "title": "SportzX Live",
                 "logo": ""
@@ -3622,186 +3632,6 @@ URL: https://spxhomelive.lol/events.json
                 "logo": ""
             }
         ]
-    },
-    {
-        "id": 50077,
-        "title": "Chicago Cubs vs Padres",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Cubs",
-            "teamB": "Padres",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-            "eventName": "Chicago Cubs vs San Diego Padres",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/07/01 18:20:00 +0000",
-            "endTime": "2026/07/01 20:35:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50078,
-        "title": "Blue Jays vs New York Mets",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Blue Jays",
-            "teamB": "Mets",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-            "eventName": "Toronto Blue Jays vs New York Mets",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/07/01 19:07:00 +0000",
-            "endTime": "2026/07/01 22:07:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50079,
-        "title": "Philadelphia Phillies vs Pirates",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Phillies",
-            "teamB": "Pirates",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-            "eventName": "Philadelphia Phillies vs Pittsburgh Pirates",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/07/01 22:40:00 +0000",
-            "endTime": "2026/07/02 01:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50080,
-        "title": "Atlanta Braves vs Cardinals",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Braves",
-            "teamB": "Cardinals",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-            "eventName": "Atlanta Braves vs Cardinals",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/07/01 23:15:00 +0000",
-            "endTime": "2026/07/02 02:15:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
-    },
-    {
-        "id": 50081,
-        "title": "Royals vs Tampa Bay Rays",
-        "image": "o",
-        "cat": "MLB",
-        "eventInfo": {
-            "teamA": "Royals",
-            "teamB": "Rays",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-            "eventName": "Kansas City Royals vs Tampa Bay Rays",
-            "eventType": "null",
-            "isHot": "0",
-            "startTime": "2026/07/01 23:40:00 +0000",
-            "endTime": "2026/07/02 02:40:00 +0000"
-        },
-        "adsLimit": "0",
-        "publish": "1",
-        "formats": [
-            "SportzX MLB",
-            "SportzX Live",
-            "HD SERVER"
-        ],
-        "formatsNew": [
-            {
-                "title": "SportzX MLB",
-                "logo": ""
-            },
-            {
-                "title": "SportzX Live",
-                "logo": ""
-            },
-            {
-                "title": "HD SERVER",
-                "logo": ""
-            }
-        ]
     }
 ]
 ============================================================
@@ -4223,6 +4053,13 @@ URL: https://spxhomelive.lol/channels/50052.json
 [
     {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52818/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
+    {
+        "api": "",
         "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "SportzX Live",
@@ -4241,6 +4078,13 @@ URL: https://spxhomelive.lol/channels/50052.json
 URL: https://spxhomelive.lol/channels/50053.json
 ============================================================
 [
+    {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/52816/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SportzX MLB",
+        "type": "0"
+    },
     {
         "api": "",
         "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -7907,127 +7751,6 @@ URL: https://spxhomelive.lol/channels/50076.json
     {
         "api": "",
         "link": "https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50077.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB5/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50078.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50079.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52799/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB7/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50080.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52801/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-    }
-]
-============================================================
-
-URL: https://spxhomelive.lol/channels/50081.json
-============================================================
-[
-    {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52809/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX MLB",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-    },
-    {
-        "api": "",
-        "link": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
         "logo": "",
         "title": "HD SERVER",
         "type": "0"
